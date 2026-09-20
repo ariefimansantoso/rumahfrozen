@@ -1,0 +1,3579 @@
+{
+  "metadata": {
+    "title": "Minimart - Mercado en línea",
+    "description": "Descubre productos increíbles de vendedores verificados. Compra con confianza y disfruta de una entrega sin complicaciones.",
+    "keywords": "compras en línea, marketplace, comercio electrónico, productos, vendedores"
+  },
+  "products": {
+    "color": "Color",
+    "size": "Talla"
+  },
+  "validation": {
+    "required": "Required",
+    "email": "Invalid email address",
+    "minLength": "Must be at least {min} characters",
+    "maxLength": "Must be at most {max} characters",
+    "pattern": "Invalid format"
+  },
+  "common": {
+    "home": "Inicio",
+    "settings": "Configuración",
+    "products": "Productos",
+    "categories": "Categorías",
+    "cart": "Carrito",
+    "wishlist": "Lista de deseos",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar productos...",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "confirm": "Confirmar",
+    "yes": "Sí",
+    "no": "No",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "viewAll": "Ver todo",
+    "learnMore": "Más información",
+    "getStarted": "Empezar",
+    "shopNow": "Comprar ahora",
+    "addToCart": "Añadir al carrito",
+    "buyNow": "Comprar ahora",
+    "outOfStock": "Agotado",
+    "inStock": "En stock",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuesto",
+    "discount": "Descuento",
+    "free": "Gratis",
+    "new": "Nuevo",
+    "sale": "Oferta",
+    "featured": "Destacado",
+    "popular": "Popular",
+    "rating": "Calificación",
+    "reviews": "Reseñas",
+    "noResults": "No se encontraron resultados",
+    "tryAgain": "Intentar de nuevo",
+    "allRightsReserved": "Todos los derechos reservados",
+    "item": "artículo",
+    "overview": "Resumen",
+    "management": "Gestión",
+    "multiVendorMarketplace": "Mercado multi-vendedor",
+    "onlineStore": "Tienda en línea",
+    "notifications": "Notificaciones",
+    "account": "Cuenta",
+    "selectLanguage": "Seleccionar idioma",
+    "dashboard": "Panel de control",
+    "saved": "Guardado",
+    "enabled": "Activado",
+    "disabled": "Desactivado",
+    "done": "Hecho",
+    "apply": "Aplicar",
+    "sortBy": "Ordenar por",
+    "sortOptions": "Opciones de orden",
+    "newest": "Más reciente",
+    "mostPopular": "Más popular",
+    "bestRating": "Mejor valorado",
+    "priceLowHigh": "Precio: Bajo a Alto",
+    "priceHighLow": "Precio: Alto a Bajo",
+    "filter": "Filtrar",
+    "filters": "Filtros",
+    "clearAll": "Borrar todo",
+    "clearFilters": "Borrar filtros",
+    "colors": "Colores",
+    "sizes": "Tallas",
+    "minPrice": "Precio mínimo",
+    "maxPrice": "Precio máximo",
+    "min": "Mín",
+    "max": "Máx",
+    "allItems": "Todos los artículos",
+    "showMore": "Mostrar más",
+    "findFavoriteProducts": "Encuentra tus productos favoritos",
+    "allCategories": "Todas las categorías",
+    "noCategories": "Sin categorías",
+    "selectCategory": "Seleccionar categoría",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "welcome": "Bienvenido",
+    "myOrders": "Mis pedidos",
+    "signIn": "Iniciar sesión",
+    "profile": "Perfil",
+    "aiSearch": "Búsqueda IA",
+    "switchToLightMode": "Cambiar a modo claro",
+    "switchToDarkMode": "Cambiar a modo oscuro",
+    "openCart": "Abrir carrito",
+    "noProductsFound": "No se encontraron productos",
+    "pressEnterToSearch": "Presiona Enter para ver todos los resultados de",
+    "noImage": "Sin imagen"
+  },
+  "wishlist": {
+    "title": "Mi lista de deseos",
+    "empty": "Tu lista de deseos está vacía",
+    "emptyDescription": "Guarda los artículos que te gustan haciendo clic en el icono del corazón"
+  },
+  "profile": {
+    "title": "Mi Perfil",
+    "subtitle": "Administrar la configuración de tu cuenta",
+    "personalInfo": "Información personal",
+    "infoDesc": "Actualiza tu nombre y detalles de contacto",
+    "personal": "Personal",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Número de teléfono",
+    "birthday": "Cumpleaños",
+    "gender": "Género",
+    "selectGender": "Seleccionar género",
+    "male": "Hombre",
+    "female": "Mujer",
+    "other": "Otro",
+    "street": "Dirección",
+    "zipCode": "Código postal",
+    "city": "Ciudad",
+    "country": "País",
+    "selectCountry": "Seleccionar país",
+    "saveChanges": "Guardar cambios",
+    "changePassword": "Cambiar contraseña",
+    "oldPassword": "Contraseña anterior",
+    "newPassword": "Nueva contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "updatePassword": "Actualizar contraseña"
+  },
+  "account": {
+    "welcome": "Hola de nuevo, {name}!",
+    "overviewDesc": "Tu cuenta en un vistazo",
+    "totalOrders": "Total Pedidos",
+    "pendingOrders": "Pedidos pendientes",
+    "wishlistItems": "Artículos deseados",
+    "recentOrders": "Pedidos recientes",
+    "noOrders": "Aún no has realizado ningún pedido",
+    "startShopping": "Empezar a comprar",
+    "profile": "Perfil",
+    "profileDesc": "Administrar tu información personal",
+    "orders": "Mis Pedidos",
+    "ordersDesc": "Rastrear y administrar tus pedidos",
+    "wishlist": "Lista de deseos",
+    "wishlistDesc": "Artículos guardados para más tarde",
+    "addresses": "Direcciones",
+    "addressesDesc": "Administrar tus direcciones de entrega",
+    "paymentMethodsDesc": "Administrar tus métodos de pago",
+    "changePhoto": "Cambiar foto",
+    "security": "Seguridad",
+    "securityDescription": "Administra la configuración de seguridad de tu cuenta",
+    "twoFactorAuth": "Autenticación de dos factores",
+    "twoFactorDescription": "Agrega una capa extra de seguridad a tu cuenta",
+    "twoFactorEnabledInfo": "Tu cuenta está protegida con autenticación de dos factores. Deberás introducir un código de verificación de tu app autenticadora al iniciar sesión.",
+    "twoFactorDisabledInfo": "Protege tu cuenta solicitando un código de verificación de tu app autenticadora además de tu contraseña.",
+    "confirmDisable2FA": "Introduce tu contraseña para confirmar la desactivación",
+    "disable2FA": "Desactivar autenticación de dos factores",
+    "setup2FA": "Configurar autenticación de dos factores",
+    "step1": "Paso 1: Escanea el código QR",
+    "scanQRDescription": "Escanea este código QR con tu app autenticadora (Google Authenticator, Authy, etc.)",
+    "cantScanQR": "¿No puedes escanear? Introduce este código manualmente:",
+    "step2": "Paso 2: Introduce el código de verificación",
+    "enterCodeDescription": "Introduce el código de 6 dígitos de tu app autenticadora para verificar la configuración",
+    "backupCodes": "Códigos de respaldo",
+    "backupCodesDescription": "Guarda estos códigos de respaldo en un lugar seguro. Puedes usarlos para iniciar sesión si pierdes acceso a tu app autenticadora.",
+    "copyBackupCodes": "Copiar todos los códigos",
+    "activeSessions": "Sesiones activas",
+    "activeSessionsDescription": "Administra tus sesiones de inicio de sesión activas",
+    "currentSessionInfo": "Actualmente has iniciado sesión en este dispositivo. Puedes cerrar sesión en todas las demás sesiones si notas actividad sospechosa.",
+    "signOutAllSessions": "Cerrar sesión en todas las demás sesiones",
+    "passwordRequired": "La contraseña es obligatoria",
+    "setup2FAFailed": "No se pudo configurar 2FA",
+    "invalidVerificationCode": "Código de verificación inválido",
+    "twoFactorEnabledSuccess": "¡La autenticación de dos factores se habilitó correctamente!",
+    "disable2FAFailed": "No se pudo desactivar 2FA",
+    "twoFactorDisabledSuccess": "La autenticación de dos factores se desactivó.",
+    "revokeSessionsFailed": "No se pudieron revocar las sesiones",
+    "revokeSessionsSuccess": "Se revocaron todas las demás sesiones",
+    "genericTryAgain": "Ocurrió un error. Inténtalo de nuevo.",
+    "qrCodeAlt": "Código QR de 2FA"
+  },
+  "customerProfile": {
+    "loyaltyPoints": "Puntos",
+    "loyaltyTier": "Nivel de fidelidad",
+    "bronze": "Bronce",
+    "silver": "Plata",
+    "gold": "Oro",
+    "platinum": "Platino",
+    "preferences": "Preferencias",
+    "preferencesDesc": "Administra tus preferencias de compra y notificaciones",
+    "preferencesSaved": "Preferencias guardadas exitosamente",
+    "emailNotifications": "Notificaciones por correo",
+    "orderUpdates": "Actualizaciones de pedidos",
+    "orderUpdatesDesc": "Recibe notificaciones sobre los cambios de estado de tu pedido",
+    "promotions": "Promociones y ofertas",
+    "promotionsDesc": "Recibe ofertas exclusivas y correos promocionales",
+    "newsletter": "Boletín",
+    "newsletterDesc": "Actualizaciones semanales sobre nuevos productos y tendencias",
+    "priceDrops": "Alertas de bajada de precio",
+    "priceDropsDesc": "Recibe notificaciones cuando los artículos de tu lista de deseos estén en oferta",
+    "backInStock": "Alertas de reposición",
+    "backInStockDesc": "Recibe notificaciones cuando los artículos agotados estén disponibles",
+    "marketingPreferences": "Preferencias de marketing",
+    "marketingOptIn": "Correos de marketing",
+    "marketingOptInDesc": "Recibir comunicaciones de marketing y ofertas especiales",
+    "totalSpent": "Total gastado",
+    "avgOrderValue": "Valor promedio del pedido",
+    "memberSince": "Miembro desde"
+  },
+  "addresses": {
+    "title": "Mis Direcciones",
+    "subtitle": "Administrar tus direcciones de entrega",
+    "deliveryAddresses": "Direcciones de entrega",
+    "deliveryDesc": "Añadir y administrar direcciones para un pago más rápido",
+    "savedAddresses": "Direcciones guardadas",
+    "savedAddressesDesc": "Tus direcciones de entrega guardadas",
+    "addNew": "Añadir dirección",
+    "addFirst": "Añade tu primera dirección",
+    "noAddresses": "Aún no has añadido ninguna dirección",
+    "addAddress": "Añadir nueva dirección",
+    "editAddress": "Editar dirección",
+    "formDescription": "Introduce los detalles de la dirección de entrega",
+    "default": "Predeterminado",
+    "setDefault": "Establecer como predeterminado",
+    "deleteTitle": "Eliminar dirección",
+    "deleteDescription": "¿Estás seguro de que quieres eliminar esta dirección? Esta acción no se puede deshacer."
+  },
+  "payment": {
+    "title": "Métodos de pago",
+    "subtitle": "Administrar tus métodos de pago guardados",
+    "noMethods": "Aún no has añadido ningún método de pago",
+    "addFirst": "Añadir método de pago",
+    "addCard": "Añadir tarjeta",
+    "cardNumber": "Número de tarjeta",
+    "cardHolder": "Titular de la tarjeta",
+    "expiryDate": "Fecha de caducidad",
+    "expirationDate": "Fecha de caducidad",
+    "cvv": "CVV/CVC",
+    "primary": "Principal",
+    "setDefault": "Establecer como principal",
+    "saveCard": "Guardar tarjeta",
+    "secureMessage": "Tu transacción está asegurada con cifrado SSL",
+    "deleteTitle": "Eliminar método de pago",
+    "deleteDescription": "¿Estás seguro de que quieres eliminar este método de pago? Esta acción no se puede deshacer."
+  },
+  "categories": {
+    "electronics": "Electrónica",
+    "fashion": "Moda",
+    "homeGarden": "Hogar y Jardín",
+    "sports": "Deportes"
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "deals": "Ofertas",
+    "newArrivals": "Novedades",
+    "bestSellers": "Más vendidos",
+    "aboutUs": "Acerca de",
+    "contactUs": "Contacto",
+    "help": "Ayuda",
+    "faq": "Preguntas frecuentes",
+    "allProducts": "Todos los productos",
+    "collections": "Colecciones",
+    "wishlist": "Lista de deseos",
+    "blog": "Blog",
+    "getHelp": "Obtener ayuda"
+  },
+  "productsPage": {
+    "subtitle": "Explora nuestra colección completa de productos, desde ropa hasta accesorios.",
+    "empty": "No se encontraron productos",
+    "filters": {
+      "minPrice": "Precio mínimo",
+      "maxPrice": "Precio máximo",
+      "sortOptions": {
+        "mostPopular": "Más populares",
+        "bestRating": "Mejor valorados",
+        "newest": "Más nuevos",
+        "priceLowHigh": "Precio de menor a mayor",
+        "priceHighLow": "Precio de mayor a menor"
+      }
+    }
+  },
+  "storeCollectionsPage": {
+    "headerSubtitle": "Explora nuestras colecciones seleccionadas",
+    "emptyCollectionsTitle": "Aún no hay colecciones",
+    "emptyCollectionsDescription": "Vuelve pronto para ver colecciones de productos seleccionadas.",
+    "productCount": "{count, plural, one {# producto} other {# productos}}"
+  },
+  "storeCategoryDetailPage": {
+    "productsCount": "{count, plural, one {# producto} other {# productos}}",
+    "empty": "No products found in this category."
+  },
+  "storeCollectionDetailPage": {
+    "productsCount": "{count, plural, one {# producto} other {# productos}}",
+    "sortByLabel": "Ordenar por:",
+    "sortPlaceholder": "Ordenar por",
+    "sortOptions": {
+      "featured": "Destacados",
+      "bestSelling": "Más vendidos",
+      "aToZ": "A-Z",
+      "zToA": "Z-A",
+      "priceLowHigh": "Precio: de menor a mayor",
+      "priceHighLow": "Precio: de mayor a menor",
+      "newest": "Más nuevos"
+    },
+    "emptyProductsTitle": "No se encontraron productos",
+    "emptyProductsDescription": "Esta colección está vacía. ¡Vuelve pronto!",
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "pageOf": "Página {current} de {total}"
+    }
+  },
+  "auth": {
+    "welcomeBack": "Bienvenido de nuevo",
+    "createAccount": "Crear una cuenta",
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "phoneNumber": "Número de teléfono",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "resetPassword": "Restablecer contraseña",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "orContinueWith": "O continúa con",
+    "termsAgreement": "Al crear una cuenta, aceptas nuestros",
+    "termsOfService": "Términos de servicio",
+    "privacyPolicy": "Política de privacidad",
+    "and": "y",
+    "shopAsCustomer": "Comprar como cliente",
+    "sellAsVendor": "Vender como vendedor",
+    "iWantTo": "Quiero",
+    "forgotPasswordDescription": "Enter your email and we'll send you a reset link",
+    "sendResetLink": "Send reset link",
+    "backToLogin": "Back to login",
+    "createAccountDescription": "Enter your details to get started",
+    "verify": "Verificar"
+  },
+  "home": {
+    "heroTitle": "Bienvenido a {storeName}",
+    "heroSubtitle": "Descubre productos increíbles de vendedores verificados. Compra con confianza y disfruta de una entrega sin complicaciones hasta tu puerta.",
+    "shopByCategory": "Comprar por categoría",
+    "shopByCategoryDescription": "Explora nuestra amplia selección de productos organizados por categoría",
+    "viewAllCategories": "Ver todas las categorías",
+    "whyChooseUs": "¿Por qué elegir {storeName}?",
+    "whyChooseUsDescription": "Ofrecemos la mejor experiencia de compra con funciones diseñadas para ti",
+    "startSelling": "Empieza a vender en {storeName}",
+    "startSellingBadge": "Programa de vendedores",
+    "startSellingDescription": "Únete a miles de vendedores y llega a millones de clientes. Configuración fácil, herramientas potentes y soporte dedicado.",
+    "getStartedFree": "Empieza gratis",
+    "becomeASeller": "Conviértete en vendedor",
+    "topVendorsRating": "valoración",
+    "topVendorsSold": "vendidos",
+    "topVendorsPrice": "Precio",
+    "topVendorsGoToShop": "Ir a la tienda",
+    "scrollLeft": "Desplazar a la izquierda",
+    "scrollRight": "Desplazar a la derecha"
+  },
+  "features": {
+    "wideSelection": "Gran variedad",
+    "wideSelectionDescription": "Miles de productos de vendedores verificados",
+    "secureShoping": "Compra segura",
+    "secureShopingDescription": "Tus datos están protegidos con seguridad de nivel empresarial",
+    "fastDelivery": "Entrega rápida",
+    "fastDeliveryDescription": "Envío rápido y fiable hasta tu puerta",
+    "easyPayments": "Pagos fáciles",
+    "easyPaymentsDescription": "Múltiples opciones de pago para tu comodidad",
+    "verifiedVendors": "Vendedores verificados",
+    "verifiedVendorsDescription": "Todos los vendedores están evaluados para garantizar la calidad",
+    "support247": "Soporte 24/7",
+    "support247Description": "Asistencia al cliente las 24 horas"
+  },
+  "product": {
+    "description": "Descripción",
+    "specifications": "Especificaciones",
+    "reviews": "Reseñas",
+    "relatedProducts": "Productos relacionados",
+    "customerReviews": "Reseñas de clientes",
+    "writeReview": "Escribir una reseña",
+    "addToWishlist": "Añadir a la lista de deseos",
+    "removeFromWishlist": "Quitar de la lista de deseos",
+    "share": "Compartir",
+    "compare": "Comparar",
+    "sku": "SKU",
+    "category": "Categoría",
+    "tags": "Etiquetas",
+    "vendor": "Vendedor",
+    "visitStore": "Visitar tienda",
+    "stockStatus": "Estado del stock",
+    "availability": "Disponibilidad",
+    "addToCart": "Añadir al carrito",
+    "inStock": "En stock",
+    "outOfStock": "Agotado"
+  },
+  "cart": {
+    "yourCart": "Tu carrito",
+    "shoppingCart": "Carrito de compras",
+    "emptyCart": "Tu carrito está vacío",
+    "emptyCartDescription": "Parece que aún no has añadido ningún artículo a tu carrito.",
+    "continueShopping": "Seguir comprando",
+    "updateCart": "Actualizar carrito",
+    "clearCart": "Vaciar carrito",
+    "checkout": "Finalizar compra",
+    "proceedToCheckout": "Ir a pagar",
+    "orderSummary": "Resumen del pedido",
+    "applyCoupon": "Aplicar cupón",
+    "removeCoupon": "Quitar cupón",
+    "couponCode": "Código de cupón",
+    "apply": "Aplicar",
+    "itemRemoved": "Artículo eliminado del carrito",
+    "itemAdded": "Artículo añadido al carrito",
+    "cartCleared": "Carrito vaciado",
+    "freeShipping": "¡Calificas para envío gratis!",
+    "products": {
+      "color": "Color",
+      "size": "Talla"
+    }
+  },
+  "checkout": {
+    "checkout": "Finalizar compra",
+    "shippingInformation": "Información de envío",
+    "shippingAddress": "Dirección de envío",
+    "billingAddress": "Dirección de facturación",
+    "sameAsShipping": "Igual que la dirección de envío",
+    "paymentMethod": "Método de pago",
+    "placeOrder": "Realizar pedido",
+    "orderPlaced": "¡Pedido realizado con éxito!",
+    "orderNumber": "Número de pedido",
+    "estimatedDelivery": "Entrega estimada",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "state": "Estado/Provincia",
+    "postalCode": "Código postal",
+    "country": "País",
+    "phone": "Teléfono",
+    "cashOnDelivery": "Pago contra entrega",
+    "creditDebitCard": "Tarjeta de crédito/débito",
+    "securePayment": "Tu información de pago es segura y está cifrada",
+    "orderSuccess": "¡Gracias por tu pedido!",
+    "orderSuccessDescription": "Hemos recibido tu pedido y lo procesaremos en breve. Recibirás un correo de confirmación con los detalles del pedido.",
+    "downloadInvoice": "Descargar factura",
+    "orderConfirmation": "Se ha enviado un correo de confirmación a tu dirección de email",
+    "emptyCartMessage": "Tu carrito está vacío. Añade algunos productos antes de finalizar la compra.",
+    "title": "Checkout",
+    "contactInfo": "Contact Information",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "items": "Items",
+    "continue": "Continue to Payment",
+    "back": "Back to Information",
+    "processing": "Processing...",
+    "steps": {
+      "information": "Information",
+      "shipping": "Shipping",
+      "payment": "Payment"
+    },
+    "errors": {
+      "loadPaymentConfig": "Failed to load payment configuration",
+      "initPayment": "Failed to initialize payment",
+      "processPayment": "Failed to process payment"
+    },
+    "shippingMethod": "Shipping Method",
+    "selectShipping": "Select a shipping method",
+    "useSavedAddress": "Usar una dirección guardada",
+    "emailOrPhone": "Correo electrónico o número de teléfono móvil",
+    "saveInfo": "Guardar esta información para la próxima vez",
+    "payment": {
+      "payWithCard": "Pay with Card",
+      "payWithPayPal": "Pay with PayPal",
+      "payWhenReceive": "Pay when you receive",
+      "poweredByStripe": "Powered by Stripe",
+      "cardDetailsParams": "Card details are entered securely on Stripe after you continue.",
+      "paypalRedirect": "You will be redirected to PayPal to complete payment.",
+      "securePaypal": "Secure payment powered by PayPal",
+      "payOnDeliveryDescription": "You will pay when you receive your order"
+    }
+  },
+  "orders": {
+    "myOrders": "Mis pedidos",
+    "orderHistory": "Historial de pedidos",
+    "orderDetails": "Detalles del pedido",
+    "orderStatus": "Estado del pedido",
+    "trackOrder": "Seguir pedido",
+    "viewOrders": "Ver mis pedidos",
+    "reorder": "Volver a pedir",
+    "cancelOrder": "Cancelar pedido",
+    "downloadInvoice": "Factura",
+    "invoiceDownloadFailed": "Error al descargar la factura",
+    "returnOrder": "Devolver pedido",
+    "noOrders": "Aún no has realizado ningún pedido",
+    "pending": "Pendiente",
+    "processing": "Procesando",
+    "shipped": "Enviado",
+    "delivered": "Entregado",
+    "cancelled": "Cancelado",
+    "refunded": "Reembolsado",
+    "backToOrders": "Volver a los pedidos",
+    "placedOn": "Realizado el",
+    "cancelling": "Cancelando...",
+    "cancelOrderTitle": "Cancelar pedido",
+    "cancelOrderDescription": "¿Estás seguro de que quieres cancelar este pedido? Esta acción no se puede deshacer.",
+    "keepOrder": "Mantener pedido",
+    "orderCancelled": "Pedido cancelado con éxito",
+    "orderCancelFailed": "Error al cancelar el pedido",
+    "orderItems": "Artículos del pedido",
+    "orderUpdated": "Estado del pedido actualizado",
+    "orderUpdateFailed": "Error al actualizar el estado",
+    "searchPlaceholder": "Buscar por número de pedido...",
+    "noOrdersFound": "No se encontraron pedidos",
+    "markProcessing": "Marcar como procesando",
+    "markShipped": "Marcar como enviado",
+    "markDelivered": "Marcar como entregado",
+    "startShopping": "Empezar a comprar",
+    "browseProducts": "Explorar productos",
+    "title": "Mis pedidos",
+    "subtitle": "Haz seguimiento y gestiona tus pedidos",
+    "historyDesc": "Consulta todos tus pedidos pasados y actuales"
+  },
+  "vendor": {
+    "vendorDashboard": "Panel del vendedor",
+    "dashboardSubtitle": "Gestiona tu tienda y productos",
+    "myProducts": "Mis productos",
+    "addProduct": "Agregar producto",
+    "editProduct": "Editar producto",
+    "productManagement": "Gestión de productos",
+    "orderManagement": "Gestión de pedidos",
+    "analytics": "Analíticas",
+    "earnings": "Ganancias",
+    "storeName": "Nombre de la tienda",
+    "storeDescription": "Descripción de la tienda",
+    "storeSettings": "Configuración de la tienda",
+    "overview": "Resumen",
+    "management": "Gestión",
+    "settingsDesc": "Administra el perfil y las preferencias de tu tienda",
+    "storeProfile": "Perfil de la tienda",
+    "storeProfileDesc": "Administra los detalles y la imagen de tu tienda",
+    "payment": "Pago",
+    "paymentSettings": "Configuración de pagos",
+    "paymentSettingsDesc": "Administra métodos de pago y cobros",
+    "notificationSettings": "Configuración de notificaciones",
+    "notificationSettingsDesc": "Administra tus notificaciones por correo y push",
+    "accountSettings": "Configuración de la cuenta",
+    "accountSettingsDesc": "Administra los detalles de tu cuenta personal",
+    "viewStore": "View Store",
+    "viewOrders": "Pedidos",
+    "productSummary": "Estado de productos",
+    "active": "Activo",
+    "byStatus": "Por estado",
+    "unableToLoadData": "Unable to load analytics data. Make sure you are a registered vendor.",
+    "salesChart": "Ventas (últimos 30 días)",
+    "commission": "Comisión pagada",
+    "activeProducts": "Productos activos",
+    "netEarnings": "Ganancias netas",
+    "pending": "pendiente",
+    "recentOrders": "Pedidos recientes",
+    "topProducts": "Productos más vendidos",
+    "totalOrders": "Pedidos totales",
+    "totalProducts": "Total de productos",
+    "totalRevenue": "Ingresos totales",
+    "pendingOrders": "Pending Orders",
+    "productStatus": "Product Status",
+    "becomeVendor": "Become a Vendor",
+    "becomeVendorDesc": "Start selling your products on our marketplace. Apply now and reach thousands of customers.",
+    "applicationForm": "Vendor Application",
+    "applicationDesc": "Fill out the form below to apply as a vendor. We'll review your application within 2-3 business days.",
+    "vendorPanel": "Vendor Panel",
+    "dashboard": "Panel",
+    "products": "Productos",
+    "collections": "Colecciones",
+    "orders": "Pedidos",
+    "settings": "Configuración de la tienda",
+    "goToDashboard": "Go to Vendor Dashboard",
+    "registration": {
+      "title": "Start Selling on Minimart",
+      "subtitle": "Join thousands of successful sellers and reach millions of customers",
+      "welcomeTitle": "Welcome To Store",
+      "welcomeSubtitle": "Setup Your Store Information",
+      "confirmPassword": "Confirm Password",
+      "selectCountry": "Select Country",
+      "selectState": "Select State",
+      "addressPlaceholder": "Address",
+      "pincodePlaceholder": "Pincode",
+      "phonePlaceholder": "Phone Number",
+      "startSelling": "Start Selling Today",
+      "joinUs": "Join thousands of successful sellers",
+      "submitButton": "Submit",
+      "stepAccountTitle": "Create Your Account",
+      "stepAccountDesc": "Sign up to get started as a seller",
+      "passwordHelper": "Minimum 8 characters required",
+      "step1Title": "Business Information",
+      "step1Desc": "Tell us about your store",
+      "step2Title": "Business Address",
+      "step2Desc": "Where is your business located?",
+      "step3Title": "Social & Contact",
+      "step3Desc": "Help customers find you",
+      "step4Title": "Bank Details",
+      "step4Desc": "Set up payments (optional)",
+      "step5Title": "Review & Submit",
+      "step5Desc": "Confirm your details",
+      "storeNameLabel": "Store Name",
+      "storeNamePlaceholder": "e.g., My Awesome Store",
+      "storeNameHelper": "This will be your public store name on the marketplace",
+      "storeDescLabel": "Store Description",
+      "storeDescPlaceholder": "Tell customers what makes your store special...",
+      "storeDescHelper": "Describe your products and what customers can expect",
+      "storeLogoLabel": "Store Logo URL",
+      "storeLogoPlaceholder": "https://example.com/logo.png",
+      "storeLogoHelper": "Optional: URL to your store logo",
+      "storeBannerLabel": "Store Banner URL",
+      "storeBannerPlaceholder": "https://example.com/banner.png",
+      "storeBannerHelper": "Optional: URL to your store banner (1200x300px recommended)",
+      "streetLabel": "Dirección",
+      "streetPlaceholder": "123 Main Street",
+      "cityLabel": "Ciudad",
+      "cityPlaceholder": "New York",
+      "stateLabel": "Estado/Provincia",
+      "statePlaceholder": "NY",
+      "postalCodeLabel": "Código postal",
+      "postalCodePlaceholder": "10001",
+      "countryLabel": "País",
+      "countryPlaceholder": "United States",
+      "businessPhoneLabel": "Business Phone",
+      "businessPhonePlaceholder": "+1 (555) 123-4567",
+      "websiteLabel": "Website",
+      "websitePlaceholder": "https://yourwebsite.com",
+      "websiteHelper": "Your existing website or online presence",
+      "facebookLabel": "Facebook",
+      "facebookPlaceholder": "https://facebook.com/yourstore",
+      "instagramLabel": "Instagram",
+      "instagramPlaceholder": "https://instagram.com/yourstore",
+      "twitterLabel": "Twitter/X",
+      "twitterPlaceholder": "https://twitter.com/yourstore",
+      "socialLinksHelper": "Add your social profiles to build trust with customers",
+      "accountNameLabel": "Account Holder Name",
+      "accountNamePlaceholder": "John Doe",
+      "accountNumberLabel": "Account Number",
+      "accountNumberPlaceholder": "1234567890",
+      "bankNameLabel": "Bank Name",
+      "bankNamePlaceholder": "Bank of America",
+      "routingNumberLabel": "Routing Number",
+      "routingNumberPlaceholder": "123456789",
+      "swiftCodeLabel": "SWIFT/BIC Code",
+      "swiftCodePlaceholder": "BOFAUS3N",
+      "bankDetailsHelper": "You can add or update bank details later from your seller dashboard",
+      "skipBankDetails": "Skip for now",
+      "reviewDetails": "Review Your Application",
+      "reviewHelper": "Please review your information before submitting",
+      "submitApplication": "Submit Application",
+      "submitting": "Submitting...",
+      "applicationSubmitted": "Application Submitted!",
+      "applicationSubmittedDesc": "We'll review your application within 2-3 business days. You'll receive an email notification once approved.",
+      "nextStep": "Continue",
+      "previousStep": "Back",
+      "saveDraft": "Save Draft",
+      "draftSaved": "Draft saved",
+      "requiredField": "This field is required",
+      "minChars": "Minimum {count} characters required",
+      "invalidUrl": "Please enter a valid URL",
+      "whyJoin": "Why sell with us?",
+      "benefit1Title": "Reach Millions",
+      "benefit1Desc": "Access our growing customer base and expand your market",
+      "benefit2Title": "Low Commission",
+      "benefit2Desc": "Competitive 10% commission rate on sales",
+      "benefit3Title": "Easy Setup",
+      "benefit3Desc": "Get started in minutes with our simple onboarding",
+      "benefit4Title": "Powerful Tools",
+      "benefit4Desc": "Dashboard, analytics, and marketing tools included",
+      "benefit5Title": "Fast Payouts",
+      "benefit5Desc": "Weekly payouts directly to your bank account",
+      "benefit6Title": "24/7 Support",
+      "benefit6Desc": "Dedicated seller support team always ready to help",
+      "trustedSellers": "1,000+ trusted sellers",
+      "averageRating": "4.8 average seller rating",
+      "totalProductsListed": "50,000+ products listed",
+      "loginRequired": "Login Required",
+      "loginRequiredDesc": "Please log in or create an account to apply as a vendor.",
+      "alreadyApplied": "You've already submitted an application",
+      "applicationPending": "Application Under Review",
+      "applicationPendingDesc": "Your vendor application is being reviewed. We'll notify you once it's approved.",
+      "applicationApproved": "Application Approved!",
+      "applicationApprovedDesc": "Congratulations! Your vendor account is active. Start adding products now.",
+      "applicationRejected": "Application Rejected",
+      "applicationRejectedDesc": "Unfortunately, your application was not approved. Please contact support for more information.",
+      "applicationSuspended": "Account Suspended",
+      "applicationSuspendedDesc": "Your vendor account has been suspended. Please contact support.",
+      "businessInfo": "Business Information",
+      "addressInfo": "Address Information",
+      "socialInfo": "Social & Contact",
+      "bankInfo": "Bank Details",
+      "optional": "Optional",
+      "checkYourStats": "Check your store performance",
+      "statsDescription": "View sales, orders, and analytics from your dashboard."
+    },
+    "productsPage": {
+      "subtitle": "Administra tus productos",
+      "description": "Ver y administrar los productos de tu tienda"
+    },
+    "productsTable": {
+      "deleteConfirm": "¿Seguro que deseas eliminar \"{name}\"? Esta acción no se puede deshacer.",
+      "productDeleted": "Producto eliminado correctamente",
+      "deleteFailed": "No se pudo eliminar el producto",
+      "status": "Estado",
+      "allStatus": "Todos los estados",
+      "image": "Imagen",
+      "name": "Nombre",
+      "price": "Precio",
+      "stock": "Stock",
+      "actions": "Acciones",
+      "notAvailable": "N/D",
+      "uncategorized": "Sin categoría",
+      "view": "Ver"
+    },
+    "status": {
+      "active": "Activo",
+      "published": "Publicado",
+      "draft": "Borrador",
+      "unlisted": "No listado",
+      "archived": "Archivado",
+      "pending": "Pendiente",
+      "processing": "En proceso",
+      "shipped": "Enviado",
+      "delivered": "Entregado",
+      "cancelled": "Cancelado"
+    },
+    "ordersTable": {
+      "title": "Pedidos",
+      "loadFailed": "No se pudieron cargar los pedidos",
+      "updateFailed": "No se pudo actualizar el pedido",
+      "updated": "Pedido actualizado",
+      "guest": "Invitado",
+      "itemCount": "{count} artículo(s)",
+      "searchPlaceholder": "Buscar por número de pedido",
+      "empty": "No se encontraron pedidos",
+      "createOrder": "Crear pedido",
+      "cancelOrderTitle": "Cancelar pedido",
+      "cancelOrderDescription": "¿Seguro que deseas cancelar este pedido?",
+      "cancelOrderConfirm": "Cancelar pedido",
+      "cancelOrderKeep": "Mantener pedido",
+      "cancelOrdersTitle": "Cancelar pedidos",
+      "cancelOrdersDescription": "¿Cancelar {count} pedidos seleccionados?",
+      "cancelOrdersConfirm": "Cancelar pedidos",
+      "cancelOrdersKeep": "Mantener pedidos",
+      "bulkUpdatedAll": "Se actualizaron {count} pedidos",
+      "bulkUpdatedSome": "Se actualizaron {success} de {total} pedidos",
+      "bulkUpdatedNone": "No se pudo actualizar ningún pedido seleccionado",
+      "bulkUpdateFailed": "No se pudieron actualizar los pedidos seleccionados",
+      "columns": {
+        "order": "Pedido",
+        "customer": "Cliente",
+        "date": "Fecha",
+        "payment": "Pago",
+        "fulfillment": "Cumplimiento",
+        "items": "Artículos",
+        "netSales": "Ventas netas",
+        "actions": "Acciones"
+      },
+      "tabs": {
+        "all": "Todos",
+        "unfulfilled": "Sin completar",
+        "unpaid": "No pagado",
+        "open": "Abierto",
+        "archived": "Archivado"
+      },
+      "filters": {
+        "fulfillment": "Cumplimiento"
+      },
+      "actions": {
+        "markProcessing": "Marcar en proceso",
+        "markShipped": "Marcar como enviado",
+        "markDelivered": "Marcar como entregado",
+        "cancel": "Cancelar",
+        "viewDetails": "Ver detalles",
+        "startProcessing": "Iniciar procesamiento",
+        "cancelOrder": "Cancelar pedido"
+      },
+      "shipDialog": {
+        "title": "Marcar como enviado",
+        "description": "Agrega un número de seguimiento opcional antes de enviar este pedido.",
+        "trackingLabel": "Número de seguimiento",
+        "trackingPlaceholder": "Introduce el número de seguimiento",
+        "confirm": "Confirmar envío"
+      }
+    },
+    "paymentStatus": {
+      "pending": "Pendiente",
+      "paid": "Pagado",
+      "partially_paid": "Parcialmente pagado",
+      "refunded": "Reembolsado",
+      "partially_refunded": "Parcialmente reembolsado"
+    },
+    "fulfillmentStatus": {
+      "pending": "Sin completar",
+      "processing": "En proceso",
+      "shipped": "En tránsito",
+      "delivered": "Entregado",
+      "cancelled": "Cancelado"
+    },
+    "settingsForm": {
+      "logoUrl": "URL del logo",
+      "bannerUrl": "URL del banner",
+      "website": "Sitio web",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "X / Twitter",
+      "accountName": "Nombre de la cuenta",
+      "accountNumber": "Número de cuenta",
+      "bankName": "Nombre del banco",
+      "routingNumber": "Número de ruta",
+      "swiftCode": "Código SWIFT",
+      "payoutSchedule": "Frecuencia de pagos",
+      "payoutWeekly": "Semanal",
+      "payoutBiweekly": "Quincenal",
+      "payoutMonthly": "Mensual",
+      "minimumPayoutAmount": "Monto mínimo de pago",
+      "newOrders": "Nuevos pedidos",
+      "newOrdersDesc": "Recibe alertas cuando los clientes hagan un nuevo pedido.",
+      "orderStatusUpdates": "Actualizaciones del estado del pedido",
+      "orderStatusUpdatesDesc": "Recibe recordatorios y actualizaciones de tus pedidos activos.",
+      "lowStockAlerts": "Alertas de stock bajo",
+      "lowStockAlertsDesc": "Avísame cuando los productos estén por agotarse.",
+      "productTipsAndUpdates": "Consejos y novedades de productos",
+      "productTipsAndUpdatesDesc": "Recibe anuncios de productos y consejos para mejorar como vendedor.",
+      "changePasswordDesc": "Actualiza tu contraseña para mantener segura tu cuenta de vendedor.",
+      "passwordMinLength": "La nueva contraseña debe tener al menos 8 caracteres",
+      "passwordsDoNotMatch": "Las contraseñas no coinciden"
+    },
+    "untitledProduct": "Producto sin título",
+    "dashboardWidgets": {
+      "noProductsYet": "Aún no hay productos",
+      "noImage": "Sin imagen",
+      "soldCount": "{count} vendidos"
+    },
+    "charts": {
+      "noDataAvailable": "No hay datos disponibles",
+      "unknown": "Desconocido",
+      "ordersCount": "{count} pedidos",
+      "noRecentOrders": "No hay pedidos recientes"
+    },
+    "payoutsPage": {
+      "title": "Payouts",
+      "subtitle": "Track your settlement statements and payout statuses.",
+      "listSection": {
+        "title": "Payout Statements",
+        "searchPlaceholder": "Search payout number",
+        "columns": {
+          "details": "Details"
+        },
+        "empty": "No payouts found."
+      }
+    },
+    "payouts": "Cobros",
+    "storefront": {
+      "title": "{storeName}",
+      "subtitle": "Explora productos de la tienda de este vendedor.",
+      "noProducts": "No se encontraron productos para este vendedor.",
+      "notFound": "No se encontró la tienda del vendedor."
+    }
+  },
+  "adminProfile": {
+    "title": "Perfil",
+    "subtitle": "Administra la configuración y preferencias de tu cuenta",
+    "personalInfo": "Información personal",
+    "personalInfoDesc": "Actualiza tu nombre y datos de contacto",
+    "passwordDesc": "Actualiza tu contraseña para mantener tu cuenta segura",
+    "updatePassword": "Actualizar contraseña",
+    "accountInfo": "Cuenta",
+    "administrator": "Administrador",
+    "twoFactor": "Autenticación de dos factores",
+    "twoFactorActive": "2FA activo",
+    "enabled": "Habilitado",
+    "disabled": "Deshabilitado",
+    "avatarUpdated": "Avatar actualizado",
+    "avatarError": "Error al subir el avatar"
+  },
+  "admin": {
+    "adminDashboard": "Panel de administración",
+    "browseWebsite": "Visitar sitio web",
+    "ordersPage": {
+      "plusMore": "+{count} más",
+      "item": "artículo",
+      "export": "Exportar",
+      "table": {
+        "purchased": "Comprado",
+        "date": "Fecha",
+        "customer": "Cliente",
+        "channel": "Canal",
+        "payment": "Pago",
+        "fulfillment": "Gestión",
+        "delivery": "Entrega"
+      },
+      "channel": {
+        "pos": "Punto de venta",
+        "online": "Tienda en línea"
+      },
+      "paymentStatus": {
+        "paid": "Pagado",
+        "partiallyPaid": "Parcialmente pagado",
+        "partiallyRefunded": "Parcialmente reembolsado"
+      },
+      "fulfillment": {
+        "unfulfilled": "Sin gestionar",
+        "inTransit": "En tránsito",
+        "fulfilled": "Gestionado"
+      },
+      "delivery": {
+        "notShipped": "No enviado",
+        "inTransit": "En tránsito"
+      },
+      "tabs": {
+        "all": "Todos",
+        "unfulfilled": "Sin gestionar",
+        "unpaid": "No pagado",
+        "open": "Abierto",
+        "archived": "Archivado"
+      },
+      "filters": {
+        "orderStatus": "Estado del pedido"
+      },
+      "bulk": {
+        "cancelTitle": "Cancelar pedidos",
+        "cancelDescription": "¿Cancelar {count} pedidos?",
+        "cancelConfirm": "Cancelar pedidos",
+        "cancelKeep": "Mantener pedidos",
+        "updatedSuccess": "{count} pedidos actualizados",
+        "updatedError": "No se pudieron actualizar algunos pedidos"
+      },
+      "pagination": {
+        "showing": "Mostrando",
+        "to": "a",
+        "of": "de",
+        "results": "resultados",
+        "rowsPerPage": "Filas por página"
+      },
+      "stats": {
+        "totalOrders": {
+          "title": "Pedidos totales",
+          "description": "Todos los registros de pedidos"
+        },
+        "openOrders": {
+          "title": "Pedidos abiertos",
+          "description": "Pendientes, en proceso o enviados"
+        },
+        "paidOrders": {
+          "title": "Pedidos pagados",
+          "description": "Pago completado"
+        },
+        "totalRevenue": {
+          "title": "Ingresos totales",
+          "description": "Valor bruto de pedidos pagados"
+        },
+        "averageOrderValue": {
+          "title": "Valor promedio del pedido",
+          "description": "Ingresos por pedido pagado"
+        }
+      }
+    },
+    "orderDetails": {
+      "orderNumber": "Pedido #{number}",
+      "placedOn": "Realizado el",
+      "tracking": "Seguimiento",
+      "print": "Imprimir",
+      "back": "Volver",
+      "moreActions": "Más acciones",
+      "refundFull": "Reembolso completo",
+      "refundPartial": "Reembolso parcial",
+      "markShipped": "Marcar como enviado",
+      "markShippedDescription": "Añade los datos del transportista para que el cliente y el equipo de soporte puedan rastrear la entrega.",
+      "carrier": "Transportista",
+      "carrierPlaceholder": "DHL, FedEx, UPS",
+      "trackingNumber": "Número de seguimiento",
+      "trackingNumberPlaceholder": "Número de seguimiento",
+      "cancel": "Cancelar",
+      "cancelOrderTitle": "Cancelar pedido",
+      "cancelOrderDescription": "La cancelación restaura el inventario mientras el pedido aún sea elegible.",
+      "reason": "Motivo",
+      "cancelReasonPlaceholder": "Nota opcional para el historial del pedido",
+      "keepOrder": "Mantener pedido",
+      "cancelOrder": "Cancelar pedido",
+      "refundNotAvailable": "El reembolso solo está disponible para pedidos pagados",
+      "enterRefundAmount": "Introduce el importe del reembolso parcial",
+      "invalidRefundAmount": "Introduce un importe de reembolso válido",
+      "refundReasonOptional": "Motivo del reembolso (opcional)",
+      "refundRecorded": "Reembolso registrado",
+      "refundFailed": "Reembolso fallido",
+      "orderItems": "Artículos del pedido",
+      "splitShipment": "Envío dividido",
+      "splitShipmentDescription": "Este pedido contiene artículos de varios vendedores y se entregará en envíos separados.",
+      "item": "Artículo",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "total": "Total",
+      "sku": "SKU",
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "tax": "Impuesto",
+      "discount": "Descuento",
+      "totalLabel": "Total",
+      "timeline": "Cronología",
+      "showComments": "Mostrar comentarios",
+      "addMessagePlaceholder": "Añade un mensaje si lo deseas...",
+      "post": "Publicar",
+      "noEventsYet": "Aún no hay eventos",
+      "by": "por",
+      "system": "Sistema",
+      "customer": "Cliente",
+      "guestCheckout": "Compra como invitado",
+      "customerSince": "Cliente desde",
+      "contactInfo": "Información de contacto",
+      "shippingAddress": "Dirección de envío",
+      "billingAddress": "Dirección de facturación",
+      "payment": "Pago",
+      "orderStatus": {
+        "pending": "Pendiente",
+        "processing": "En proceso",
+        "shipped": "Enviado",
+        "delivered": "Entregado",
+        "cancelled": "Cancelado"
+      },
+      "paymentStatus": {
+        "pending": "Pendiente",
+        "paid": "Pagado",
+        "partially_paid": "Parcialmente pagado",
+        "refunded": "Reembolsado",
+        "partially_refunded": "Parcialmente reembolsado"
+      }
+    },
+    "analyticsPage": {
+      "subtitle": "Rendimiento de la tienda y tráfico del sitio web",
+      "onlineNow": "en línea ahora",
+      "visitors": "Visitantes",
+      "totalVisitors": "Total visitantes",
+      "pageviews": "Vistas de página",
+      "topSources": "Fuentes principales",
+      "topPages": "Páginas principales",
+      "countries": "Países",
+      "devices": "Dispositivos",
+      "unknown": "Desconocido",
+      "none": "(ninguno)",
+      "directNone": "Directo / Ninguno",
+      "poweredBy": "Datos impulsados por Plausible Analytics",
+      "openDashboard": "Abrir panel de Plausible",
+      "periods": {
+        "day": "Hoy",
+        "7d": "7d",
+        "30d": "30d",
+        "month": "Mes",
+        "6mo": "6 meses",
+        "12mo": "12 meses"
+      },
+      "cards": {
+        "onlineNow": "En línea ahora",
+        "uniqueVisitors": "Visitantes únicos",
+        "totalPageviews": "Vistas de página totales",
+        "totalVisits": "Visitas totales",
+        "bounceRate": "Tasa de rebote",
+        "avgDuration": "Duración promedio"
+      },
+      "chart": {
+        "title": "Visitantes y vistas de página",
+        "description": "Tráfico durante el período seleccionado"
+      },
+      "tabs": {
+        "browser": "Navegador",
+        "os": "SO",
+        "size": "Tamaño"
+      },
+      "columns": {
+        "source": "Fuente",
+        "visitors": "Visitantes",
+        "page": "Página",
+        "country": "País",
+        "device": "Dispositivo"
+      },
+      "empty": {
+        "timeseries": "No hay datos de serie temporal",
+        "sources": "Aún no hay datos de fuentes",
+        "pages": "Aún no hay datos de páginas",
+        "countries": "Aún no hay datos de países",
+        "devices": "Aún no hay datos de dispositivos"
+      },
+      "errors": {
+        "loadFailed": "No se pudieron cargar los datos de analítica"
+      },
+      "notConfigured": {
+        "title": "Plausible Analytics no está configurado",
+        "description": "Conecta tu cuenta de Plausible Analytics para ver datos en tiempo real, fuentes de tráfico, analítica de páginas y más.",
+        "cta": "Configurar Plausible Analytics"
+      },
+      "units": {
+        "minute": "m",
+        "second": "s"
+      },
+      "time": {
+        "am": "am",
+        "pm": "pm"
+      }
+    },
+    "dashboardPage": {
+      "greeting": "Buenos días, James.",
+      "goodMorning": "Buenos días, {name}.",
+      "goodAfternoon": "Buenas tardes, {name}.",
+      "goodEvening": "Buenas noches, {name}.",
+      "subtitle": "Esto es lo que está pasando con tu tienda hoy.",
+      "orders": "pedidos",
+      "cases": "casos",
+      "ordersTitle": "Pedidos",
+      "dateRange": "25 jul - 25 ago",
+      "addActivity": "Agregar actividad",
+      "sales": "Ventas",
+      "ordersDescription": "Un desglose de pedidos por proyecto con información detallada.",
+      "showHighlights": "Mostrar todos los destacados",
+      "showSalesData": "Mostrar todos los datos de ventas",
+      "viewAllOrders": "Ver todos los pedidos",
+      "recentOrders": "Pedidos recientes",
+      "noRecentOrders": "No se encontraron pedidos recientes.",
+      "totalVisitors": "Total visitantes",
+      "thisMonth": "Este mes",
+      "lastMonth": "Mes pasado",
+      "customer": "Cliente",
+      "pc": "ud",
+      "pcs": "uds",
+      "paymentMethod": "Método de pago",
+      "totalPrice": "Precio total",
+      "orderLabel": "Pedido {orderNumber}",
+      "stats": {
+        "inStoreSales": "Ventas en tienda",
+        "websiteSales": "Ventas web",
+        "discount": "Descuento",
+        "affiliate": "Afiliado",
+        "marketplace": "Marketplace",
+        "refunds": "Reembolsos",
+        "inStore": "En tienda",
+        "online": "En línea"
+      },
+      "status": {
+        "pending": "Pendiente",
+        "processing": "Procesando",
+        "shipped": "Enviado",
+        "delivered": "Entregado",
+        "cancelled": "Cancelado"
+      },
+      "payment": {
+        "creditCard": "Tarjeta de crédito",
+        "paypal": "PayPal",
+        "cashOnDelivery": "Pago contra entrega",
+        "upi": "UPI",
+        "card": "Tarjeta"
+      },
+      "latestProducts": "Últimos productos",
+      "noLatestProducts": "No se encontraron últimos productos."
+    },
+    "sidebar": {
+      "home": "Inicio",
+      "overview": "Resumen",
+      "orders": "Pedidos",
+      "products": "Productos",
+      "allProducts": "Todos los productos",
+      "collections": "Colecciones",
+      "categories": "Categorías",
+      "inventory": "Inventario",
+      "purchaseOrders": "Órdenes de compra",
+      "transfers": "Transferencias",
+      "giftCards": "Tarjetas de regalo",
+      "customers": "Clientes",
+      "vendors": "Vendedores",
+      "marketing": "Marketing",
+      "discounts": "Descuentos",
+      "content": "Contenido",
+      "markets": "Mercados",
+      "analytics": "Analíticas",
+      "salesChannels": "Canales de venta",
+      "onlineStore": "Tienda online",
+      "homePage": "Página de inicio",
+      "theme": "Tema",
+      "themes": "Temas",
+      "pages": "Páginas",
+      "pos": "Punto de venta",
+      "staff": "Personal",
+      "posStaff": "Personal",
+      "posLocations": "Ubicaciones",
+      "apps": "Aplicaciones",
+      "addApp": "Añadir",
+      "addPage": "Agregar página",
+      "dashboard": "Panel",
+      "navigation": "Navegación",
+      "payments": "Pagos",
+      "payouts": "Cobros",
+      "transactions": "Transacciones",
+      "reviews": "Reseñas",
+      "blogPosts": "Entradas de blog",
+      "blogCategories": "Categorías del blog",
+      "blogComments": "Comentarios",
+      "allPosts": "Todas las entradas",
+      "menus": "Menús",
+      "aiStudio": "Estudio de IA"
+    },
+    "users": "Usuarios",
+    "usersDesc": "Gestiona usuarios y roles",
+    "vendors": "Vendedores",
+    "vendorsDesc": "Gestiona cuentas de vendedores y aprobaciones",
+    "products": "Productos",
+    "categories": "Categorías",
+    "orders": "Pedidos",
+    "inventory": {
+      "title": "Inventario",
+      "subtitle": "Gestiona los niveles de stock de productos",
+      "searchPlaceholder": "Buscar productos...",
+      "export": "Exportar",
+      "import": "Importar",
+      "tabs": {
+        "all": "Todos",
+        "online": "En línea",
+        "onlineStore": "Tienda en línea",
+        "mainWarehouse": "Almacén principal",
+        "storifyWarehouse": "Almacén de Storify",
+        "storeFront": "Tienda física",
+        "secondaryStorage": "Almacén secundario"
+      },
+      "columns": {
+        "product": "Producto",
+        "sku": "SKU",
+        "unavailable": "No disponible",
+        "committed": "Comprometido",
+        "available": "Disponible",
+        "onHand": "En stock"
+      },
+      "filters": {
+        "stockLevel": "Nivel de stock",
+        "all": "Todos",
+        "lowStock": "Stock bajo",
+        "outOfStock": "Sin stock"
+      },
+      "actions": {
+        "adjustQuantity": "Ajustar cantidad",
+        "save": "Guardar",
+        "cancel": "Cancelar"
+      },
+      "empty": "No se encontraron artículos de inventario",
+      "learnMore": "Más información sobre la gestión de inventario",
+      "updateSuccess": "Inventario actualizado correctamente",
+      "updateError": "No se pudo actualizar el inventario",
+      "itemsModified": "{count} artículos modificados",
+      "csvHeaders": {
+        "product": "Producto",
+        "variant": "Variante",
+        "sku": "SKU",
+        "available": "Disponible",
+        "onHand": "En stock"
+      },
+      "stats": {
+        "trackedSkus": "SKUs rastreados",
+        "trackedSkusDescription": "Variantes de producto en tu catálogo",
+        "lowStock": "Stock bajo",
+        "lowStockDescription": "SKUs con 10 unidades o menos",
+        "outOfStock": "Sin stock",
+        "outOfStockDescription": "SKUs actualmente no disponibles",
+        "onHandUnits": "Unidades en stock",
+        "onHandUnitsDescription": "Unidades totales en tus productos",
+        "locations": "Ubicaciones",
+        "locationsDescription": "Ubicaciones de inventario activas"
+      }
+    },
+    "vendorsManagement": {
+      "allVendors": "All Vendors",
+      "allVendorsDesc": "View and manage vendor profiles",
+      "searchPlaceholder": "Search store name...",
+      "status": {
+        "pending": "Pending",
+        "approved": "Active",
+        "suspended": "Suspended",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "storeOwner": "Store & Owner",
+        "status": "Status",
+        "commission": "Commission",
+        "sales": "Sales",
+        "joined": "Joined",
+        "actions": "Actions",
+        "noVendors": "No vendors found",
+        "visitStore": "Visit Store",
+        "updateStatus": "Update Status",
+        "unknown": "Unknown"
+      },
+      "toasts": {
+        "statusSuccess": "Vendor status updated successfully",
+        "statusError": "Failed to update status"
+      }
+    },
+    "productsManagement": {
+      "title": "Products",
+      "subtitle": "Manage all products in the marketplace",
+      "addProduct": "Add Product",
+      "allProducts": "All Products",
+      "allProductsDesc": "View and manage products from all vendors",
+      "searchPlaceholder": "Search products...",
+      "status": {
+        "label": "Status",
+        "all": "All Status",
+        "published": "Published",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "table": {
+        "image": "Image",
+        "name": "Name",
+        "vendor": "Vendor",
+        "price": "Price",
+        "stock": "Stock",
+        "status": "Status",
+        "actions": "Actions",
+        "noProducts": "No products found",
+        "uncategorized": "Uncategorized",
+        "na": "N/A",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "deleteDialog": {
+        "title": "Delete Product",
+        "description": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+        "confirm": "Delete",
+        "cancel": "Cancel",
+        "success": "Product deleted successfully",
+        "error": "Failed to delete product"
+      }
+    },
+    "collections": "Colecciones",
+    "collectionsManagement": {
+      "title": "Colecciones",
+      "subtitle": "Gestionar colecciones de productos",
+      "addCollection": "Agregar Coleccion",
+      "editCollection": "Editar Coleccion",
+      "allCollections": "Todas las Colecciones",
+      "manual": "Manual",
+      "automated": "Automatizada",
+      "conditions": "Condiciones",
+      "addCondition": "Agregar Condicion",
+      "matchAll": "Los productos deben coincidir con todas las condiciones",
+      "matchAny": "Los productos deben coincidir con cualquier condicion"
+    },
+    "settings": {
+      "title": "Configuración",
+      "description": "Gestiona la configuración de tu tienda",
+      "tabs": {
+        "general": "General",
+        "security": "Seguridad",
+        "appearance": "Apariencia",
+        "payment": "Pagos",
+        "email": "Correo electrónico",
+        "orders": "Pedidos",
+        "seo": "SEO",
+        "social": "Social",
+        "maintenance": "Mantenimiento"
+      },
+      "general": {
+        "title": "Configuración general",
+        "description": "Configura la información básica de tu tienda",
+        "storeName": "Nombre de la tienda",
+        "storeEmail": "Email de la tienda",
+        "phone": "Número de teléfono",
+        "storeDomain": "Dominio de la tienda",
+        "address": "Dirección",
+        "storeDescription": "Descripción de la tienda",
+        "defaultLanguage": "Idioma predeterminado",
+        "defaultCurrency": "Moneda predeterminada",
+        "logoUrl": "URL del logo",
+        "faviconUrl": "URL del favicon",
+        "save": "Guardar cambios"
+      },
+      "appearance": {
+        "title": "Apariencia",
+        "description": "Personaliza la apariencia de tu tienda",
+        "primaryColor": "Color primario",
+        "secondaryColor": "Color secundario",
+        "accentColor": "Color de acento",
+        "theme": "Tema predeterminado",
+        "themes": {
+          "light": "Claro",
+          "dark": "Oscuro",
+          "system": "Sistema"
+        },
+        "save": "Guardar cambios"
+      },
+      "payment": {
+        "stripe": {
+          "title": "Stripe",
+          "description": "Configurar pasarela de pago Stripe",
+          "enable": "Habilitar pagos con Stripe",
+          "publishableKey": "Clave pública",
+          "secretKey": "Clave secreta",
+          "webhookSecret": "Secreto del Webhook",
+          "webhookSecretHint": "Requerido para procesar eventos de pago. Obténgalo desde Panel de Stripe → Desarrolladores → Webhooks"
+        },
+        "cod": {
+          "title": "Pago contra reembolso",
+          "description": "Configurar opción de pago contra reembolso",
+          "enable": "Habilitar pago contra reembolso",
+          "instructions": "Instrucciones",
+          "placeholder": "Instrucciones mostradas a los clientes...",
+          "codMinOrder": "Min Order Amount",
+          "codMaxOrder": "Max Order Amount"
+        },
+        "save": "Guardar configuración de pagos",
+        "title": "Configuración de pagos",
+        "description": "Configure payment gateways and options",
+        "enableStripe": "Enable Stripe",
+        "stripePublishableKey": "Publishable Key",
+        "stripeWebhookSecret": "Webhook Secret",
+        "enablePayPal": "Enable PayPal",
+        "paypalClientId": "Client ID",
+        "paypalMode": "Mode",
+        "paypalSandbox": "Sandbox",
+        "paypalLive": "Live",
+        "paypalWebhookId": "Webhook ID",
+        "enableCOD": "Enable Cash on Delivery",
+        "codInstructions": "COD Instructions",
+        "codMinOrder": "Min Order Amount",
+        "codMaxOrder": "Max Order Amount",
+        "paypal": {
+          "title": "PayPal",
+          "description": "Configure PayPal payment gateway",
+          "enablePayPal": "Enable PayPal",
+          "paypalClientId": "Client ID",
+          "clientSecret": "Secreto del cliente",
+          "paypalMode": "Mode",
+          "paypalSandbox": "Sandbox",
+          "paypalLive": "Live",
+          "paypalWebhookId": "Webhook ID"
+        }
+      },
+      "email": {
+        "title": "Configuración de correo (SMTP)",
+        "description": "Configurar envío de correos vía SMTP",
+        "enable": "Habilitar correo SMTP",
+        "host": "Host SMTP",
+        "port": "Puerto SMTP",
+        "username": "Usuario SMTP",
+        "password": "Contraseña SMTP",
+        "fromEmail": "Email del remitente",
+        "fromName": "Nombre del remitente",
+        "secure": "Usar SSL/TLS (para puerto 465)",
+        "test": {
+          "label": "Email de prueba",
+          "placeholder": "test@ejemplo.com",
+          "button": "Enviar email de prueba",
+          "success": "¡Email de prueba enviado con éxito!",
+          "error": "Error al enviar email de prueba"
+        },
+        "save": "Guardar configuración de correo"
+      },
+      "security": {
+        "title": "Seguridad y control de acceso",
+        "description": "Configure multi-vendor mode, session security, and password policies",
+        "tabs": {
+          "general": "General",
+          "2fa": "Two-Factor Auth",
+          "oauth": "OAuth",
+          "pos": "POS Access",
+          "vendor": "Vendor Permissions"
+        },
+        "multiVendor": {
+          "title": "Store Mode",
+          "label": "Modo multivendedor",
+          "description": "Enable marketplace features: vendor registration, multiple stores, vendor dashboard"
+        },
+        "emailVerification": {
+          "title": "Email Verification",
+          "required": "Require Email Verification",
+          "requiredDesc": "Users must verify email before accessing the store",
+          "vendorRequired": "Require for Vendors",
+          "vendorRequiredDesc": "Vendors must verify email before listing products"
+        },
+        "session": {
+          "title": "Session Security",
+          "duration": "Session Duration (days)",
+          "maxAttempts": "Max Login Attempts",
+          "lockout": "Lockout Duration (min)"
+        },
+        "rateLimiting": {
+          "enabled": "Habilitar limitación de tasa",
+          "adminPreset": "API de administrador",
+          "vendorPreset": "API de vendedor",
+          "checkoutPreset": "Checkout / Pagos",
+          "cartPreset": "Carrito",
+          "couponPreset": "Cupones",
+          "authPreset": "Auth / Inicio de sesión",
+          "ipPreset": "Invitado / Público (por IP)"
+        },
+        "passwordPolicy": {
+          "title": "Password Policy",
+          "minLength": "Minimum Password Length",
+          "uppercase": "Require Uppercase",
+          "numbers": "Require Numbers",
+          "specialChars": "Require Special Characters"
+        },
+        "save": "Save Security Settings"
+      },
+      "seo": {
+        "title": "Configuración SEO",
+        "description": "Configure search engine optimization",
+        "metaTitle": "Meta Title",
+        "metaTitlePlaceholder": "Your Store - Online Marketplace",
+        "metaDescription": "Meta Description",
+        "metaDescriptionPlaceholder": "Describe your store in 150-160 characters...",
+        "metaKeywords": "Meta Keywords",
+        "metaKeywordsPlaceholder": "ecommerce, online shopping, marketplace",
+        "save": "Save SEO Settings"
+      },
+      "social": {
+        "title": "Enlaces sociales",
+        "description": "Add your social media profiles",
+        "facebook": "Facebook",
+        "twitter": "Twitter/X",
+        "instagram": "Instagram",
+        "youtube": "YouTube",
+        "save": "Save Social Links",
+        "facebookPlaceholder": "https://facebook.com/yourpage",
+        "twitterPlaceholder": "https://twitter.com/yourhandle",
+        "instagramPlaceholder": "https://instagram.com/yourprofile",
+        "youtubePlaceholder": "https://youtube.com/yourchannel",
+        "tiktok": "TikTok",
+        "tiktokPlaceholder": "https://tiktok.com/@yourhandle",
+        "linkedin": "LinkedIn",
+        "linkedinPlaceholder": "https://linkedin.com/company/yourcompany"
+      },
+      "maintenance": {
+        "title": "Modo de mantenimiento",
+        "description": "Control store availability",
+        "enable": "Enable Maintenance Mode",
+        "enableDesc": "When enabled, visitors will see a maintenance message",
+        "message": "Maintenance Message",
+        "messagePlaceholder": "We're currently undergoing maintenance. Please check back soon!",
+        "save": "Save Maintenance Settings"
+      },
+      "twoFactor": {
+        "title": "Autenticación de dos factores",
+        "description": "Enable and configure 2FA requirements for different user roles",
+        "enable": "Enable Two-Factor Authentication",
+        "enableDesc": "Allow users to set up 2FA for their accounts",
+        "requirements": "2FA Requirements by Role",
+        "admin": "Required for Administrators",
+        "adminDesc": "Admin accounts must enable 2FA",
+        "vendor": "Required for Vendors",
+        "vendorDesc": "Vendor accounts must enable 2FA",
+        "save": "Save 2FA Settings"
+      },
+      "oauth": {
+        "title": "OAuth / Inicio de sesión social",
+        "description": "Configure social login providers (Google, Facebook)",
+        "google": {
+          "label": "Google Sign-In",
+          "description": "Allow users to sign in with their Google account",
+          "clientId": "Google Client ID",
+          "clientSecret": "Google Client Secret"
+        },
+        "facebook": {
+          "label": "Facebook Sign-In",
+          "description": "Allow users to sign in with their Facebook account",
+          "appId": "Facebook App ID",
+          "appSecret": "Facebook App Secret"
+        },
+        "save": "Save OAuth Settings"
+      },
+      "pos": {
+        "title": "Acceso a Punto de Venta (POS)",
+        "description": "Configure which roles can access the POS system",
+        "enable": "Enable POS System",
+        "enableDesc": "Allow in-store sales through the Point of Sale module",
+        "access": "POS Access by Role",
+        "admin": "Administrators",
+        "adminDesc": "Allow admins to make sales via POS",
+        "vendor": "Vendors",
+        "vendorDesc": "Allow vendors to make sales via POS for their products",
+        "seller": "Sellers (Staff)",
+        "sellerDesc": "Allow seller staff to make sales via POS",
+        "save": "Save POS Settings",
+        "general": "General",
+        "language": "Language",
+        "defaultLocation": "Default POS Location ID",
+        "customize": "Customize",
+        "smartGrid": "Smart grid",
+        "lockScreen": "Lock screen timeout (min)",
+        "printedReceipts": "Printed receipts",
+        "customerDisplays": "Customer displays",
+        "checkout": "Checkout",
+        "customerReceiptSelection": "Customer receipt selection",
+        "offlinePayments": "Offline payments",
+        "orders": "Orders",
+        "orderNumberPrefix": "Order number prefix",
+        "orderNumberPrefixHint": "New POS orders use this prefix with a six-digit number, for example POS000017.",
+        "returnRules": "Return rules",
+        "returnWindowDays": "Return window (days)",
+        "allowWithoutReceipt": "Allow returns without receipt",
+        "enabled": "Habilitado",
+        "disabled": "Deshabilitado",
+        "accessDesc": "Controle qué roles de usuario pueden acceder al terminal POS",
+        "generalDesc": "Configure el idioma y la ubicación predeterminados para POS",
+        "languageHint": "Idioma utilizado en la interfaz del terminal POS",
+        "selectLocation": "Seleccionar una ubicación",
+        "noLocation": "Sin ubicación predeterminada",
+        "defaultBadge": "Predeterminado",
+        "locationIdPlaceholder": "Ingrese el ID de ubicación",
+        "defaultLocationHint": "La ubicación utilizada por defecto para nuevos pedidos POS",
+        "checkoutDesc": "Configure los métodos de pago y el comportamiento del checkout",
+        "paymentMethods": "Métodos de Pago Aceptados",
+        "paymentCash": "Efectivo",
+        "paymentCashDesc": "Aceptar pagos en efectivo",
+        "paymentCard": "Tarjeta",
+        "paymentCardDesc": "Aceptar pagos con tarjeta de crédito/débito",
+        "paymentManual": "Manual",
+        "paymentManualDesc": "Métodos de pago personalizados",
+        "customerReceiptSelectionDesc": "Permitir a los clientes elegir cómo recibir su recibo",
+        "offlinePaymentsDesc": "Procesar pagos cuando el dispositivo está sin conexión",
+        "customizeDesc": "Personalice la apariencia y el comportamiento del terminal POS",
+        "smartGridDesc": "Organizar automáticamente la cuadrícula de productos para una visualización óptima",
+        "printedReceiptsDesc": "Imprimir recibos después de cada transacción",
+        "customerDisplaysDesc": "Mostrar detalles del pedido en la pantalla del cliente",
+        "lockScreenHint": "Bloquear automáticamente el terminal POS después de inactividad",
+        "minutes": "minutos",
+        "receiptPrinter": "Impresora de Recibos",
+        "receiptPrinterPlaceholder": "ej. Star TSP143",
+        "ordersDesc": "Configure las políticas de devolución para pedidos POS",
+        "returnRulesDesc": "Habilitar reglas de devolución y reembolso para compras en tienda",
+        "days": "días",
+        "allowWithoutReceiptDesc": "Permitir a los clientes devolver artículos sin recibo",
+        "conditionNotes": "Notas de Condición de Devolución",
+        "conditionNotesPlaceholder": "ej. Los artículos deben estar en su empaque original",
+        "conditionNotesHint": "Notas o condiciones adicionales para devoluciones",
+        "sound": "Efectos de Sonido",
+        "soundDesc": "Configurar retroalimentación de audio para interacciones del terminal POS",
+        "soundEnable": "Habilitar Efectos de Sonido",
+        "soundEnableDesc": "Reproducir señales de audio durante las operaciones POS",
+        "soundVolume": "Volumen",
+        "soundAddToCart": "Agregar al Carrito",
+        "soundAddToCartDesc": "Pitido al agregar un producto al carrito",
+        "soundPayment": "Pago Aceptado",
+        "soundPaymentDesc": "Sonido al procesar un pago",
+        "soundOrderComplete": "Pedido Completado",
+        "soundOrderCompleteDesc": "Timbre al completar un pedido",
+        "soundError": "Alerta de Error",
+        "soundErrorDesc": "Sonido de alerta para errores y advertencias de stock"
+      },
+      "vendorPermissions": {
+        "title": "Vendor Permission Defaults",
+        "description": "Configure default permissions for new vendors",
+        "warning": "Enable Multi-Vendor Mode to configure vendor permissions.",
+        "manageProducts": "Manage Products",
+        "viewOrders": "View Orders",
+        "manageOrders": "Manage Orders",
+        "manageSettings": "Manage Store Settings",
+        "viewAnalytics": "View Analytics",
+        "manageDiscounts": "Manage Discounts",
+        "managePayouts": "Manage Payouts",
+        "accessPOS": "Access POS",
+        "save": "Save Vendor Permissions"
+      },
+      "orders": {
+        "title": "Configuración de pedidos",
+        "description": "Configure order and commission settings",
+        "prefix": "Order Number Prefix",
+        "taxRate": "Tax Rate (%)",
+        "shippingCost": "Default Shipping Cost ($)",
+        "freeShippingThreshold": "Free Shipping Threshold ($)",
+        "freeShippingPlaceholder": "Leave empty to disable",
+        "vendorCommission": "Vendor Commission",
+        "commissionRate": "Commission Rate (%)",
+        "minWithdrawal": "Min Withdrawal Amount ($)",
+        "save": "Save Order Settings"
+      },
+      "storage": {
+        "title": "Configuración de almacenamiento",
+        "description": "Configurar el proveedor de almacenamiento de archivos para subidas de medios",
+        "provider": "Proveedor de almacenamiento",
+        "chooseProvider": "Elija un servicio de almacenamiento activo",
+        "status": "Estado",
+        "checking": "Verificando...",
+        "connected": "Conectado",
+        "notConnected": "No conectado",
+        "refresh": "Actualizar",
+        "accountId": "ID de cuenta R2",
+        "cloudflareR2": "Cloudflare R2",
+        "r2Config": "Configuración de Cloudflare R2",
+        "cloudflareR2Desc": "Almacenamiento compatible con S3 sin tarifas de salida",
+        "awsS3": "AWS S3",
+        "s3Config": "Configuración de AWS S3",
+        "awsS3Desc": "Almacenamiento de objetos Amazon S3",
+        "endpoint": "URL de punto de enlace R2",
+        "endpointHelp": "Encuéntralo en Panel de Cloudflare → R2 → Tu bucket → Configuración",
+        "region": "Región de AWS",
+        "bucketName": "Nombre del bucket",
+        "accessKeyId": "ID de clave de acceso",
+        "secretAccessKey": "Clave de acceso secreta",
+        "publicUrl": "URL pública / CDN (opcional)",
+        "publicUrlHelp": "Dominio personalizado o URL de CDN para servir archivos subidos",
+        "testConnection": "Probar conexión",
+        "uploadSettings": "Configuración de subida",
+        "maxFileSize": "Tamaño máximo de archivo (MB)",
+        "pathPrefix": "Prefijo de ruta",
+        "allowedMimeTypes": "Tipos de archivo permitidos",
+        "save": "Guardar configuración de almacenamiento",
+        "connectionSuccess": "¡Conexión de almacenamiento exitosa!",
+        "connectionFailed": "Error al conectar con el almacenamiento",
+        "switchDialog": {
+          "title": "¿Cambiar proveedor de almacenamiento?",
+          "description": "Cambiar de proveedor de almacenamiento hará que las nuevas subidas vayan al nuevo proveedor. Los archivos existentes permanecen en el proveedor anterior y pueden requerir migración.",
+          "confirm": "Confirmar",
+          "cancel": "Cancelar"
+        },
+        "placeholder": {
+          "bucket": "my-bucket",
+          "region": "Seleccionar región",
+          "accessKeyId": "AKIA...",
+          "r2AccessKeyId": "ID de clave de acceso",
+          "secretKey": "Introducir clave secreta",
+          "r2SecretKey": "Tu clave de acceso secreta R2",
+          "r2AccountId": "1234567890abcdef",
+          "cdnUrl": "https://cdn.example.com",
+          "r2Url": "https://pub-xxxx.r2.dev",
+          "doAccessKey": "DO00..."
+        },
+        "help": {
+          "cloudfront": "CloudFront o dominio personalizado para servir archivos subidos",
+          "r2Domain": "Subdominio r2.dev o dominio personalizado para servir archivos subidos",
+          "r2FindOverview": "Encuéntralo en Panel de Cloudflare → R2 → Resumen"
+        }
+      },
+      "analytics": {
+        "title": "Integración de analítica",
+        "description": "Connect external analytics services",
+        "googleAnalyticsId": "Google Analytics ID",
+        "googleAnalyticsIdPlaceholder": "G-XXXXXXXXXX",
+        "googleTagManagerId": "Google Tag Manager ID",
+        "googleTagManagerIdPlaceholder": "GTM-XXXXXXX",
+        "facebookPixelId": "Facebook Pixel ID",
+        "facebookPixelIdPlaceholder": "123456789012345",
+        "tiktokPixelId": "TikTok Pixel ID",
+        "tiktokPixelIdPlaceholder": "C1234567890ABCDEF",
+        "plausibleTitle": "Plausible Analytics",
+        "plausibleDomain": "Site Domain",
+        "plausibleDomainPlaceholder": "yourdomain.com",
+        "plausibleDomainHelp": "Enter just the domain, e.g. yourdomain.com (no https://)",
+        "plausibleApiKey": "API Key",
+        "plausibleApiKeyPlaceholder": "Enter your Plausible API key",
+        "plausibleApiKeyHelp": "Found in Plausible → Settings → API Keys",
+        "plausibleSelfHosted": "Self-hosted instance",
+        "plausibleBaseUrl": "Custom Instance URL",
+        "plausibleBaseUrlPlaceholder": "https://plausible.yourdomain.com",
+        "save": "Save Analytics Settings"
+      },
+      "loadError": "No se pudieron cargar los ajustes",
+      "unsavedChanges": {
+        "title": "Cambios sin guardar",
+        "description": "¿Descartar tus cambios sin guardar y cambiar de sección?",
+        "confirm": "Descartar",
+        "cancel": "Quedarse"
+      },
+      "search": "Buscar ajustes",
+      "close": "Close settings",
+      "openMenu": "Open settings menu",
+      "closeMenu": "Close settings menu",
+      "attention": "Acción requerida",
+      "disabled": "Deshabilitado",
+      "unsaved": "Sin guardar",
+      "locations": {
+        "title": "Ubicaciones de inventario"
+      },
+      "shipping": {
+        "title": "Envío y entrega"
+      },
+      "ai": {
+        "title": "Configuración de IA",
+        "description": "Un solo lugar para configurar el contenido, el SEO y la generación de imágenes del Estudio de IA.",
+        "statusConfigured": "Configurado",
+        "statusNotConfigured": "No configurado",
+        "enabled": "Activar funciones de IA",
+        "enabledHint": "Activa o desactiva el Estudio de IA y todos los botones de IA en el panel.",
+        "apiKey": "Clave de API de OpenAI",
+        "apiKeySetPlaceholder": "••••••••  (guardada; introduce una nueva clave para reemplazarla)",
+        "apiKeyHint": "Utilizada por el Estudio de IA y el Agente de Ventas IA. Déjala vacía para seguir usando la variable de entorno OPENAI_API_KEY.",
+        "testConnection": "Probar conexión",
+        "testFailed": "Error al probar la conexión",
+        "textModel": "Modelo de texto",
+        "imageModel": "Modelo de imagen",
+        "modelDefault": "Predeterminado (recomendado)",
+        "imageSize": "Tamaño de imagen predeterminado",
+        "imageQuality": "Calidad de imagen predeterminada",
+        "imageQualityHint": "Una calidad más alta cuesta más por imagen.",
+        "surfacesTitle": "Dónde está disponible la IA",
+        "surfacesHint": "Desactiva la generación con IA para áreas específicas del panel.",
+        "surfaces": {
+          "products": "Productos",
+          "categories": "Categorías",
+          "collections": "Colecciones",
+          "brands": "Marcas",
+          "blogPosts": "Entradas de blog",
+          "contentPages": "Páginas de contenido",
+          "reviews": "Reseñas y respuestas",
+          "heroBanner": "Banners principales"
+        },
+        "brandVoiceTitle": "Voz de marca",
+        "brandVoiceHint": "Se aplica a toda generación de texto con IA salvo que una solicitud la anule.",
+        "tone": "Tono predeterminado",
+        "toneNone": "Sin tono predeterminado",
+        "brandInstructions": "Guía de estilo (opcional)",
+        "brandInstructionsPlaceholder": "p. ej. \"Escribe para entusiastas del aire libre. Frases cortas. Evita los superlativos.\"",
+        "accessTitle": "Acceso y límites diarios",
+        "accessHint": "Los límites son por usuario y por día. 0 significa ilimitado.",
+        "staffEnabled": "Permitir cuentas de personal",
+        "vendorsEnabled": "Permitir cuentas de proveedores",
+        "textLimit": "Generaciones de texto / usuario / día",
+        "imageLimit": "Generaciones de imagen / usuario / día",
+        "imageLimitHint": "Las imágenes son las que más cuestan; establece un límite para tiendas compartidas.",
+        "imageStyle": "Guía de estilo de imagen (opcional)",
+        "imageStylePlaceholder": "p. ej. \"Luz natural suave, paleta neutra cálida, accesorios mínimos.\"",
+        "imageStyleHint": "Se aplica a las imágenes generadas (no a las ediciones) para que las imágenes de producto se mantengan alineadas con la marca.",
+        "brandKitTitle": "Kit de marca",
+        "brandKitHint": "Colores y logo usados al generar imágenes y exportar tamaños para redes sociales.",
+        "primaryColor": "Color principal de la marca",
+        "secondaryColor": "Color secundario de la marca",
+        "logoUrl": "URL del logo de la marca",
+        "logoUrlHint": "Sube tu logo a la tienda y pega aquí su URL. Se usa como elemento de marca opcional en las exportaciones para redes sociales."
+      },
+      "saveChanges": "Guardar cambios"
+    },
+    "reports": "Informes",
+    "pendingApprovals": "Aprobaciones pendientes",
+    "approveVendor": "Aprobar vendedor",
+    "rejectVendor": "Rechazar vendedor",
+    "pos": "Point of Sale",
+    "posStaff": "Staff",
+    "posLocations": "Locations",
+    "productsPage": {
+      "stats": {
+        "totalProducts": {
+          "title": "total Productos",
+          "description": "Todos catalog productos"
+        },
+        "activeListings": {
+          "title": "Activo Listings",
+          "description": "En vivo on tienda"
+        },
+        "draftProducts": {
+          "title": "Borrador Productos",
+          "description": "Pendiente publish"
+        },
+        "outOfStock": {
+          "title": "Agotado",
+          "description": "Necesita replenishment"
+        },
+        "inventoryUnits": {
+          "title": "Inventario Units",
+          "description": "total sellable stock"
+        }
+      }
+    },
+    "collectionsPage": {
+      "stats": {
+        "totalCollections": {
+          "title": "total Colecciones",
+          "description": "Todos coleccion groups"
+        },
+        "activeCollections": {
+          "title": "Activo Colecciones",
+          "description": "Visible a customers"
+        },
+        "manualCollections": {
+          "title": "Manual Colecciones",
+          "description": "Curadas por admin"
+        },
+        "onlineStore": {
+          "title": "Tienda en linea",
+          "description": "Publicado a en linea channel"
+        },
+        "productsInCollections": {
+          "title": "Productos en Colecciones",
+          "description": "total assigned producto entries"
+        }
+      }
+    },
+    "categoriesPage": {
+      "stats": {
+        "totalCategories": {
+          "title": "total Categorias",
+          "description": "Todos categoria records"
+        },
+        "activeCategories": {
+          "title": "Activo Categorias",
+          "description": "Visible en tienda"
+        },
+        "inactiveCategories": {
+          "title": "Inactivo Categorias",
+          "description": "Oculto from customers"
+        },
+        "parentCategories": {
+          "title": "Padre Categorias",
+          "description": "Nivel superior-level taxonomy"
+        },
+        "assignedProducts": {
+          "title": "Asignados Productos",
+          "description": "Productos mapped a categorias"
+        }
+      }
+    },
+    "inventoryPage": {
+      "stats": {
+        "trackedSkus": {
+          "title": "Rastreados SKUs",
+          "description": "Productos y variants tracked"
+        },
+        "lowStockSkus": {
+          "title": "Bajo Stock SKUs",
+          "description": "Stock entre 1 y 10"
+        },
+        "outOfStock": {
+          "title": "Agotado",
+          "description": "Requiere replenishment"
+        },
+        "onHandUnits": {
+          "title": "On Hand Units",
+          "description": "total physical inventory"
+        },
+        "activeLocations": {
+          "title": "Activo ubicaciones",
+          "description": "Inventario ubicaciones enabled"
+        }
+      }
+    },
+    "productsDataTable": {
+      "title": "Productos",
+      "searchPlaceholder": "Buscar productos",
+      "rowActionsHeader": "Acciones",
+      "empty": "No se encontraron productos",
+      "columns": {
+        "product": "Producto",
+        "category": "Categoría",
+        "uncategorized": "Sin categoria",
+        "status": "Estado",
+        "inventory": "Inventario",
+        "price": "Precio",
+        "availableIn": "Disponible En"
+      },
+      "channels": {
+        "inStore": "En tienda",
+        "online": "En línea"
+      },
+      "tabs": {
+        "all": "Todos",
+        "active": "Activo",
+        "draft": "Borrador",
+        "archived": "Archivado"
+      },
+      "filters": {
+        "vendors": "Vendedores",
+        "tag": "Etiqueta",
+        "statuses": "Estados",
+        "all": "Todos",
+        "active": "Activo",
+        "draft": "Borrador",
+        "archived": "Archivado"
+      },
+      "actions": {
+        "addProduct": "Agregar producto",
+        "export": "Exportar",
+        "import": "Importar",
+        "importExport": "Importar / Exportar"
+      },
+      "bulkActions": {
+        "setActive": "Establecer active",
+        "setDraft": "Establecer borrador",
+        "setArchived": "Establecer archivado",
+        "delete": "Eliminar"
+      },
+      "rowActions": {
+        "view": "Ver",
+        "edit": "Editar",
+        "delete": "Eliminar"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Eliminar Producto",
+          "description": "Seguro que deseas eliminar \"{name}\"? Esta accion no se puede deshacer.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "deleteBulk": {
+          "title": "Eliminar Productos",
+          "description": "Seguro que deseas eliminar {count} productos? Esta accion no se puede deshacer.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "updateStatus": {
+          "title": "Actualizar Producto Estado",
+          "description": "Establecer {count} productos a \"{status}\"?",
+          "confirm": "Actualizar",
+          "cancel": "Cancelar"
+        }
+      },
+      "toasts": {
+        "fetchError": "Error a cargar productos",
+        "deleteSingleSuccess": "Producto eliminados correctamente",
+        "deleteSingleError": "Error a eliminar producto",
+        "deleteBulkSuccess": "{count} productos eliminados correctamente",
+        "deleteBulkError": "Error a eliminar algunos productos",
+        "updateSuccess": "{count} productos actualizada",
+        "updateError": "Error a actualizar {count} productos"
+      }
+    },
+    "collectionsDataTable": {
+      "title": "Colecciones",
+      "searchPlaceholder": "Buscar colecciones...",
+      "rowActionsHeader": "Acciones",
+      "empty": "No colecciones encontrado",
+      "columns": {
+        "collection": "Coleccion",
+        "type": "Tipo",
+        "products": "Productos",
+        "status": "Estado",
+        "availableIn": "Disponible en"
+      },
+      "types": {
+        "manual": "Manual",
+        "automated": "Automatizada"
+      },
+      "channels": {
+        "inStore": "En tienda",
+        "online": "En línea"
+      },
+      "tabs": {
+        "all": "Todos",
+        "active": "Activo",
+        "draft": "Borrador"
+      },
+      "filters": {
+        "type": "Tipo",
+        "all": "Todos",
+        "manual": "Manual",
+        "automated": "Automatizada"
+      },
+      "actions": {
+        "export": "Exportar",
+        "import": "Importar",
+        "addCollection": "Agregar coleccion"
+      },
+      "bulkActions": {
+        "setActive": "Establecer active",
+        "setDraft": "Establecer borrador",
+        "delete": "Eliminar"
+      },
+      "rowActions": {
+        "edit": "Editar",
+        "delete": "Eliminar"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Eliminar Coleccion",
+          "description": "Seguro que deseas eliminar \"{name}\"? Esto no eliminara los productos de esta coleccion.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "deleteBulk": {
+          "title": "Eliminar Colecciones",
+          "description": "Seguro que deseas eliminar {count} colecciones? Esta accion no se puede deshacer.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "updateStatus": {
+          "title": "Actualizar Coleccion Estado",
+          "description": "Establecer {count} colecciones a \"{status}\"?",
+          "confirm": "Actualizar",
+          "cancel": "Cancelar"
+        }
+      },
+      "toasts": {
+        "fetchError": "Error a cargar colecciones",
+        "deleteSingleSuccess": "Coleccion eliminados correctamente",
+        "deleteSingleError": "Error a eliminar coleccion",
+        "deleteBulkSuccess": "{count} colecciones eliminados correctamente",
+        "deleteBulkError": "Error a eliminar algunos colecciones",
+        "updateSuccess": "{count} colecciones actualizada",
+        "updateError": "Error a actualizar {count} colecciones"
+      }
+    },
+    "categoriesDataTable": {
+      "title": "Categorías",
+      "searchPlaceholder": "Buscar categorias...",
+      "rowActionsHeader": "Acciones",
+      "empty": "No categorias encontrado",
+      "columns": {
+        "category": "Categoría",
+        "parent": "Padre",
+        "none": "-",
+        "products": "Productos",
+        "status": "Estado"
+      },
+      "tabs": {
+        "all": "Todos",
+        "active": "Activo",
+        "inactive": "Inactivo"
+      },
+      "status": {
+        "active": "active",
+        "inactive": "inactive"
+      },
+      "actions": {
+        "export": "Exportar",
+        "import": "Importar",
+        "addCategory": "Agregar categoria"
+      },
+      "bulkActions": {
+        "setActive": "Establecer active",
+        "setInactive": "Establecer inactive",
+        "delete": "Eliminar"
+      },
+      "rowActions": {
+        "edit": "Editar",
+        "delete": "Eliminar"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Eliminar Categoria",
+          "description": "Seguro que deseas eliminar \"{name}\"? Los productos de esta categoria deberan recategorizarse.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "deleteBulk": {
+          "title": "Eliminar Categorias",
+          "description": "Seguro que deseas eliminar {count} categorias? Esta accion no se puede deshacer.",
+          "confirm": "Eliminar",
+          "cancel": "Cancelar"
+        },
+        "activate": {
+          "title": "Activar Categorias",
+          "confirm": "Activar"
+        },
+        "deactivate": {
+          "title": "Desactivar Categorias",
+          "confirm": "Desactivar"
+        },
+        "updateStatus": {
+          "description": "Actualizar {count} categorias a {status}?",
+          "cancel": "Cancelar"
+        }
+      },
+      "toasts": {
+        "fetchError": "Error a cargar categorias",
+        "deleteSingleSuccess": "Categoria eliminados correctamente",
+        "deleteSingleError": "Error a eliminar categoria",
+        "deleteBulkSuccess": "{count} categorias eliminados correctamente",
+        "deleteBulkError": "Error a eliminar algunos categorias",
+        "updateSuccess": "{count} categorias actualizada",
+        "updateError": "Error a actualizar {count} categorias"
+      }
+    },
+    "transfers": {
+      "status": {
+        "draft": "Borrador",
+        "ready_to_ship": "Listo a ship",
+        "in_transit": "En tránsito",
+        "completed": "Completado",
+        "cancelled": "Cancelado"
+      },
+      "tabs": {
+        "all": "Todos"
+      },
+      "list": {
+        "title": "Transferencias",
+        "subtitle": "Mueve inventario entre ubicaciones con un flujo de transferencia estilo Shopify.",
+        "createTransfer": "Crear transferencia",
+        "searchPlaceholder": "Buscar por transferencia numero, ubicacion, or referencia",
+        "loading": "Cargando transferencias...",
+        "empty": "No transferencias encontrado",
+        "itemsSummary": "{units} unidades a traves de {lines} lineas",
+        "columns": {
+          "transfer": "Transferencia",
+          "from": "Desde",
+          "to": "A",
+          "items": "Items",
+          "status": "Estado",
+          "updated": "Actualizado"
+        }
+      },
+      "create": {
+        "title": "Crear transferencia",
+        "fromLocation": "Desde ubicacion",
+        "toLocation": "A ubicacion",
+        "addLocation": "Agregar ubicacion",
+        "selectSourceLocation": "Seleccionar origen ubicacion",
+        "selectDestinationLocation": "Seleccionar destino ubicacion",
+        "reference": "Referencia",
+        "referencePlaceholder": "PO, batch, or internal note",
+        "internalNote": "Interna note",
+        "internalNotePlaceholder": "Opcional notes for your team",
+        "searchPlaceholder": "Buscar productos or SKU",
+        "selectSourceToLoad": "Seleccionar a origen ubicacion a cargar inventory",
+        "loadingInventory": "Cargando inventory...",
+        "noVariants": "No available variants encontrado en this ubicacion",
+        "selectionSummary": "{lines} lineas seleccionadas, {units} total unidades.",
+        "cancel": "Cancelar",
+        "createTransfer": "Crear transferencia",
+        "columns": {
+          "product": "Producto",
+          "variant": "Variante",
+          "sku": "SKU",
+          "available": "Disponible",
+          "transferQty": "Transferencia Cant."
+        },
+        "dialog": {
+          "addLocationTitle": "Agregar ubicacion",
+          "addLocationDescription": "Crea una nueva ubicacion y usala como ubicacion {target}.",
+          "locationName": "Ubicacion nombre",
+          "locationNamePlaceholder": "Dhaka Warehouse",
+          "addressOptional": "Direccion (optional)",
+          "addressPlaceholder": "Street, area, city",
+          "saveLocation": "Guardar ubicacion"
+        },
+        "toasts": {
+          "loadLocationsError": "Error al cargar ubicaciones",
+          "selectBothLocations": "Selecciona origen y destino",
+          "locationsMustDiffer": "El origen y el destino deben ser diferentes",
+          "selectItems": "Agregar a menos uno item a transferencia",
+          "createSuccess": "Transferencia creada",
+          "createError": "Error a crear transferencia",
+          "locationNameRequired": "El nombre de la ubicación es obligatorio",
+          "createLocationSuccess": "Ubicacion agregada",
+          "createLocationError": "Error a crear ubicacion"
+        }
+      },
+      "details": {
+        "loading": "Cargando transferencia...",
+        "backToTransfers": "Volver a transferencias",
+        "routeSummary": "{from} a {to}",
+        "reference": "Referencia",
+        "note": "Nota",
+        "defaultVariant": "Predeterminado",
+        "meta": {
+          "created": "Creado",
+          "updated": "Ultima actualizada",
+          "totalUnits": "total unidades"
+        },
+        "columns": {
+          "product": "Producto",
+          "variant": "Variante",
+          "sku": "SKU",
+          "qty": "Cant."
+        },
+        "actions": {
+          "markReadyToShip": "Marcar ready a ship",
+          "markInTransit": "Marcar en transit",
+          "markCompleted": "Marcar completed",
+          "cancelTransfer": "Cancelar transferencia"
+        },
+        "toasts": {
+          "loadError": "Error a cargar transferencia",
+          "updateSuccess": "Transferencia actualizada",
+          "updateError": "Error a actualizar transferencia"
+        }
+      }
+    },
+    "phrases": {
+      "all": "All",
+      "failed_to_fetch_customers": "Failed to fetch customers",
+      "delete_customer": "Delete customer",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "customer_deleted_successfully": "Customer deleted successfully",
+      "failed_to_delete_customer": "Failed to delete customer",
+      "delete_customers": "Delete Customers",
+      "failed_to_delete_some_customers": "Failed to delete some customers",
+      "update_account_status": "Update account status",
+      "update": "Update",
+      "customer": "Customer",
+      "unknown": "Unknown",
+      "account": "Account",
+      "active": "Active",
+      "inactive": "Inactive",
+      "banned": "Banned",
+      "loyalty_tier": "Loyalty tier",
+      "bronze": "Bronze",
+      "silver": "Silver",
+      "gold": "Gold",
+      "platinum": "Platinum",
+      "orders": "Orders",
+      "spent": "Spent",
+      "last_active": "Last active",
+      "tags": "Tags",
+      "": "-",
+      "tier": "Tier",
+      "tag": "Tag",
+      "export": "Export",
+      "add_customer": "Add customer",
+      "set_active": "Set active",
+      "set_inactive": "Set inactive",
+      "set_banned": "Set banned",
+      "view_details": "View details",
+      "edit": "Edit",
+      "customers": "Customers",
+      "search_by_name_or_email": "Search by name or email",
+      "actions": "Actions",
+      "no_customers_found": "No customers found",
+      "failed_to_fetch_staff": "Failed to fetch staff",
+      "failed_to_fetch_staff_members": "Failed to fetch staff members",
+      "remove_staff_member": "Remove staff member",
+      "remove": "Remove",
+      "staff_member_removed_successfully": "Staff member removed successfully",
+      "failed_to_remove_staff_member": "Failed to remove staff member",
+      "remove_staff_members": "Remove staff members",
+      "remove_all": "Remove all",
+      "failed_to_remove_some_staff_members": "Failed to remove some staff members",
+      "staff_member": "Staff Member",
+      "staff_status": "Staff Status",
+      "department": "Department",
+      "permissions": "Permissions",
+      "none": "None",
+      "joined": "Joined",
+      "add_staff": "Add staff",
+      "ban": "Ban",
+      "remove_from_staff": "Remove from staff",
+      "staff_members": "Staff Members",
+      "no_staff_members_found": "No staff members found",
+      "failed_to_fetch_vendors": "Failed to fetch vendors",
+      "failed_to_update_vendor": "Failed to update vendor",
+      "vendor_status_updated": "Vendor status updated",
+      "failed_to_update_vendor_status": "Failed to update vendor status",
+      "failed_to_update_account": "Failed to update account",
+      "vendor_account_status_updated": "Vendor account status updated",
+      "failed_to_update_account_status": "Failed to update account status",
+      "failed_to_delete_vendor": "Failed to delete vendor",
+      "vendor_deleted": "Vendor deleted",
+      "store_owner": "Store & Owner",
+      "unknown_owner": "Unknown owner",
+      "vendor_status": "Vendor Status",
+      "approved": "Approved",
+      "pending": "Pending",
+      "suspended": "Suspended",
+      "rejected": "Rejected",
+      "commission": "Commission",
+      "sales": "Sales",
+      "add_vendor": "Add Vendor",
+      "details": "Details",
+      "edit_vendor": "Edit vendor",
+      "visit_store": "Visit store",
+      "approve_vendor": "Approve vendor",
+      "suspend_vendor": "Suspend vendor",
+      "ban_account": "Ban account",
+      "activate_account": "Activate account",
+      "delete_vendor": "Delete vendor",
+      "vendors": "Vendors",
+      "search_vendors": "Search vendors...",
+      "no_vendors_found": "No vendors found",
+      "failed_to_load_discounts": "Failed to load discounts",
+      "discount_code_is_required": "Discount code is required",
+      "discount_value_must_be_greater_than_0": "Discount value must be greater than 0",
+      "end_date_is_required": "End date is required",
+      "failed_to_save_discount": "Failed to save discount",
+      "discount_created": "Discount created",
+      "discount_updated": "Discount updated",
+      "delete_discount": "Delete Discount",
+      "failed_to_delete_discount": "Failed to delete discount",
+      "discount_deleted": "Discount deleted",
+      "delete_discounts": "Delete Discounts",
+      "update_discount_status": "Update Discount Status",
+      "discount": "Discount",
+      "no_label": "No label",
+      "free_shipping": "Envío gratuito",
+      "type": "Type",
+      "percentage": "Percentage",
+      "fixed": "Fixed",
+      "value": "Value",
+      "status": "Status",
+      "expired": "Expired",
+      "usage": "Usage",
+      "schedule": "Schedule",
+      "import": "Import",
+      "export_will_be_available_soon": "Export will be available soon",
+      "import_will_be_available_soon": "Import will be available soon",
+      "add_discount": "Add discount",
+      "discounts": "Discounts",
+      "search_code_label_or_description": "Search code, label, or description",
+      "no_discounts_found": "No discounts found",
+      "edit_discount": "Edit Discount",
+      "create_discount": "Create Discount",
+      "configure_discount_rules_similar_to_shopify_coupon_settings": "Configure discount rules similar to Shopify coupon settings.",
+      "code": "Code",
+      "summer10": "SUMMER10",
+      "label": "Label",
+      "flash_sale": "Flash Sale",
+      "fixed_amount": "Fixed amount",
+      "minimum_order_amount": "Minimum order amount",
+      "maximum_discount_cap": "Maximum discount cap",
+      "optional": "Optional",
+      "total_usage_limit": "Total usage limit",
+      "per_customer_usage_limit": "Per-customer usage limit",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "description": "Description",
+      "optional_internal_note_for_this_discount": "Optional internal note for this discount",
+      "code_will_be_normalized_to_uppercase": "Code will be normalized to uppercase.",
+      "tax_is_calculated_after_discount_during_checkout": "Tax is calculated after discount during checkout.",
+      "expired_codes_are_automatically_rejected_in_checkout_validation": "Expired codes are automatically rejected in checkout validation.",
+      "saving": "Saving...",
+      "update_discount": "Update Discount",
+      "pos": "POS",
+      "manage_pos": "Manage POS",
+      "pos_create": "POS Create",
+      "pos_edit": "POS Edit",
+      "pos_delete": "POS Delete",
+      "manage_orders": "Manage Orders",
+      "create_orders": "Create Orders",
+      "edit_orders": "Edit Orders",
+      "delete_orders": "Delete Orders",
+      "products": "Products",
+      "manage_products": "Manage Products",
+      "create_products": "Create Products",
+      "edit_products": "Edit Products",
+      "delete_products": "Delete Products",
+      "manage_customers": "Manage Customers",
+      "create_customers": "Create Customers",
+      "edit_customers": "Edit Customers",
+      "inventory": "Inventory",
+      "manage_inventory": "Manage Inventory",
+      "create_inventory": "Create Inventory",
+      "edit_inventory": "Edit Inventory",
+      "delete_inventory": "Delete Inventory",
+      "analytics": "Analytics"
+    },
+    "customersPage": {
+      "stats": {
+        "totalCustomers": {
+          "title": "Total Customers",
+          "description": "All customer profiles"
+        },
+        "activeAccounts": {
+          "title": "Active Accounts",
+          "description": "Able to place orders"
+        },
+        "vipCustomers": {
+          "title": "VIP Customers",
+          "description": "Gold and platinum tiers"
+        },
+        "customerSpend": {
+          "title": "Customer Spend",
+          "description": "Lifetime total spending"
+        },
+        "avgSpendPerCustomer": {
+          "title": "Avg Spend / Customer",
+          "description": "Average customer value"
+        }
+      }
+    },
+    "staffPage": {
+      "stats": {
+        "totalStaff": {
+          "title": "Total Staff",
+          "description": "All staff members"
+        },
+        "activeStaff": {
+          "title": "Active Staff",
+          "description": "Currently active"
+        },
+        "withPosAccess": {
+          "title": "With POS Access",
+          "description": "Can use POS terminal"
+        },
+        "inactiveStaff": {
+          "title": "Inactive Staff",
+          "description": "Deactivated accounts"
+        }
+      }
+    },
+    "vendorsPage": {
+      "stats": {
+        "totalVendors": {
+          "title": "Total Vendors",
+          "description": "All registered stores"
+        },
+        "approvedVendors": {
+          "title": "Approved Vendors",
+          "description": "Currently selling"
+        },
+        "pendingReview": {
+          "title": "Pending Review",
+          "description": "Awaiting approval"
+        },
+        "flaggedVendors": {
+          "title": "Flagged Vendors",
+          "description": "Suspended or rejected"
+        },
+        "vendorSales": {
+          "title": "Vendor Sales",
+          "description": "Lifetime gross vendor sales"
+        }
+      }
+    },
+    "discountsPage": {
+      "stats": {
+        "totalDiscounts": {
+          "title": "Total Discounts",
+          "description": "All configured discount codes"
+        },
+        "activeDiscounts": {
+          "title": "Active Discounts",
+          "description": "Available at checkout"
+        },
+        "totalRedemptions": {
+          "title": "Total Redemptions",
+          "description": "Times used in orders"
+        },
+        "expiringIn7Days": {
+          "title": "Expiring in 7 Days",
+          "description": "Codes ending soon"
+        }
+      }
+    },
+    "customersDataTable": {
+      "thisCustomer": "this customer",
+      "deleteSingleDescription": "Are you sure you want to delete {name}? This action cannot be undone.",
+      "deleteBulkDescription": "Delete {count} selected customers? This action cannot be undone.",
+      "deleteBulkSuccess": "{count} customers deleted successfully",
+      "updateStatusDescription": "Set {count} selected customers to \"{status}\"?",
+      "updateSuccess": "{count} customers updated",
+      "updateError": "Failed to update {count} customers"
+    },
+    "staffDataTable": {
+      "removeSingleDescription": "Are you sure you want to remove {name} from staff? They will be reverted to a customer account.",
+      "removeBulkDescription": "Remove {count} selected staff members? They will be reverted to customer accounts.",
+      "removeBulkSuccess": "{count} staff members removed",
+      "updateStatusDescription": "Set {count} staff members to \"{status}\"?",
+      "updateSuccess": "{count} staff members updated"
+    },
+    "discountsDataTable": {
+      "deleteBulkDescription": "Are you sure you want to delete {count} discounts? This action cannot be undone.",
+      "deleteBulkSuccess": "{count} discounts deleted",
+      "deleteBulkError": "Failed to delete {count} discounts",
+      "updateStatusDescription": "Set {count} discounts to \"{status}\"?",
+      "updateSuccess": "{count} discounts updated",
+      "updateError": "Failed to update {count} discounts"
+    },
+    "onlineStoreThemePage": {
+      "badge": "Tienda online",
+      "title": "Temas",
+      "description": "Selecciona un tema de escaparate basado en patrones estándar de ecommerce para mejorar claridad, velocidad y conversión.",
+      "currentTheme": "Tema actual",
+      "comingSoon": "Próximamente",
+      "active": "Activo",
+      "themes": {
+        "essential": {
+          "name": "Essential",
+          "description": "Escaparate equilibrado para catálogos minoristas generales y merchandising en múltiples categorías.",
+          "styleNote": "Jerarquía limpia, lectura rápida y diseños listos para promociones."
+        },
+        "electronics": {
+          "name": "Electrónica",
+          "description": "Narrativa de productos de alta especificación con tarjetas comparables y llamadas de rendimiento.",
+          "styleNote": "Optimizado para productos técnicos, accesorios y flujos PDP con muchas funciones."
+        },
+        "luxe": {
+          "name": "Luxe",
+          "description": "Tratamiento visual de estilo editorial para marcas premium de moda, belleza y estilo de vida.",
+          "styleNote": "Se centra en merchandising orientado a imagen y narrativas refinadas de colecciones."
+        }
+      }
+    },
+    "homePageBuilder": {
+      "loading": "Cargando el editor de la página de inicio...",
+      "title": "Editor de página",
+      "subtitle": "Arrastra para reordenar - alterna visibilidad - edita contenido",
+      "preview": "Vista previa",
+      "save": "Guardar",
+      "saving": "Guardando...",
+      "hidden": "Oculto",
+      "allChangesSaved": "Todos los cambios están guardados. La página de inicio está totalmente sincronizada con este editor.",
+      "sections": {
+        "hero": {
+          "title": "Hero",
+          "subtitle": "Slider principal, promos laterales y destacados"
+        },
+        "newArrivals": {
+          "title": "Novedades",
+          "subtitle": "Título de la sección de productos recientes"
+        },
+        "promoBanners": {
+          "title": "Banners promocionales",
+          "subtitle": "Dos tarjetas promocionales debajo de novedades"
+        },
+        "featuredProducts": {
+          "title": "Productos destacados",
+          "subtitle": "Título de la sección de descubrimiento de productos"
+        }
+      },
+      "row": {
+        "dragAria": "Arrastrar {title}",
+        "hideAria": "Ocultar {title}",
+        "showAria": "Mostrar {title}",
+        "editAria": "Editar {title}"
+      },
+      "editor": {
+        "heroSlides": "Slides del Hero",
+        "slide": "Slide",
+        "label": "Etiqueta",
+        "title": "Título",
+        "description": "Descripción",
+        "heroSideBanners": "Banners laterales del Hero",
+        "banner": "Banner",
+        "eyebrow": "Texto superior",
+        "titleLine1": "Línea de título 1",
+        "titleLine2": "Línea de título 2",
+        "ctaLabel": "Etiqueta CTA",
+        "imagePath": "Ruta de imagen",
+        "imageAlt": "Texto alternativo",
+        "heroHighlights": "Destacados del Hero",
+        "highlight": "Destacado",
+        "sectionTitle": "Título de sección",
+        "sectionSubtitle": "Subtítulo de sección",
+        "newArrivalsTitlePlaceholder": "Novedades.",
+        "optionalSubtitlePlaceholder": "Subtítulo opcional",
+        "promoBanner": "Banner promocional",
+        "buttonLabel": "Texto del botón",
+        "featuredProductsHeading": "Encabezado de productos destacados",
+        "featuredProductsPlaceholder": "Déjalo vacío para usar el texto predeterminado",
+        "heroUploadTitle": "Arrastra y suelta la imagen de portada aquí, o haz clic para explorar",
+        "heroUploadDescription": "Solo imágenes. Pega con Ctrl+V.",
+        "heroSizeGuide": "Tamaño recomendado: 1360 x 314 px",
+        "promotionsOffers": {
+          "slot": {
+            "tallLeft": "Izquierda alto",
+            "tallMiddle": "Centro alto",
+            "squareTopRight1": "Cuadrado arriba derecha",
+            "squareTopRight2": "Cuadrado arriba derecha (con flecha)",
+            "wideBottomRight": "Ancho abajo derecha"
+          },
+          "subtitle": "Subtítulo (ej: EcoVolt)",
+          "discount": "Etiqueta de descuento (ej: ¡15% OFF!)",
+          "showArrow": "Mostrar icono de flecha",
+          "theme": "Tema",
+          "card": "Tarjeta",
+          "savedToCard": "Guardado en la imagen de la tarjeta"
+        }
+      },
+      "toasts": {
+        "loadError": "No se pudieron cargar los datos del editor de inicio",
+        "saveSuccess": "Secciones de inicio guardadas correctamente",
+        "saveError": "No se pudieron guardar las secciones de inicio"
+      }
+    },
+    "staffDashboardPage": {
+      "title": "Panel del personal",
+      "subtitle": "Acceso rápido a los módulos asignados",
+      "openCta": "Abrir",
+      "noModulesTitle": "No hay módulos asignados",
+      "noModulesDescription": "Aún no tienes acceso a ningún módulo del personal. Contacta a un administrador para asignar permisos."
+    },
+    "staffDashboard": {
+      "quickAccess": "Acceso rápido",
+      "todaysSnapshot": "Resumen de hoy",
+      "todaysRegister": "Registro de hoy",
+      "recentPosSales": "Ventas POS recientes",
+      "recentPosSalesHint": "Sus transacciones recientes de punto de venta",
+      "noPosSales": "Sin ventas POS hoy",
+      "recentOrders": "Pedidos recientes",
+      "recentOrdersSubtitle": "Últimos pedidos de su tienda",
+      "ordersToday": "Pedidos hoy",
+      "revenueToday": "Ingresos hoy",
+      "itemsToday": "Artículos vendidos hoy",
+      "customersToday": "Nuevos clientes hoy",
+      "posSalesToday": "Ventas POS hoy",
+      "posRevenueToday": "Ingresos POS hoy",
+      "posItemsToday": "Artículos POS hoy",
+      "averageSale": "Venta promedio",
+      "items": "Artículos",
+      "time": "Hora",
+      "topProducts": "Productos más vendidos",
+      "last30Days": "Últimos 30 días",
+      "noTopProducts": "Aún no hay productos vendidos",
+      "unitsSold": "vendidos",
+      "lowStock": "Alertas de bajo stock",
+      "lowStockHint": "Productos con advertencias de inventario",
+      "noLowStock": "Todos los productos están bien abastecidos",
+      "outOfStock": "Agotado",
+      "left": "restantes",
+      "latestCustomers": "Últimos clientes",
+      "latestCustomersHint": "Clientes registrados recientemente",
+      "noLatestCustomers": "Aún no hay nuevos clientes"
+    },
+    "reviewsPage": {
+      "title": "Reseñas",
+      "searchPlaceholder": "Buscar reseñas",
+      "outOfReviews": "— de {count} reseñas",
+      "thisWeek": "esta semana",
+      "overallPerformance": "Rendimiento general",
+      "performance": {
+        "excellent": "Excelente",
+        "good": "Bueno",
+        "average": "Promedio",
+        "poor": "Bajo",
+        "none": "Sin datos"
+      },
+      "table": {
+        "product": "Producto",
+        "reviewer": "Reseñador",
+        "review": "Reseña",
+        "date": "Fecha",
+        "status": "Estado",
+        "actions": "Acciones"
+      },
+      "tabs": {
+        "all": "Todas",
+        "published": "Publicadas",
+        "onHold": "En espera",
+        "withReply": "Respondidas",
+        "noReply": "Pendientes de respuesta"
+      },
+      "filters": {
+        "status": "Estado",
+        "rating": "Calificación"
+      },
+      "status": {
+        "published": "Publicada",
+        "onHold": "En espera"
+      },
+      "verified": "Cliente verificado",
+      "unknownProduct": "Producto desconocido",
+      "youReplied": "Respondiste con",
+      "reply": "Responder",
+      "editReply": "Editar respuesta",
+      "replyToReview": "Responder a la reseña",
+      "replyHint": "Tu respuesta se muestra públicamente debajo de la reseña en la tienda.",
+      "yourReply": "Tu respuesta",
+      "aiReplyPlaceholder": "Redacta una respuesta a esta reseña…",
+      "replyPlaceholder": "Gracias por tus comentarios…",
+      "sendReply": "Enviar respuesta",
+      "removeReply": "Eliminar respuesta",
+      "viewOnStore": "Ver en la tienda",
+      "publish": "Publicar",
+      "unpublish": "Quitar publicación",
+      "putOnHold": "Poner en espera",
+      "empty": "Aún no hay reseñas",
+      "delete": {
+        "title": "Eliminar reseña",
+        "description": "Esto eliminará permanentemente la reseña y recalculará la calificación del producto."
+      },
+      "bulk": {
+        "publish": "Publicar",
+        "onHold": "Poner en espera",
+        "deleteTitle": "Eliminar reseñas",
+        "deleteDescription": "¿Eliminar {count} reseñas? Esta acción no se puede deshacer.",
+        "updated": "{count} reseñas actualizadas",
+        "deleted": "{count} reseñas eliminadas"
+      },
+      "toast": {
+        "published": "Reseña publicada",
+        "onHold": "Reseña puesta en espera",
+        "deleted": "Reseña eliminada",
+        "replySent": "Respuesta enviada",
+        "replyUpdated": "Respuesta actualizada",
+        "replyRemoved": "Respuesta eliminada"
+      },
+      "starsAriaLabel": "{value} estrellas",
+      "reviewImageAlt": "Imagen de reseña {index}"
+    },
+    "paymentsOverviewPage": {
+      "title": "Pagos",
+      "subtitle": "Supervisa transacciones y reembolsos.",
+      "subtitleMultiVendor": "Supervisa transacciones, reembolsos y el estado de pagos a vendedores.",
+      "actions": {
+        "transactions": "Transacciones",
+        "refresh": "Actualizar"
+      },
+      "metrics": {
+        "paidRevenue": "Ingresos cobrados",
+        "refundedAmount": "Monto reembolsado",
+        "pendingPayments": "Pagos pendientes",
+        "refundedOrders": "Pedidos reembolsados",
+        "pendingPayoutAmount": "Monto pendiente de pago",
+        "paidPayoutAmount": "Monto pagado"
+      },
+      "gatewayHealth": {
+        "title": "Estado de pasarelas",
+        "disabled": "deshabilitado",
+        "connected": "conectado",
+        "needsSetup": "requiere configuración"
+      },
+      "gateways": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cashOnDelivery": "Pago contra entrega"
+      },
+      "recentTransactions": {
+        "title": "Transacciones recientes",
+        "columns": {
+          "order": "Pedido",
+          "type": "Tipo",
+          "provider": "Proveedor",
+          "status": "Estado",
+          "amount": "Importe",
+          "date": "Fecha"
+        },
+        "empty": "Aún no hay transacciones."
+      },
+      "transactionTypes": {
+        "charge": "Cargo",
+        "refund": "Reembolso",
+        "adjustment": "Ajuste"
+      },
+      "transactionStatuses": {
+        "pending": "Pendiente",
+        "succeeded": "Completado",
+        "failed": "Fallido",
+        "cancelled": "Cancelado"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "razorpay": "Razorpay",
+        "paystack": "Paystack",
+        "cod": "Pago contra entrega",
+        "cash": "Efectivo",
+        "manual": "Manual",
+        "pos_card": "Tarjeta POS",
+        "pos_cash": "Efectivo POS"
+      }
+    },
+    "payoutsPage": {
+      "title": "Pagos a vendedores",
+      "subtitle": "Crea ciclos de liquidación de vendedores y sigue el ciclo de vida del pago.",
+      "createSection": {
+        "title": "Crear pago",
+        "selectVendor": "Seleccionar vendedor",
+        "periodStart": "Inicio del período",
+        "periodEnd": "Fin del período",
+        "creating": "Creando...",
+        "create": "Crear",
+        "optionalNote": "Nota opcional"
+      },
+      "listSection": {
+        "title": "Ciclos de pago",
+        "searchPlaceholder": "Buscar número de pago",
+        "allStatuses": "Todos los estados",
+        "columns": {
+          "payout": "Pago",
+          "vendor": "Vendedor",
+          "status": "Estado",
+          "amount": "Importe",
+          "period": "Período",
+          "details": "Detalles"
+        },
+        "open": "Abrir",
+        "empty": "No se encontraron pagos."
+      },
+      "statuses": {
+        "pending": "Pendiente",
+        "processing": "En proceso",
+        "paid": "Pagado",
+        "failed": "Fallido",
+        "cancelled": "Cancelado"
+      },
+      "pagination": {
+        "pageOf": "Página {page} de {totalPages}"
+      },
+      "toast": {
+        "requiredFields": "Vendedor, fecha de inicio y fecha de fin son obligatorios.",
+        "createSuccess": "Pago creado.",
+        "createError": "No se pudo crear el pago"
+      }
+    },
+    "paymentTransactionsPage": {
+      "title": "Transacciones de pago",
+      "subtitle": "Revisa todos los eventos de cargo, reembolso y ajuste.",
+      "filters": {
+        "title": "Filtros",
+        "searchPlaceholder": "Buscar por pedido o ID externa",
+        "allStatuses": "Todos los estados",
+        "allTypes": "Todos los tipos",
+        "allProviders": "Todos los proveedores"
+      },
+      "table": {
+        "columns": {
+          "order": "Pedido",
+          "type": "Tipo",
+          "status": "Estado",
+          "provider": "Proveedor",
+          "gross": "Bruto",
+          "net": "Neto",
+          "date": "Fecha",
+          "details": "Detalles"
+        },
+        "viewOrder": "Ver pedido",
+        "empty": "No se encontraron transacciones."
+      },
+      "pagination": {
+        "pageOf": "Página {page} de {totalPages}"
+      },
+      "transactionTypes": {
+        "charge": "Cargo",
+        "refund": "Reembolso",
+        "adjustment": "Ajuste"
+      },
+      "transactionStatuses": {
+        "succeeded": "Completado",
+        "pending": "Pendiente",
+        "failed": "Fallido",
+        "cancelled": "Cancelado"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cod": "Pago contra entrega",
+        "cash": "Efectivo",
+        "manual": "Manual"
+      }
+    },
+    "seoChecklist": {
+      "title": "Lista de verificación SEO",
+      "score": "Puntuación",
+      "messages": {
+        "titleMissing": "Añade un título de página; los motores de búsqueda no tienen nada que mostrar.",
+        "titleShort": "El título es corto; entre 30 y 70 caracteres posiciona mejor.",
+        "titleLong": "El título es demasiado largo y se cortará en los resultados.",
+        "titleGood": "La longitud del título es adecuada.",
+        "metaMissing": "Añade una meta descripción; los resultados mostrarán texto aleatorio de la página.",
+        "metaAuto": "La meta descripción se completa automáticamente a partir del contenido; escribe una para obtener más clics.",
+        "metaShort": "La meta descripción es corta; entre 70 y 160 caracteres funciona mejor.",
+        "metaLong": "La meta descripción es demasiado larga y se cortará.",
+        "metaGood": "La longitud de la meta descripción es adecuada.",
+        "handleMissing": "Añade un identificador de URL.",
+        "handleAuto": "El identificador se genera automáticamente a partir del título; revísalo.",
+        "handleMessy": "El identificador tiene caracteres o una longitud inusuales; mantenlo corto y con guiones.",
+        "handleGood": "El identificador de URL es correcto.",
+        "contentThin": "El contenido es escaso; un contenido más extenso y útil posiciona mejor.",
+        "contentGood": "La profundidad del contenido es adecuada.",
+        "tagsMissing": "Añade algunas etiquetas para mejorar el descubrimiento interno.",
+        "tagsGood": "Etiquetas presentes."
+      }
+    }
+  },
+  "footer": {
+    "aboutUs": "Acerca de",
+    "careers": "Carreras",
+    "press": "Prensa",
+    "blog": "Blog",
+    "helpCenter": "Centro de ayuda",
+    "contactUs": "Contacto",
+    "shippingInfo": "Información de envío",
+    "returns": "Devoluciones",
+    "termsOfService": "Términos de servicio",
+    "privacyPolicy": "Política de privacidad",
+    "cookiePolicy": "Política de cookies",
+    "accessibility": "Accesibilidad",
+    "newsletter": "Boletín",
+    "subscribeDescription": "Suscríbete a nuestro boletín para actualizaciones y ofertas exclusivas.",
+    "subscribe": "Suscribirse",
+    "emailPlaceholder": "Introduce tu email"
+  },
+  "errors": {
+    "pageNotFound": "Página no encontrada",
+    "pageNotFoundDescription": "La página que buscas no existe o se ha movido.",
+    "serverError": "Error del servidor",
+    "serverErrorDescription": "Algo salió mal de nuestro lado. Inténtalo de nuevo más tarde.",
+    "unauthorized": "No autorizado",
+    "unauthorizedDescription": "No tienes permiso para acceder a esta página.",
+    "networkError": "Error de red",
+    "networkErrorDescription": "Comprueba tu conexión a internet e inténtalo de nuevo."
+  },
+  "pos": {
+    "searchProducts": "Buscar productos...",
+    "allProducts": "Todos",
+    "noProducts": "No se encontraron productos",
+    "noProductsHint": "Prueba con otra búsqueda o categoría",
+    "variants": "variantes",
+    "selectVariant": "Seleccionar una variante",
+    "inStock": "en stock",
+    "outOfStock": "Agotado",
+    "currentSale": "Venta actual",
+    "clearCart": "Limpiar",
+    "emptyCart": "No hay artículos en el carrito",
+    "addCustomer": "Agregar cliente",
+    "searchCustomers": "Buscar por nombre, correo o teléfono...",
+    "addNote": "Agregar una nota a este pedido...",
+    "subtotal": "Subtotal",
+    "tax": "Impuesto",
+    "total": "Total",
+    "charge": "Cobrar",
+    "billAndPayment": "Bill & Payment",
+    "selectPaymentMethod": "Seleccionar método de pago",
+    "totalDue": "Total a pagar",
+    "cash": "Efectivo",
+    "cashPayment": "Aceptar pago en efectivo",
+    "card": "Tarjeta",
+    "cardPayment": "Tarjeta de crédito o débito",
+    "manual": "Manual",
+    "manualPayment": "Método de pago personalizado",
+    "cashTendered": "Efectivo recibido",
+    "change": "Cambio",
+    "orderComplete": "Pago exitoso",
+    "orderNumber": "Pedido",
+    "orderFailed": "Error al procesar el pedido",
+    "printReceipt": "Imprimir recibo",
+    "newSale": "Nueva venta",
+    "errorLoadingProducts": "Error al cargar los productos",
+    "customer": {
+      "addCustomer": "Agregar Cliente",
+      "addCustomerDesc": "Buscar clientes existentes o crear uno nuevo",
+      "walkIn": "Cliente sin cita",
+      "walkInDesc": "No se requieren datos del cliente",
+      "existingCustomer": "Cliente Existente",
+      "createNew": "Crear Nuevo",
+      "searchPlaceholder": "Buscar por nombre, teléfono o correo...",
+      "searchHint": "Escribe al menos 2 caracteres para buscar",
+      "noResults": "No se encontraron clientes",
+      "createInstead": "Crear un nuevo cliente en su lugar",
+      "customerName": "Nombre del Cliente",
+      "namePlaceholder": "Ingrese el nombre del cliente",
+      "emailAddress": "Correo Electrónico",
+      "emailPlaceholder": "cliente@ejemplo.com",
+      "phone": "Teléfono",
+      "phonePlaceholder": "Ingrese el número de teléfono",
+      "nameEmailRequired": "El nombre y correo son obligatorios",
+      "created": "Cliente creado exitosamente",
+      "createError": "Error al crear el cliente",
+      "save": "Guardar Cliente"
+    }
+  },
+  "locations": {
+    "title": "Ubicaciones",
+    "name": "Nombre",
+    "address": "Dirección",
+    "status": "Estado",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "all": "Todos",
+    "default": "Predeterminado",
+    "searchPlaceholder": "Buscar ubicaciones...",
+    "empty": "No se encontraron ubicaciones",
+    "addLocation": "Agregar Ubicación",
+    "editLocation": "Editar Ubicación",
+    "addDescription": "Agregar una nueva ubicación para su sistema POS",
+    "editDescription": "Actualizar los detalles de la ubicación",
+    "namePlaceholder": "ej. Tienda Principal",
+    "addressPlaceholder": "Ingrese la dirección de la ubicación",
+    "defaultLocation": "Ubicación Predeterminada",
+    "defaultHint": "Los nuevos pedidos POS usarán esta ubicación por defecto",
+    "activeLocation": "Activo",
+    "activeHint": "Las ubicaciones inactivas no aparecerán en el POS",
+    "nameRequired": "El nombre de la ubicación es obligatorio",
+    "created": "Ubicación creada exitosamente",
+    "updated": "Ubicación actualizada exitosamente",
+    "deleted": "Ubicación eliminada exitosamente",
+    "activated": "Ubicación activada",
+    "deactivated": "Ubicación desactivada",
+    "setAsDefault": "Ubicación predeterminada actualizada",
+    "setDefault": "Establecer como Predeterminada",
+    "deactivate": "Desactivar",
+    "activate": "Activar",
+    "cannotDeleteDefault": "No se puede eliminar la ubicación predeterminada",
+    "deleteTitle": "Eliminar Ubicación",
+    "deleteDescription": "¿Está seguro de que desea eliminar {name}? Esta acción no se puede deshacer.",
+    "fetchError": "Error al cargar ubicaciones",
+    "deleteError": "Error al eliminar ubicación",
+    "updateError": "Error al actualizar ubicación",
+    "saveError": "Error al guardar ubicación",
+    "actions": "Acciones"
+  },
+  "toast": {
+    "createdSuccess": "{resource} creado correctamente",
+    "updatedSuccess": "{resource} actualizado correctamente",
+    "deleted": "{resource} eliminado",
+    "saved": "Cambios guardados",
+    "savedResource": "{resource} guardado",
+    "undo": "Deshacer",
+    "operationComplete": "Operación completada",
+    "somethingWentWrong": "Algo salió mal"
+  },
+  "aiSalesAgentAdmin": {
+    "header": {
+      "title": "Agente de Ventas IA",
+      "subtitle": "Configura el agente de ventas de la tienda, supervisa las conversaciones y prueba respuestas en vivo.",
+      "refresh": "Actualizar",
+      "saveChanges": "Guardar cambios",
+      "saving": "Guardando"
+    },
+    "tabs": {
+      "overview": "Resumen",
+      "howItWorks": "Cómo funciona",
+      "configuration": "Configuración",
+      "behavior": "Comportamiento",
+      "widget": "Widget",
+      "conversations": "Conversaciones",
+      "testChat": "Chat de prueba"
+    },
+    "overview": {
+      "stats": {
+        "totalConversations": "Conversaciones totales",
+        "totalConversationsSub": "Todo el tiempo",
+        "activeConversations": "Conversaciones activas",
+        "activeConversationsSub": "Abiertas ahora",
+        "messagesExchanged": "Mensajes intercambiados",
+        "messagesExchangedSub": "En todas las sesiones",
+        "avgMessages": "Mensajes promedio / chat",
+        "avgMessagesSub": "Profundidad de interacción",
+        "aiActions": "Acciones de IA",
+        "aiActionsSub": "Herramientas, recomendaciones, añadidos al carrito",
+        "last7Days": "Últimos 7 días",
+        "last30Days": "{count} en los últimos 30 días"
+      },
+      "recentConversations": {
+        "title": "Conversaciones recientes",
+        "viewAll": "Ver todo",
+        "empty": "Aún no hay conversaciones. Cuando los compradores empiecen a chatear aparecerán aquí.",
+        "newConversation": "Nueva conversación",
+        "messagesCount": "{count, plural, =0 {Sin mensajes} =1 {1 mensaje} other {# mensajes}}",
+        "actionsCount": "{count, plural, =0 {Sin acciones} =1 {1 acción} other {# acciones}}"
+      },
+      "capabilities": {
+        "title": "Capacidades de un vistazo",
+        "on": "Activado",
+        "off": "Desactivado",
+        "multilingualTitle": "Respuestas multilingües",
+        "alwaysOn": "Siempre activo"
+      }
+    },
+    "howItWorks": {
+      "intro": {
+        "title": "Tu agente de ventas IA, de principio a fin",
+        "description": "El agente vive en un widget de chat en tu tienda. Entiende lo que preguntan los compradores, consulta tu catálogo y políticas reales, recomienda productos e incluso puede añadir artículos al carrito, todo con el modelo y las reglas que configures aquí. Sigue la lista de verificación para ponerlo en marcha.",
+        "openAIConfigured": "OpenAI configurado",
+        "openAIMissing": "Falta la clave de OpenAI",
+        "widgetLive": "Widget activo",
+        "widgetOff": "Widget desactivado"
+      },
+      "capabilities": {
+        "title": "Qué puede hacer el agente",
+        "description": "Cada capacidad que actives en Configuración desbloquea una de estas habilidades.",
+        "multilingualTitle": "Respuestas multilingües",
+        "multilingualDescription": "Detecta y responde en el idioma del comprador, sea cual sea el idioma de la tienda.",
+        "alwaysOn": "Siempre activo"
+      },
+      "checklist": {
+        "title": "Lista de configuración",
+        "doneRatio": "{completed}/{total} completado",
+        "description": "Sigue estos pasos para preparar al agente para los compradores. El estado se actualiza en vivo a medida que configuras cada sección.",
+        "steps": {
+          "apiKey": {
+            "title": "Añade tu clave de API de OpenAI",
+            "description": "Configura OPENAI_API_KEY en el entorno del servidor y reinicia la aplicación. El agente y su widget permanecerán desactivados hasta detectar una clave válida.",
+            "action": "Abrir configuración",
+            "hint": "Solo en el servidor — la clave nunca se expone a los compradores."
+          },
+          "model": {
+            "title": "Elige un modelo y entorno de ejecución",
+            "description": "Elige el modelo, el nivel de razonamiento, la temperatura y cuántos productos puede recomendar una respuesta.",
+            "action": "Ajustar el modelo",
+            "hint": "Modelo actual: {model}"
+          },
+          "capabilities": {
+            "title": "Activa las capacidades que quieras",
+            "description": "Habilita preguntas sobre productos, recomendaciones, acciones del carrito, traspaso al checkout y estado del pedido. Cada una desbloquea una herramienta que el agente puede usar.",
+            "action": "Configurar capacidades",
+            "hint": "{enabled} de 5 capacidades activadas"
+          },
+          "identity": {
+            "title": "Define identidad, tono y saludo",
+            "description": "Dale al agente un nombre y una voz, escribe el saludo inicial y añade instrucciones personalizadas para tu marca y políticas.",
+            "action": "Editar comportamiento",
+            "hintWithName": "Nombre del agente: {name}",
+            "hintNotSet": "Nombre del agente: sin definir"
+          },
+          "faq": {
+            "title": "Añade conocimiento de preguntas frecuentes",
+            "description": "Enseña al agente tus políticas reales (envíos, devoluciones, tallas, garantía) para que responda con datos en lugar de inventar.",
+            "action": "Añadir entradas de FAQ",
+            "hintWithCount": "{count, plural, =0 {Aún no hay entradas} =1 {1 entrada añadida} other {# entradas añadidas}}",
+            "hintEmpty": "Aún no hay entradas"
+          },
+          "widget": {
+            "title": "Estiliza el widget",
+            "description": "Adapta el lanzador y el panel de chat a tu marca: colores, posición, avatar y la etiqueta del lanzador que ven los compradores.",
+            "action": "Personalizar widget",
+            "hint": "Opcional, pero un widget con marca convierte mejor."
+          },
+          "enableWidget": {
+            "title": "Activa el widget de la tienda",
+            "description": "Activa el interruptor maestro para que el agente aparezca en tu tienda. Requiere la clave de OpenAI anterior.",
+            "action": "Activar widget",
+            "hintLive": "El widget está activo",
+            "hintHidden": "El widget está oculto"
+          },
+          "testChat": {
+            "title": "Prueba antes de lanzar",
+            "description": "Usa la pestaña Chat de prueba para chatear exactamente como un comprador y revisa conversaciones reales una vez esté activo.",
+            "action": "Abrir chat de prueba",
+            "hintWithCount": "{count, plural, =0 {Aún no hay conversaciones} =1 {1 conversación hasta ahora} other {# conversaciones hasta ahora}}",
+            "hintEmpty": "Aún no hay conversaciones"
+          }
+        }
+      },
+      "flow": {
+        "title": "Cómo fluye una conversación",
+        "description": "Lo que ocurre tras bambalinas cada vez que un comprador envía un mensaje.",
+        "steps": {
+          "open": {
+            "title": "El comprador abre el widget",
+            "body": "El lanzador aparece en tu tienda y le saluda con el mensaje de bienvenida que configuraste."
+          },
+          "ask": {
+            "title": "Pregunta con sus propias palabras",
+            "body": "“¿Tenéis una chaqueta impermeable por menos de 100 $?”, “¿Dónde está mi pedido?” o “¿Cuál es vuestra política de devoluciones?” — sin menús ni palabras clave."
+          },
+          "tools": {
+            "title": "El modelo decide qué herramientas usar",
+            "body": "Según las capacidades activadas, el agente puede buscar en tu catálogo, obtener detalles de productos, leer tu FAQ, revisar el carrito, consultar el estado del pedido o añadir artículos al carrito."
+          },
+          "data": {
+            "title": "Obtiene datos en vivo de tu tienda",
+            "body": "Los resultados provienen de tus productos reales visibles y las políticas que introdujiste, así que las respuestas son fiables en vez de inventadas. Los productos se muestran como tarjetas enriquecidas, no como texto plano."
+          },
+          "reply": {
+            "title": "Responde y puede tomar acciones",
+            "body": "El comprador recibe una respuesta concisa con tarjetas de productos, botones para añadir al carrito o traspaso al checkout cuando esté listo para comprar."
+          },
+          "logged": {
+            "title": "Todo queda registrado",
+            "body": "Cada conversación, mensaje y acción se guarda para que puedas revisarlos en la pestaña Conversaciones y seguir el rendimiento en Resumen."
+          }
+        }
+      },
+      "tips": {
+        "title": "Consejos para obtener los mejores resultados",
+        "items": {
+          "faq": {
+            "title": "Mantén tu FAQ al día",
+            "body": "El agente responde primero desde tu FAQ a preguntas de políticas. Cubre envíos, devoluciones, tallas y garantía para que nunca tenga que inventar."
+          },
+          "instructions": {
+            "title": "Escribe instrucciones personalizadas concisas",
+            "body": "Usa la pestaña Comportamiento para definir la voz de la marca y lo que debe o no hacer. Mantenlo breve: se añade a cada turno."
+          },
+          "model": {
+            "title": "Empieza con un modelo equilibrado",
+            "body": "Una temperatura baja mantiene las respuestas enfocadas. Sube el tamaño del modelo solo si necesitas razonamiento más profundo, ya que cuesta más por respuesta."
+          },
+          "recs": {
+            "title": "Ajusta el número de recomendaciones",
+            "body": "Muestra 3–4 productos por respuesta. Demasiados abruman al comprador, demasiado pocos limitan la elección."
+          },
+          "key": {
+            "title": "Protege tu clave de API",
+            "body": "La clave de OpenAI vive solo en el entorno del servidor. Nunca la pegues en la tienda ni la compartas públicamente."
+          },
+          "review": {
+            "title": "Revisa conversaciones reales",
+            "body": "Consulta la pestaña Conversaciones con regularidad para detectar preguntas que el agente no resolvió y añadirlas a la FAQ."
+          }
+        }
+      },
+      "cta": {
+        "prompt": "¿Listo para verlo en acción?",
+        "configure": "Configurar el agente",
+        "tryChat": "Probar el chat de prueba"
+      }
+    },
+    "configuration": {
+      "openAIConfigured": "OpenAI configurado",
+      "openAIMissing": "Falta OPENAI_API_KEY",
+      "widgetEnabled": "Widget activado",
+      "widgetDisabled": "Widget desactivado",
+      "modelRuntime": {
+        "title": "Modelo y entorno de ejecución",
+        "enableWidget": "Activar widget de la tienda",
+        "enableWidgetDescription": "El widget permanece oculto hasta que OpenAI esté configurado.",
+        "model": "Modelo",
+        "modelDescription": "Los modelos más grandes razonan con más profundidad pero cuestan más por solicitud.",
+        "reasoningEffort": "Nivel de razonamiento",
+        "reasoningEffortDescription": "Lo usan los modelos con capacidad de razonamiento; en otros casos se ignora.",
+        "temperature": "Temperatura",
+        "temperatureDescription": "Más baja = más enfocado, más alta = más creativo (0–1).",
+        "maxRecommendations": "Máx. recomendaciones",
+        "maxRecommendationsDescription": "Número máximo de productos por respuesta (1–8)."
+      },
+      "capabilities": {
+        "title": "Capacidades"
+      },
+      "capabilityMeta": {
+        "productQA": "Preguntas sobre productos",
+        "productQADescription": "Responde preguntas sobre productos y especificaciones.",
+        "recommendations": "Recomendaciones",
+        "recommendationsDescription": "Sugiere productos según las necesidades del comprador.",
+        "cartActions": "Acciones del carrito",
+        "cartActionsDescription": "Permite al agente añadir o eliminar artículos del carrito.",
+        "checkoutHandoff": "Traspaso al checkout",
+        "checkoutHandoffDescription": "Envía a los compradores al checkout cuando estén listos.",
+        "orderStatus": "Estado del pedido",
+        "orderStatusDescription": "Consulta y comparte información de seguimiento del pedido."
+      }
+    },
+    "behavior": {
+      "identity": {
+        "title": "Identidad y tono",
+        "agentName": "Nombre del agente",
+        "tone": "Tono",
+        "greeting": "Saludo",
+        "greetingDescription": "Se muestra como primer mensaje cuando un comprador abre el widget.",
+        "instructions": "Instrucciones personalizadas",
+        "instructionsPlaceholder": "Voz de la marca, recordatorios de política de devoluciones, estilo de recomendaciones...",
+        "instructionsDescription": "Se añade al prompt del sistema en cada turno. Mantenlo conciso.",
+        "escalation": "Mensaje de escalado",
+        "escalationDescription": "Se envía cuando el agente no puede ayudar y necesita traspasar a un humano."
+      },
+      "faq": {
+        "title": "Conocimiento y FAQ",
+        "addEntry": "Añadir entrada",
+        "description": "El agente busca aquí cuando los compradores preguntan sobre envíos, devoluciones, tallas, garantía u otras políticas. Hasta 50 entradas.",
+        "empty": "Aún no hay entradas. Añade preguntas comunes para que el agente pueda responder sobre políticas sin inventar.",
+        "questionPlaceholder": "Pregunta (p. ej., ¿Cuánto tarda el envío?)",
+        "answerPlaceholder": "Respuesta que el agente debe dar. Mantenla factual y breve.",
+        "tagsPlaceholder": "Etiquetas opcionales separadas por comas (envíos, devoluciones, tallas)",
+        "removeAria": "Eliminar entrada de FAQ"
+      }
+    },
+    "widget": {
+      "appearance": {
+        "title": "Apariencia",
+        "headerTitle": "Título de la cabecera",
+        "headerTitleDescription": "Se muestra en la cabecera del chat. Si está vacío, usa el nombre del agente.",
+        "position": "Posición",
+        "positionBottomRight": "Abajo a la derecha",
+        "positionBottomLeft": "Abajo a la izquierda",
+        "expandedSize": "Tamaño expandido",
+        "expandedSizeDescription": "Se aplica al widget flotante después de guardar.",
+        "width": "Ancho",
+        "height": "Alto",
+        "widthRange": "320–640 px",
+        "heightRange": "420–900 px",
+        "primaryColor": "Color principal",
+        "accentColor": "Color de acento",
+        "footerText": "Texto del pie",
+        "footerTextPlaceholder": "Con tecnología de IA",
+        "showFooterText": "Mostrar texto del pie",
+        "showFooterTextDescription": "Muestra la pequeña etiqueta en la parte inferior de la ventana de chat.",
+        "headerAvatar": "Avatar de la cabecera",
+        "headerAvatarAlt": "Avatar de {name}",
+        "avatarUploadTitle": "Arrastra y suelta una imagen o haz clic para examinar",
+        "avatarUploadDescription": "Formatos de imagen: JPG, PNG, JPEG, WEBP.",
+        "avatarSizeGuide": "Tamaño recomendado: 256 x 256 px",
+        "headerAvatarDescription": "Se muestra en la cabecera del chat. Si está vacío, usa el favicon de tu tienda."
+      },
+      "preview": {
+        "title": "Vista previa en vivo",
+        "typeMessage": "Escribe un mensaje..."
+      }
+    },
+    "conversations": {
+      "title": "Registros de chat",
+      "totalCount": "{count} conversaciones en total. Haz clic en una fila para ver la transcripción completa.",
+      "refresh": "Actualizar",
+      "searchPlaceholder": "Buscar mensajes o id de sesión...",
+      "locale": "Idioma",
+      "allLocales": "Todos los idiomas",
+      "status": "Estado",
+      "allStatuses": "Todos los estados",
+      "statusActive": "Activas",
+      "statusClosed": "Cerradas",
+      "empty": "Ninguna conversación coincide con tus filtros.",
+      "aiPrefix": "IA: {message}",
+      "newConversation": "Nueva conversación",
+      "messagesCount": "{count} mensajes",
+      "actionsCount": "{count} acciones",
+      "pageOf": "Página {page} de {total}",
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "testChat": {
+      "title": "Chat de prueba en vivo",
+      "reset": "Restablecer",
+      "description": "Prueba consultas como lo haría un comprador. Guarda los cambios antes de probar, ya que usa la configuración en vivo.",
+      "typeMessage": "Escribe un mensaje..."
+    },
+    "drawer": {
+      "title": "Conversación",
+      "loading": "Cargando conversación...",
+      "session": "Sesión {id}",
+      "status": "Estado",
+      "locale": "Idioma",
+      "customer": "Cliente",
+      "guest": "Invitado",
+      "started": "Iniciada",
+      "messagesTitle": "Mensajes ({count})",
+      "noMessages": "Sin mensajes.",
+      "emptyMessage": "[mensaje vacío]",
+      "actionsTitle": "Acciones ({count})",
+      "delete": "Eliminar conversación"
+    },
+    "toast": {
+      "loadFailed": "Error al cargar la configuración del Agente de Ventas IA",
+      "saveSuccess": "Agente de Ventas IA guardado",
+      "saveFailed": "Error al guardar",
+      "deleteTitle": "Eliminar conversación",
+      "deleteDescription": "Esto elimina permanentemente el registro de chat y sus acciones.",
+      "deleteConfirm": "Eliminar",
+      "deleteSuccess": "Conversación eliminada",
+      "deleteFailed": "Error al eliminar",
+      "loadConversationFailed": "Error al cargar la conversación",
+      "loadConversationsFailed": "Error al cargar las conversaciones",
+      "testChatFailed": "Error en el chat de prueba",
+      "testFailed": "Error en la prueba"
+    },
+    "time": {
+      "justNow": "ahora mismo",
+      "minutesAgo": "hace {count} min",
+      "hoursAgo": "hace {count} h",
+      "daysAgo": "hace {count} d"
+    }
+  },
+  "aiStudioHub": {
+    "title": "Estudio de IA",
+    "subtitle": "Crea contenido de producto, gráficos y SEO con IA, integrado en cada formulario de tu tienda.",
+    "statusConfigured": "La IA está configurada y lista",
+    "statusNotConfigured": "La IA aún no está configurada",
+    "statusNotConfiguredHint": "Añade tu clave de API de OpenAI en Configuración → IA (o define OPENAI_API_KEY en el entorno) para activar las funciones de IA.",
+    "showcaseTitle": "Míralo en acción",
+    "showcaseSubtitle": "Arrastra el control deslizante: una Mejora con un clic desde el Estudio de Imágenes IA.",
+    "showcaseBefore": "Antes",
+    "showcaseAfter": "Después",
+    "showcaseCaption": "Elimina fondos, mejora, aumenta la resolución, borra objetos, redimensiona y expande, o describe cualquier edición con tus propias palabras.",
+    "cardsTitle": "¿Qué quieres crear?",
+    "cardProductContentTitle": "Redactar contenido de producto",
+    "cardProductContentDescription": "Genera títulos, resúmenes y descripciones detalladas a partir de una breve indicación.",
+    "cardProductGraphicsTitle": "Diseñar gráficos de producto",
+    "cardProductGraphicsDescription": "Abre los archivos multimedia del producto en el Estudio de Imágenes IA para editar o generar imágenes.",
+    "cardSeoTitle": "Mejorar el SEO",
+    "cardSeoDescription": "Completa títulos de búsqueda, meta descripciones, identificadores y etiquetas con un clic.",
+    "cardBlogTitle": "Redactar una entrada de blog",
+    "cardBlogDescription": "Redacta una entrada completa con extracto, imagen destacada y SEO.",
+    "cardAssetsTitle": "Crear recursos de categorías y marcas",
+    "cardAssetsDescription": "Genera imágenes de categorías, iconos, logotipos de marca y portadas de colección.",
+    "cardHeroTitle": "Diseñar banners principales",
+    "cardHeroDescription": "Genera banners amplios para tu tienda, con el tamaño exacto para tu página de inicio.",
+    "everywhereTitle": "Integrado en cada formulario",
+    "everywhereSubtitle": "Busca el botón de IA en productos, categorías, colecciones, marcas, entradas de blog, reseñas y el creador de la página de inicio.",
+    "howTitle": "Cómo funciona",
+    "howStep1": "Abre cualquier formulario compatible",
+    "howStep2": "Haz clic en el botón de IA de un campo o archivo multimedia",
+    "howStep3": "Revisa el borrador y luego guarda",
+    "configureCta": "Configurar IA"
+  },
+  "aiStudio": {
+    "breadcrumbTitle": "Estudio de Imágenes IA",
+    "mediaTitle": "Multimedia",
+    "quickPromptTitle": "Indicación rápida",
+    "uploadImage": "Subir imagen",
+    "badgeAi": "IA",
+    "badgeEdited": "Editada",
+    "tabQuickPrompt": "Indicación rápida",
+    "tabEffects": "Efectos",
+    "categoryPlaceholder": "Categoría",
+    "removeBackground": "Eliminar fondo",
+    "enhance": "Mejorar",
+    "upscale": "Aumentar resolución",
+    "eraseObject": "Borrar objeto",
+    "resize": "Redimensionar",
+    "expand": "Expandir",
+    "fit": "Ajustar",
+    "compare": "Comparar",
+    "zoomIn": "Acercar",
+    "zoomOut": "Alejar",
+    "holdToViewOriginal": "Mantén pulsado para ver la original",
+    "previewAsCard": "Vista previa como tarjeta de la tienda",
+    "exitPreview": "Salir de la vista previa de la tienda",
+    "previewCardHint": "Modo de vista previa: mira exactamente cómo se ve esta imagen en la tarjeta de producto en vivo.",
+    "deleteImage": "Eliminar esta imagen",
+    "openMediaPanel": "Abrir panel multimedia",
+    "openQuickPrompts": "Abrir panel de indicaciones rápidas",
+    "cancel": "Cancelar",
+    "noImageTitle": "Ninguna imagen seleccionada",
+    "noImageBody": "Elige una imagen de Multimedia, sube una o describe una imagen en la indicación de abajo y deja que la IA la genere.",
+    "uploadImageAction": "Subir imagen",
+    "before": "Antes",
+    "after": "Después",
+    "original": "Original",
+    "busyHint": "Esto suele tardar entre 10 y 30 segundos",
+    "discardTitle": "¿Descartar los cambios?",
+    "discardBody": "Tus imágenes editadas aún no se han guardado. Si sales ahora, se perderán.",
+    "keepEditing": "Seguir editando",
+    "discard": "Descartar",
+    "restoredDraft": "Se restauraron tus cambios sin guardar",
+    "placeholderErase": "Describe qué quieres borrar, p. ej. la sombra de la izquierda. Todo lo demás permanece igual.",
+    "placeholderGenerate": "Describe la imagen que quieres y la IA la generará.",
+    "placeholderEdit": "Describe el resultado que quieres. Tu {subject} permanece igual.",
+    "applyEdit": "Aplicar edición",
+    "generateImage": "Generar imagen",
+    "autoGenerate": "Generación automática",
+    "toneLabel": "Tono",
+    "defaultTone": "Tono predeterminado",
+    "sizes": {
+      "square": "Cuadrado",
+      "portrait": "Vertical",
+      "landscape": "Horizontal"
+    },
+    "presets": {
+      "categories": {
+        "electronics": "Electrónica",
+        "fashion": "Moda y ropa",
+        "beauty": "Belleza y cuidado personal",
+        "home": "Hogar y cocina",
+        "food": "Comida y bebida",
+        "hero-layouts": "Banners principales"
+      },
+      "labels": {
+        "clean-white": "Blanco limpio",
+        "lifestyle-room": "Habitación lifestyle",
+        "desk-setup": "Configuración de escritorio",
+        "gradient-studio": "Estudio con degradado",
+        "neon-accent": "Acento neón",
+        "editorial-studio": "Estudio editorial",
+        "street-style": "Estilo urbano",
+        "marble-silk": "Mármol y seda",
+        "golden-hour": "Hora dorada",
+        "marble-counter": "Encimera de mármol",
+        "botanical-spa": "Spa botánico",
+        "silk-drape": "Drapeado de seda",
+        "water-splash": "Salpicadura de agua",
+        "cozy-living": "Sala de estar acogedora",
+        "wooden-table": "Mesa de madera",
+        "sunlit-shelf": "Estante iluminado por el sol",
+        "minimal-concrete": "Concreto minimalista",
+        "rustic-wood": "Madera rústica",
+        "cafe-scene": "Escena de cafetería",
+        "picnic-daylight": "Picnic a la luz del día",
+        "dark-slate": "Pizarra oscura",
+        "product-right": "Producto a la derecha",
+        "product-left": "Producto a la izquierda",
+        "centered-campaign": "Campaña centrada"
+      }
+    },
+    "export": {
+      "button": "Exportar",
+      "includeLogo": "Incluir logo de marca",
+      "fill": "Rellenar marco",
+      "fit": "Ajustar sobre color de marca",
+      "sizes": {
+        "og": "Enlace / imagen OG",
+        "square": "Publicación cuadrada",
+        "portrait": "Publicación vertical",
+        "story": "Historia / Reel",
+        "twitter": "Horizontal / X"
+      }
+    }
+  }
+}

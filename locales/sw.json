@@ -1,0 +1,4013 @@
+{
+  "metadata": {
+    "title": "Minimart - Online Marketplace",
+    "description": "Discover amazing products from verified vendors. Shop with confidence and enjoy seamless delivery.",
+    "keywords": "online shopping, marketplace, e-commerce, products, vendors"
+  },
+  "products": {
+    "color": "Rangi",
+    "size": "Ukubwa"
+  },
+  "common": {
+    "home": "Home",
+    "settings": "Settings",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "sitemap": "Sitemap",
+    "searchPlaceholder": "Search products...",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "close": "Close",
+    "back": "Back",
+    "goBack": "Go Back",
+    "backToHome": "Back to Home",
+    "backToDashboard": "Back to Dashboard",
+    "suggestedPages": "Suggested Pages",
+    "quickLinks": "Quick Links",
+    "popularPages": "Popular Pages",
+    "trySearching": "Try searching",
+    "searchForProducts": "Search for products",
+    "currentLocale": "Current locale",
+    "next": "Next",
+    "previous": "Previous",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "shopNow": "Shop Now",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "discount": "Discount",
+    "free": "Free",
+    "new": "New",
+    "sale": "Sale",
+    "featured": "Featured",
+    "popular": "Popular",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "noResults": "No results found",
+    "tryAgain": "Try again",
+    "allRightsReserved": "All rights reserved",
+    "dashboard": "Dashboard",
+    "actions": "Actions",
+    "view": "View",
+    "viewDetails": "View Details",
+    "item": "item",
+    "items": "items",
+    "qty": "Qty",
+    "method": "Method",
+    "status": "Status",
+    "allStatus": "All Status",
+    "browseProducts": "Browse Products",
+    "guest": "Guest",
+    "overview": "Overview",
+    "management": "Management",
+    "multiVendorMarketplace": "Multi-Vendor Marketplace",
+    "onlineStore": "Online Store",
+    "notifications": "Notifications",
+    "account": "Account",
+    "profile": "Profile",
+    "selectLanguage": "Select Language",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "done": "Done",
+    "copiedToClipboard": "Link copied to clipboard!",
+    "remove": "Remove",
+    "or": "or",
+    "saved": "Saved",
+    "apply": "Apply",
+    "sortBy": "Sort by",
+    "sortOptions": "Sort options",
+    "newest": "Newest",
+    "mostPopular": "Most Popular",
+    "bestRating": "Best Rating",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "filter": "Filter",
+    "filters": "Filters",
+    "clearAll": "Clear all",
+    "clearFilters": "Clear filters",
+    "colors": "Colors",
+    "sizes": "Sizes",
+    "minPrice": "Min price",
+    "maxPrice": "Max price",
+    "min": "Min",
+    "max": "Max",
+    "allItems": "All Items",
+    "showMore": "Show more",
+    "findFavoriteProducts": "Find your favorite products",
+    "allCategories": "All Categories",
+    "noCategories": "No categories",
+    "selectCategory": "Select a category",
+    "language": "Language",
+    "currency": "Currency",
+    "welcome": "Welcome",
+    "myOrders": "My Orders",
+    "signIn": "Sign in",
+    "aiSearch": "AI search",
+    "switchToLightMode": "Switch to light mode",
+    "switchToDarkMode": "Switch to dark mode",
+    "openCart": "Open cart",
+    "noProductsFound": "No products found",
+    "pressEnterToSearch": "Press Enter to view all results for",
+    "noImage": "No img"
+  },
+  "ui": {
+    "dataTable": {
+      "showing": "Showing",
+      "to": "to",
+      "of": "of",
+      "results": "results",
+      "rowsPerPage": "Rows per page",
+      "cancel": "Cancel",
+      "search": "Search",
+      "sort": "Sort",
+      "sortedAscending": "Sorted ascending",
+      "sortedDescending": "Sorted descending",
+      "viewOptions": "View options",
+      "focusSearch": "Focus search",
+      "filter": "Filter",
+      "filters": "Filters",
+      "clearAll": "Clear all",
+      "clearAllFilters": "Clear all filters",
+      "selectAll": "Select all",
+      "selectRow": "Select row {key}",
+      "noResults": "No results found"
+    }
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "emptyDescription": "Save items you like by clicking the heart icon",
+    "added": "Added to wishlist",
+    "removed": "Removed from wishlist",
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist"
+  },
+  "profile": {
+    "title": "My Profile",
+    "subtitle": "Manage your account settings",
+    "personalInfo": "Personal Information",
+    "infoDesc": "Update your name and contact details",
+    "personal": "Personal",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "selectGender": "Select gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "street": "Street address",
+    "zipCode": "Zip/code",
+    "city": "City",
+    "country": "Country",
+    "selectCountry": "Select country",
+    "saveChanges": "Save changes",
+    "changePassword": "Change password",
+    "oldPassword": "Old password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full Name",
+    "updatePassword": "Update Password"
+  },
+  "account": {
+    "welcome": "Welcome back, {name}!",
+    "overviewDesc": "Your account at a glance",
+    "totalOrders": "Total Orders",
+    "pendingOrders": "Pending Orders",
+    "wishlistItems": "Wishlist Items",
+    "recentOrders": "Recent Orders",
+    "noOrders": "You haven't placed any orders yet",
+    "startShopping": "Start Shopping",
+    "profile": "Profile",
+    "profileDesc": "Manage your personal information",
+    "orders": "My Orders",
+    "ordersDesc": "Track and manage your orders",
+    "wishlist": "Wishlist",
+    "wishlistDesc": "Items you've saved for later",
+    "addresses": "Addresses",
+    "addressesDesc": "Manage your delivery addresses",
+    "paymentMethodsDesc": "Manage your payment methods",
+    "changePhoto": "Change photo",
+    "security": "Security",
+    "securityDescription": "Manage your account security settings",
+    "twoFactorAuth": "Two-Factor Authentication",
+    "twoFactorDescription": "Add an extra layer of security to your account",
+    "twoFactorEnabledInfo": "Your account is protected with two-factor authentication. You'll need to enter a verification code from your authenticator app when signing in.",
+    "twoFactorDisabledInfo": "Protect your account by requiring a verification code from your authenticator app in addition to your password.",
+    "setup2FA": "Set Up Two-Factor Authentication",
+    "disable2FA": "Disable Two-Factor Authentication",
+    "step1": "Step 1: Scan QR Code",
+    "step2": "Step 2: Enter Verification Code",
+    "scanQRDescription": "Scan this QR code with your authenticator app (Google Authenticator, Authy, etc.)",
+    "cantScanQR": "Can't scan? Enter this code manually:",
+    "enterCodeDescription": "Enter the 6-digit code from your authenticator app to verify setup",
+    "backupCodes": "Backup Codes",
+    "backupCodesDescription": "Save these backup codes in a secure place. You can use these to sign in if you lose access to your authenticator app.",
+    "copyBackupCodes": "Copy All Codes",
+    "activeSessions": "Active Sessions",
+    "activeSessionsDescription": "Manage your active login sessions",
+    "currentSessionInfo": "You're currently signed in on this device. You can sign out of all other sessions if you notice any suspicious activity.",
+    "signOutAllSessions": "Sign Out of All Other Sessions",
+    "confirmDisable2FA": "Enter your 2FA code to confirm disabling",
+    "passwordRequired": "Password is required",
+    "setup2FAFailed": "Failed to setup 2FA",
+    "invalidVerificationCode": "Invalid verification code",
+    "twoFactorEnabledSuccess": "Two-factor authentication enabled successfully!",
+    "disable2FAFailed": "Failed to disable 2FA",
+    "twoFactorDisabledSuccess": "Two-factor authentication disabled.",
+    "revokeSessionsFailed": "Failed to revoke sessions",
+    "revokeSessionsSuccess": "All other sessions have been revoked",
+    "genericTryAgain": "An error occurred. Please try again.",
+    "qrCodeAlt": "2FA QR Code"
+  },
+  "customerProfile": {
+    "loyaltyPoints": "Points",
+    "loyaltyTier": "Loyalty Tier",
+    "bronze": "Bronze",
+    "silver": "Silver",
+    "gold": "Gold",
+    "platinum": "Platinum",
+    "preferences": "Preferences",
+    "preferencesDesc": "Manage your shopping preferences and notifications",
+    "preferencesSaved": "Preferences saved successfully",
+    "emailNotifications": "Email Notifications",
+    "orderUpdates": "Order Updates",
+    "orderUpdatesDesc": "Get notified about your order status changes",
+    "promotions": "Promotions & Deals",
+    "promotionsDesc": "Receive exclusive offers and promotional emails",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Weekly updates on new products and trends",
+    "priceDrops": "Price Drop Alerts",
+    "priceDropsDesc": "Get notified when items in your wishlist go on sale",
+    "backInStock": "Back in Stock Alerts",
+    "backInStockDesc": "Get notified when out-of-stock items become available",
+    "marketingPreferences": "Marketing Preferences",
+    "marketingOptIn": "Marketing Emails",
+    "marketingOptInDesc": "Receive marketing communications and special offers",
+    "totalSpent": "Total Spent",
+    "avgOrderValue": "Avg. Order Value",
+    "memberSince": "Member Since"
+  },
+  "addresses": {
+    "title": "My Addresses",
+    "subtitle": "Manage your delivery addresses",
+    "deliveryAddresses": "Delivery Addresses",
+    "deliveryDesc": "Add and manage addresses for faster checkout",
+    "savedAddresses": "Saved Addresses",
+    "savedAddressesDesc": "Your saved delivery addresses",
+    "addNew": "Add Address",
+    "addFirst": "Add Your First Address",
+    "noAddresses": "You haven't added any addresses yet",
+    "addAddress": "Add New Address",
+    "editAddress": "Edit Address",
+    "formDescription": "Enter the delivery address details",
+    "addressType": "Address type",
+    "default": "Default",
+    "setDefault": "Set as Default",
+    "defaultCheckbox": "This is my default address",
+    "deleteTitle": "Delete Address",
+    "deleteDescription": "Are you sure you want to delete this address? This action cannot be undone.",
+    "labelHome": "Home",
+    "labelWork": "Work",
+    "labelOther": "Other"
+  },
+  "payment": {
+    "title": "Payment Methods",
+    "subtitle": "Manage your saved payment methods",
+    "noMethods": "You haven't added any payment methods yet",
+    "addFirst": "Add Payment Method",
+    "addCard": "Add Card",
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder",
+    "expiryDate": "Expiry Date",
+    "expirationDate": "Expiration Date",
+    "cvv": "CVV/CVC",
+    "primary": "Primary",
+    "setDefault": "Set as Primary",
+    "saveCard": "Save Card",
+    "secureMessage": "Your transaction is secured with SSL encryption",
+    "deleteTitle": "Delete Payment Method",
+    "deleteDescription": "Are you sure you want to delete this payment method? This action cannot be undone."
+  },
+  "categories": {
+    "electronics": "Electronics",
+    "fashion": "Fashion",
+    "homeGarden": "Home & Garden",
+    "sports": "Sports"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "collections": "Collections",
+    "deals": "Deals",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "help": "Help",
+    "faq": "FAQ",
+    "allProducts": "All Products",
+    "wishlist": "Wishlist",
+    "blog": "Blog",
+    "getHelp": "Get Help"
+  },
+  "productsPage": {
+    "subtitle": "Explore our entire collection of products, from clothing to accessories.",
+    "empty": "No products found",
+    "filters": {
+      "minPrice": "Min price",
+      "maxPrice": "Max price",
+      "sortOptions": {
+        "mostPopular": "Most Popular",
+        "bestRating": "Best Rating",
+        "newest": "Newest",
+        "priceLowHigh": "Price Low - High",
+        "priceHighLow": "Price High - Low"
+      }
+    }
+  },
+  "storeCollectionsPage": {
+    "headerSubtitle": "Browse our curated collections",
+    "emptyCollectionsTitle": "No collections yet",
+    "emptyCollectionsDescription": "Check back soon for curated product collections.",
+    "productCount": "{count, plural, one {# product} other {# products}}"
+  },
+  "storeCategoryDetailPage": {
+    "productsCount": "{count, plural, one {# product} other {# products}}",
+    "empty": "No products found in this category."
+  },
+  "storeCollectionDetailPage": {
+    "productsCount": "{count, plural, one {# product} other {# products}}",
+    "sortByLabel": "Sort by:",
+    "sortPlaceholder": "Sort by",
+    "sortOptions": {
+      "featured": "Featured",
+      "bestSelling": "Best Selling",
+      "aToZ": "A-Z",
+      "zToA": "Z-A",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "newest": "Newest"
+    },
+    "emptyProductsTitle": "No products found",
+    "emptyProductsDescription": "This collection is empty. Check back soon!",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "pageOf": "Page {current} of {total}"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "users": "Users",
+    "settings": "Settings",
+    "allProducts": "All Products",
+    "featured": "Featured",
+    "onSale": "On Sale"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create an account",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "email": "Email",
+    "emailAddress": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset Password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "orContinueWith": "Or continue with",
+    "termsAgreement": "By creating an account, you agree to our",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and",
+    "shopAsCustomer": "Shop as a Customer",
+    "sellAsVendor": "Sell as a Vendor",
+    "iWantTo": "I want to",
+    "wantToSell": "Want to sell on our marketplace?",
+    "becomeVendor": "Become a Vendor",
+    "verify": "Verify",
+    "twoFactorTitle": "Two-Factor Authentication",
+    "enterCode": "Enter the 6-digit code from your authenticator app",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithFacebook": "Continue with Facebook",
+    "forgotPasswordDescription": "Enter your email and we'll send you a reset link",
+    "sendResetLink": "Send reset link",
+    "backToLogin": "Back to login",
+    "createAccountDescription": "Enter your details to get started",
+    "oauthCustomerOnly": "OAuth sign-in is only available for customer accounts.",
+    "vendorRole": "Vendor",
+    "thisEmail": "this email",
+    "oauthRoleConflict": "This email ({email}) is already registered as a {role} account. Please sign in using the {role} login method, or choose a different Google/Facebook account.",
+    "loginRequired": "Please log in to continue"
+  },
+  "home": {
+    "heroTitle": "Welcome to {storeName}",
+    "heroSubtitle": "Discover amazing products from verified vendors. Shop with confidence and enjoy seamless delivery right to your doorstep.",
+    "shopByCategory": "Shop by Category",
+    "shopByCategoryDescription": "Browse our wide selection of products organized by category",
+    "viewAllCategories": "View All Categories",
+    "whyChooseUs": "Why Choose {storeName}?",
+    "whyChooseUsDescription": "We provide the best shopping experience with features designed for you",
+    "startSelling": "Start Selling on {storeName}",
+    "startSellingBadge": "Seller Program",
+    "startSellingDescription": "Join thousands of vendors and reach millions of customers. Easy setup, powerful tools, and dedicated support.",
+    "getStartedFree": "Get Started Free",
+    "becomeASeller": "Become a Seller",
+    "topVendorsRating": "rating",
+    "topVendorsSold": "sold",
+    "topVendorsPrice": "Price",
+    "topVendorsGoToShop": "Go to Shop",
+    "scrollLeft": "Scroll left",
+    "scrollRight": "Scroll right"
+  },
+  "features": {
+    "wideSelection": "Wide Selection",
+    "wideSelectionDescription": "Thousands of products from verified vendors",
+    "secureShoping": "Secure Shopping",
+    "secureShopingDescription": "Your data is protected with enterprise-grade security",
+    "fastDelivery": "Fast Delivery",
+    "fastDeliveryDescription": "Quick and reliable shipping to your doorstep",
+    "easyPayments": "Easy Payments",
+    "easyPaymentsDescription": "Multiple payment options for your convenience",
+    "verifiedVendors": "Verified Vendors",
+    "verifiedVendorsDescription": "All sellers are vetted for quality assurance",
+    "support247": "24/7 Support",
+    "support247Description": "Round-the-clock customer assistance"
+  },
+  "store": {
+    "discoverNewArrivals": "Discover our new arrivals",
+    "newArrivalsDescription": "Fresh products added every week",
+    "collections": "Collections"
+  },
+  "product": {
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products",
+    "customerReviews": "Customer Reviews",
+    "writeReview": "Write a Review",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "share": "Share",
+    "compare": "Compare",
+    "sku": "SKU",
+    "category": "Category",
+    "tags": "Tags",
+    "vendor": "Vendor",
+    "visitStore": "Visit Store",
+    "stockStatus": "Stock Status",
+    "availability": "Availability",
+    "details": "Details",
+    "sizeAndFit": "Size & Fit",
+    "careAndShare": "Care & Share",
+    "addToBag": "Add to Cart",
+    "buyWithShopPay": "Buy with Shop Pay",
+    "customerPhotos": "Customer Photos",
+    "shopTheLook": "Shop the Look",
+    "completeTheLook": "Complete the look",
+    "youMayAlsoLike": "You May Also Like",
+    "viewAllReviews": "View all reviews",
+    "wouldRecommend": "would recommend this product",
+    "sortBy": "Sort by",
+    "mostRecent": "Most Recent",
+    "highestRated": "Highest Rated",
+    "lowestRated": "Lowest Rated",
+    "mostHelpful": "Most Helpful",
+    "helpful": "Helpful",
+    "report": "Report",
+    "shareProduct": "Share this product with friends and family",
+    "sizeGuide": "Size guide",
+    "fabricCare": "Fabric + Care",
+    "faq": "FAQ",
+    "productDetails": "Product Details",
+    "returnPolicy": "Return policy",
+    "freeReturns": "Free 30-day returns",
+    "satisfaction": "Satisfaction guaranteed",
+    "moneyBack": "Shop with confidence",
+    "worldwideDelivery": "Worldwide delivery",
+    "shipEverywhere": "We ship everywhere",
+    "secureCheckout": "Secure checkout",
+    "safePayment": "Safe & secure payment",
+    "customersAlsoPurchased": "Customers also purchased",
+    "newIn": "New in",
+    "quickView": "Quick view",
+    "quickViewDescription": "Quick view of product details",
+    "color": "Color",
+    "colors": "Colors",
+    "size": "Size",
+    "selectSize": "Select size",
+    "inStockCount": "{count} in stock",
+    "lowStock": "Only {count} left in stock",
+    "viewFullDetails": "View full details",
+    "addToCart": "Add to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "reviews": {
+    "basedOn": "Based on {count} reviews",
+    "writeReview": "Write a Review",
+    "noReviews": "No reviews yet",
+    "beFirst": "Be the first to review this product",
+    "verified": "Verified Purchase"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "yourCart": "Your Cart",
+    "shoppingCart": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyCart": "Your cart is empty",
+    "emptyDescription": "Add items to your cart to see them here",
+    "emptyCartDescription": "Looks like you haven't added any items to your cart yet.",
+    "startShopping": "Start Shopping",
+    "continueShopping": "Continue Shopping",
+    "viewCart": "View cart",
+    "updateCart": "Update Cart",
+    "clearCart": "Clear Cart",
+    "checkout": "Check out",
+    "proceedToCheckout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "shippingNotice": "Shipping and taxes calculated at checkout.",
+    "orderSummary": "Order Summary",
+    "applyCoupon": "Apply Coupon",
+    "removeCoupon": "Remove Coupon",
+    "couponCode": "Coupon Code",
+    "apply": "Apply",
+    "itemRemoved": "Item removed from cart",
+    "itemAdded": "Item added to cart",
+    "cartCleared": "Cart cleared",
+    "freeShipping": "You qualify for free shipping!",
+    "shippingCalculatedAtCheckout": "Calculated at checkout",
+    "estimatedTotal": "Estimated total",
+    "products": {
+      "color": "Rangi",
+      "size": "Ukubwa"
+    }
+  },
+  "coupon": {
+    "enterCode": "Please enter a coupon code",
+    "applied": "Coupon applied!",
+    "invalid": "Invalid coupon code",
+    "removed": "Coupon removed",
+    "placeholder": "Enter coupon code",
+    "apply": "Apply"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "minLength": "Must be at least {min} characters",
+    "phone": "Please enter a valid phone number",
+    "zipCode": "Postal code is required"
+  },
+  "checkout": {
+    "checkout": "Checkout",
+    "card": "Card",
+    "cod": "COD",
+    "paymentMethods": "Payment methods",
+    "cardDetails": "Card details",
+    "shippingInformation": "Shipping Information",
+    "shippingAddress": "Shipping Address",
+    "billingAddress": "Billing Address",
+    "delivery": "Delivery",
+    "sameAsShipping": "Same as shipping address",
+    "paymentMethod": "Payment Method",
+    "verifyingPayment": "Verifying your payment...",
+    "pleaseWait": "Please wait while we confirm your order.",
+    "placeOrder": "Place Order",
+    "orderPlaced": "Order placed successfully!",
+    "orderNumber": "Order Number",
+    "estimatedDelivery": "Estimated Delivery",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fullName": "Full name",
+    "address": "Street Address",
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "apartment": "Apartment, suite, etc. (optional)",
+    "city": "City",
+    "state": "State",
+    "postalCode": "Postal Code",
+    "zipCode": "Zip code",
+    "country": "Country",
+    "phone": "Phone",
+    "cashOnDelivery": "Cash on Delivery",
+    "creditDebitCard": "Credit/Debit Card",
+    "shippingMethod": "Shipping method",
+    "completeOrder": "Complete order",
+    "contact": "Contact",
+    "useSavedAddress": "Use a saved address",
+    "emailOrPhone": "Email or mobile phone number",
+    "saveInfo": "Save this information for next time",
+    "noSavedAddress": "No saved address found",
+    "addressFilled": "Address filled",
+    "estimatedTaxes": "Estimated taxes",
+    "estimatedTax": "Estimated Tax",
+    "days": "days",
+    "securePayment": "Your payment information is secure and encrypted",
+    "orderSuccess": "Thank you for your order!",
+    "orderSuccessDescription": "We've received your order and will process it shortly. You'll receive an email confirmation with your order details.",
+    "downloadInvoice": "Download Invoice",
+    "orderConfirmation": "A confirmation email has been sent to your email address",
+    "emptyCartMessage": "Your cart is empty. Add some products before checkout.",
+    "orderSummary": "Order summary",
+    "editCart": "Edit cart",
+    "promoCode": "Promo code",
+    "enterCode": "Enter code",
+    "makeDefaultAddress": "Make this my default address",
+    "standardShipping": "2-4 working days",
+    "expressShipping": "Sep 29",
+    "nominatedDay": "Nominated day",
+    "payment": {
+      "secure": "All transactions are secure and encrypted.",
+      "payWithCard": "Pay with Card",
+      "payWithPayPal": "Pay with PayPal",
+      "payWhenReceive": "Pay when you receive",
+      "poweredByStripe": "Powered by Stripe",
+      "cardDetailsParams": "Card details are entered securely on Stripe after you continue.",
+      "paypalRedirect": "You will be redirected to PayPal to complete payment.",
+      "securePaypal": "Secure payment powered by PayPal",
+      "payOnDeliveryDescription": "You will pay when you receive your order"
+    },
+    "billingSame": "Same as shipping address",
+    "billingDifferent": "Use a different billing address"
+  },
+  "orders": {
+    "title": "My Orders",
+    "subtitle": "Track and manage your orders",
+    "historyDesc": "View all your past and current orders",
+    "myOrders": "My Orders",
+    "orderHistory": "Order History",
+    "orderDetails": "Order Details",
+    "orderStatus": "Order Status",
+    "trackOrder": "Track Order",
+    "viewOrders": "View My Orders",
+    "reorder": "Reorder",
+    "cancelOrder": "Cancel Order",
+    "downloadInvoice": "Invoice",
+    "invoiceDownloadFailed": "Failed to download invoice",
+    "returnOrder": "Return Order",
+    "noOrders": "You haven't placed any orders yet",
+    "pending": "Pending",
+    "processing": "Processing",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+    "refunded": "Refunded",
+    "backToOrders": "Back to Orders",
+    "placedOn": "Placed on",
+    "cancelling": "Cancelling...",
+    "cancelOrderTitle": "Cancel Order",
+    "cancelOrderDescription": "Are you sure you want to cancel this order? This action cannot be undone.",
+    "keepOrder": "Keep Order",
+    "orderCancelled": "Order cancelled successfully",
+    "orderCancelFailed": "Failed to cancel order",
+    "orderItems": "Order Items",
+    "orderUpdated": "Order status updated",
+    "orderUpdateFailed": "Failed to update status",
+    "searchPlaceholder": "Search by order number...",
+    "noOrdersFound": "No orders found",
+    "markProcessing": "Mark Processing",
+    "markShipped": "Mark Shipped",
+    "markDelivered": "Mark Delivered",
+    "startShopping": "Start Shopping",
+    "browseProducts": "Browse Products"
+  },
+  "adminProfile": {
+    "title": "Profile",
+    "subtitle": "Manage your account settings and preferences",
+    "personalInfo": "Personal Information",
+    "personalInfoDesc": "Update your name and contact details",
+    "passwordDesc": "Update your password to keep your account secure",
+    "updatePassword": "Update Password",
+    "accountInfo": "Account",
+    "administrator": "Administrator",
+    "twoFactor": "Two-Factor Auth",
+    "twoFactorActive": "2FA Active",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "avatarUpdated": "Avatar updated",
+    "avatarError": "Failed to upload avatar"
+  },
+  "admin": {
+    "adminDashboard": "Admin Dashboard",
+    "browseWebsite": "Browse Website",
+    "ordersPage": {
+      "plusMore": "+{count} more",
+      "item": "item",
+      "export": "Export",
+      "table": {
+        "purchased": "Products",
+        "date": "Date",
+        "customer": "Customer",
+        "channel": "Channel",
+        "payment": "Payment",
+        "fulfillment": "Fulfillment",
+        "delivery": "Delivery"
+      },
+      "channel": {
+        "pos": "Point of Sale",
+        "online": "Online Store"
+      },
+      "paymentStatus": {
+        "paid": "Paid",
+        "partiallyPaid": "Partially paid",
+        "partiallyRefunded": "Partially refunded"
+      },
+      "fulfillment": {
+        "unfulfilled": "Unfulfilled",
+        "inTransit": "In transit",
+        "fulfilled": "Fulfilled"
+      },
+      "delivery": {
+        "notShipped": "Not shipped",
+        "inTransit": "In transit"
+      },
+      "tabs": {
+        "all": "All",
+        "unfulfilled": "Unfulfilled",
+        "unpaid": "Unpaid",
+        "open": "Open",
+        "archived": "Archived"
+      },
+      "filters": {
+        "orderStatus": "Order status"
+      },
+      "bulk": {
+        "cancelTitle": "Cancel orders",
+        "cancelDescription": "Cancel {count} orders?",
+        "cancelConfirm": "Cancel orders",
+        "cancelKeep": "Keep orders",
+        "updatedSuccess": "Updated {count} orders",
+        "updatedError": "Failed to update some orders"
+      },
+      "pagination": {
+        "showing": "Showing",
+        "to": "to",
+        "of": "of",
+        "results": "results",
+        "rowsPerPage": "Rows per page"
+      },
+      "stats": {
+        "totalOrders": {
+          "title": "Total Orders",
+          "description": "All order records"
+        },
+        "openOrders": {
+          "title": "Open Orders",
+          "description": "Pending, processing, or shipped"
+        },
+        "paidOrders": {
+          "title": "Paid Orders",
+          "description": "Payment completed"
+        },
+        "totalRevenue": {
+          "title": "Total Revenue",
+          "description": "Gross paid order value"
+        },
+        "averageOrderValue": {
+          "title": "Avg. Order Value",
+          "description": "Revenue per paid order"
+        }
+      }
+    },
+    "orderDetails": {
+      "orderNumber": "Order #{number}",
+      "placedOn": "Placed on",
+      "tracking": "Tracking",
+      "print": "Print",
+      "back": "Back",
+      "moreActions": "More actions",
+      "refundFull": "Refund Full Amount",
+      "refundPartial": "Refund Partial Amount",
+      "markShipped": "Mark as shipped",
+      "markShippedDescription": "Add carrier details so the customer and support team can track delivery.",
+      "carrier": "Carrier",
+      "carrierPlaceholder": "DHL, FedEx, UPS",
+      "trackingNumber": "Tracking number",
+      "trackingNumberPlaceholder": "Tracking number",
+      "cancel": "Cancel",
+      "cancelOrderTitle": "Cancel order",
+      "cancelOrderDescription": "Cancellation restores inventory while the order is still eligible.",
+      "reason": "Reason",
+      "cancelReasonPlaceholder": "Optional note for the order history",
+      "keepOrder": "Keep order",
+      "cancelOrder": "Cancel order",
+      "refundNotAvailable": "Refund is only available for paid orders",
+      "enterRefundAmount": "Enter partial refund amount",
+      "invalidRefundAmount": "Enter a valid refund amount",
+      "refundReasonOptional": "Refund reason (optional)",
+      "refundRecorded": "Refund recorded",
+      "refundFailed": "Refund failed",
+      "orderItems": "Order Items",
+      "splitShipment": "Split Shipment",
+      "splitShipmentDescription": "This order contains items from multiple vendors and will be delivered in separate shipments.",
+      "item": "Item",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "sku": "SKU",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "discount": "Discount",
+      "totalLabel": "Total",
+      "timeline": "Timeline",
+      "showComments": "Show comments",
+      "addMessagePlaceholder": "Add a message, if you'd like...",
+      "post": "Post",
+      "noEventsYet": "No events yet",
+      "by": "by",
+      "system": "System",
+      "customer": "Customer",
+      "guestCheckout": "Guest Checkout",
+      "customerSince": "Customer since",
+      "contactInfo": "Contact info",
+      "shippingAddress": "Shipping address",
+      "billingAddress": "Billing address",
+      "payment": "Payment",
+      "orderStatus": {
+        "pending": "Pending",
+        "processing": "Processing",
+        "shipped": "Shipped",
+        "delivered": "Delivered",
+        "cancelled": "Cancelled"
+      },
+      "paymentStatus": {
+        "pending": "Pending",
+        "paid": "Paid",
+        "partially_paid": "Partially paid",
+        "refunded": "Refunded",
+        "partially_refunded": "Partially refunded"
+      }
+    },
+    "analyticsPage": {
+      "subtitle": "Store performance & website traffic",
+      "onlineNow": "online now",
+      "visitors": "Wageni",
+      "pageviews": "Maoni ya kurasa",
+      "topSources": "Top Sources",
+      "topPages": "Top Pages",
+      "countries": "Countries",
+      "devices": "Devices",
+      "unknown": "Unknown",
+      "none": "(none)",
+      "directNone": "Direct / None",
+      "poweredBy": "Data powered by Plausible Analytics",
+      "openDashboard": "Open Plausible Dashboard",
+      "periods": {
+        "day": "Today",
+        "7d": "7d",
+        "30d": "30d",
+        "month": "Month",
+        "6mo": "6mo",
+        "12mo": "12mo"
+      },
+      "cards": {
+        "onlineNow": "Online Now",
+        "uniqueVisitors": "Unique Visitors",
+        "totalPageviews": "Total Pageviews",
+        "totalVisits": "Total Visits",
+        "bounceRate": "Bounce Rate",
+        "avgDuration": "Avg Duration"
+      },
+      "chart": {
+        "title": "Visitors & Pageviews",
+        "description": "Traffic over the selected period"
+      },
+      "tabs": {
+        "browser": "Browser",
+        "os": "OS",
+        "size": "Size"
+      },
+      "columns": {
+        "source": "Source",
+        "visitors": "Visitors",
+        "page": "Page",
+        "country": "Country",
+        "device": "Device"
+      },
+      "empty": {
+        "timeseries": "No timeseries data",
+        "sources": "No source data yet",
+        "pages": "No page data yet",
+        "countries": "No country data yet",
+        "devices": "No device data yet"
+      },
+      "errors": {
+        "loadFailed": "Failed to load analytics data"
+      },
+      "notConfigured": {
+        "title": "Plausible Analytics not configured",
+        "description": "Connect your Plausible Analytics account to see real-time visitor data, traffic sources, page analytics and more.",
+        "cta": "Configure Plausible Analytics"
+      },
+      "units": {
+        "minute": "m",
+        "second": "s"
+      },
+      "time": {
+        "am": "am",
+        "pm": "pm"
+      }
+    },
+    "dashboardPage": {
+      "greeting": "Good morning, James.",
+      "goodMorning": "Habari za asubuhi, {name}.",
+      "goodAfternoon": "Habari za mchana, {name}.",
+      "goodEvening": "Habari za jioni, {name}.",
+      "subtitle": "Haya ndiyo yanayotokea kwenye duka lako leo.",
+      "orders": "maagizo",
+      "cases": "kesi",
+      "ordersTitle": "Maagizo",
+      "dateRange": "25 Jul - 25 Aug",
+      "addActivity": "Ongeza shughuli",
+      "sales": "Mauzo",
+      "ordersDescription": "Muhtasari wa jumla ya maagizo ukiwa na maelezo ya kina.",
+      "showHighlights": "Onyesha vivutio vyote",
+      "showSalesData": "Onyesha data yote ya mauzo",
+      "viewAllOrders": "Tazama maagizo yote",
+      "recentOrders": "Maagizo ya Hivi Karibuni",
+      "noRecentOrders": "Hakuna maagizo ya hivi karibuni.",
+      "totalVisitors": "Jumla ya Wageni",
+      "latestProducts": "Bidhaa za Hivi Karibuni",
+      "noLatestProducts": "Hakuna bidhaa za hivi karibuni.",
+      "thisMonth": "Mwezi huu",
+      "lastMonth": "Mwezi uliopita",
+      "customer": "Mteja",
+      "pc": "Pc",
+      "pcs": "Pcs",
+      "paymentMethod": "Njia ya Malipo",
+      "totalPrice": "Jumla ya Bei",
+      "orderLabel": "Agizo {orderNumber}",
+      "stats": {
+        "inStoreSales": "Mauzo ya dukani",
+        "websiteSales": "Mauzo ya tovuti",
+        "discount": "Punguzo",
+        "affiliate": "Mshirika",
+        "marketplace": "Soko",
+        "refunds": "Marejesho",
+        "inStore": "Dukani",
+        "online": "Mtandaoni"
+      },
+      "status": {
+        "pending": "Inasubiri",
+        "processing": "Inachakatwa",
+        "shipped": "Imetumwa",
+        "delivered": "Imewasilishwa",
+        "cancelled": "Imeghairiwa"
+      },
+      "payment": {
+        "creditCard": "Kadi ya Mkopo",
+        "paypal": "PayPal",
+        "cashOnDelivery": "Lipa Unapopokea",
+        "upi": "UPI",
+        "card": "Kadi"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "home": "Home",
+      "overview": "Muhtasari",
+      "orders": "Maagizo",
+      "products": "Bidhaa",
+      "allProducts": "All Products",
+      "collections": "Collections",
+      "categories": "Categories",
+      "inventory": "Inventory",
+      "purchaseOrders": "Purchase Orders",
+      "transfers": "Transfers",
+      "giftCards": "Gift Cards",
+      "customers": "Customers",
+      "vendors": "Vendors",
+      "marketing": "Marketing",
+      "discounts": "Discounts",
+      "content": "Content",
+      "markets": "Markets",
+      "analytics": "Uchanganuzi",
+      "aiSalesAgent": "Wakala wa Mauzo",
+      "salesChannels": "Njia za Mauzo",
+      "onlineStore": "Duka la Mtandaoni",
+      "homePage": "Home Page",
+      "theme": "Theme",
+      "themes": "Themes",
+      "pages": "Kurasa",
+      "pos": "Sehemu ya Mauzo",
+      "staff": "Wafanyakazi",
+      "posStaff": "Wafanyakazi",
+      "posLocations": "Maeneo",
+      "apps": "Apps",
+      "addApp": "Add",
+      "addPage": "Ongeza Ukurasa",
+      "navigation": "Navigation",
+      "payments": "Malipo",
+      "payouts": "Payouts",
+      "transactions": "Transactions",
+      "reviews": "Reviews",
+      "blogPosts": "Blog posts",
+      "blogCategories": "Blog categories",
+      "blogComments": "Comments",
+      "allPosts": "All posts",
+      "menus": "Menus",
+      "aiStudio": "AI Studio"
+    },
+    "pos": "Point of Sale",
+    "posLocations": "POS Locations",
+    "posStaff": "POS Staff",
+    "dashboardSubtitle": "Welcome back! Here's what's happening.",
+    "editProduct": "Edit Product",
+    "updateProductInfo": "Update product information",
+    "totalRevenue": "Total Revenue",
+    "totalRevenue2025": "Total Revenue 2025",
+    "totalSales": "Total Sales",
+    "totalOrders": "Total Orders",
+    "totalProducts": "Total Products",
+    "totalUsers": "Total Users",
+    "totalVisitors": "Total Visitors",
+    "liveVisitors": "Live Visitors",
+    "live": "LIVE",
+    "activeVendors": "Active Vendors",
+    "pendingOrders": "Pending Orders",
+    "avgOrderValue": "Avg Order Value",
+    "salesChart": "Sales (Last 30 Days)",
+    "recentOrders": "Recent Orders",
+    "topProducts": "Top Products",
+    "topVendors": "Top Vendors",
+    "topSellingProducts": "Top Selling Products",
+    "customerVolume": "Customer Volume",
+    "newCustomer": "New Customer",
+    "currentCustomer": "Current Customer",
+    "trafficAnalytic": "Traffic Analytic",
+    "viewsFromPlatforms": "Total Views from 4 platforms",
+    "vendorsManagement": {
+      "allVendors": "All Vendors",
+      "allVendorsDesc": "View and manage vendor profiles",
+      "searchPlaceholder": "Search store name...",
+      "status": {
+        "pending": "Pending",
+        "approved": "Active",
+        "suspended": "Suspended",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "storeOwner": "Store & Owner",
+        "status": "Status",
+        "commission": "Commission",
+        "sales": "Sales",
+        "joined": "Joined",
+        "actions": "Actions",
+        "noVendors": "No vendors found",
+        "visitStore": "Visit Store",
+        "updateStatus": "Update Status",
+        "unknown": "Unknown"
+      },
+      "toasts": {
+        "statusSuccess": "Vendor status updated successfully",
+        "statusError": "Failed to update status"
+      }
+    },
+    "productsManagement": {
+      "title": "Products",
+      "subtitle": "Manage all products in the marketplace",
+      "addProduct": "Add Product",
+      "allProducts": "All Products",
+      "allProductsDesc": "View and manage products from all vendors",
+      "searchPlaceholder": "Search products...",
+      "status": {
+        "label": "Status",
+        "all": "All Status",
+        "published": "Published",
+        "active": "Active",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "table": {
+        "image": "Image",
+        "name": "Name",
+        "vendor": "Vendor",
+        "price": "Price",
+        "stock": "Stock",
+        "status": "Status",
+        "actions": "Actions",
+        "noProducts": "No products found",
+        "uncategorized": "Uncategorized",
+        "na": "N/A",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "deleteDialog": {
+        "title": "Delete Product",
+        "description": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+        "confirm": "Delete",
+        "cancel": "Cancel",
+        "success": "Product deleted successfully",
+        "error": "Failed to delete product"
+      }
+    },
+    "collections": "Collections",
+    "collectionsManagement": {
+      "title": "Collections",
+      "subtitle": "Manage product collections",
+      "addCollection": "Add Collection",
+      "addCollectionDescription": "Create a new product collection",
+      "editCollection": "Edit Collection",
+      "allCollections": "All Collections",
+      "allCollectionsDesc": "View and manage manual and automated collections",
+      "searchPlaceholder": "Search collections...",
+      "collectionType": "Collection Type",
+      "manual": "Manual",
+      "automated": "Automated",
+      "conditions": "Conditions",
+      "addCondition": "Add Condition",
+      "matchAll": "Products must match all conditions",
+      "matchAny": "Products must match any condition",
+      "sortOrder": "Sort Order",
+      "productCount": "Products",
+      "status": {
+        "label": "Status",
+        "all": "All Status",
+        "active": "Active",
+        "draft": "Draft"
+      },
+      "table": {
+        "image": "Image",
+        "title": "Title",
+        "type": "Type",
+        "products": "Products",
+        "status": "Status",
+        "channels": "Channels",
+        "actions": "Actions",
+        "noCollections": "No collections found"
+      },
+      "form": {
+        "title": "Title",
+        "titlePlaceholder": "e.g. Summer Collection",
+        "description": "Description",
+        "descriptionPlaceholder": "Describe this collection...",
+        "collectionImage": "Collection Image",
+        "typeManual": "Manual",
+        "typeManualDesc": "Add products one by one",
+        "typeAutomated": "Automated",
+        "typeAutomatedDesc": "Products added by conditions",
+        "productsInCollection": "Products in Collection",
+        "searchProducts": "Search products to add...",
+        "selectedProducts": "Selected Products",
+        "noProductsSelected": "No products selected",
+        "clearAll": "Clear all",
+        "conditionField": "Field",
+        "conditionOperator": "Condition",
+        "conditionValue": "Value",
+        "noConditions": "No conditions added"
+      },
+      "deleteDialog": {
+        "title": "Delete Collection",
+        "description": "Are you sure you want to delete \"{name}\"? Products will remain but be removed from this collection.",
+        "confirm": "Delete",
+        "cancel": "Cancel",
+        "success": "Collection deleted successfully",
+        "error": "Failed to delete collection"
+      }
+    },
+    "inventory": {
+      "title": "Inventory",
+      "subtitle": "Manage product stock levels",
+      "searchPlaceholder": "Search products...",
+      "export": "Export",
+      "import": "Import",
+      "tabs": {
+        "all": "All",
+        "online": "Online",
+        "onlineStore": "Online store",
+        "mainWarehouse": "Main warehouse",
+        "storifyWarehouse": "Storify warehouse",
+        "storeFront": "Store front",
+        "secondaryStorage": "Secondary storage"
+      },
+      "columns": {
+        "product": "Product",
+        "sku": "SKU",
+        "unavailable": "Unavailable",
+        "committed": "Committed",
+        "available": "Available",
+        "onHand": "On hand"
+      },
+      "filters": {
+        "stockLevel": "Stock Level",
+        "all": "All",
+        "lowStock": "Low Stock",
+        "outOfStock": "Out of Stock"
+      },
+      "actions": {
+        "adjustQuantity": "Adjust Quantity",
+        "save": "Save",
+        "cancel": "Cancel"
+      },
+      "empty": "No inventory items found",
+      "learnMore": "Learn more about managing inventory",
+      "updateSuccess": "Inventory updated successfully",
+      "updateError": "Failed to update inventory",
+      "itemsModified": "{count} items modified",
+      "csvHeaders": {
+        "product": "Product",
+        "variant": "Variant",
+        "sku": "SKU",
+        "available": "Available",
+        "onHand": "On Hand"
+      },
+      "stats": {
+        "trackedSkus": "Tracked SKUs",
+        "trackedSkusDescription": "Product variants in your catalog",
+        "lowStock": "Low stock",
+        "lowStockDescription": "SKUs with 10 or fewer units",
+        "outOfStock": "Out of stock",
+        "outOfStockDescription": "SKUs currently unavailable",
+        "onHandUnits": "On hand units",
+        "onHandUnitsDescription": "Total units across your products",
+        "locations": "Locations",
+        "locationsDescription": "Active inventory locations"
+      }
+    },
+    "salesFunnel": "Sales Funnel",
+    "productView": "Product View",
+    "settings": {
+      "title": "Settings",
+      "description": "Manage your store configuration",
+      "tabs": {
+        "general": "General",
+        "security": "Security",
+        "appearance": "Appearance",
+        "payment": "Payments",
+        "email": "Email",
+        "orders": "Orders",
+        "seo": "SEO",
+        "social": "Social",
+        "maintenance": "Maintenance",
+        "storage": "Storage"
+      },
+      "search": "Search settings",
+      "close": "Close settings",
+      "openMenu": "Open settings menu",
+      "closeMenu": "Close settings menu",
+      "storeNameFallback": "Your store",
+      "attention": "Action Required",
+      "disabled": "Disabled",
+      "unsaved": "Unsaved",
+      "session": {
+        "duration": "Session Duration (days)",
+        "maxAttempts": "Max Login Attempts",
+        "lockout": "Lockout Duration (min)"
+      },
+      "passwordPolicy": {
+        "uppercase": "Require Uppercase",
+        "numbers": "Require Numbers",
+        "specialChars": "Require Special Characters"
+      },
+      "general": {
+        "title": "General Settings",
+        "description": "Configure your store's basic information",
+        "storeName": "Store Name",
+        "storeEmail": "Store Email",
+        "phone": "Phone Number",
+        "storeDomain": "Store Domain",
+        "address": "Address",
+        "storeDescription": "Store Description",
+        "defaultLanguage": "Default Language",
+        "defaultCurrency": "Default Currency",
+        "logoUrl": "Logo URL",
+        "faviconUrl": "Favicon URL",
+        "timezone": "Timezone",
+        "timezonePlaceholder": "UTC",
+        "supportedLanguages": "Supported languages",
+        "supportedLanguagesDesc": "Available languages in your storefront.",
+        "supportedCurrencies": "Supported currencies",
+        "supportedCurrenciesDesc": "Currency codes allowed for pricing and display.",
+        "save": "Save Changes"
+      },
+      "appearance": {
+        "title": "Appearance",
+        "description": "Customize your store's look and feel",
+        "primaryColor": "Primary Color",
+        "secondaryColor": "Secondary Color",
+        "accentColor": "Accent Color",
+        "theme": "Default Theme",
+        "themes": {
+          "light": "Light",
+          "dark": "Dark",
+          "system": "System"
+        },
+        "borderRadius": "Border radius",
+        "mode": "Mode",
+        "contrast": "Contrast",
+        "rtl": "Right to left",
+        "collapsedSidebar": "Collapsed sidebar",
+        "nav": "Navigation",
+        "layout": "Layout",
+        "color": "Color",
+        "navColor": {
+          "integrate": "Integrate",
+          "apparent": "Apparent"
+        },
+        "presets": "Presets",
+        "save": "Save Changes"
+      },
+      "payment": {
+        "title": "Payment Settings",
+        "description": "Configure payment gateways and options",
+        "enableStripe": "Enable Stripe",
+        "stripePublishableKey": "Publishable Key",
+        "stripeWebhookSecret": "Webhook Secret",
+        "enablePayPal": "Enable PayPal",
+        "paypalClientId": "Client ID",
+        "paypalMode": "Mode",
+        "paypalSandbox": "Sandbox",
+        "paypalLive": "Live",
+        "paypalWebhookId": "Webhook ID",
+        "enableCOD": "Enable Cash on Delivery",
+        "codInstructions": "COD Instructions",
+        "codMinOrder": "Min Order Amount",
+        "codMaxOrder": "Max Order Amount",
+        "stripe": {
+          "title": "Stripe",
+          "description": "Configure Stripe payment gateway",
+          "enable": "Enable Stripe Payments",
+          "publishableKey": "Publishable Key",
+          "secretKey": "Secret Key",
+          "webhookSecret": "Webhook Secret",
+          "webhookSecretHint": "Required for handling payment events. Get this from Stripe Dashboard → Developers → Webhooks"
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "Configure PayPal payment gateway",
+          "enablePayPal": "Enable PayPal",
+          "paypalClientId": "Client ID",
+          "clientSecret": "Client Secret",
+          "paypalMode": "Mode",
+          "paypalSandbox": "Sandbox",
+          "paypalLive": "Live",
+          "paypalWebhookId": "Webhook ID"
+        },
+        "cod": {
+          "title": "Cash on Delivery",
+          "description": "Configure COD payment option",
+          "enable": "Enable Cash on Delivery",
+          "instructions": "COD Instructions",
+          "placeholder": "Instructions shown to customers...",
+          "codMinOrder": "Min Order Amount",
+          "codMaxOrder": "Max Order Amount"
+        },
+        "save": "Save Payment Settings"
+      },
+      "email": {
+        "title": "Email Configuration (SMTP)",
+        "description": "Configure email sending via SMTP",
+        "enable": "Enable SMTP Email",
+        "host": "SMTP Host",
+        "port": "SMTP Port",
+        "username": "SMTP Username",
+        "password": "SMTP Password",
+        "fromEmail": "From Email",
+        "fromName": "From Name",
+        "secure": "Use SSL/TLS (for port 465)",
+        "test": {
+          "label": "Test Email",
+          "placeholder": "test@example.com",
+          "button": "Send Test Email",
+          "success": "Test email sent successfully!",
+          "error": "Failed to send test email"
+        },
+        "save": "Save Email Settings"
+      },
+      "security": {
+        "title": "Security & Access Control",
+        "description": "Configure multi-vendor mode, session security, and password policies",
+        "tabs": {
+          "general": "General",
+          "2fa": "Two-Factor Auth",
+          "oauth": "OAuth",
+          "pos": "POS Access",
+          "vendor": "Vendor Permissions"
+        },
+        "multiVendor": {
+          "title": "Store Mode",
+          "label": "Multi-Vendor Mode",
+          "description": "Enable marketplace features: vendor registration, multiple stores, vendor dashboard"
+        },
+        "emailVerification": {
+          "title": "Email Verification",
+          "required": "Require Email Verification",
+          "requiredDesc": "Users must verify email before accessing the store",
+          "vendorRequired": "Require for Vendors",
+          "vendorRequiredDesc": "Vendors must verify email before listing products"
+        },
+        "session": {
+          "title": "Session Security",
+          "duration": "Session Duration (days)",
+          "maxAttempts": "Max Login Attempts",
+          "lockout": "Lockout Duration (min)"
+        },
+        "rateLimiting": {
+          "enabled": "Enable Rate Limiting",
+          "adminPreset": "Admin API",
+          "vendorPreset": "Vendor API",
+          "checkoutPreset": "Checkout / Payments",
+          "cartPreset": "Cart",
+          "couponPreset": "Coupons",
+          "authPreset": "Auth / Login",
+          "ipPreset": "Guest / Public (IP-based)"
+        },
+        "passwordPolicy": {
+          "title": "Password Policy",
+          "minLength": "Minimum Password Length",
+          "uppercase": "Require Uppercase",
+          "numbers": "Require Numbers",
+          "specialChars": "Require Special Characters"
+        },
+        "save": "Save Security Settings"
+      },
+      "orders": {
+        "title": "Order Settings",
+        "description": "Configure order and commission settings",
+        "prefix": "Order Number Prefix",
+        "taxRate": "Tax Rate (%)",
+        "shippingCost": "Default Shipping Cost ($)",
+        "freeShippingThreshold": "Free Shipping Threshold ($)",
+        "freeShippingPlaceholder": "Leave empty to disable",
+        "vendorCommission": "Vendor Commission",
+        "commissionRate": "Commission Rate (%)",
+        "minWithdrawal": "Min Withdrawal Amount ($)",
+        "save": "Save Order Settings"
+      },
+      "seo": {
+        "title": "SEO Settings",
+        "description": "Configure search engine optimization",
+        "metaTitle": "Meta Title",
+        "metaTitlePlaceholder": "Your Store - Online Marketplace",
+        "metaDescription": "Meta Description",
+        "metaDescriptionPlaceholder": "Describe your store in 150-160 characters...",
+        "metaKeywords": "Meta Keywords",
+        "metaKeywordsPlaceholder": "ecommerce, online shopping, marketplace",
+        "ogImage": "OG Image URL",
+        "ogImagePlaceholder": "https://example.com/og-image.jpg",
+        "save": "Save SEO Settings"
+      },
+      "social": {
+        "title": "Social Media Links",
+        "description": "Add your social media profiles",
+        "facebook": "Facebook",
+        "facebookPlaceholder": "https://facebook.com/yourpage",
+        "twitter": "Twitter/X",
+        "twitterPlaceholder": "https://twitter.com/yourhandle",
+        "instagram": "Instagram",
+        "instagramPlaceholder": "https://instagram.com/yourprofile",
+        "youtube": "YouTube",
+        "youtubePlaceholder": "https://youtube.com/yourchannel",
+        "tiktok": "TikTok",
+        "tiktokPlaceholder": "https://tiktok.com/@yourhandle",
+        "linkedin": "LinkedIn",
+        "linkedinPlaceholder": "https://linkedin.com/company/yourcompany",
+        "save": "Save Social Links"
+      },
+      "maintenance": {
+        "title": "Maintenance Mode",
+        "description": "Control store availability",
+        "enable": "Enable Maintenance Mode",
+        "enableDesc": "When enabled, visitors will see a maintenance message",
+        "message": "Maintenance Message",
+        "messagePlaceholder": "We're currently undergoing maintenance. Please check back soon!",
+        "save": "Save Maintenance Settings"
+      },
+      "shipping": {
+        "title": "Shipping & Delivery",
+        "description": "Configure shipping zones, rates, and delivery estimates like Shopify.",
+        "enable": {
+          "label": "Enable shipping rates",
+          "help": "When enabled, checkout uses your shipping zones and rates. Otherwise it falls back to flat shipping in Order Settings."
+        },
+        "origin": {
+          "title": "Shipping origin",
+          "description": "Used for operational reference and future carrier integrations.",
+          "country": "Country",
+          "countryPlaceholder": "United States",
+          "state": "State / Province",
+          "statePlaceholder": "CA",
+          "city": "City",
+          "cityPlaceholder": "San Francisco",
+          "postalCode": "Postal code",
+          "postalCodePlaceholder": "94105",
+          "address1": "Address line 1",
+          "address1Placeholder": "123 Market St",
+          "address2": "Address line 2",
+          "address2Placeholder": "Suite 100 (optional)"
+        },
+        "delivery": {
+          "title": "Delivery estimates",
+          "description": "Set processing time that will be added to rate delivery times when displayed.",
+          "processingMin": "Processing days (min)",
+          "processingMax": "Processing days (max)",
+          "showEstimated": "Show estimates in checkout"
+        },
+        "zones": {
+          "title": "Shipping zones",
+          "description": "Create zones and define rates. Countries/regions are comma-separated and matched case-insensitively against the customer address.",
+          "add": "Add zone",
+          "empty": "No zones yet. Add a zone to start configuring shipping rates."
+        },
+        "zone": {
+          "name": "Zone name",
+          "namePlaceholder": "Domestic",
+          "remove": "Remove",
+          "countries": "Countries",
+          "countriesPlaceholder": "United States, Canada",
+          "noCountriesWarning": "No countries selected. This zone will not match any address.",
+          "regions": "Regions (optional)",
+          "regionsPlaceholder": "CA, NY, TX"
+        },
+        "rates": {
+          "title": "Rates",
+          "add": "Add rate",
+          "empty": "No rates in this zone yet. Add a rate (e.g., Standard or Express)."
+        },
+        "rate": {
+          "name": "Rate name",
+          "namePlaceholder": "Standard",
+          "typeLabel": "Type",
+          "type": {
+            "flat": "Flat rate",
+            "freeOver": "Free over subtotal",
+            "subtotalRange": "Subtotal range"
+          },
+          "typePlaceholder": "Select type",
+          "price": "Price",
+          "freeOver": "Free over",
+          "minSubtotal": "Min subtotal",
+          "maxSubtotal": "Max subtotal",
+          "minDays": "Delivery days (min)",
+          "maxDays": "Delivery days (max)",
+          "active": "Active"
+        },
+        "fallback": {
+          "title": "Fallback rate",
+          "description": "If no zone matches the address, you can apply a default rate.",
+          "enable": "Enable fallback rate",
+          "name": "Name",
+          "price": "Price",
+          "minDays": "Min days",
+          "maxDays": "Max days"
+        },
+        "pickup": {
+          "title": "Local pickup",
+          "description": "Offer local pickup as an alternative fulfillment method.",
+          "address": "Pickup address",
+          "instructions": "Instructions",
+          "readyMin": "Ready in (min days)",
+          "readyMax": "Ready in (max days)"
+        }
+      },
+      "twoFactor": {
+        "title": "Two-Factor Authentication",
+        "description": "Enable and configure 2FA requirements for different user roles",
+        "enable": "Enable Two-Factor Authentication",
+        "enableDesc": "Allow users to set up 2FA for their accounts",
+        "requirements": "2FA Requirements by Role",
+        "admin": "Required for Administrators",
+        "adminDesc": "Admin accounts must enable 2FA",
+        "vendor": "Required for Vendors",
+        "vendorDesc": "Vendor accounts must enable 2FA",
+        "save": "Save 2FA Settings"
+      },
+      "oauth": {
+        "title": "OAuth / Social Login",
+        "description": "Configure social login providers (Google, Facebook)",
+        "google": {
+          "label": "Google Sign-In",
+          "description": "Allow users to sign in with their Google account",
+          "clientId": "Google Client ID",
+          "clientSecret": "Google Client Secret"
+        },
+        "facebook": {
+          "label": "Facebook Sign-In",
+          "description": "Allow users to sign in with their Facebook account",
+          "appId": "Facebook App ID",
+          "appSecret": "Facebook App Secret"
+        },
+        "save": "Save OAuth Settings"
+      },
+      "pos": {
+        "title": "Point of Sale (POS) Access",
+        "description": "Configure which roles can access the POS system",
+        "enable": "Enable POS System",
+        "enableDesc": "Allow in-store sales through the Point of Sale module",
+        "access": "POS Access by Role",
+        "admin": "Administrators",
+        "adminDesc": "Allow admins to make sales via POS",
+        "vendor": "Vendors",
+        "vendorDesc": "Allow vendors to make sales via POS for their products",
+        "seller": "Sellers (Staff)",
+        "sellerDesc": "Allow seller staff to make sales via POS",
+        "general": "General",
+        "language": "Language",
+        "defaultLocation": "Default POS Location ID",
+        "customize": "Customize",
+        "smartGrid": "Smart grid",
+        "lockScreen": "Lock screen timeout (min)",
+        "printedReceipts": "Printed receipts",
+        "customerDisplays": "Customer displays",
+        "checkout": "Checkout",
+        "customerReceiptSelection": "Customer receipt selection",
+        "offlinePayments": "Offline payments",
+        "orders": "Orders",
+        "orderNumberPrefix": "Order number prefix",
+        "orderNumberPrefixHint": "New POS orders use this prefix with a six-digit number, for example POS000017.",
+        "returnRules": "Return rules",
+        "returnWindowDays": "Return window (days)",
+        "allowWithoutReceipt": "Allow returns without receipt",
+        "save": "Save POS Settings",
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "accessDesc": "Control which user roles can access the POS terminal",
+        "generalDesc": "Configure default language and location for POS",
+        "languageHint": "Language used in the POS terminal interface",
+        "selectLocation": "Select a location",
+        "noLocation": "No default location",
+        "defaultBadge": "Default",
+        "locationIdPlaceholder": "Enter location ID",
+        "defaultLocationHint": "The location used by default for new POS orders",
+        "checkoutDesc": "Configure payment methods and checkout behavior",
+        "paymentMethods": "Accepted Payment Methods",
+        "paymentCash": "Cash",
+        "paymentCashDesc": "Accept cash payments",
+        "paymentCard": "Card",
+        "paymentCardDesc": "Accept credit/debit card payments",
+        "paymentManual": "Manual",
+        "paymentManualDesc": "Custom payment methods",
+        "customerReceiptSelectionDesc": "Let customers choose how to receive their receipt",
+        "offlinePaymentsDesc": "Process payments when the device is offline",
+        "customizeDesc": "Customize the POS terminal appearance and behavior",
+        "smartGridDesc": "Automatically arrange product grid for optimal display",
+        "printedReceiptsDesc": "Print receipts after each transaction",
+        "customerDisplaysDesc": "Show order details on customer-facing display",
+        "lockScreenHint": "Auto-lock the POS terminal after inactivity",
+        "minutes": "minutes",
+        "receiptPrinter": "Receipt Printer",
+        "receiptPrinterPlaceholder": "e.g. Star TSP143",
+        "ordersDesc": "Configure return policies for POS orders",
+        "returnRulesDesc": "Enable return and refund rules for in-store purchases",
+        "days": "days",
+        "allowWithoutReceiptDesc": "Allow customers to return items without a receipt",
+        "conditionNotes": "Return Condition Notes",
+        "conditionNotesPlaceholder": "e.g. Items must be in original packaging",
+        "conditionNotesHint": "Additional notes or conditions for returns",
+        "sound": "Sound Effects",
+        "soundDesc": "Configure audio feedback for POS terminal interactions",
+        "soundEnable": "Enable Sound Effects",
+        "soundEnableDesc": "Play audio cues during POS operations",
+        "soundVolume": "Volume",
+        "soundAddToCart": "Add to Cart",
+        "soundAddToCartDesc": "Beep when a product is added to cart",
+        "soundPayment": "Payment Accepted",
+        "soundPaymentDesc": "Sound when a payment is processed",
+        "soundOrderComplete": "Order Complete",
+        "soundOrderCompleteDesc": "Chime when an order is completed",
+        "soundError": "Error Alert",
+        "soundErrorDesc": "Alert sound for errors and stock warnings"
+      },
+      "locations": {
+        "title": "Inventory Locations",
+        "description": "Manage warehouse and store locations for inventory tracking",
+        "add": "Add New Location",
+        "new": "New Location",
+        "name": "Location Name",
+        "address": "Address",
+        "setAsDefault": "Set as default location",
+        "create": "Create Location",
+        "existing": "Existing Locations",
+        "empty": "No locations configured yet",
+        "emptyHint": "Add your first location to start tracking inventory across multiple places",
+        "active": "Active",
+        "default": "Default",
+        "defaultBadge": "Default",
+        "inactive": "Inactive",
+        "infoTitle": "About Locations",
+        "info1": "Locations are used to track inventory across multiple warehouses or stores",
+        "info2": "The default location is used for POS sales and new inventory",
+        "info3": "Inactive locations won't appear in product inventory forms",
+        "info4": "You cannot delete a location that is set as default"
+      },
+      "vendorPermissions": {
+        "title": "Vendor Permission Defaults",
+        "description": "Configure default permissions for new vendors",
+        "warning": "Enable Multi-Vendor Mode to configure vendor permissions.",
+        "manageProducts": "Manage Products",
+        "viewOrders": "View Orders",
+        "manageOrders": "Manage Orders",
+        "manageSettings": "Manage Store Settings",
+        "viewAnalytics": "View Analytics",
+        "manageDiscounts": "Manage Discounts",
+        "managePayouts": "Manage Payouts",
+        "accessPOS": "Access POS",
+        "save": "Save Vendor Permissions"
+      },
+      "storage": {
+        "title": "Storage Settings",
+        "description": "Configure file storage provider for media uploads",
+        "provider": "Storage Provider",
+        "accountId": "R2 Account ID",
+        "cloudflareR2": "Cloudflare R2",
+        "cloudflareR2Desc": "S3-compatible storage with no egress fees",
+        "awsS3": "AWS S3",
+        "awsS3Desc": "Amazon S3 object storage",
+        "endpoint": "R2 Endpoint URL",
+        "endpointHelp": "Find this in Cloudflare Dashboard → R2 → Your Bucket → Settings",
+        "region": "AWS Region",
+        "bucketName": "Bucket Name",
+        "accessKeyId": "Access Key ID",
+        "secretAccessKey": "Secret Access Key",
+        "publicUrl": "Public URL / CDN (Optional)",
+        "publicUrlHelp": "Custom domain or CDN URL for serving uploaded files",
+        "testConnection": "Test Connection",
+        "uploadSettings": "Upload Settings",
+        "maxFileSize": "Max File Size (MB)",
+        "pathPrefix": "Path Prefix",
+        "allowedMimeTypes": "Allowed File Types",
+        "save": "Save Storage Settings",
+        "connectionSuccess": "Storage connection successful!",
+        "connectionFailed": "Failed to connect to storage",
+        "chooseProvider": "Choose one active storage service",
+        "status": "Status",
+        "checking": "Checking...",
+        "connected": "Connected",
+        "notConnected": "Not connected",
+        "refresh": "Refresh",
+        "r2Config": "Cloudflare R2 Configuration",
+        "s3Config": "AWS S3 Configuration",
+        "switchDialog": {
+          "title": "Switch storage provider?",
+          "description": "Switching storage providers will make new uploads go to the new provider. Existing files remain in the previous provider and may require migration.",
+          "confirm": "Confirm",
+          "cancel": "Cancel"
+        },
+        "placeholder": {
+          "bucket": "my-bucket",
+          "region": "Select region",
+          "accessKeyId": "AKIA...",
+          "r2AccessKeyId": "Access Key ID",
+          "secretKey": "Enter secret key",
+          "r2SecretKey": "Your R2 Secret Access Key",
+          "r2AccountId": "1234567890abcdef",
+          "cdnUrl": "https://cdn.example.com",
+          "r2Url": "https://pub-xxxx.r2.dev",
+          "doAccessKey": "DO00..."
+        },
+        "help": {
+          "cloudfront": "CloudFront or custom domain for serving uploaded files",
+          "r2Domain": "R2.dev subdomain or custom domain for serving uploaded files",
+          "r2FindOverview": "Find this in Cloudflare Dashboard → R2 → Overview"
+        }
+      },
+      "analytics": {
+        "title": "Analytics Integration",
+        "description": "Connect external analytics services",
+        "googleAnalyticsId": "Google Analytics ID",
+        "googleAnalyticsIdPlaceholder": "G-XXXXXXXXXX",
+        "googleTagManagerId": "Google Tag Manager ID",
+        "googleTagManagerIdPlaceholder": "GTM-XXXXXXX",
+        "facebookPixelId": "Facebook Pixel ID",
+        "facebookPixelIdPlaceholder": "123456789012345",
+        "tiktokPixelId": "TikTok Pixel ID",
+        "tiktokPixelIdPlaceholder": "C1234567890ABCDEF",
+        "plausibleTitle": "Plausible Analytics",
+        "plausibleDomain": "Site Domain",
+        "plausibleDomainPlaceholder": "yourdomain.com",
+        "plausibleDomainHelp": "Enter just the domain, e.g. yourdomain.com (no https://)",
+        "plausibleApiKey": "API Key",
+        "plausibleApiKeyPlaceholder": "Enter your Plausible API key",
+        "plausibleApiKeyHelp": "Found in Plausible → Settings → API Keys",
+        "plausibleSelfHosted": "Self-hosted instance",
+        "plausibleBaseUrl": "Custom Instance URL",
+        "plausibleBaseUrlPlaceholder": "https://plausible.yourdomain.com",
+        "save": "Save Analytics Settings"
+      },
+      "abandonedCarts": {
+        "title": "Abandoned Carts"
+      },
+      "loadError": "Failed to load settings",
+      "unsavedChanges": {
+        "title": "Unsaved changes",
+        "description": "Discard your unsaved changes and switch sections?",
+        "confirm": "Discard",
+        "cancel": "Stay"
+      },
+      "ai": {
+        "title": "Usanidi wa AI",
+        "description": "Mahali pamoja pa kusanidi maudhui ya AI Studio, SEO, na uzalishaji wa picha.",
+        "statusConfigured": "Imesanidiwa",
+        "statusNotConfigured": "Haijasanidiwa",
+        "enabled": "Washa vipengele vya AI",
+        "enabledHint": "Huwasha au kuzima AI Studio na kila kitufe cha AI kwenye dashibodi nzima.",
+        "apiKey": "Ufunguo wa OpenAI API",
+        "apiKeySetPlaceholder": "••••••••  (umehifadhiwa — weka ufunguo mpya ili kubadilisha)",
+        "apiKeyHint": "Hutumiwa na AI Studio na Wakala wa Mauzo wa AI. Acha tupu ili kuendelea kutumia OPENAI_API_KEY kwenye mazingira ya seva.",
+        "testConnection": "Jaribu Muunganisho",
+        "testFailed": "Jaribio la muunganisho limeshindikana",
+        "textModel": "Modeli ya maandishi",
+        "imageModel": "Modeli ya picha",
+        "modelDefault": "Chaguo-msingi (inapendekezwa)",
+        "imageSize": "Ukubwa chaguo-msingi wa picha",
+        "imageQuality": "Ubora chaguo-msingi wa picha",
+        "imageQualityHint": "Ubora wa juu hugharimu zaidi kwa kila picha.",
+        "surfacesTitle": "Mahali AI inapatikana",
+        "surfacesHint": "Zima uzalishaji wa AI kwa maeneo maalum ya dashibodi.",
+        "surfaces": {
+          "products": "Bidhaa",
+          "categories": "Jamii",
+          "collections": "Mkusanyiko",
+          "brands": "Chapa",
+          "blogPosts": "Makala za blogu",
+          "contentPages": "Kurasa za maudhui",
+          "reviews": "Maoni na majibu",
+          "heroBanner": "Mabango ya hero"
+        },
+        "brandVoiceTitle": "Sauti ya chapa",
+        "brandVoiceHint": "Hutumika kwa uzalishaji wa maandishi wa AI wote isipokuwa ombi likibatilishe.",
+        "tone": "Sauti chaguo-msingi",
+        "toneNone": "Hakuna sauti chaguo-msingi",
+        "brandInstructions": "Mwongozo wa mtindo (hiari)",
+        "brandInstructionsPlaceholder": "mf. \"Andika kwa ajili ya wapenzi wa nje. Sentensi fupi. Epuka maneno ya kupindukiza.\"",
+        "accessTitle": "Ufikiaji na vikomo vya kila siku",
+        "accessHint": "Vikomo ni kwa kila mtumiaji kwa siku. 0 humaanisha bila kikomo.",
+        "staffEnabled": "Ruhusu akaunti za wafanyakazi",
+        "vendorsEnabled": "Ruhusu akaunti za wachuuzi",
+        "textLimit": "Uzalishaji wa maandishi / mtumiaji / siku",
+        "imageLimit": "Uzalishaji wa picha / mtumiaji / siku",
+        "imageLimitHint": "Picha zinagharimu zaidi — weka kikomo kwa maduka yanayoshirikiwa.",
+        "imageStyle": "Mwongozo wa mtindo wa picha (hiari)",
+        "imageStylePlaceholder": "mf. \"Mwanga laini wa asili, rangi za upande wowote za joto, vifaa vichache.\"",
+        "imageStyleHint": "Hutumika kwa picha zinazozalishwa (si za kuhaririwa) ili sura za bidhaa zibaki zinazoendana na chapa.",
+        "brandKitTitle": "Kifurushi cha chapa",
+        "brandKitHint": "Rangi na nembo zinazotumika wakati wa kuzalisha picha na kuhamisha ukubwa wa mitandao ya kijamii.",
+        "primaryColor": "Rangi kuu ya chapa",
+        "secondaryColor": "Rangi ya pili ya chapa",
+        "logoUrl": "URL ya nembo ya chapa",
+        "logoUrlHint": "Pakia nembo yako dukani, kisha bandika URL yake hapa. Hutumika kama muonekano wa hiari wa nembo kwenye picha zinazohamishwa kwa mitandao ya kijamii."
+      },
+      "saveChanges": "Hifadhi Mabadiliko"
+    },
+    "addToCart": "Add to Cart",
+    "initiateCheckout": "Initiate Checkout",
+    "purchase": "Purchase",
+    "insights": "Insights",
+    "funnelDropoff": "Funnel showing user drop-off from visit to purchase.",
+    "failedToLoadData": "Failed to load data",
+    "users": "Users",
+    "usersDesc": "Manage users and roles",
+    "vendors": "Vendors",
+    "vendorsDesc": "Manage seller accounts and approvals",
+    "products": "Products",
+    "categories": "Categories",
+    "orders": "Orders",
+    "reports": "Reports",
+    "pendingApprovals": "Pending Approvals",
+    "approveVendor": "Approve Vendor",
+    "rejectVendor": "Reject Vendor",
+    "adminPanel": "Admin Panel",
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "productsPage": {
+      "stats": {
+        "totalProducts": {
+          "title": "Total Products",
+          "description": "All catalog products"
+        },
+        "activeListings": {
+          "title": "Active Listings",
+          "description": "Live on storefront"
+        },
+        "draftProducts": {
+          "title": "Draft Products",
+          "description": "Pending publish"
+        },
+        "outOfStock": {
+          "title": "Out of Stock",
+          "description": "Need replenishment"
+        },
+        "inventoryUnits": {
+          "title": "Inventory Units",
+          "description": "Total sellable stock"
+        }
+      }
+    },
+    "collectionsPage": {
+      "stats": {
+        "totalCollections": {
+          "title": "Total Collections",
+          "description": "All collection groups"
+        },
+        "activeCollections": {
+          "title": "Active Collections",
+          "description": "Visible to customers"
+        },
+        "manualCollections": {
+          "title": "Manual Collections",
+          "description": "Curated by admin"
+        },
+        "onlineStore": {
+          "title": "Online Store",
+          "description": "Published to online channel"
+        },
+        "productsInCollections": {
+          "title": "Products in Collections",
+          "description": "Total assigned product entries"
+        }
+      }
+    },
+    "categoriesPage": {
+      "stats": {
+        "totalCategories": {
+          "title": "Total Categories",
+          "description": "All category records"
+        },
+        "activeCategories": {
+          "title": "Active Categories",
+          "description": "Visible in storefront"
+        },
+        "inactiveCategories": {
+          "title": "Inactive Categories",
+          "description": "Hidden from customers"
+        },
+        "parentCategories": {
+          "title": "Parent Categories",
+          "description": "Top-level taxonomy"
+        },
+        "assignedProducts": {
+          "title": "Assigned Products",
+          "description": "Products mapped to categories"
+        }
+      }
+    },
+    "inventoryPage": {
+      "stats": {
+        "trackedSkus": {
+          "title": "Tracked SKUs",
+          "description": "Products and variants tracked"
+        },
+        "lowStockSkus": {
+          "title": "Low Stock SKUs",
+          "description": "Stock between 1 and 10"
+        },
+        "outOfStock": {
+          "title": "Out of Stock",
+          "description": "Requires replenishment"
+        },
+        "onHandUnits": {
+          "title": "On Hand Units",
+          "description": "Total physical inventory"
+        },
+        "activeLocations": {
+          "title": "Active Locations",
+          "description": "Inventory locations enabled"
+        }
+      }
+    },
+    "productsDataTable": {
+      "title": "Products",
+      "searchPlaceholder": "Search products",
+      "rowActionsHeader": "Actions",
+      "empty": "No products found",
+      "columns": {
+        "product": "Product",
+        "category": "Category",
+        "uncategorized": "Uncategorized",
+        "status": "Status",
+        "inventory": "Inventory",
+        "price": "Price",
+        "availableIn": "Available In"
+      },
+      "channels": {
+        "inStore": "In store",
+        "online": "Online"
+      },
+      "tabs": {
+        "all": "All",
+        "active": "Active",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "filters": {
+        "vendors": "Vendors",
+        "tag": "Tag",
+        "statuses": "Statuses",
+        "all": "All",
+        "active": "Active",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "actions": {
+        "addProduct": "Add product",
+        "export": "Export",
+        "import": "Import",
+        "importExport": "Import / Export"
+      },
+      "bulkActions": {
+        "setActive": "Set active",
+        "setDraft": "Set draft",
+        "setArchived": "Set archived",
+        "delete": "Delete"
+      },
+      "rowActions": {
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Delete Product",
+          "description": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "deleteBulk": {
+          "title": "Delete Products",
+          "description": "Are you sure you want to delete {count} products? This action cannot be undone.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "updateStatus": {
+          "title": "Update Product Status",
+          "description": "Set {count} products to \"{status}\"?",
+          "confirm": "Update",
+          "cancel": "Cancel"
+        }
+      },
+      "toasts": {
+        "fetchError": "Failed to fetch products",
+        "deleteSingleSuccess": "Product deleted successfully",
+        "deleteSingleError": "Failed to delete product",
+        "deleteBulkSuccess": "{count} products deleted successfully",
+        "deleteBulkError": "Failed to delete some products",
+        "updateSuccess": "{count} products updated",
+        "updateError": "Failed to update {count} products"
+      }
+    },
+    "collectionsDataTable": {
+      "title": "Collections",
+      "searchPlaceholder": "Search collections...",
+      "rowActionsHeader": "Actions",
+      "empty": "No collections found",
+      "columns": {
+        "collection": "Collection",
+        "type": "Type",
+        "products": "Products",
+        "status": "Status",
+        "availableIn": "Available in"
+      },
+      "types": {
+        "manual": "Manual",
+        "automated": "Automated"
+      },
+      "channels": {
+        "inStore": "In store",
+        "online": "Online"
+      },
+      "tabs": {
+        "all": "All",
+        "active": "Active",
+        "draft": "Draft"
+      },
+      "filters": {
+        "type": "Type",
+        "all": "All",
+        "manual": "Manual",
+        "automated": "Automated"
+      },
+      "actions": {
+        "export": "Export",
+        "import": "Import",
+        "addCollection": "Add collection"
+      },
+      "bulkActions": {
+        "setActive": "Set active",
+        "setDraft": "Set draft",
+        "delete": "Delete"
+      },
+      "rowActions": {
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Delete Collection",
+          "description": "Are you sure you want to delete \"{name}\"? This will not delete the products in this collection.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "deleteBulk": {
+          "title": "Delete Collections",
+          "description": "Are you sure you want to delete {count} collections? This action cannot be undone.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "updateStatus": {
+          "title": "Update Collection Status",
+          "description": "Set {count} collections to \"{status}\"?",
+          "confirm": "Update",
+          "cancel": "Cancel"
+        }
+      },
+      "toasts": {
+        "fetchError": "Failed to fetch collections",
+        "deleteSingleSuccess": "Collection deleted successfully",
+        "deleteSingleError": "Failed to delete collection",
+        "deleteBulkSuccess": "{count} collections deleted successfully",
+        "deleteBulkError": "Failed to delete some collections",
+        "updateSuccess": "{count} collections updated",
+        "updateError": "Failed to update {count} collections"
+      }
+    },
+    "categoriesDataTable": {
+      "title": "Categories",
+      "searchPlaceholder": "Search categories...",
+      "rowActionsHeader": "Actions",
+      "empty": "No categories found",
+      "columns": {
+        "category": "Category",
+        "parent": "Parent",
+        "none": "-",
+        "products": "Products",
+        "status": "Status"
+      },
+      "tabs": {
+        "all": "All",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "status": {
+        "active": "active",
+        "inactive": "inactive"
+      },
+      "stats": {
+        "categories": "Categories",
+        "categoriesDescription": "Categories used by your products",
+        "active": "Active",
+        "activeDescription": "Visible product categories",
+        "inactive": "Inactive",
+        "inactiveDescription": "Hidden product categories",
+        "parentCategories": "Parent categories",
+        "parentCategoriesDescription": "Top-level category groups",
+        "assignedProducts": "Assigned products",
+        "assignedProductsDescription": "Your products with categories"
+      },
+      "actions": {
+        "export": "Export",
+        "import": "Import",
+        "addCategory": "Add category"
+      },
+      "bulkActions": {
+        "setActive": "Set active",
+        "setInactive": "Set inactive",
+        "delete": "Delete"
+      },
+      "rowActions": {
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "Delete Category",
+          "description": "Are you sure you want to delete \"{name}\"? Products in this category will need to be recategorized.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "deleteBulk": {
+          "title": "Delete Categories",
+          "description": "Are you sure you want to delete {count} categories? This action cannot be undone.",
+          "confirm": "Delete",
+          "cancel": "Cancel"
+        },
+        "activate": {
+          "title": "Activate Categories",
+          "confirm": "Activate"
+        },
+        "deactivate": {
+          "title": "Deactivate Categories",
+          "confirm": "Deactivate"
+        },
+        "updateStatus": {
+          "description": "Update {count} categories to {status}?",
+          "cancel": "Cancel"
+        }
+      },
+      "toasts": {
+        "fetchError": "Failed to fetch categories",
+        "deleteSingleSuccess": "Category deleted successfully",
+        "deleteSingleError": "Failed to delete category",
+        "deleteBulkSuccess": "{count} categories deleted successfully",
+        "deleteBulkError": "Failed to delete some categories",
+        "updateSuccess": "{count} categories updated",
+        "updateError": "Failed to update {count} categories"
+      }
+    },
+    "transfers": {
+      "status": {
+        "draft": "Draft",
+        "ready_to_ship": "Ready to ship",
+        "in_transit": "In transit",
+        "completed": "Completed",
+        "cancelled": "Cancelled"
+      },
+      "tabs": {
+        "all": "All"
+      },
+      "list": {
+        "title": "Transfers",
+        "subtitle": "Move inventory between locations with a Shopify-style transfer workflow.",
+        "createTransfer": "Create transfer",
+        "searchPlaceholder": "Search by transfer number, location, or reference",
+        "loading": "Loading transfers...",
+        "empty": "No transfers found",
+        "itemsSummary": "{units} units across {lines} lines",
+        "columns": {
+          "transfer": "Transfer",
+          "from": "From",
+          "to": "To",
+          "items": "Items",
+          "status": "Status",
+          "updated": "Updated"
+        }
+      },
+      "create": {
+        "title": "Create transfer",
+        "fromLocation": "From location",
+        "toLocation": "To location",
+        "addLocation": "Add location",
+        "selectSourceLocation": "Select source location",
+        "selectDestinationLocation": "Select destination location",
+        "reference": "Reference",
+        "referencePlaceholder": "PO, batch, or internal note",
+        "internalNote": "Internal note",
+        "internalNotePlaceholder": "Optional notes for your team",
+        "searchPlaceholder": "Search products or SKU",
+        "selectSourceToLoad": "Select a source location to load inventory",
+        "loadingInventory": "Loading inventory...",
+        "noVariants": "No available variants found in this location",
+        "selectionSummary": "{lines} lines selected, {units} total units.",
+        "cancel": "Cancel",
+        "createTransfer": "Create transfer",
+        "columns": {
+          "product": "Product",
+          "variant": "Variant",
+          "sku": "SKU",
+          "available": "Available",
+          "transferQty": "Transfer Qty"
+        },
+        "dialog": {
+          "addLocationTitle": "Add location",
+          "addLocationDescription": "Create a new location and use it as the {target} location.",
+          "locationName": "Location name",
+          "locationNamePlaceholder": "Dhaka Warehouse",
+          "addressOptional": "Address (optional)",
+          "addressPlaceholder": "Street, area, city",
+          "saveLocation": "Save location"
+        },
+        "toasts": {
+          "loadLocationsError": "Failed to load locations",
+          "selectBothLocations": "Select both source and destination locations",
+          "locationsMustDiffer": "Source and destination must be different",
+          "selectItems": "Add at least one item to transfer",
+          "createSuccess": "Transfer created",
+          "createError": "Failed to create transfer",
+          "locationNameRequired": "Location name is required",
+          "createLocationSuccess": "Location added",
+          "createLocationError": "Failed to create location"
+        }
+      },
+      "details": {
+        "loading": "Loading transfer...",
+        "backToTransfers": "Back to transfers",
+        "routeSummary": "{from} to {to}",
+        "reference": "Reference",
+        "note": "Note",
+        "defaultVariant": "Default",
+        "meta": {
+          "created": "Created",
+          "updated": "Last updated",
+          "totalUnits": "Total units"
+        },
+        "columns": {
+          "product": "Product",
+          "variant": "Variant",
+          "sku": "SKU",
+          "qty": "Qty"
+        },
+        "actions": {
+          "markReadyToShip": "Mark ready to ship",
+          "markInTransit": "Mark in transit",
+          "markCompleted": "Mark completed",
+          "cancelTransfer": "Cancel transfer"
+        },
+        "toasts": {
+          "loadError": "Failed to load transfer",
+          "updateSuccess": "Transfer updated",
+          "updateError": "Failed to update transfer"
+        }
+      }
+    },
+    "phrases": {
+      "all": "All",
+      "failed_to_fetch_customers": "Failed to fetch customers",
+      "delete_customer": "Delete customer",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "customer_deleted_successfully": "Customer deleted successfully",
+      "failed_to_delete_customer": "Failed to delete customer",
+      "delete_customers": "Delete Customers",
+      "failed_to_delete_some_customers": "Failed to delete some customers",
+      "update_account_status": "Update account status",
+      "update": "Update",
+      "customer": "Customer",
+      "unknown": "Unknown",
+      "account": "Account",
+      "active": "Active",
+      "inactive": "Inactive",
+      "banned": "Banned",
+      "loyalty_tier": "Loyalty tier",
+      "bronze": "Bronze",
+      "silver": "Silver",
+      "gold": "Gold",
+      "platinum": "Platinum",
+      "orders": "Orders",
+      "spent": "Spent",
+      "last_active": "Last active",
+      "tags": "Tags",
+      "": "-",
+      "tier": "Tier",
+      "tag": "Tag",
+      "export": "Export",
+      "add_customer": "Add customer",
+      "set_active": "Set active",
+      "set_inactive": "Set inactive",
+      "set_banned": "Set banned",
+      "view_details": "View details",
+      "edit": "Edit",
+      "customers": "Customers",
+      "search_by_name_or_email": "Search by name or email",
+      "actions": "Actions",
+      "no_customers_found": "No customers found",
+      "failed_to_fetch_staff": "Failed to fetch staff",
+      "failed_to_fetch_staff_members": "Failed to fetch staff members",
+      "remove_staff_member": "Remove staff member",
+      "remove": "Remove",
+      "staff_member_removed_successfully": "Staff member removed successfully",
+      "failed_to_remove_staff_member": "Failed to remove staff member",
+      "remove_staff_members": "Remove staff members",
+      "remove_all": "Remove all",
+      "failed_to_remove_some_staff_members": "Failed to remove some staff members",
+      "staff_member": "Staff Member",
+      "staff_status": "Staff Status",
+      "department": "Department",
+      "permissions": "Permissions",
+      "none": "None",
+      "joined": "Joined",
+      "add_staff": "Add staff",
+      "ban": "Ban",
+      "remove_from_staff": "Remove from staff",
+      "staff_members": "Staff Members",
+      "no_staff_members_found": "No staff members found",
+      "failed_to_fetch_vendors": "Failed to fetch vendors",
+      "failed_to_update_vendor": "Failed to update vendor",
+      "vendor_status_updated": "Vendor status updated",
+      "failed_to_update_vendor_status": "Failed to update vendor status",
+      "failed_to_update_account": "Failed to update account",
+      "vendor_account_status_updated": "Vendor account status updated",
+      "failed_to_update_account_status": "Failed to update account status",
+      "failed_to_delete_vendor": "Failed to delete vendor",
+      "vendor_deleted": "Vendor deleted",
+      "store_owner": "Store & Owner",
+      "unknown_owner": "Unknown owner",
+      "vendor_status": "Vendor Status",
+      "approved": "Approved",
+      "pending": "Pending",
+      "suspended": "Suspended",
+      "rejected": "Rejected",
+      "commission": "Commission",
+      "sales": "Sales",
+      "add_vendor": "Add Vendor",
+      "details": "Details",
+      "edit_vendor": "Edit vendor",
+      "visit_store": "Visit store",
+      "approve_vendor": "Approve vendor",
+      "suspend_vendor": "Suspend vendor",
+      "ban_account": "Ban account",
+      "activate_account": "Activate account",
+      "delete_vendor": "Delete vendor",
+      "vendors": "Vendors",
+      "search_vendors": "Search vendors...",
+      "no_vendors_found": "No vendors found",
+      "failed_to_load_discounts": "Failed to load discounts",
+      "discount_code_is_required": "Discount code is required",
+      "discount_value_must_be_greater_than_0": "Discount value must be greater than 0",
+      "end_date_is_required": "End date is required",
+      "failed_to_save_discount": "Failed to save discount",
+      "discount_created": "Discount created",
+      "discount_updated": "Discount updated",
+      "delete_discount": "Delete Discount",
+      "failed_to_delete_discount": "Failed to delete discount",
+      "discount_deleted": "Discount deleted",
+      "delete_discounts": "Delete Discounts",
+      "update_discount_status": "Update Discount Status",
+      "discount": "Discount",
+      "free_shipping": "Free shipping",
+      "no_label": "No label",
+      "type": "Type",
+      "percentage": "Percentage",
+      "fixed": "Fixed",
+      "value": "Value",
+      "status": "Status",
+      "expired": "Expired",
+      "usage": "Usage",
+      "schedule": "Schedule",
+      "import": "Import",
+      "export_will_be_available_soon": "Export will be available soon",
+      "import_will_be_available_soon": "Import will be available soon",
+      "add_discount": "Add discount",
+      "discounts": "Discounts",
+      "search_code_label_or_description": "Search code, label, or description",
+      "no_discounts_found": "No discounts found",
+      "edit_discount": "Edit Discount",
+      "create_discount": "Create Discount",
+      "configure_discount_rules_similar_to_shopify_coupon_settings": "Configure discount rules similar to Shopify coupon settings.",
+      "code": "Code",
+      "summer10": "SUMMER10",
+      "label": "Label",
+      "flash_sale": "Flash Sale",
+      "fixed_amount": "Fixed amount",
+      "minimum_order_amount": "Minimum order amount",
+      "maximum_discount_cap": "Maximum discount cap",
+      "optional": "Optional",
+      "total_usage_limit": "Total usage limit",
+      "per_customer_usage_limit": "Per-customer usage limit",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "description": "Description",
+      "optional_internal_note_for_this_discount": "Optional internal note for this discount",
+      "code_will_be_normalized_to_uppercase": "Code will be normalized to uppercase.",
+      "tax_is_calculated_after_discount_during_checkout": "Tax is calculated after discount during checkout.",
+      "expired_codes_are_automatically_rejected_in_checkout_validation": "Expired codes are automatically rejected in checkout validation.",
+      "saving": "Saving...",
+      "update_discount": "Update Discount",
+      "pos": "POS",
+      "manage_pos": "Manage POS",
+      "pos_create": "POS Create",
+      "pos_edit": "POS Edit",
+      "pos_delete": "POS Delete",
+      "manage_orders": "Manage Orders",
+      "create_orders": "Create Orders",
+      "edit_orders": "Edit Orders",
+      "delete_orders": "Delete Orders",
+      "products": "Products",
+      "manage_products": "Manage Products",
+      "create_products": "Create Products",
+      "edit_products": "Edit Products",
+      "delete_products": "Delete Products",
+      "manage_customers": "Manage Customers",
+      "create_customers": "Create Customers",
+      "edit_customers": "Edit Customers",
+      "inventory": "Inventory",
+      "manage_inventory": "Manage Inventory",
+      "create_inventory": "Create Inventory",
+      "edit_inventory": "Edit Inventory",
+      "delete_inventory": "Delete Inventory",
+      "analytics": "Analytics"
+    },
+    "customersPage": {
+      "stats": {
+        "totalCustomers": {
+          "title": "Total Customers",
+          "description": "All customer profiles"
+        },
+        "activeAccounts": {
+          "title": "Active Accounts",
+          "description": "Able to place orders"
+        },
+        "vipCustomers": {
+          "title": "VIP Customers",
+          "description": "Gold and platinum tiers"
+        },
+        "customerSpend": {
+          "title": "Customer Spend",
+          "description": "Lifetime total spending"
+        },
+        "avgSpendPerCustomer": {
+          "title": "Avg Spend / Customer",
+          "description": "Average customer value"
+        }
+      }
+    },
+    "staffPage": {
+      "stats": {
+        "totalStaff": {
+          "title": "Total Staff",
+          "description": "All staff members"
+        },
+        "activeStaff": {
+          "title": "Active Staff",
+          "description": "Currently active"
+        },
+        "withPosAccess": {
+          "title": "With POS Access",
+          "description": "Can use POS terminal"
+        },
+        "inactiveStaff": {
+          "title": "Inactive Staff",
+          "description": "Deactivated accounts"
+        }
+      }
+    },
+    "vendorsPage": {
+      "stats": {
+        "totalVendors": {
+          "title": "Total Vendors",
+          "description": "All registered stores"
+        },
+        "approvedVendors": {
+          "title": "Approved Vendors",
+          "description": "Currently selling"
+        },
+        "pendingReview": {
+          "title": "Pending Review",
+          "description": "Awaiting approval"
+        },
+        "flaggedVendors": {
+          "title": "Flagged Vendors",
+          "description": "Suspended or rejected"
+        },
+        "vendorSales": {
+          "title": "Vendor Sales",
+          "description": "Lifetime gross vendor sales"
+        }
+      }
+    },
+    "discountsPage": {
+      "stats": {
+        "totalDiscounts": {
+          "title": "Total Discounts",
+          "description": "All configured discount codes"
+        },
+        "activeDiscounts": {
+          "title": "Active Discounts",
+          "description": "Available at checkout"
+        },
+        "totalRedemptions": {
+          "title": "Total Redemptions",
+          "description": "Times used in orders"
+        },
+        "expiringIn7Days": {
+          "title": "Expiring in 7 Days",
+          "description": "Codes ending soon"
+        }
+      }
+    },
+    "customersDataTable": {
+      "thisCustomer": "this customer",
+      "deleteSingleDescription": "Are you sure you want to delete {name}? This action cannot be undone.",
+      "deleteBulkDescription": "Delete {count} selected customers? This action cannot be undone.",
+      "deleteBulkSuccess": "{count} customers deleted successfully",
+      "updateStatusDescription": "Set {count} selected customers to \"{status}\"?",
+      "updateSuccess": "{count} customers updated",
+      "updateError": "Failed to update {count} customers"
+    },
+    "staffDataTable": {
+      "removeSingleDescription": "Are you sure you want to remove {name} from staff? They will be reverted to a customer account.",
+      "removeBulkDescription": "Remove {count} selected staff members? They will be reverted to customer accounts.",
+      "removeBulkSuccess": "{count} staff members removed",
+      "updateStatusDescription": "Set {count} staff members to \"{status}\"?",
+      "updateSuccess": "{count} staff members updated"
+    },
+    "discountsDataTable": {
+      "deleteBulkDescription": "Are you sure you want to delete {count} discounts? This action cannot be undone.",
+      "deleteBulkSuccess": "{count} discounts deleted",
+      "deleteBulkError": "Failed to delete {count} discounts",
+      "updateStatusDescription": "Set {count} discounts to \"{status}\"?",
+      "updateSuccess": "{count} discounts updated",
+      "updateError": "Failed to update {count} discounts"
+    },
+    "onlineStoreThemePage": {
+      "badge": "Online Store",
+      "title": "Themes",
+      "description": "Select a storefront theme built on industry-standard ecommerce patterns for clarity, speed, and conversion.",
+      "currentTheme": "Current Theme",
+      "comingSoon": "Coming Soon",
+      "active": "Active",
+      "themes": {
+        "essential": {
+          "name": "Essential",
+          "description": "Balanced storefront for general retail catalogs and multi-category merchandising.",
+          "styleNote": "Clean hierarchy, fast scanning, and promotion-ready layouts."
+        },
+        "electronics": {
+          "name": "Electronics",
+          "description": "High-spec product storytelling with comparison-friendly cards and performance callouts.",
+          "styleNote": "Optimized for technical products, accessories, and feature-heavy PDP flows."
+        },
+        "luxe": {
+          "name": "Luxe",
+          "description": "Editorial-style visual treatment for premium fashion, beauty, and lifestyle brands.",
+          "styleNote": "Focuses on imagery-first merchandising and refined collection narratives."
+        }
+      }
+    },
+    "homePageBuilder": {
+      "loading": "Loading home page builder...",
+      "title": "Page Builder",
+      "subtitle": "Drag to reorder - toggle visibility - edit content",
+      "preview": "Preview",
+      "save": "Save",
+      "saving": "Saving...",
+      "hidden": "Hidden",
+      "allChangesSaved": "All changes are saved. Home page is fully synced with this editor.",
+      "sections": {
+        "hero": {
+          "title": "Hero",
+          "subtitle": "Cover image slider"
+        },
+        "featuredCategories": {
+          "title": "Featured Categories",
+          "subtitle": "Top-level categories grid"
+        },
+        "newArrivals": {
+          "title": "New Arrivals",
+          "subtitle": "Latest products section title"
+        },
+        "promoBanners": {
+          "title": "Promo Banners",
+          "subtitle": "Two promotional cards below arrivals"
+        },
+        "promotionsOffers": {
+          "title": "Promotions & Offers",
+          "subtitle": "Bento grid of feature cards and offers"
+        },
+        "topVendors": {
+          "title": "Top Vendors",
+          "subtitle": "Showcase highest-rated approved vendors"
+        },
+        "featuredProducts": {
+          "title": "Featured Products",
+          "subtitle": "Product discovery section heading"
+        },
+        "topArticles": {
+          "title": "Top Articles",
+          "subtitle": "Latest published blog posts carousel"
+        }
+      },
+      "row": {
+        "dragAria": "Drag {title}",
+        "hideAria": "Hide {title}",
+        "showAria": "Show {title}",
+        "editAria": "Edit {title}"
+      },
+      "editor": {
+        "heroSlides": "Hero Slides",
+        "slide": "Slide",
+        "label": "Label",
+        "title": "Title",
+        "description": "Description",
+        "heroSideBanners": "Hero Side Banners",
+        "banner": "Banner",
+        "eyebrow": "Eyebrow",
+        "titleLine1": "Title line 1",
+        "titleLine2": "Title line 2",
+        "ctaLabel": "CTA label",
+        "imagePath": "Image path",
+        "imageAlt": "Image alt",
+        "addSlide": "Add slide",
+        "removeSlide": "Remove slide",
+        "coverImage": "Cover image",
+        "linkUrl": "Link URL (optional)",
+        "heroHighlights": "Hero Highlights",
+        "highlight": "Highlight",
+        "sectionTitle": "Section Title",
+        "sectionSubtitle": "Section Subtitle",
+        "newArrivalsTitlePlaceholder": "New Arrivals.",
+        "featuredCategoriesTitlePlaceholder": "Featured Categories.",
+        "categoryLimit": "Max categories",
+        "topVendorsTitlePlaceholder": "Top Vendors",
+        "topVendorsLimit": "Max vendors",
+        "optionalSubtitlePlaceholder": "Optional subtitle",
+        "promoBanner": "Promo Banner",
+        "buttonLabel": "Button label",
+        "featuredProductsHeading": "Featured Products Heading",
+        "featuredProductsPlaceholder": "Leave empty for default text",
+        "topArticlesTitlePlaceholder": "Top Articles",
+        "topArticlesLimit": "Max articles",
+        "heroUploadTitle": "Drag and drop cover image here, or click to browse",
+        "heroUploadDescription": "Images only. Paste with Ctrl+V.",
+        "heroSizeGuide": "Recommended size: 1360 x 314 px",
+        "promotionsOffers": {
+          "slot": {
+            "tallLeft": "Tall left",
+            "tallMiddle": "Tall middle",
+            "squareTopRight1": "Square top-right",
+            "squareTopRight2": "Square top-right (with arrow)",
+            "wideBottomRight": "Wide bottom banner"
+          },
+          "subtitle": "Subtitle (e.g. EcoVolt)",
+          "discount": "Discount label (e.g. 15% OFF!)",
+          "showArrow": "Show arrow icon",
+          "theme": "Theme",
+          "card": "Card",
+          "savedToCard": "Imehifadhiwa kwenye picha ya kadi"
+        }
+      },
+      "toasts": {
+        "loadError": "Failed to load homepage editor data",
+        "saveSuccess": "Homepage sections saved successfully",
+        "saveError": "Failed to save homepage sections"
+      }
+    },
+    "staffDashboardPage": {
+      "title": "Staff Dashboard",
+      "subtitle": "Quick access to assigned modules",
+      "openCta": "Open",
+      "noModulesTitle": "No modules assigned",
+      "noModulesDescription": "You don't have access to any staff modules yet. Contact an admin to assign permissions."
+    },
+    "staffDashboard": {
+      "quickAccess": "Quick access",
+      "todaysSnapshot": "Today's Snapshot",
+      "todaysRegister": "Today's Register",
+      "recentPosSales": "Recent POS sales",
+      "recentPosSalesHint": "Your recent point of sale transactions",
+      "noPosSales": "No POS sales today",
+      "recentOrders": "Recent Orders",
+      "recentOrdersSubtitle": "Latest orders from your store",
+      "ordersToday": "Orders today",
+      "revenueToday": "Revenue today",
+      "itemsToday": "Items sold today",
+      "customersToday": "New customers today",
+      "posSalesToday": "POS sales today",
+      "posRevenueToday": "POS revenue today",
+      "posItemsToday": "POS items today",
+      "averageSale": "Average sale",
+      "items": "Items",
+      "time": "Time",
+      "topProducts": "Top selling products",
+      "last30Days": "Last 30 days",
+      "noTopProducts": "No products sold yet",
+      "unitsSold": "sold",
+      "lowStock": "Low stock alerts",
+      "lowStockHint": "Products with inventory warnings",
+      "noLowStock": "All products are well stocked",
+      "outOfStock": "Out of stock",
+      "left": "left",
+      "latestCustomers": "Latest customers",
+      "latestCustomersHint": "Recently registered customers",
+      "noLatestCustomers": "No new customers yet"
+    },
+    "reviewsPage": {
+      "title": "Reviews",
+      "searchPlaceholder": "Search reviews",
+      "outOfReviews": "— of {count} reviews",
+      "thisWeek": "this week",
+      "overallPerformance": "Overall performance",
+      "performance": {
+        "excellent": "Excellent",
+        "good": "Good",
+        "average": "Average",
+        "poor": "Poor",
+        "none": "No data"
+      },
+      "table": {
+        "product": "Product",
+        "reviewer": "Reviewer",
+        "review": "Review",
+        "date": "Date",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "tabs": {
+        "all": "All",
+        "published": "Published",
+        "onHold": "On hold",
+        "withReply": "Replied",
+        "noReply": "Awaiting reply"
+      },
+      "filters": {
+        "status": "Status",
+        "rating": "Rating"
+      },
+      "status": {
+        "published": "Published",
+        "onHold": "On hold"
+      },
+      "verified": "Verified customer",
+      "unknownProduct": "Unknown product",
+      "youReplied": "You replied with",
+      "reply": "Reply",
+      "editReply": "Edit reply",
+      "replyToReview": "Reply to review",
+      "replyHint": "Your reply is shown publicly under the review on the storefront.",
+      "yourReply": "Your reply",
+      "aiReplyPlaceholder": "Andika jibu kwa ukaguzi huu…",
+      "replyPlaceholder": "Thanks for the feedback…",
+      "sendReply": "Send reply",
+      "removeReply": "Remove reply",
+      "viewOnStore": "View on store",
+      "publish": "Publish",
+      "unpublish": "Unpublish",
+      "putOnHold": "Put on hold",
+      "empty": "No reviews yet",
+      "delete": {
+        "title": "Delete review",
+        "description": "This will permanently delete the review and recompute the product rating."
+      },
+      "bulk": {
+        "publish": "Publish",
+        "onHold": "Put on hold",
+        "deleteTitle": "Delete reviews",
+        "deleteDescription": "Delete {count} reviews? This cannot be undone.",
+        "updated": "Updated {count} reviews",
+        "deleted": "Deleted {count} reviews"
+      },
+      "toast": {
+        "published": "Review published",
+        "onHold": "Review put on hold",
+        "deleted": "Review deleted",
+        "replySent": "Reply sent",
+        "replyUpdated": "Reply updated",
+        "replyRemoved": "Reply removed"
+      },
+      "starsAriaLabel": "{value} stars",
+      "reviewImageAlt": "Review image {index}"
+    },
+    "paymentsOverviewPage": {
+      "title": "Payments",
+      "subtitle": "Monitor transactions and refunds.",
+      "subtitleMultiVendor": "Monitor transactions, refunds, and payout health.",
+      "actions": {
+        "transactions": "Transactions",
+        "refresh": "Refresh"
+      },
+      "metrics": {
+        "paidRevenue": "Paid Revenue",
+        "refundedAmount": "Refunded Amount",
+        "pendingPayments": "Pending Payments",
+        "refundedOrders": "Refunded Orders",
+        "pendingPayoutAmount": "Pending Payout Amount",
+        "paidPayoutAmount": "Paid Payout Amount"
+      },
+      "gatewayHealth": {
+        "title": "Gateway Health",
+        "disabled": "disabled",
+        "connected": "connected",
+        "needsSetup": "needs setup"
+      },
+      "gateways": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cashOnDelivery": "Cash on Delivery"
+      },
+      "recentTransactions": {
+        "title": "Recent Transactions",
+        "columns": {
+          "order": "Order",
+          "type": "Type",
+          "provider": "Provider",
+          "status": "Status",
+          "amount": "Amount",
+          "date": "Date"
+        },
+        "empty": "No transactions yet."
+      },
+      "transactionTypes": {
+        "charge": "Charge",
+        "refund": "Refund",
+        "adjustment": "Adjustment"
+      },
+      "transactionStatuses": {
+        "pending": "Pending",
+        "succeeded": "Succeeded",
+        "failed": "Failed",
+        "cancelled": "Cancelled"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "razorpay": "Razorpay",
+        "paystack": "Paystack",
+        "cod": "Cash on Delivery",
+        "cash": "Cash",
+        "manual": "Manual",
+        "pos_card": "POS Card",
+        "pos_cash": "POS Cash"
+      }
+    },
+    "payoutsPage": {
+      "title": "Payouts",
+      "subtitle": "Create vendor settlement runs and track payout lifecycle.",
+      "createSection": {
+        "title": "Create Payout",
+        "selectVendor": "Select vendor",
+        "periodStart": "Period start",
+        "periodEnd": "Period end",
+        "creating": "Creating...",
+        "create": "Create",
+        "optionalNote": "Optional note"
+      },
+      "listSection": {
+        "title": "Payout Runs",
+        "searchPlaceholder": "Search payout number",
+        "allStatuses": "All statuses",
+        "columns": {
+          "payout": "Payout",
+          "vendor": "Vendor",
+          "status": "Status",
+          "amount": "Amount",
+          "period": "Period",
+          "details": "Details"
+        },
+        "open": "Open",
+        "empty": "No payouts found."
+      },
+      "statuses": {
+        "pending": "Pending",
+        "processing": "Processing",
+        "paid": "Paid",
+        "failed": "Failed",
+        "cancelled": "Cancelled"
+      },
+      "pagination": {
+        "pageOf": "Page {page} of {totalPages}"
+      },
+      "toast": {
+        "requiredFields": "Vendor, period start, and period end are required.",
+        "createSuccess": "Payout created.",
+        "createError": "Failed to create payout"
+      }
+    },
+    "paymentTransactionsPage": {
+      "title": "Payment Transactions",
+      "subtitle": "Review all charge, refund, and adjustment events.",
+      "filters": {
+        "title": "Filters",
+        "searchPlaceholder": "Search by order or external ID",
+        "allStatuses": "All Statuses",
+        "allTypes": "All Types",
+        "allProviders": "All Providers"
+      },
+      "table": {
+        "columns": {
+          "order": "Order",
+          "type": "Type",
+          "status": "Status",
+          "provider": "Provider",
+          "gross": "Gross",
+          "net": "Net",
+          "date": "Date",
+          "details": "Details"
+        },
+        "viewOrder": "View Order",
+        "empty": "No transactions found."
+      },
+      "pagination": {
+        "pageOf": "Page {page} of {totalPages}"
+      },
+      "transactionTypes": {
+        "charge": "Charge",
+        "refund": "Refund",
+        "adjustment": "Adjustment"
+      },
+      "transactionStatuses": {
+        "succeeded": "Succeeded",
+        "pending": "Pending",
+        "failed": "Failed",
+        "cancelled": "Cancelled"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cod": "Cash on Delivery",
+        "cash": "Cash",
+        "manual": "Manual"
+      }
+    },
+    "seoChecklist": {
+      "title": "Orodha ya ukaguzi ya SEO",
+      "score": "Alama",
+      "messages": {
+        "titleMissing": "Ongeza kichwa cha ukurasa — injini za utafutaji hazina kitu cha kuonyesha.",
+        "titleShort": "Kichwa ni kifupi; herufi 30–70 hufanya vizuri zaidi.",
+        "titleLong": "Kichwa ni kirefu mno na kitakatwa kwenye matokeo.",
+        "titleGood": "Urefu wa kichwa unaonekana mzuri.",
+        "metaMissing": "Ongeza maelezo ya meta — matokeo yataonyesha maandishi ya nasibu ya ukurasa.",
+        "metaAuto": "Maelezo ya meta yamejazwa moja kwa moja kutoka kwa maudhui; andika yako mwenyewe kwa ubofyaji bora.",
+        "metaShort": "Maelezo ya meta ni mafupi; herufi 70–160 hufanya vizuri zaidi.",
+        "metaLong": "Maelezo ya meta ni marefu mno na yatakatwa.",
+        "metaGood": "Urefu wa maelezo ya meta unaonekana mzuri.",
+        "handleMissing": "Ongeza handle ya URL.",
+        "handleAuto": "Handle imetengenezwa moja kwa moja kutoka kwa kichwa; ikague.",
+        "handleMessy": "Handle ina herufi zisizo za kawaida au urefu usiofaa; iweke fupi na yenye hyphen.",
+        "handleGood": "Handle ya URL inaonekana safi.",
+        "contentThin": "Maudhui ni machache; maudhui marefu na yenye manufaa hufanya vizuri zaidi.",
+        "contentGood": "Kina cha maudhui kinaonekana kizuri.",
+        "tagsMissing": "Ongeza tagi chache ili kuboresha ugunduzi wa ndani.",
+        "tagsGood": "Tagi zipo."
+      }
+    }
+  },
+  "vendor": {
+    "vendorDashboard": "Vendor Dashboard",
+    "dashboardSubtitle": "Manage your store and products",
+    "myProducts": "My Products",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "productManagement": "Product Management",
+    "orderManagement": "Order Management",
+    "analytics": "Analytics",
+    "earnings": "Earnings",
+    "totalRevenue": "Total Revenue",
+    "netEarnings": "Net Earnings",
+    "totalOrders": "Total Orders",
+    "activeProducts": "Active Products",
+    "totalProducts": "Total Products",
+    "commission": "Commission Paid",
+    "pendingOrders": "Pending Orders",
+    "salesChart": "Sales (Last 30 Days)",
+    "recentOrders": "Recent Orders",
+    "topProducts": "Top Selling Products",
+    "productStatus": "Product Status",
+    "storeName": "Store Name",
+    "storeDescription": "Store Description",
+    "storeSettings": "Store Settings",
+    "becomeVendor": "Become a Vendor",
+    "becomeVendorDesc": "Start selling your products on our marketplace. Apply now and reach thousands of customers.",
+    "applicationForm": "Vendor Application",
+    "applicationDesc": "Fill out the form below to apply as a vendor. We'll review your application within 2-3 business days.",
+    "vendorPanel": "Vendor Panel",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "settings": "Settings",
+    "goToDashboard": "Go to Vendor Dashboard",
+    "overview": "Overview",
+    "management": "Management",
+    "settingsDesc": "Manage your store settings and preferences",
+    "storeProfile": "Store Profile",
+    "storeProfileDesc": "Manage your store details and branding",
+    "payment": "Payment",
+    "paymentSettings": "Payment Settings",
+    "paymentSettingsDesc": "Manage your payment methods and payouts",
+    "notificationSettings": "Notification Settings",
+    "notificationSettingsDesc": "Manage your email and push notifications",
+    "accountSettings": "Account Settings",
+    "accountSettingsDesc": "Manage your personal account details",
+    "registration": {
+      "title": "Start Selling on Minimart",
+      "subtitle": "Join thousands of successful sellers and reach millions of customers",
+      "welcomeTitle": "Welcome To Store",
+      "welcomeSubtitle": "Setup Your Store Information",
+      "confirmPassword": "Confirm Password",
+      "selectCountry": "Select Country",
+      "selectState": "Select State",
+      "addressPlaceholder": "Address",
+      "pincodePlaceholder": "Pincode",
+      "phonePlaceholder": "Phone Number",
+      "startSelling": "Start Selling Today",
+      "joinUs": "Join thousands of successful sellers",
+      "submitButton": "Submit",
+      "stepAccountTitle": "Create Your Account",
+      "stepAccountDesc": "Sign up to get started as a seller",
+      "passwordHelper": "Minimum 8 characters required",
+      "step1Title": "Business Information",
+      "step1Desc": "Tell us about your store",
+      "step2Title": "Business Address",
+      "step2Desc": "Where is your business located?",
+      "step3Title": "Social & Contact",
+      "step3Desc": "Help customers find you",
+      "step4Title": "Bank Details",
+      "step4Desc": "Set up payments (optional)",
+      "step5Title": "Review & Submit",
+      "step5Desc": "Confirm your details",
+      "storeNameLabel": "Store Name",
+      "storeNamePlaceholder": "e.g., My Awesome Store",
+      "storeNameHelper": "This will be your public store name on the marketplace",
+      "storeDescLabel": "Store Description",
+      "storeDescPlaceholder": "Tell customers what makes your store special...",
+      "storeDescHelper": "Describe your products and what customers can expect",
+      "storeLogoLabel": "Store Logo URL",
+      "storeLogoPlaceholder": "https://example.com/logo.png",
+      "storeLogoHelper": "Optional: URL to your store logo",
+      "storeBannerLabel": "Store Banner URL",
+      "storeBannerPlaceholder": "https://example.com/banner.png",
+      "storeBannerHelper": "Optional: URL to your store banner (1200x300px recommended)",
+      "streetLabel": "Street Address",
+      "streetPlaceholder": "123 Main Street",
+      "cityLabel": "City",
+      "cityPlaceholder": "New York",
+      "stateLabel": "State/Province",
+      "statePlaceholder": "NY",
+      "postalCodeLabel": "Postal/ZIP Code",
+      "postalCodePlaceholder": "10001",
+      "countryLabel": "Country",
+      "countryPlaceholder": "United States",
+      "businessPhoneLabel": "Business Phone",
+      "businessPhonePlaceholder": "+1 (555) 123-4567",
+      "websiteLabel": "Website",
+      "websitePlaceholder": "https://yourwebsite.com",
+      "websiteHelper": "Your existing website or online presence",
+      "facebookLabel": "Facebook",
+      "facebookPlaceholder": "https://facebook.com/yourstore",
+      "instagramLabel": "Instagram",
+      "instagramPlaceholder": "https://instagram.com/yourstore",
+      "twitterLabel": "Twitter/X",
+      "twitterPlaceholder": "https://twitter.com/yourstore",
+      "socialLinksHelper": "Add your social profiles to build trust with customers",
+      "accountNameLabel": "Account Holder Name",
+      "accountNamePlaceholder": "John Doe",
+      "accountNumberLabel": "Account Number",
+      "accountNumberPlaceholder": "1234567890",
+      "bankNameLabel": "Bank Name",
+      "bankNamePlaceholder": "Bank of America",
+      "routingNumberLabel": "Routing Number",
+      "routingNumberPlaceholder": "123456789",
+      "swiftCodeLabel": "SWIFT/BIC Code",
+      "swiftCodePlaceholder": "BOFAUS3N",
+      "bankDetailsHelper": "You can add or update bank details later from your seller dashboard",
+      "skipBankDetails": "Skip for now",
+      "reviewDetails": "Review Your Application",
+      "reviewHelper": "Please review your information before submitting",
+      "submitApplication": "Submit Application",
+      "submitting": "Submitting...",
+      "applicationSubmitted": "Application Submitted!",
+      "applicationSubmittedDesc": "We'll review your application within 2-3 business days. You'll receive an email notification once approved.",
+      "nextStep": "Continue",
+      "previousStep": "Back",
+      "saveDraft": "Save Draft",
+      "draftSaved": "Draft saved",
+      "requiredField": "This field is required",
+      "minChars": "Minimum {count} characters required",
+      "invalidUrl": "Please enter a valid URL",
+      "whyJoin": "Why sell with us?",
+      "benefit1Title": "Reach Millions",
+      "benefit1Desc": "Access our growing customer base and expand your market",
+      "benefit2Title": "Low Commission",
+      "benefit2Desc": "Competitive 10% commission rate on sales",
+      "benefit3Title": "Easy Setup",
+      "benefit3Desc": "Get started in minutes with our simple onboarding",
+      "benefit4Title": "Powerful Tools",
+      "benefit4Desc": "Dashboard, analytics, and marketing tools included",
+      "benefit5Title": "Fast Payouts",
+      "benefit5Desc": "Weekly payouts directly to your bank account",
+      "benefit6Title": "24/7 Support",
+      "benefit6Desc": "Dedicated seller support team always ready to help",
+      "trustedSellers": "1,000+ trusted sellers",
+      "averageRating": "4.8 average seller rating",
+      "totalProductsListed": "50,000+ products listed",
+      "loginRequired": "Login Required",
+      "loginRequiredDesc": "Please log in or create an account to apply as a vendor.",
+      "alreadyApplied": "You've already submitted an application",
+      "applicationPending": "Application Under Review",
+      "applicationPendingDesc": "Your vendor application is being reviewed. We'll notify you once it's approved.",
+      "applicationApproved": "Application Approved!",
+      "applicationApprovedDesc": "Congratulations! Your vendor account is active. Start adding products now.",
+      "applicationRejected": "Application Rejected",
+      "applicationRejectedDesc": "Unfortunately, your application was not approved. Please contact support for more information.",
+      "applicationSuspended": "Account Suspended",
+      "applicationSuspendedDesc": "Your vendor account has been suspended. Please contact support.",
+      "businessInfo": "Business Information",
+      "addressInfo": "Address Information",
+      "socialInfo": "Social & Contact",
+      "bankInfo": "Bank Details",
+      "optional": "Optional",
+      "checkYourStats": "Check your store performance",
+      "statsDescription": "View sales, orders, and analytics from your dashboard."
+    },
+    "viewStore": "View Store",
+    "viewOrders": "Orders",
+    "productSummary": "Product Status",
+    "active": "Active",
+    "byStatus": "By Status",
+    "unableToLoadData": "Unable to load analytics data. Make sure you are a registered vendor.",
+    "pending": "pending",
+    "productsPage": {
+      "subtitle": "Manage your products",
+      "description": "View and manage your store products"
+    },
+    "productsTable": {
+      "deleteConfirm": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+      "productDeleted": "Product deleted successfully",
+      "deleteFailed": "Failed to delete product",
+      "status": "Status",
+      "allStatus": "All Status",
+      "image": "Image",
+      "name": "Name",
+      "price": "Price",
+      "stock": "Stock",
+      "actions": "Actions",
+      "notAvailable": "N/A",
+      "uncategorized": "Uncategorized",
+      "view": "View"
+    },
+    "status": {
+      "active": "Active",
+      "published": "Published",
+      "draft": "Draft",
+      "unlisted": "Unlisted",
+      "archived": "Archived",
+      "pending": "Pending",
+      "processing": "Processing",
+      "shipped": "Shipped",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    },
+    "ordersTable": {
+      "title": "Orders",
+      "loadFailed": "Failed to load orders",
+      "updateFailed": "Failed to update order",
+      "updated": "Order updated",
+      "guest": "Guest",
+      "itemCount": "{count} item(s)",
+      "searchPlaceholder": "Search by order number",
+      "empty": "No orders found",
+      "createOrder": "Create order",
+      "cancelOrderTitle": "Cancel order",
+      "cancelOrderDescription": "Are you sure you want to cancel this order?",
+      "cancelOrderConfirm": "Cancel order",
+      "cancelOrderKeep": "Keep order",
+      "cancelOrdersTitle": "Cancel orders",
+      "cancelOrdersDescription": "Cancel {count} selected orders?",
+      "cancelOrdersConfirm": "Cancel orders",
+      "cancelOrdersKeep": "Keep orders",
+      "bulkUpdatedAll": "Updated {count} orders",
+      "bulkUpdatedSome": "Updated {success} of {total} orders",
+      "bulkUpdatedNone": "No selected orders could be updated",
+      "bulkUpdateFailed": "Failed to update selected orders",
+      "columns": {
+        "order": "Order",
+        "customer": "Customer",
+        "date": "Date",
+        "payment": "Payment",
+        "fulfillment": "Fulfillment",
+        "items": "Items",
+        "netSales": "Net sales",
+        "actions": "Actions"
+      },
+      "tabs": {
+        "all": "All",
+        "unfulfilled": "Unfulfilled",
+        "unpaid": "Unpaid",
+        "open": "Open",
+        "archived": "Archived"
+      },
+      "filters": {
+        "fulfillment": "Fulfillment"
+      },
+      "actions": {
+        "markProcessing": "Mark processing",
+        "markShipped": "Mark shipped",
+        "markDelivered": "Mark delivered",
+        "cancel": "Cancel",
+        "viewDetails": "View details",
+        "startProcessing": "Start processing",
+        "cancelOrder": "Cancel order"
+      },
+      "shipDialog": {
+        "title": "Mark as shipped",
+        "description": "Add an optional tracking number before shipping this order.",
+        "trackingLabel": "Tracking number",
+        "trackingPlaceholder": "Enter tracking number",
+        "confirm": "Confirm shipment"
+      }
+    },
+    "paymentStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "partially_paid": "Partially paid",
+      "refunded": "Refunded",
+      "partially_refunded": "Partially refunded"
+    },
+    "fulfillmentStatus": {
+      "pending": "Unfulfilled",
+      "processing": "Processing",
+      "shipped": "In transit",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    },
+    "settingsForm": {
+      "logoUrl": "Logo URL",
+      "bannerUrl": "Banner URL",
+      "website": "Website",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "X / Twitter",
+      "accountName": "Account Name",
+      "accountNumber": "Account Number",
+      "bankName": "Bank Name",
+      "routingNumber": "Routing Number",
+      "swiftCode": "SWIFT Code",
+      "payoutSchedule": "Payout Schedule",
+      "payoutWeekly": "Weekly",
+      "payoutBiweekly": "Biweekly",
+      "payoutMonthly": "Monthly",
+      "minimumPayoutAmount": "Minimum Payout Amount",
+      "newOrders": "New Orders",
+      "newOrdersDesc": "Receive alerts when customers place a new order.",
+      "orderStatusUpdates": "Order Status Updates",
+      "orderStatusUpdatesDesc": "Get reminders and status updates for your active orders.",
+      "lowStockAlerts": "Low Stock Alerts",
+      "lowStockAlertsDesc": "Notify me when products are running low.",
+      "productTipsAndUpdates": "Product Tips and Updates",
+      "productTipsAndUpdatesDesc": "Receive product announcements and vendor improvement tips.",
+      "changePasswordDesc": "Update your password to keep your vendor account secure.",
+      "passwordMinLength": "New password must be at least 8 characters",
+      "passwordsDoNotMatch": "Passwords do not match"
+    },
+    "untitledProduct": "Untitled Product",
+    "dashboardWidgets": {
+      "noProductsYet": "No products yet",
+      "noImage": "No img",
+      "soldCount": "{count} sold"
+    },
+    "charts": {
+      "noDataAvailable": "No data available",
+      "unknown": "Unknown",
+      "ordersCount": "{count} orders",
+      "noRecentOrders": "No recent orders"
+    },
+    "payouts": "Payouts",
+    "storefront": {
+      "title": "{storeName}",
+      "subtitle": "Browse products from this vendor storefront.",
+      "noProducts": "No products found for this vendor.",
+      "notFound": "Vendor storefront not found."
+    }
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "blog": "Blog",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "shippingInfo": "Shipping Info",
+    "returns": "Returns",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "accessibility": "Accessibility",
+    "newsletter": "Newsletter",
+    "subscribeDescription": "Subscribe to our newsletter for updates and exclusive offers.",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Enter your email"
+  },
+  "errors": {
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDescription": "The page you're looking for doesn't exist or has been moved.",
+    "redirectMessage": "We will help you find your way back to the homepage.",
+    "serverError": "Server Error",
+    "serverErrorDescription": "Something went wrong on our end. Please try again later.",
+    "unauthorized": "Unauthorized",
+    "unauthorizedDescription": "You don't have permission to access this page.",
+    "needAccessTitle": "Need access?",
+    "needAccessDescription": "Contact {email}.",
+    "networkError": "Network Error",
+    "networkErrorDescription": "Please check your internet connection and try again.",
+    "needHelp": "Need help? Check the documentation or contact support.",
+    "adminPageNotFoundDescription": "The admin page you're looking for doesn't exist or has been moved to a different location.",
+    "vendorPageNotFoundDescription": "The vendor page you're looking for doesn't exist or may have been moved.",
+    "storePageNotFoundDescription": "We couldn't find the page you're looking for. It might have been moved or no longer exists.",
+    "stillNeedHelp": "Still can't find what you need? Contact our support team."
+  },
+  "pos": {
+    "searchProducts": "Search products...",
+    "allProducts": "All",
+    "noProducts": "No products found",
+    "noProductsHint": "Try a different search or category",
+    "variants": "variants",
+    "selectVariant": "Select a variant",
+    "inStock": "in stock",
+    "outOfStock": "Out of stock",
+    "currentSale": "Current Sale",
+    "clearCart": "Clear",
+    "emptyCart": "No items in cart",
+    "addCustomer": "Add customer",
+    "searchCustomers": "Search by name, email, or phone...",
+    "addNote": "Add a note to this order...",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "charge": "Charge",
+    "billAndPayment": "Bill & Payment",
+    "selectPaymentMethod": "Select Payment Method",
+    "totalDue": "Total due",
+    "cash": "Cash",
+    "cashPayment": "Accept cash payment",
+    "card": "Card",
+    "cardPayment": "Credit or debit card",
+    "manual": "Manual",
+    "manualPayment": "Custom payment method",
+    "cashTendered": "Cash tendered",
+    "change": "Change",
+    "orderComplete": "Payment Successful",
+    "orderNumber": "Order",
+    "orderFailed": "Failed to process order",
+    "printReceipt": "Print Receipt",
+    "newSale": "New Sale",
+    "errorLoadingProducts": "Failed to load products",
+    "customer": {
+      "addCustomer": "Add Customer",
+      "addCustomerDesc": "Search existing customers or create a new one",
+      "walkIn": "Walk-in Customer",
+      "walkInDesc": "No customer details required",
+      "existingCustomer": "Existing Customer",
+      "createNew": "Create New",
+      "searchPlaceholder": "Search by name, phone, or email...",
+      "searchHint": "Type at least 2 characters to search",
+      "noResults": "No customers found",
+      "createInstead": "Create a new customer instead",
+      "customerName": "Customer Name",
+      "namePlaceholder": "Enter customer name",
+      "emailAddress": "Email Address",
+      "emailPlaceholder": "customer@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter phone number",
+      "nameEmailRequired": "Name and email are required",
+      "created": "Customer created successfully",
+      "createError": "Failed to create customer",
+      "save": "Save Customer"
+    }
+  },
+  "locations": {
+    "title": "Locations",
+    "name": "Name",
+    "address": "Address",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "all": "All",
+    "default": "Default",
+    "searchPlaceholder": "Search locations...",
+    "empty": "No locations found",
+    "addLocation": "Add Location",
+    "editLocation": "Edit Location",
+    "addDescription": "Add a new location for your POS system",
+    "editDescription": "Update the location details",
+    "namePlaceholder": "e.g. Main Store",
+    "addressPlaceholder": "Enter the location address",
+    "defaultLocation": "Default Location",
+    "defaultHint": "New POS orders will use this location by default",
+    "activeLocation": "Active",
+    "activeHint": "Inactive locations won't appear in POS",
+    "nameRequired": "Location name is required",
+    "created": "Location created successfully",
+    "updated": "Location updated successfully",
+    "deleted": "Location deleted successfully",
+    "activated": "Location activated",
+    "deactivated": "Location deactivated",
+    "setAsDefault": "Default location updated",
+    "setDefault": "Set as Default",
+    "deactivate": "Deactivate",
+    "activate": "Activate",
+    "cannotDeleteDefault": "Cannot delete the default location",
+    "deleteTitle": "Delete Location",
+    "deleteDescription": "Are you sure you want to delete {name}? This action cannot be undone.",
+    "fetchError": "Failed to load locations",
+    "deleteError": "Failed to delete location",
+    "updateError": "Failed to update location",
+    "saveError": "Failed to save location",
+    "actions": "Actions"
+  },
+  "toast": {
+    "createdSuccess": "{resource} created successfully",
+    "updatedSuccess": "{resource} updated successfully",
+    "deleted": "{resource} deleted",
+    "saved": "Changes saved",
+    "savedResource": "{resource} saved",
+    "undo": "Undo",
+    "operationComplete": "Operation completed",
+    "somethingWentWrong": "Something went wrong"
+  },
+  "aiSalesAgent": {
+    "title": "Wakala wa Mauzo wa AI",
+    "open": "Fungua Wakala wa Mauzo wa AI",
+    "close": "Funga Wakala wa Mauzo wa AI",
+    "typeMessage": "Andika ujumbe...",
+    "send": "Tuma",
+    "thinking": "{name} anafikiria...",
+    "add": "Ongeza",
+    "view": "Tazama",
+    "addedToCart": "Imeongezwa kwenye kikapu",
+    "errorRetry": "Sikuweza kukamilisha ombi hilo. Tafadhali jaribu tena.",
+    "chatFailed": "Gumzo la AI limeshindikana",
+    "orderPayment": "Malipo",
+    "orderTotal": "Jumla",
+    "viewOrder": "Tazama oda"
+  },
+  "aiSalesAgentAdmin": {
+    "header": {
+      "title": "Wakala wa Mauzo wa AI",
+      "subtitle": "Sanidi wakala wa mauzo wa duka, fuatilia mazungumzo, na jaribu majibu ya moja kwa moja.",
+      "refresh": "Onyesha upya",
+      "saveChanges": "Hifadhi mabadiliko",
+      "saving": "Inahifadhi"
+    },
+    "tabs": {
+      "overview": "Muhtasari",
+      "howItWorks": "Inavyofanya kazi",
+      "configuration": "Mipangilio",
+      "behavior": "Tabia",
+      "widget": "Wijeti",
+      "conversations": "Mazungumzo",
+      "testChat": "Jaribio la gumzo"
+    },
+    "overview": {
+      "stats": {
+        "totalConversations": "Jumla ya mazungumzo",
+        "totalConversationsSub": "Wakati wote",
+        "activeConversations": "Mazungumzo yanayoendelea",
+        "activeConversationsSub": "Yaliyo wazi sasa",
+        "messagesExchanged": "Ujumbe uliobadilishwa",
+        "messagesExchangedSub": "Katika vipindi vyote",
+        "avgMessages": "Wastani wa ujumbe / gumzo",
+        "avgMessagesSub": "Kiwango cha ushiriki",
+        "aiActions": "Vitendo vya AI",
+        "aiActionsSub": "Zana, mapendekezo, kuongeza kwenye kikapu",
+        "last7Days": "Siku 7 zilizopita",
+        "last30Days": "{count} katika siku 30 zilizopita"
+      },
+      "recentConversations": {
+        "title": "Mazungumzo ya karibuni",
+        "viewAll": "Tazama yote",
+        "empty": "Bado hakuna mazungumzo. Wanunuzi wakianza kuzungumza yataonekana hapa.",
+        "newConversation": "Mazungumzo mapya",
+        "messagesCount": "{count, plural, =0 {Hakuna ujumbe} =1 {Ujumbe 1} other {Ujumbe #}}",
+        "actionsCount": "{count, plural, =0 {Hakuna kitendo} =1 {Kitendo 1} other {Vitendo #}}"
+      },
+      "capabilities": {
+        "title": "Uwezo kwa mtazamo wa haraka",
+        "on": "Imewashwa",
+        "off": "Imezimwa",
+        "multilingualTitle": "Majibu ya lugha nyingi",
+        "alwaysOn": "Huendelea kuwashwa"
+      }
+    },
+    "howItWorks": {
+      "intro": {
+        "title": "Wakala wako wa mauzo wa AI, mwanzo hadi mwisho",
+        "description": "Wakala anaishi ndani ya wijeti ya gumzo kwenye duka lako. Anaelewa maswali ya wanunuzi, hutafuta katika katalogi na sera zako halisi, hupendekeza bidhaa, na hata anaweza kuongeza bidhaa kwenye kikapu — yote kwa kutumia modeli na sheria unazoweka hapa. Fuata orodha ya usanidi hapa chini ili kumuweka hewani.",
+        "openAIConfigured": "OpenAI imesanidiwa",
+        "openAIMissing": "Ufunguo wa OpenAI haupo",
+        "widgetLive": "Wijeti iko hewani",
+        "widgetOff": "Wijeti imezimwa"
+      },
+      "capabilities": {
+        "title": "Mambo ambayo wakala anaweza kufanya",
+        "description": "Kila uwezo unaowasha kwenye Mipangilio hufungua mojawapo ya uwezo huu.",
+        "multilingualTitle": "Majibu ya lugha nyingi",
+        "multilingualDescription": "Hutambua lugha ya mnunuzi na kujibu kwa lugha hiyo, bila kujali lugha ya duka.",
+        "alwaysOn": "Huendelea kuwashwa"
+      },
+      "checklist": {
+        "title": "Orodha ya usanidi",
+        "doneRatio": "{completed}/{total} imekamilika",
+        "description": "Pitia hatua hizi ili kumuandaa wakala kwa wanunuzi. Hali husasishwa moja kwa moja unapoweka kila sehemu.",
+        "steps": {
+          "apiKey": {
+            "title": "Ongeza ufunguo wako wa OpenAI API",
+            "description": "Weka OPENAI_API_KEY kwenye mazingira ya seva, kisha anzisha tena programu. Wakala na wijeti yake vitabaki vimezimwa hadi ufunguo halali utakapogunduliwa.",
+            "action": "Fungua mipangilio",
+            "hint": "Upande wa seva tu — ufunguo hauonyeshwi kwa wanunuzi kamwe."
+          },
+          "model": {
+            "title": "Chagua modeli na runtime",
+            "description": "Chagua modeli, nguvu ya kufikiri, temperature, na idadi ya bidhaa ambazo jibu moja linaweza kupendekeza.",
+            "action": "Rekebisha modeli",
+            "hint": "Modeli ya sasa: {model}"
+          },
+          "capabilities": {
+            "title": "Washa uwezo unaouhitaji",
+            "description": "Washa Product Q&A, mapendekezo, vitendo vya kikapu, checkout handoff, na hali ya oda. Kila kimoja hufungua zana ambayo wakala anaweza kutumia.",
+            "action": "Weka uwezo",
+            "hint": "Uwezo {enabled} kati ya 5 umewashwa"
+          },
+          "identity": {
+            "title": "Eleza utambulisho, sauti na salamu",
+            "description": "Mpe wakala jina na sauti, andika salamu ya kwanza, na ongeza maelekezo maalum ya chapa na sera zako.",
+            "action": "Hariri tabia",
+            "hintWithName": "Jina la wakala: {name}",
+            "hintNotSet": "Jina la wakala: halijawekwa"
+          },
+          "faq": {
+            "title": "Ongeza maarifa ya FAQ",
+            "description": "Mfundishe wakala sera zako halisi (usafirishaji, marejesho, vipimo, dhamana) ili ajibu kwa taarifa sahihi badala ya kubahatisha.",
+            "action": "Ongeza FAQ",
+            "hintWithCount": "{count, plural, =0 {Bado hakuna FAQ} =1 {FAQ 1 imeongezwa} other {FAQ # zimeongezwa}}",
+            "hintEmpty": "Bado hakuna FAQ"
+          },
+          "widget": {
+            "title": "Pangilia wijeti",
+            "description": "Linganisha launcher na paneli ya gumzo na chapa yako — rangi, nafasi, avatar, na lebo ya launcher wanayoiona wanunuzi.",
+            "action": "Binafsisha wijeti",
+            "hint": "Si lazima, lakini wijeti yenye chapa huboresha ubadilishaji."
+          },
+          "enableWidget": {
+            "title": "Washa wijeti ya duka",
+            "description": "Washa swichi kuu ili wakala aonekane kwenye duka lako. Inahitaji ufunguo wa OpenAI hapo juu.",
+            "action": "Washa wijeti",
+            "hintLive": "Wijeti iko hewani",
+            "hintHidden": "Wijeti imefichwa"
+          },
+          "testChat": {
+            "title": "Jaribu kabla ya kuzindua",
+            "description": "Tumia kichupo cha Jaribio la gumzo kuzungumza kama mnunuzi halisi, kisha kagua mazungumzo halisi baada ya kuwekwa hewani.",
+            "action": "Fungua jaribio la gumzo",
+            "hintWithCount": "{count, plural, =0 {Bado hakuna mazungumzo} =1 {Mazungumzo 1 hadi sasa} other {Mazungumzo # hadi sasa}}",
+            "hintEmpty": "Bado hakuna mazungumzo"
+          }
+        }
+      },
+      "flow": {
+        "title": "Mazungumzo yanavyotiririka",
+        "description": "Kinachotokea nyuma ya pazia kila mnunuzi anapotuma ujumbe.",
+        "steps": {
+          "open": {
+            "title": "Mnunuzi anafungua wijeti",
+            "body": "Launcher huonekana kwenye duka lako na humkaribisha kwa ujumbe wa salamu ulioweka."
+          },
+          "ask": {
+            "title": "Anauliza kwa maneno yake mwenyewe",
+            "body": "“Je, mna jaketi lisilopenya maji chini ya dola 100?”, “Oda yangu iko wapi?”, au “Sera yenu ya kurejesha ni ipi?” — hakuna menu au keywords zinazohitajika."
+          },
+          "tools": {
+            "title": "Modeli huamua zana za kutumia",
+            "body": "Kutegemea uwezo uliowashwa, wakala anaweza kutafuta kwenye katalogi yako, kuchukua maelezo ya bidhaa, kusoma FAQ, kuangalia kikapu, kufuatilia hali ya oda, au kuongeza bidhaa kwenye kikapu."
+          },
+          "data": {
+            "title": "Huleta data ya moja kwa moja kutoka dukani kwako",
+            "body": "Matokeo hutoka kwa bidhaa zako halisi zinazoonekana na sera ulizoandika — hivyo majibu yanakuwa ya kuaminika badala ya kubuniwa. Bidhaa huonyeshwa kama kadi tajiri, si maandishi ya kawaida."
+          },
+          "reply": {
+            "title": "Hujibu na anaweza kuchukua hatua",
+            "body": "Mnunuzi hupokea jibu fupi lenye kadi za bidhaa, vitufe vya kuongeza kikapuni, au kuelekezwa checkout akiwa tayari kununua."
+          },
+          "logged": {
+            "title": "Kila kitu kinawekwa kwenye kumbukumbu",
+            "body": "Kila mazungumzo, ujumbe na kitendo huhifadhiwa ili uweze kuvipitia katika kichupo cha Mazungumzo na kufuatilia utendaji kwenye Muhtasari."
+          }
+        }
+      },
+      "tips": {
+        "title": "Vidokezo vya kupata matokeo bora",
+        "items": {
+          "faq": {
+            "title": "Weka FAQ yako iwe sahihi",
+            "body": "Wakala hujibu maswali ya sera kutoka FAQ yako kwanza. Jumuisha usafirishaji, marejesho, vipimo na dhamana ili asiwe anabahatisha."
+          },
+          "instructions": {
+            "title": "Andika maelekezo mafupi ya wazi",
+            "body": "Tumia kichupo cha Tabia kuweka sauti ya chapa na mambo ya kufanya au kuepuka. Fanya yawe mafupi — huongezwa kila turn."
+          },
+          "model": {
+            "title": "Anza na modeli yenye uwiano mzuri",
+            "body": "Temperature ya chini huweka majibu yawe ya moja kwa moja. Ongeza ukubwa wa modeli tu ikiwa unahitaji reasoning ya kina zaidi, kwa sababu gharama huongezeka kwa kila jibu."
+          },
+          "recs": {
+            "title": "Rekebisha idadi ya mapendekezo",
+            "body": "Onyesha bidhaa 3–4 kwa kila jibu. Nyingi sana huwazidi nguvu wanunuzi; chache sana hupunguza uchaguzi."
+          },
+          "key": {
+            "title": "Linda ufunguo wako wa API",
+            "body": "Ufunguo wa OpenAI hukaa kwenye mazingira ya seva pekee. Usiubandike kwenye storefront wala kuushiriki hadharani."
+          },
+          "review": {
+            "title": "Pitia mazungumzo halisi",
+            "body": "Angalia kichupo cha Mazungumzo mara kwa mara ili kuona maswali ambayo wakala alikosa na uyaongeze kwenye FAQ yako."
+          }
+        }
+      },
+      "cta": {
+        "prompt": "Uko tayari kuiona ikifanya kazi?",
+        "configure": "Sanidi wakala",
+        "tryChat": "Jaribu gumzo la majaribio"
+      }
+    },
+    "configuration": {
+      "openAIConfigured": "OpenAI imesanidiwa",
+      "openAIMissing": "OPENAI_API_KEY haipo",
+      "widgetEnabled": "Wijeti imewashwa",
+      "widgetDisabled": "Wijeti imezimwa",
+      "modelRuntime": {
+        "title": "Modeli na runtime",
+        "enableWidget": "Washa wijeti ya duka",
+        "enableWidgetDescription": "Wijeti itabaki imefichwa hadi OpenAI itakapowekwa.",
+        "model": "Modeli",
+        "modelDescription": "Modeli kubwa zinaweza kufikiri kwa kina zaidi lakini hugharimu zaidi kwa kila ombi.",
+        "reasoningEffort": "Nguvu ya kufikiri",
+        "reasoningEffortDescription": "Hutumika kwa modeli zenye uwezo wa reasoning; vinginevyo hupuuzwa.",
+        "temperature": "Temperature",
+        "temperatureDescription": "Chini = jibu la moja kwa moja zaidi, juu = ubunifu zaidi (0–1).",
+        "maxRecommendations": "Kiwango cha juu cha mapendekezo",
+        "maxRecommendationsDescription": "Idadi ya juu ya bidhaa zinazoonyeshwa katika jibu moja (1–8)."
+      },
+      "capabilities": {
+        "title": "Uwezo"
+      },
+      "capabilityMeta": {
+        "productQA": "Maswali ya bidhaa",
+        "productQADescription": "Jibu maswali kuhusu bidhaa na specifications.",
+        "recommendations": "Mapendekezo",
+        "recommendationsDescription": "Pendekeza bidhaa kulingana na mahitaji ya mnunuzi.",
+        "cartActions": "Vitendo vya kikapu",
+        "cartActionsDescription": "Mruhusu wakala kuongeza au kuondoa bidhaa kwenye kikapu.",
+        "checkoutHandoff": "Uhamisho wa checkout",
+        "checkoutHandoffDescription": "Waelekeze wanunuzi kwenye checkout wanapokuwa tayari.",
+        "orderStatus": "Hali ya oda",
+        "orderStatusDescription": "Tafuta na ushiriki taarifa za ufuatiliaji wa oda."
+      }
+    },
+    "behavior": {
+      "identity": {
+        "title": "Utambulisho na sauti",
+        "agentName": "Jina la wakala",
+        "tone": "Sauti",
+        "greeting": "Salamu",
+        "greetingDescription": "Huonyeshwa kama ujumbe wa kwanza mnunuzi anapofungua wijeti.",
+        "instructions": "Maelekezo maalum",
+        "instructionsPlaceholder": "Sauti ya chapa, vikumbusho vya sera ya marejesho, mtindo wa mapendekezo...",
+        "instructionsDescription": "Huongezwa kwenye system prompt kila turn. Weka kwa ufupi.",
+        "escalation": "Ujumbe wa escalation",
+        "escalationDescription": "Hutumwa wakala anaposhindwa kusaidia na kuhitaji handoff."
+      },
+      "faq": {
+        "title": "Maarifa na FAQ",
+        "addEntry": "Ongeza kipengee",
+        "description": "Wakala hutafuta hapa wanunuzi wanapouliza kuhusu usafirishaji, marejesho, vipimo, dhamana au sera nyingine. Hadi vipengee 50.",
+        "empty": "Bado hakuna FAQ. Ongeza maswali ya kawaida ili wakala aweze kujibu maswali ya sera bila kubuni.",
+        "questionPlaceholder": "Swali (mf. Usafirishaji huchukua muda gani?)",
+        "answerPlaceholder": "Jibu ambalo wakala anapaswa kutoa. Liwe la kweli na fupi.",
+        "tagsPlaceholder": "Tagi za hiari, zitenganishwe kwa koma (shipping, returns, sizing)",
+        "removeAria": "Ondoa FAQ"
+      }
+    },
+    "widget": {
+      "appearance": {
+        "title": "Mwonekano",
+        "headerTitle": "Kichwa cha header",
+        "headerTitleDescription": "Huonyeshwa kwenye header ya gumzo. Ikiwa tupu, hutumia jina la wakala.",
+        "position": "Nafasi",
+        "positionBottomRight": "Chini kulia",
+        "positionBottomLeft": "Chini kushoto",
+        "expandedSize": "Ukubwa uliofunguliwa",
+        "expandedSizeDescription": "Hutumiwa kwa wijeti inayoelea baada ya kuhifadhi.",
+        "width": "Upana",
+        "height": "Urefu",
+        "widthRange": "320–640px",
+        "heightRange": "420–900px",
+        "primaryColor": "Rangi kuu",
+        "accentColor": "Rangi ya pili",
+        "footerText": "Maandishi ya footer",
+        "footerTextPlaceholder": "Inaendeshwa na AI",
+        "showFooterText": "Onyesha maandishi ya footer",
+        "showFooterTextDescription": "Onyesha lebo ndogo chini ya dirisha la gumzo.",
+        "headerAvatar": "Avatar ya header",
+        "headerAvatarAlt": "Avatar ya {name}",
+        "avatarUploadTitle": "Buruta na udondoshe picha, au bofya kuchagua",
+        "avatarUploadDescription": "Muundo wa picha: JPG, PNG, JPEG, WEBP.",
+        "avatarSizeGuide": "Ukubwa unaopendekezwa: 256 x 256 px",
+        "headerAvatarDescription": "Huonyeshwa kwenye header ya gumzo. Ikiwa tupu, hutumia favicon ya duka lako."
+      },
+      "preview": {
+        "title": "Hakiki ya moja kwa moja",
+        "typeMessage": "Andika ujumbe..."
+      }
+    },
+    "conversations": {
+      "title": "Kumbukumbu za gumzo",
+      "totalCount": "Mazungumzo {count} kwa jumla. Bofya mstari wowote kuona transcript kamili.",
+      "refresh": "Onyesha upya",
+      "searchPlaceholder": "Tafuta ujumbe au session id...",
+      "locale": "Lugha",
+      "allLocales": "Lugha zote",
+      "status": "Hali",
+      "allStatuses": "Hali zote",
+      "statusActive": "Inaendelea",
+      "statusClosed": "Imefungwa",
+      "empty": "Hakuna mazungumzo yanayolingana na vichujio vyako.",
+      "aiPrefix": "AI: {message}",
+      "newConversation": "Mazungumzo mapya",
+      "messagesCount": "Ujumbe {count}",
+      "actionsCount": "Vitendo {count}",
+      "pageOf": "Ukurasa wa {page} kati ya {total}",
+      "previous": "Iliyotangulia",
+      "next": "Ifuatayo"
+    },
+    "testChat": {
+      "title": "Jaribio la gumzo la moja kwa moja",
+      "reset": "Weka upya",
+      "description": "Jaribu maswali kama mnunuzi halisi. Hifadhi mabadiliko kabla ya kujaribu — hutumia mipangilio ya moja kwa moja.",
+      "typeMessage": "Andika ujumbe..."
+    },
+    "drawer": {
+      "title": "Mazungumzo",
+      "loading": "Inapakia mazungumzo...",
+      "session": "Kikao {id}",
+      "status": "Hali",
+      "locale": "Lugha",
+      "customer": "Mteja",
+      "guest": "Mgeni",
+      "started": "Yalianza",
+      "messagesTitle": "Ujumbe ({count})",
+      "noMessages": "Hakuna ujumbe.",
+      "emptyMessage": "[ujumbe tupu]",
+      "actionsTitle": "Vitendo ({count})",
+      "delete": "Futa mazungumzo"
+    },
+    "toast": {
+      "loadFailed": "Imeshindikana kupakia mipangilio ya Wakala wa Mauzo wa AI",
+      "saveSuccess": "Wakala wa Mauzo wa AI umehifadhiwa",
+      "saveFailed": "Imeshindikana kuhifadhi",
+      "deleteTitle": "Futa mazungumzo",
+      "deleteDescription": "Hii itafuta kabisa historia ya gumzo na vitendo vyake.",
+      "deleteConfirm": "Futa",
+      "deleteSuccess": "Mazungumzo yamefutwa",
+      "deleteFailed": "Imeshindikana kufuta",
+      "loadConversationFailed": "Imeshindikana kupakia mazungumzo",
+      "loadConversationsFailed": "Imeshindikana kupakia mazungumzo",
+      "testChatFailed": "Jaribio la gumzo limeshindikana",
+      "testFailed": "Jaribio limeshindikana"
+    },
+    "time": {
+      "justNow": "sasa hivi",
+      "minutesAgo": "dakika {count} zilizopita",
+      "hoursAgo": "saa {count} zilizopita",
+      "daysAgo": "siku {count} zilizopita"
+    }
+  },
+  "aiStudioHub": {
+    "title": "AI Studio",
+    "subtitle": "Tengeneza maudhui ya bidhaa, michoro, na SEO kwa AI — imejengwa ndani ya kila fomu ya duka lako.",
+    "statusConfigured": "AI imesanidiwa na iko tayari",
+    "statusNotConfigured": "AI haijasanidiwa bado",
+    "statusNotConfiguredHint": "Ongeza ufunguo wako wa OpenAI API kwenye Mipangilio → AI (au weka OPENAI_API_KEY kwenye mazingira) ili kuwasha vipengele vya AI.",
+    "showcaseTitle": "Iangalie ikifanya kazi",
+    "showcaseSubtitle": "Buruta kitelezi — Enhance ya kubofya mara moja kutoka AI Image Studio.",
+    "showcaseBefore": "Kabla",
+    "showcaseAfter": "Baada",
+    "showcaseCaption": "Ondoa mandhari ya nyuma, boresha, ongeza ubora, futa vitu, badilisha ukubwa, na panua — au eleza mabadiliko yoyote kwa maneno ya kawaida.",
+    "cardsTitle": "Unataka kutengeneza nini?",
+    "cardProductContentTitle": "Andika maudhui ya bidhaa",
+    "cardProductContentDescription": "Zalisha vichwa, muhtasari, na maelezo tajiri kutoka kwa ombi fupi.",
+    "cardProductGraphicsTitle": "Buni michoro ya bidhaa",
+    "cardProductGraphicsDescription": "Fungua midia ya bidhaa kwenye AI Image Studio ili kuhariri au kuzalisha picha.",
+    "cardSeoTitle": "Boresha SEO",
+    "cardSeoDescription": "Jaza vichwa vya utafutaji, maelezo ya meta, handle, na tagi kwa kubofya mara moja.",
+    "cardBlogTitle": "Andika makala ya blogu",
+    "cardBlogDescription": "Andaa makala kamili yenye dondoo, picha kuu, na SEO.",
+    "cardAssetsTitle": "Tengeneza rasilimali za jamii na chapa",
+    "cardAssetsDescription": "Zalisha picha za jamii, aikoni, nembo za chapa, na jalada za mkusanyiko.",
+    "cardHeroTitle": "Buni mabango ya hero",
+    "cardHeroDescription": "Zalisha mabango mapana ya duka yenye ukubwa unaolingana kikamilifu na ukurasa wako wa nyumbani.",
+    "everywhereTitle": "Imejengwa ndani ya kila fomu",
+    "everywhereSubtitle": "Tafuta kitufe cha AI kwenye bidhaa, jamii, mkusanyiko, chapa, makala za blogu, maoni, na kiundaji cha ukurasa wa nyumbani.",
+    "howTitle": "Inavyofanya kazi",
+    "howStep1": "Fungua fomu yoyote inayotumika",
+    "howStep2": "Bofya kitufe cha AI kwenye sehemu au midia",
+    "howStep3": "Kagua rasimu, kisha hifadhi",
+    "configureCta": "Sanidi AI"
+  },
+  "aiStudio": {
+    "breadcrumbTitle": "AI Image Studio",
+    "mediaTitle": "Midia",
+    "quickPromptTitle": "Ombi la Haraka",
+    "uploadImage": "Pakia Picha",
+    "badgeAi": "AI",
+    "badgeEdited": "Imehaririwa",
+    "tabQuickPrompt": "Ombi la Haraka",
+    "tabEffects": "Madoido",
+    "categoryPlaceholder": "Jamii",
+    "removeBackground": "Ondoa Mandhari ya Nyuma",
+    "enhance": "Boresha",
+    "upscale": "Ongeza Ubora",
+    "eraseObject": "Futa Kitu",
+    "resize": "Badilisha Ukubwa",
+    "expand": "Panua",
+    "fit": "Lingana",
+    "compare": "Linganisha",
+    "zoomIn": "Kuza",
+    "zoomOut": "Punguza",
+    "holdToViewOriginal": "Shikilia ili kuona ya asili",
+    "previewAsCard": "Hakiki kama kadi ya duka",
+    "exitPreview": "Toka kwenye hakiki ya duka",
+    "previewCardHint": "Hali ya hakiki — ona jinsi picha hii inavyoonekana kwenye kadi halisi ya bidhaa yako.",
+    "deleteImage": "Futa picha hii",
+    "openMediaPanel": "Fungua paneli ya midia",
+    "openQuickPrompts": "Fungua paneli ya maombi ya haraka",
+    "cancel": "Ghairi",
+    "noImageTitle": "Hakuna picha iliyochaguliwa",
+    "noImageBody": "Chagua picha kutoka Midia, pakia moja, au eleza picha kwenye ombi hapa chini na uache AI iizalishe.",
+    "uploadImageAction": "Pakia picha",
+    "before": "Kabla",
+    "after": "Baada",
+    "original": "Asili",
+    "busyHint": "Hii kwa kawaida huchukua sekunde 10–30",
+    "discardTitle": "Kutupa mabadiliko?",
+    "discardBody": "Picha zako zilizohaririwa hazijahifadhiwa bado. Ukiondoka sasa, zitapotea.",
+    "keepEditing": "Endelea kuhariri",
+    "discard": "Tupa",
+    "restoredDraft": "Mabadiliko yako yasiyohifadhiwa yamerejeshwa",
+    "placeholderErase": "Eleza kitu cha kufuta, mf. kivuli upande wa kushoto. Kila kitu kingine kinabaki bila kubadilika.",
+    "placeholderGenerate": "Eleza picha unayotaka na AI itaizalisha.",
+    "placeholderEdit": "Eleza matokeo unayotaka. {subject} yako inabaki bila kubadilika.",
+    "applyEdit": "Tumia mabadiliko",
+    "generateImage": "Zalisha picha",
+    "autoGenerate": "Zalisha Kiotomatiki",
+    "toneLabel": "Sauti",
+    "defaultTone": "Sauti chaguo-msingi",
+    "sizes": {
+      "square": "Mraba",
+      "portrait": "Wima",
+      "landscape": "Mlalo"
+    },
+    "presets": {
+      "categories": {
+        "electronics": "Elektroniki",
+        "fashion": "Mitindo na Mavazi",
+        "beauty": "Urembo na Utunzaji",
+        "home": "Nyumbani na Jikoni",
+        "food": "Chakula na Vinywaji",
+        "hero-layouts": "Mabango ya hero"
+      },
+      "labels": {
+        "clean-white": "Nyeupe safi",
+        "lifestyle-room": "Chumba cha maisha",
+        "desk-setup": "Mpangilio wa dawati",
+        "gradient-studio": "Studio ya gradient",
+        "neon-accent": "Mguso wa neon",
+        "editorial-studio": "Studio ya kihariri",
+        "street-style": "Mtindo wa mtaani",
+        "marble-silk": "Marumaru na hariri",
+        "golden-hour": "Saa ya dhahabu",
+        "marble-counter": "Kaunta ya marumaru",
+        "botanical-spa": "Spa ya mimea",
+        "silk-drape": "Pazia la hariri",
+        "water-splash": "Mrukuko wa maji",
+        "cozy-living": "Sebule ya starehe",
+        "wooden-table": "Meza ya mbao",
+        "sunlit-shelf": "Rafu yenye mwanga wa jua",
+        "minimal-concrete": "Zege la kiwango cha chini",
+        "rustic-wood": "Mbao ya kizamani",
+        "cafe-scene": "Mandhari ya cafe",
+        "picnic-daylight": "Picnic wakati wa mchana",
+        "dark-slate": "Slate nyeusi",
+        "product-right": "Bidhaa kulia",
+        "product-left": "Bidhaa kushoto",
+        "centered-campaign": "Kampeni ya katikati"
+      }
+    },
+    "export": {
+      "button": "Hamisha",
+      "includeLogo": "Jumuisha nembo ya chapa",
+      "fill": "Jaza fremu",
+      "fit": "Lingana na rangi ya chapa",
+      "sizes": {
+        "og": "Kiungo / Picha ya OG",
+        "square": "Chapisho la mraba",
+        "portrait": "Chapisho la wima",
+        "story": "Hadithi / Reel",
+        "twitter": "Mlalo / X"
+      }
+    }
+  }
+}

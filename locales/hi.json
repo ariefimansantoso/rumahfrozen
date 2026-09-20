@@ -1,0 +1,3561 @@
+{
+  "metadata": {
+    "title": "Minimart - ऑनलाइन मार्केटप्लेस",
+    "description": "सत्यापित विक्रेताओं से शानदार उत्पाद खोजें। भरोसे के साथ खरीदें और सहज डिलीवरी का आनंद लें।",
+    "keywords": "ऑनलाइन शॉपिंग, मार्केटप्लेस, ई-कॉमर्स, उत्पाद, विक्रेता"
+  },
+  "products": {
+    "color": "रंग",
+    "size": "आकार"
+  },
+  "validation": {
+    "required": "Required",
+    "email": "Invalid email address",
+    "minLength": "Must be at least {min} characters",
+    "maxLength": "Must be at most {max} characters",
+    "pattern": "Invalid format"
+  },
+  "common": {
+    "home": "होम",
+    "settings": "सेटिंग्स",
+    "products": "उत्पाद",
+    "allProducts": "सभी उत्पाद",
+    "categories": "श्रेणियाँ",
+    "cart": "कार्ट",
+    "wishlist": "इच्छा सूची",
+    "login": "लॉग इन",
+    "register": "रजिस्टर",
+    "logout": "लॉग आउट",
+    "search": "खोजें",
+    "searchPlaceholder": "उत्पाद खोजें...",
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "success": "सफल",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएँ",
+    "edit": "संपादित करें",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "close": "बंद करें",
+    "back": "वापस",
+    "next": "अगला",
+    "previous": "पिछला",
+    "viewAll": "सभी देखें",
+    "learnMore": "और जानें",
+    "getStarted": "शुरू करें",
+    "shopNow": "अभी खरीदें",
+    "addToCart": "कार्ट में जोड़ें",
+    "buyNow": "अभी खरीदें",
+    "outOfStock": "स्टॉक खत्म",
+    "inStock": "स्टॉक में",
+    "price": "कीमत",
+    "quantity": "मात्रा",
+    "total": "कुल",
+    "subtotal": "उप-योग",
+    "shipping": "शिपिंग",
+    "tax": "कर",
+    "discount": "छूट",
+    "free": "मुफ़्त",
+    "new": "नया",
+    "sale": "सेल",
+    "featured": "विशेष",
+    "popular": "लोकप्रिय",
+    "rating": "रेटिंग",
+    "reviews": "समीक्षाएँ",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "tryAgain": "फिर से कोशिश करें",
+    "allRightsReserved": "सर्वाधिकार सुरक्षित",
+    "overview": "अवलोकन",
+    "management": "प्रबंधन",
+    "multiVendorMarketplace": "मल्टी-वेंडर मार्केटप्लेस",
+    "onlineStore": "ऑनलाइन स्टोर",
+    "notifications": "सूचनाएँ",
+    "account": "खाता",
+    "selectLanguage": "भाषा चुनें",
+    "dashboard": "डैशबोर्ड",
+    "saved": "सहेजा गया",
+    "enabled": "सक्रिय",
+    "disabled": "निष्क्रिय",
+    "done": "पूरा",
+    "apply": "लागू करें",
+    "sortBy": "इसके अनुसार क्रमबद्ध करें",
+    "sortOptions": "क्रमबद्ध विकल्प",
+    "newest": "नवीनतम",
+    "mostPopular": "सबसे लोकप्रिय",
+    "bestRating": "सर्वश्रेष्ठ रेटिंग",
+    "priceLowHigh": "कीमत: कम से अधिक",
+    "priceHighLow": "कीमत: अधिक से कम",
+    "filter": "फ़िल्टर",
+    "filters": "फ़िल्टर",
+    "clearAll": "सभी साफ़ करें",
+    "clearFilters": "फ़िल्टर साफ़ करें",
+    "colors": "रंग",
+    "sizes": "आकार",
+    "minPrice": "न्यूनतम कीमत",
+    "maxPrice": "अधिकतम कीमत",
+    "min": "न्यूनतम",
+    "max": "अधिकतम",
+    "allItems": "सभी आइटम",
+    "showMore": "और देखें",
+    "findFavoriteProducts": "अपने पसंदीदा उत्पाद खोजें",
+    "allCategories": "सभी श्रेणियाँ",
+    "noCategories": "कोई श्रेणी नहीं",
+    "selectCategory": "श्रेणी चुनें",
+    "language": "भाषा",
+    "currency": "मुद्रा",
+    "welcome": "स्वागत",
+    "myOrders": "मेरे ऑर्डर",
+    "signIn": "साइन इन",
+    "profile": "प्रोफ़ाइल",
+    "aiSearch": "AI खोज",
+    "switchToLightMode": "लाइट मोड पर जाएं",
+    "switchToDarkMode": "डार्क मोड पर जाएं",
+    "openCart": "कार्ट खोलें",
+    "noProductsFound": "कोई उत्पाद नहीं मिला",
+    "pressEnterToSearch": "सभी परिणाम देखने के लिए Enter दबाएं",
+    "noImage": "कोई चित्र नहीं"
+  },
+  "wishlist": {
+    "title": "मेरी इच्छा सूची",
+    "empty": "आपकी इच्छा सूची खाली है",
+    "emptyDescription": "हृदय आइकन पर क्लिक करके अपने पसंदीदा उत्पाद सहेजें"
+  },
+  "profile": {
+    "title": "मेरा प्रोफाइल",
+    "subtitle": "अपनी खाता सेटिंग्स प्रबंधित करें",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "infoDesc": "अपना नाम और संपर्क विवरण अपडेट करें",
+    "personal": "व्यक्तिगत",
+    "firstName": "पहला नाम",
+    "lastName": "अंतिम नाम",
+    "email": "ईमेल पता",
+    "phone": "फ़ोन नंबर",
+    "birthday": "जन्मदिन",
+    "gender": "लिंग",
+    "selectGender": "लिंग चुनें",
+    "male": "पुरुष",
+    "female": "महिला",
+    "other": "अन्य",
+    "street": "गली का पता",
+    "zipCode": "पोस्टल कोड",
+    "city": "शहर",
+    "country": "देश",
+    "selectCountry": "देश चुनें",
+    "saveChanges": "परिवर्तन सहेजें",
+    "changePassword": "पासवर्ड बदलें",
+    "oldPassword": "पुराना पासवर्ड",
+    "newPassword": "नया पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "fullName": "पूरा नाम",
+    "updatePassword": "पासवर्ड अपडेट करें"
+  },
+  "account": {
+    "welcome": "वापसी पर स्वागत है, {name}!",
+    "overviewDesc": "आपका खाता एक नज़र में",
+    "totalOrders": "कुल ऑर्डर",
+    "pendingOrders": "लंबित ऑर्डर",
+    "wishlistItems": "इच्छा सूची आइटम",
+    "recentOrders": "हाल के ऑर्डर",
+    "noOrders": "आपने अभी तक कोई ऑर्डर नहीं दिया है",
+    "startShopping": "खरीदारी शुरू करें",
+    "profile": "प्रोफ़ाइल",
+    "profileDesc": "अपनी व्यक्तिगत जानकारी प्रबंधित करें",
+    "orders": "मेरे ऑर्डर",
+    "ordersDesc": "अपने ऑर्डर ट्रैक और प्रबंधित करें",
+    "wishlist": "इच्छा सूची",
+    "wishlistDesc": "बाद के लिए सहेजे गए आइटम",
+    "addresses": "पते",
+    "addressesDesc": "अपने डिलीवरी पते प्रबंधित करें",
+    "paymentMethodsDesc": "अपनी भुगतान विधियाँ प्रबंधित करें",
+    "changePhoto": "फ़ोटो बदलें",
+    "security": "सुरक्षा",
+    "securityDescription": "अपने खाते की सुरक्षा सेटिंग्स प्रबंधित करें",
+    "twoFactorAuth": "दो-कारक प्रमाणीकरण",
+    "twoFactorDescription": "अपने खाते में अतिरिक्त सुरक्षा परत जोड़ें",
+    "twoFactorEnabledInfo": "आपका खाता दो-कारक प्रमाणीकरण से सुरक्षित है। साइन-इन करते समय आपको अपने ऑथेंटिकेटर ऐप से सत्यापन कोड दर्ज करना होगा।",
+    "twoFactorDisabledInfo": "अपने पासवर्ड के साथ ऑथेंटिकेटर ऐप का सत्यापन कोड आवश्यक करके अपने खाते को सुरक्षित रखें।",
+    "confirmDisable2FA": "अक्षम करने की पुष्टि के लिए अपना पासवर्ड दर्ज करें",
+    "disable2FA": "दो-कारक प्रमाणीकरण अक्षम करें",
+    "setup2FA": "दो-कारक प्रमाणीकरण सेटअप करें",
+    "step1": "चरण 1: QR कोड स्कैन करें",
+    "scanQRDescription": "अपने ऑथेंटिकेटर ऐप (Google Authenticator, Authy आदि) से इस QR कोड को स्कैन करें",
+    "cantScanQR": "स्कैन नहीं कर पा रहे? यह कोड मैन्युअली दर्ज करें:",
+    "step2": "चरण 2: सत्यापन कोड दर्ज करें",
+    "enterCodeDescription": "सेटअप सत्यापित करने के लिए अपने ऑथेंटिकेटर ऐप का 6-अंकीय कोड दर्ज करें",
+    "backupCodes": "बैकअप कोड",
+    "backupCodesDescription": "इन बैकअप कोड्स को सुरक्षित स्थान पर रखें। ऑथेंटिकेटर ऐप तक पहुँच न होने पर इनसे साइन-इन कर सकते हैं।",
+    "copyBackupCodes": "सभी कोड कॉपी करें",
+    "activeSessions": "सक्रिय सत्र",
+    "activeSessionsDescription": "अपने सक्रिय लॉगिन सत्र प्रबंधित करें",
+    "currentSessionInfo": "आप वर्तमान में इस डिवाइस पर साइन-इन हैं। यदि कोई संदिग्ध गतिविधि दिखे तो आप अन्य सभी सत्रों से साइन-आउट कर सकते हैं।",
+    "signOutAllSessions": "अन्य सभी सत्रों से साइन आउट करें",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "setup2FAFailed": "2FA सेटअप नहीं हो सका",
+    "invalidVerificationCode": "अमान्य सत्यापन कोड",
+    "twoFactorEnabledSuccess": "दो-कारक प्रमाणीकरण सफलतापूर्वक सक्षम हो गया!",
+    "disable2FAFailed": "2FA अक्षम नहीं किया जा सका",
+    "twoFactorDisabledSuccess": "दो-कारक प्रमाणीकरण अक्षम कर दिया गया है।",
+    "revokeSessionsFailed": "सत्र निरस्त नहीं किए जा सके",
+    "revokeSessionsSuccess": "अन्य सभी सत्र निरस्त कर दिए गए हैं",
+    "genericTryAgain": "एक त्रुटि हुई। कृपया फिर से प्रयास करें।",
+    "qrCodeAlt": "2FA QR कोड"
+  },
+  "customerProfile": {
+    "loyaltyPoints": "पॉइंट्स",
+    "loyaltyTier": "लॉयल्टी स्तर",
+    "bronze": "ब्रॉन्ज़",
+    "silver": "सिल्वर",
+    "gold": "गोल्ड",
+    "platinum": "प्लैटिनम",
+    "preferences": "प्राथमिकताएँ",
+    "preferencesDesc": "अपनी खरीदारी प्राथमिकताओं और सूचनाओं का प्रबंधन करें",
+    "preferencesSaved": "प्राथमिकताएँ सफलतापूर्वक सहेजी गईं",
+    "emailNotifications": "ईमेल सूचनाएँ",
+    "orderUpdates": "ऑर्डर अपडेट",
+    "orderUpdatesDesc": "अपने ऑर्डर की स्थिति में बदलाव की सूचना प्राप्त करें",
+    "promotions": "प्रचार और ऑफ़र",
+    "promotionsDesc": "विशेष ऑफ़र और प्रचार ईमेल प्राप्त करें",
+    "newsletter": "न्यूज़लेटर",
+    "newsletterDesc": "नए उत्पादों और रुझानों पर साप्ताहिक अपडेट",
+    "priceDrops": "मूल्य गिरावट अलर्ट",
+    "priceDropsDesc": "जब आपकी विशलिस्ट के आइटम सेल पर हों तो सूचना प्राप्त करें",
+    "backInStock": "स्टॉक में वापसी अलर्ट",
+    "backInStockDesc": "जब स्टॉक से बाहर आइटम उपलब्ध हों तो सूचना प्राप्त करें",
+    "marketingPreferences": "मार्केटिंग प्राथमिकताएँ",
+    "marketingOptIn": "मार्केटिंग ईमेल",
+    "marketingOptInDesc": "मार्केटिंग संचार और विशेष ऑफ़र प्राप्त करें",
+    "totalSpent": "कुल खर्च",
+    "avgOrderValue": "औसत ऑर्डर मूल्य",
+    "memberSince": "सदस्य बनने की तिथि"
+  },
+  "addresses": {
+    "title": "मेरे पते",
+    "subtitle": "अपने डिलीवरी पते प्रबंधित करें",
+    "deliveryAddresses": "डिलीवरी पते",
+    "deliveryDesc": "तेजी से चेकआउट के लिए पते जोड़ें और प्रबंधित करें",
+    "savedAddresses": "सहेजे गए पते",
+    "savedAddressesDesc": "आपके सहेजे गए डिलीवरी पते",
+    "addNew": "नया पता जोड़ें",
+    "addFirst": "अपना पहला पता जोड़ें",
+    "noAddresses": "आपने अभी तक कोई पता नहीं जोड़ा है",
+    "addAddress": "नया पता जोड़ें",
+    "editAddress": "पता संपादित करें",
+    "formDescription": "डिलीवरी पते का विवरण दर्ज करें",
+    "default": "डिफ़ॉल्ट",
+    "setDefault": "डिफ़ॉल्ट के रूप में सेट करें",
+    "deleteTitle": "पता हटाएँ",
+    "deleteDescription": "क्या आप वाकई इस पते को हटाना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।"
+  },
+  "payment": {
+    "title": "भुगतान विधियां",
+    "subtitle": "अपनी सहेजी गई भुगतान विधियाँ प्रबंधित करें",
+    "noMethods": "आपने अभी तक कोई भुगतान विधि नहीं जोड़ी है",
+    "addFirst": "भुगतान विधि जोड़ें",
+    "addCard": "कार्ड जोड़ें",
+    "cardNumber": "कार्ड नंबर",
+    "cardHolder": "कार्ड धारक",
+    "expiryDate": "समाप्ति तिथि",
+    "expirationDate": "समाप्ति तिथि",
+    "cvv": "CVV/CVC",
+    "primary": "प्राथमिक",
+    "setDefault": "प्राथमिक के रूप में सेट करें",
+    "saveCard": "कार्ड सहेजें",
+    "secureMessage": "आपका लेनदेन SSL एन्क्रिप्शन द्वारा सुरक्षित है",
+    "deleteTitle": "भुगतान विधि हटाएँ",
+    "deleteDescription": "क्या आप वाकई इस भुगतान विधि को हटाना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।"
+  },
+  "categories": {
+    "electronics": "इलेक्ट्रॉनिक्स",
+    "fashion": "फैशन",
+    "homeGarden": "घर और बगीचा",
+    "sports": "खेल"
+  },
+  "nav": {
+    "home": "होम",
+    "products": "उत्पाद",
+    "categories": "श्रेणियाँ",
+    "deals": "ऑफ़र",
+    "newArrivals": "नई arrivals",
+    "bestSellers": "बेस्ट सेलर",
+    "aboutUs": "हमारे बारे में",
+    "contactUs": "संपर्क करें",
+    "help": "सहायता",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
+    "allProducts": "सभी उत्पाद",
+    "collections": "कलेक्शन्स",
+    "wishlist": "इच्छा सूची",
+    "blog": "ब्लॉग",
+    "getHelp": "मदद प्राप्त करें"
+  },
+  "productsPage": {
+    "subtitle": "कपड़ों से लेकर एक्सेसरीज़ तक हमारे पूरे उत्पाद संग्रह का अन्वेषण करें।",
+    "empty": "कोई उत्पाद नहीं मिला",
+    "filters": {
+      "minPrice": "न्यूनतम कीमत",
+      "maxPrice": "अधिकतम कीमत",
+      "sortOptions": {
+        "mostPopular": "सबसे लोकप्रिय",
+        "bestRating": "सबसे अच्छी रेटिंग",
+        "newest": "नवीनतम",
+        "priceLowHigh": "कीमत कम से ज़्यादा",
+        "priceHighLow": "कीमत ज़्यादा से कम"
+      }
+    }
+  },
+  "storeCollectionsPage": {
+    "headerSubtitle": "हमारे क्यूरेटेड कलेक्शन देखें",
+    "emptyCollectionsTitle": "अभी कोई कलेक्शन नहीं है",
+    "emptyCollectionsDescription": "क्यूरेटेड उत्पाद कलेक्शन के लिए जल्द फिर आएं।",
+    "productCount": "{count, plural, one {# उत्पाद} other {# उत्पाद}}"
+  },
+  "storeCategoryDetailPage": {
+    "productsCount": "{count, plural, one {# उत्पाद} other {# उत्पाद}}",
+    "empty": "No products found in this category."
+  },
+  "storeCollectionDetailPage": {
+    "productsCount": "{count, plural, one {# उत्पाद} other {# उत्पाद}}",
+    "sortByLabel": "क्रमबद्ध करें:",
+    "sortPlaceholder": "क्रमबद्ध करें",
+    "sortOptions": {
+      "featured": "फ़ीचर्ड",
+      "bestSelling": "सबसे ज़्यादा बिकने वाले",
+      "aToZ": "A-Z",
+      "zToA": "Z-A",
+      "priceLowHigh": "कीमत: कम से ज़्यादा",
+      "priceHighLow": "कीमत: ज़्यादा से कम",
+      "newest": "नवीनतम"
+    },
+    "emptyProductsTitle": "कोई उत्पाद नहीं मिला",
+    "emptyProductsDescription": "यह कलेक्शन खाली है। बाद में फिर देखें!",
+    "pagination": {
+      "previous": "पिछला",
+      "next": "अगला",
+      "pageOf": "पेज {current} / {total}"
+    }
+  },
+  "auth": {
+    "welcomeBack": "वापसी पर स्वागत है",
+    "createAccount": "खाता बनाएं",
+    "signIn": "साइन इन",
+    "signUp": "साइन अप",
+    "signOut": "साइन आउट",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "fullName": "पूरा नाम",
+    "phoneNumber": "फोन नंबर",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "resetPassword": "पासवर्ड रीसेट करें",
+    "noAccount": "क्या आपका खाता नहीं है?",
+    "hasAccount": "क्या आपके पास पहले से खाता है?",
+    "orContinueWith": "या जारी रखें",
+    "termsAgreement": "खाता बनाकर, आप हमारे",
+    "termsOfService": "सेवा की शर्तों",
+    "privacyPolicy": "गोपनीयता नीति",
+    "and": "और",
+    "shopAsCustomer": "ग्राहक के रूप में खरीदें",
+    "sellAsVendor": "विक्रेता के रूप में बेचें",
+    "iWantTo": "मैं चाहता/चाहती हूँ",
+    "forgotPasswordDescription": "Enter your email and we'll send you a reset link",
+    "sendResetLink": "Send reset link",
+    "backToLogin": "Back to login",
+    "createAccountDescription": "Enter your details to get started",
+    "verify": "सत्यापित करें"
+  },
+  "home": {
+    "heroTitle": "{storeName} में आपका स्वागत है",
+    "heroSubtitle": "सत्यापित विक्रेताओं से शानदार उत्पाद खोजें। भरोसे के साथ खरीदें और सहज डिलीवरी का आनंद लें।",
+    "shopByCategory": "श्रेणी के अनुसार खरीदें",
+    "shopByCategoryDescription": "श्रेणियों के अनुसार व्यवस्थित हमारे उत्पादों की विस्तृत रेंज देखें",
+    "viewAllCategories": "सभी श्रेणियाँ देखें",
+    "whyChooseUs": "{storeName} क्यों चुनें?",
+    "whyChooseUsDescription": "हम आपके लिए बनाई गई सुविधाओं के साथ बेहतरीन शॉपिंग अनुभव देते हैं",
+    "startSelling": "{storeName} पर बेचने की शुरुआत करें",
+    "startSellingBadge": "विक्रेता कार्यक्रम",
+    "startSellingDescription": "हजारों विक्रेताओं से जुड़ें और लाखों ग्राहकों तक पहुँचें। आसान सेटअप, शक्तिशाली टूल्स और समर्पित सपोर्ट।",
+    "getStartedFree": "मुफ़्त में शुरू करें",
+    "becomeASeller": "विक्रेता बनें",
+    "topVendorsRating": "रेटिंग",
+    "topVendorsSold": "बिक्री",
+    "topVendorsPrice": "मूल्य",
+    "topVendorsGoToShop": "दुकान पर जाएँ",
+    "scrollLeft": "बाएँ स्क्रॉल करें",
+    "scrollRight": "दाएँ स्क्रॉल करें"
+  },
+  "features": {
+    "wideSelection": "विस्तृत चयन",
+    "wideSelectionDescription": "सत्यापित विक्रेताओं से हजारों उत्पाद",
+    "secureShoping": "सुरक्षित शॉपिंग",
+    "secureShopingDescription": "आपका डेटा एंटरप्राइज़-ग्रेड सुरक्षा से सुरक्षित है",
+    "fastDelivery": "तेज़ डिलीवरी",
+    "fastDeliveryDescription": "आपके दरवाज़े तक तेज़ और भरोसेमंद शिपिंग",
+    "easyPayments": "आसान भुगतान",
+    "easyPaymentsDescription": "आपकी सुविधा के लिए कई भुगतान विकल्प",
+    "verifiedVendors": "सत्यापित विक्रेता",
+    "verifiedVendorsDescription": "गुणवत्ता सुनिश्चित करने के लिए सभी विक्रेताओं का सत्यापन किया जाता है",
+    "support247": "24/7 सपोर्ट",
+    "support247Description": "चौबीसों घंटे ग्राहक सहायता"
+  },
+  "product": {
+    "description": "विवरण",
+    "specifications": "विशेषताएँ",
+    "reviews": "समीक्षाएँ",
+    "relatedProducts": "संबंधित उत्पाद",
+    "customerReviews": "ग्राहक समीक्षाएँ",
+    "writeReview": "समीक्षा लिखें",
+    "addToWishlist": "इच्छा सूची में जोड़ें",
+    "removeFromWishlist": "इच्छा सूची से हटाएँ",
+    "share": "शेयर",
+    "compare": "तुलना",
+    "sku": "SKU",
+    "category": "श्रेणी",
+    "tags": "टैग",
+    "vendor": "विक्रेता",
+    "visitStore": "स्टोर देखें",
+    "stockStatus": "स्टॉक स्थिति",
+    "availability": "उपलब्धता",
+    "addToCart": "कार्ट में जोड़ें",
+    "inStock": "स्टॉक में",
+    "outOfStock": "स्टॉक खत्म"
+  },
+  "cart": {
+    "yourCart": "आपका कार्ट",
+    "shoppingCart": "शॉपिंग कार्ट",
+    "emptyCart": "आपका कार्ट खाली है",
+    "emptyCartDescription": "लगता है आपने अभी तक कार्ट में कोई आइटम नहीं जोड़ा है।",
+    "continueShopping": "खरीदारी जारी रखें",
+    "updateCart": "कार्ट अपडेट करें",
+    "clearCart": "कार्ट खाली करें",
+    "checkout": "चेकआउट",
+    "proceedToCheckout": "चेकआउट पर जाएँ",
+    "orderSummary": "ऑर्डर सारांश",
+    "applyCoupon": "कूपन लगाएँ",
+    "removeCoupon": "कूपन हटाएँ",
+    "couponCode": "कूपन कोड",
+    "apply": "लागू करें",
+    "itemRemoved": "आइटम कार्ट से हटाया गया",
+    "itemAdded": "आइटम कार्ट में जोड़ा गया",
+    "cartCleared": "कार्ट खाली किया गया",
+    "freeShipping": "आप मुफ्त शिपिंग के पात्र हैं!",
+    "products": {
+      "color": "रंग",
+      "size": "आकार"
+    }
+  },
+  "checkout": {
+    "checkout": "चेकआउट",
+    "shippingInformation": "शिपिंग जानकारी",
+    "shippingAddress": "शिपिंग पता",
+    "billingAddress": "बिलिंग पता",
+    "sameAsShipping": "शिपिंग पते जैसा",
+    "paymentMethod": "भुगतान विधि",
+    "placeOrder": "ऑर्डर करें",
+    "orderPlaced": "ऑर्डर सफलतापूर्वक किया गया!",
+    "orderNumber": "ऑर्डर नंबर",
+    "estimatedDelivery": "अनुमानित डिलीवरी",
+    "firstName": "पहला नाम",
+    "lastName": "अंतिम नाम",
+    "address": "पता",
+    "city": "शहर",
+    "state": "राज्य/प्रांत",
+    "postalCode": "पिन कोड",
+    "country": "देश",
+    "phone": "फोन",
+    "cashOnDelivery": "कैश ऑन डिलीवरी",
+    "creditDebitCard": "क्रेडिट/डेबिट कार्ड",
+    "securePayment": "आपकी भुगतान जानकारी सुरक्षित और एन्क्रिप्टेड है",
+    "orderSuccess": "आपके ऑर्डर के लिए धन्यवाद!",
+    "orderSuccessDescription": "हमें आपका ऑर्डर मिल गया है और हम इसे जल्द ही प्रोसेस करेंगे। आपको ऑर्डर विवरण के साथ एक पुष्टि ईमेल मिलेगा।",
+    "downloadInvoice": "चालान डाउनलोड करें",
+    "orderConfirmation": "आपके ईमेल पते पर एक पुष्टि ईमेल भेजा गया है",
+    "emptyCartMessage": "आपका कार्ट खाली है। चेकआउट से पहले कुछ उत्पाद जोड़ें।",
+    "title": "Checkout",
+    "contactInfo": "Contact Information",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "items": "Items",
+    "continue": "Continue to Payment",
+    "back": "Back to Information",
+    "processing": "Processing...",
+    "steps": {
+      "information": "Information",
+      "shipping": "Shipping",
+      "payment": "Payment"
+    },
+    "errors": {
+      "loadPaymentConfig": "Failed to load payment configuration",
+      "initPayment": "Failed to initialize payment",
+      "processPayment": "Failed to process payment"
+    },
+    "shippingMethod": "Shipping Method",
+    "selectShipping": "Select a shipping method",
+    "useSavedAddress": "सहेजा गया पता उपयोग करें",
+    "emailOrPhone": "ईमेल या मोबाइल फ़ोन नंबर",
+    "saveInfo": "अगली बार के लिए यह जानकारी सहेजें",
+    "payment": {
+      "payWithCard": "Pay with Card",
+      "payWithPayPal": "Pay with PayPal",
+      "payWhenReceive": "Pay when you receive",
+      "poweredByStripe": "Powered by Stripe",
+      "cardDetailsParams": "Card details are entered securely on Stripe after you continue.",
+      "paypalRedirect": "You will be redirected to PayPal to complete payment.",
+      "securePaypal": "Secure payment powered by PayPal",
+      "payOnDeliveryDescription": "You will pay when you receive your order"
+    }
+  },
+  "orders": {
+    "myOrders": "मेरे ऑर्डर",
+    "orderHistory": "ऑर्डर इतिहास",
+    "orderDetails": "ऑर्डर विवरण",
+    "orderStatus": "ऑर्डर स्थिति",
+    "trackOrder": "ऑर्डर ट्रैक करें",
+    "viewOrders": "मेरे ऑर्डर देखें",
+    "reorder": "फिर से ऑर्डर करें",
+    "cancelOrder": "ऑर्डर रद्द करें",
+    "downloadInvoice": "चालान",
+    "invoiceDownloadFailed": "चालान डाउनलोड विफल",
+    "returnOrder": "ऑर्डर वापस करें",
+    "noOrders": "आपने अभी तक कोई ऑर्डर नहीं किया है",
+    "pending": "लंबित",
+    "processing": "प्रोसेस हो रहा है",
+    "shipped": "भेज दिया गया",
+    "delivered": "डिलीवर",
+    "cancelled": "रद्द",
+    "refunded": "रिफंड",
+    "backToOrders": "ऑर्डर पर वापस जाएँ",
+    "placedOn": "ऑर्डर किया गया",
+    "cancelling": "रद्द हो रहा है...",
+    "cancelOrderTitle": "ऑर्डर रद्द करें",
+    "cancelOrderDescription": "क्या आप वाकई इस ऑर्डर को रद्द करना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।",
+    "keepOrder": "ऑर्डर रखें",
+    "orderCancelled": "ऑर्डर सफलतापूर्वक रद्द कर दिया गया",
+    "orderCancelFailed": "ऑर्डर रद्द करने में विफल",
+    "orderItems": "ऑर्डर आइटम",
+    "orderUpdated": "ऑर्डर की स्थिति अपडेट की गई",
+    "orderUpdateFailed": "स्थिति अपडेट करने में विफल",
+    "searchPlaceholder": "ऑर्डर नंबर से खोजें...",
+    "noOrdersFound": "कोई ऑर्डर नहीं मिला",
+    "markProcessing": "प्रोसेसिंग के रूप में चिह्नित करें",
+    "markShipped": "शिल्पित के रूप में चिह्नित करें",
+    "markDelivered": "डिलीवर के रूप में चिह्नित करें",
+    "startShopping": "खरीदारी शुरू करें",
+    "browseProducts": "उत्पाद ब्राउज़ करें",
+    "title": "मेरे ऑर्डर",
+    "subtitle": "अपने ऑर्डर ट्रैक और प्रबंधित करें",
+    "historyDesc": "अपने सभी पिछले और वर्तमान ऑर्डर देखें"
+  },
+  "vendor": {
+    "vendorDashboard": "विक्रेता डैशबोर्ड",
+    "dashboardSubtitle": "अपने स्टोर और उत्पाद प्रबंधित करें",
+    "myProducts": "मेरे उत्पाद",
+    "addProduct": "उत्पाद जोड़ें",
+    "editProduct": "उत्पाद संपादित करें",
+    "productManagement": "उत्पाद प्रबंधन",
+    "orderManagement": "ऑर्डर प्रबंधन",
+    "analytics": "एनालिटिक्स",
+    "earnings": "कमाई",
+    "storeName": "स्टोर नाम",
+    "storeDescription": "स्टोर विवरण",
+    "storeSettings": "स्टोर सेटिंग्स",
+    "overview": "अवलोकन",
+    "management": "प्रबंधन",
+    "settingsDesc": "अपने स्टोर प्रोफ़ाइल और प्राथमिकताएँ प्रबंधित करें",
+    "storeProfile": "स्टोर प्रोफ़ाइल",
+    "storeProfileDesc": "अपने स्टोर का विवरण और ब्रांडिंग प्रबंधित करें",
+    "payment": "भुगतान",
+    "paymentSettings": "भुगतान सेटिंग्स",
+    "paymentSettingsDesc": "भुगतान विधियाँ और पayout प्रबंधित करें",
+    "notificationSettings": "सूचना सेटिंग्स",
+    "notificationSettingsDesc": "ईमेल और पुश सूचनाएँ प्रबंधित करें",
+    "accountSettings": "खाता सेटिंग्स",
+    "accountSettingsDesc": "अपने व्यक्तिगत खाते का विवरण प्रबंधित करें",
+    "viewStore": "View Store",
+    "viewOrders": "ऑर्डर",
+    "productSummary": "उत्पाद स्थिति",
+    "active": "सक्रिय",
+    "byStatus": "स्थिति के अनुसार",
+    "unableToLoadData": "Unable to load analytics data. Make sure you are a registered vendor.",
+    "salesChart": "बिक्री (पिछले 30 दिन)",
+    "commission": "भुगतान किया गया कमीशन",
+    "activeProducts": "सक्रिय उत्पाद",
+    "netEarnings": "शुद्ध कमाई",
+    "pending": "लंबित",
+    "recentOrders": "हाल के ऑर्डर",
+    "topProducts": "सबसे अधिक बिकने वाले उत्पाद",
+    "totalOrders": "कुल ऑर्डर",
+    "totalProducts": "कुल उत्पाद",
+    "totalRevenue": "कुल राजस्व",
+    "pendingOrders": "Pending Orders",
+    "productStatus": "Product Status",
+    "becomeVendor": "Become a Vendor",
+    "becomeVendorDesc": "Start selling your products on our marketplace. Apply now and reach thousands of customers.",
+    "applicationForm": "Vendor Application",
+    "applicationDesc": "Fill out the form below to apply as a vendor. We'll review your application within 2-3 business days.",
+    "vendorPanel": "Vendor Panel",
+    "dashboard": "डैशबोर्ड",
+    "products": "उत्पाद",
+    "collections": "संग्रह",
+    "orders": "ऑर्डर",
+    "settings": "स्टोर सेटिंग्स",
+    "goToDashboard": "Go to Vendor Dashboard",
+    "registration": {
+      "title": "Start Selling on Minimart",
+      "subtitle": "Join thousands of successful sellers and reach millions of customers",
+      "welcomeTitle": "Welcome To Store",
+      "welcomeSubtitle": "Setup Your Store Information",
+      "confirmPassword": "Confirm Password",
+      "selectCountry": "Select Country",
+      "selectState": "Select State",
+      "addressPlaceholder": "Address",
+      "pincodePlaceholder": "Pincode",
+      "phonePlaceholder": "Phone Number",
+      "startSelling": "Start Selling Today",
+      "joinUs": "Join thousands of successful sellers",
+      "submitButton": "Submit",
+      "stepAccountTitle": "Create Your Account",
+      "stepAccountDesc": "Sign up to get started as a seller",
+      "passwordHelper": "Minimum 8 characters required",
+      "step1Title": "Business Information",
+      "step1Desc": "Tell us about your store",
+      "step2Title": "Business Address",
+      "step2Desc": "Where is your business located?",
+      "step3Title": "Social & Contact",
+      "step3Desc": "Help customers find you",
+      "step4Title": "Bank Details",
+      "step4Desc": "Set up payments (optional)",
+      "step5Title": "Review & Submit",
+      "step5Desc": "Confirm your details",
+      "storeNameLabel": "Store Name",
+      "storeNamePlaceholder": "e.g., My Awesome Store",
+      "storeNameHelper": "This will be your public store name on the marketplace",
+      "storeDescLabel": "Store Description",
+      "storeDescPlaceholder": "Tell customers what makes your store special...",
+      "storeDescHelper": "Describe your products and what customers can expect",
+      "storeLogoLabel": "Store Logo URL",
+      "storeLogoPlaceholder": "https://example.com/logo.png",
+      "storeLogoHelper": "Optional: URL to your store logo",
+      "storeBannerLabel": "Store Banner URL",
+      "storeBannerPlaceholder": "https://example.com/banner.png",
+      "storeBannerHelper": "Optional: URL to your store banner (1200x300px recommended)",
+      "streetLabel": "सड़क का पता",
+      "streetPlaceholder": "123 Main Street",
+      "cityLabel": "शहर",
+      "cityPlaceholder": "New York",
+      "stateLabel": "राज्य/प्रांत",
+      "statePlaceholder": "NY",
+      "postalCodeLabel": "पिन/ज़िप कोड",
+      "postalCodePlaceholder": "10001",
+      "countryLabel": "देश",
+      "countryPlaceholder": "United States",
+      "businessPhoneLabel": "Business Phone",
+      "businessPhonePlaceholder": "+1 (555) 123-4567",
+      "websiteLabel": "Website",
+      "websitePlaceholder": "https://yourwebsite.com",
+      "websiteHelper": "Your existing website or online presence",
+      "facebookLabel": "Facebook",
+      "facebookPlaceholder": "https://facebook.com/yourstore",
+      "instagramLabel": "Instagram",
+      "instagramPlaceholder": "https://instagram.com/yourstore",
+      "twitterLabel": "Twitter/X",
+      "twitterPlaceholder": "https://twitter.com/yourstore",
+      "socialLinksHelper": "Add your social profiles to build trust with customers",
+      "accountNameLabel": "Account Holder Name",
+      "accountNamePlaceholder": "John Doe",
+      "accountNumberLabel": "Account Number",
+      "accountNumberPlaceholder": "1234567890",
+      "bankNameLabel": "Bank Name",
+      "bankNamePlaceholder": "Bank of America",
+      "routingNumberLabel": "Routing Number",
+      "routingNumberPlaceholder": "123456789",
+      "swiftCodeLabel": "SWIFT/BIC Code",
+      "swiftCodePlaceholder": "BOFAUS3N",
+      "bankDetailsHelper": "You can add or update bank details later from your seller dashboard",
+      "skipBankDetails": "Skip for now",
+      "reviewDetails": "Review Your Application",
+      "reviewHelper": "Please review your information before submitting",
+      "submitApplication": "Submit Application",
+      "submitting": "Submitting...",
+      "applicationSubmitted": "Application Submitted!",
+      "applicationSubmittedDesc": "We'll review your application within 2-3 business days. You'll receive an email notification once approved.",
+      "nextStep": "Continue",
+      "previousStep": "Back",
+      "saveDraft": "Save Draft",
+      "draftSaved": "Draft saved",
+      "requiredField": "This field is required",
+      "minChars": "Minimum {count} characters required",
+      "invalidUrl": "Please enter a valid URL",
+      "whyJoin": "Why sell with us?",
+      "benefit1Title": "Reach Millions",
+      "benefit1Desc": "Access our growing customer base and expand your market",
+      "benefit2Title": "Low Commission",
+      "benefit2Desc": "Competitive 10% commission rate on sales",
+      "benefit3Title": "Easy Setup",
+      "benefit3Desc": "Get started in minutes with our simple onboarding",
+      "benefit4Title": "Powerful Tools",
+      "benefit4Desc": "Dashboard, analytics, and marketing tools included",
+      "benefit5Title": "Fast Payouts",
+      "benefit5Desc": "Weekly payouts directly to your bank account",
+      "benefit6Title": "24/7 Support",
+      "benefit6Desc": "Dedicated seller support team always ready to help",
+      "trustedSellers": "1,000+ trusted sellers",
+      "averageRating": "4.8 average seller rating",
+      "totalProductsListed": "50,000+ products listed",
+      "loginRequired": "Login Required",
+      "loginRequiredDesc": "Please log in or create an account to apply as a vendor.",
+      "alreadyApplied": "You've already submitted an application",
+      "applicationPending": "Application Under Review",
+      "applicationPendingDesc": "Your vendor application is being reviewed. We'll notify you once it's approved.",
+      "applicationApproved": "Application Approved!",
+      "applicationApprovedDesc": "Congratulations! Your vendor account is active. Start adding products now.",
+      "applicationRejected": "Application Rejected",
+      "applicationRejectedDesc": "Unfortunately, your application was not approved. Please contact support for more information.",
+      "applicationSuspended": "Account Suspended",
+      "applicationSuspendedDesc": "Your vendor account has been suspended. Please contact support.",
+      "businessInfo": "Business Information",
+      "addressInfo": "Address Information",
+      "socialInfo": "Social & Contact",
+      "bankInfo": "Bank Details",
+      "optional": "Optional",
+      "checkYourStats": "Check your store performance",
+      "statsDescription": "View sales, orders, and analytics from your dashboard."
+    },
+    "productsPage": {
+      "subtitle": "अपने उत्पाद प्रबंधित करें",
+      "description": "अपने स्टोर के उत्पाद देखें और प्रबंधित करें"
+    },
+    "productsTable": {
+      "deleteConfirm": "क्या आप वाकई \"{name}\" हटाना चाहते हैं? यह कार्य वापस नहीं लिया जा सकता।",
+      "productDeleted": "उत्पाद सफलतापूर्वक हटाया गया",
+      "deleteFailed": "उत्पाद हटाने में विफल",
+      "status": "स्थिति",
+      "allStatus": "सभी स्थितियाँ",
+      "image": "छवि",
+      "name": "नाम",
+      "price": "मूल्य",
+      "stock": "स्टॉक",
+      "actions": "कार्य",
+      "notAvailable": "उपलब्ध नहीं",
+      "uncategorized": "श्रेणीहीन",
+      "view": "देखें"
+    },
+    "status": {
+      "published": "प्रकाशित",
+      "draft": "मसौदा",
+      "archived": "संग्रहित",
+      "pending": "लंबित",
+      "processing": "प्रसंस्करण में",
+      "shipped": "भेजा गया",
+      "delivered": "डिलीवर",
+      "cancelled": "रद्द"
+    },
+    "ordersTable": {
+      "title": "ऑर्डर",
+      "loadFailed": "ऑर्डर लोड नहीं हो सके",
+      "updateFailed": "ऑर्डर अपडेट नहीं हो सका",
+      "updated": "ऑर्डर अपडेट हो गया",
+      "guest": "अतिथि",
+      "itemCount": "{count} आइटम",
+      "searchPlaceholder": "ऑर्डर नंबर से खोजें",
+      "empty": "कोई ऑर्डर नहीं मिला",
+      "createOrder": "ऑर्डर बनाएं",
+      "cancelOrderTitle": "ऑर्डर रद्द करें",
+      "cancelOrderDescription": "क्या आप वाकई इस ऑर्डर को रद्द करना चाहते हैं?",
+      "cancelOrderConfirm": "ऑर्डर रद्द करें",
+      "cancelOrderKeep": "ऑर्डर रखें",
+      "cancelOrdersTitle": "ऑर्डर रद्द करें",
+      "cancelOrdersDescription": "चयनित {count} ऑर्डर रद्द करें?",
+      "cancelOrdersConfirm": "ऑर्डर रद्द करें",
+      "cancelOrdersKeep": "ऑर्डर रखें",
+      "bulkUpdatedAll": "{count} ऑर्डर अपडेट हुए",
+      "bulkUpdatedSome": "{total} में से {success} ऑर्डर अपडेट हुए",
+      "bulkUpdatedNone": "चयनित कोई भी ऑर्डर अपडेट नहीं हो सका",
+      "bulkUpdateFailed": "चयनित ऑर्डर अपडेट नहीं हो सके",
+      "columns": {
+        "order": "ऑर्डर",
+        "customer": "ग्राहक",
+        "date": "तारीख",
+        "payment": "भुगतान",
+        "fulfillment": "पूर्ति",
+        "items": "आइटम",
+        "netSales": "शुद्ध बिक्री",
+        "actions": "कार्रवाइयाँ"
+      },
+      "tabs": {
+        "all": "सभी",
+        "unfulfilled": "अपूर्ण",
+        "unpaid": "अवैतनिक",
+        "open": "खुले",
+        "archived": "संग्रहित"
+      },
+      "filters": {
+        "fulfillment": "पूर्ति"
+      },
+      "actions": {
+        "markProcessing": "प्रोसेसिंग में चिह्नित करें",
+        "markShipped": "भेजा हुआ चिह्नित करें",
+        "markDelivered": "डिलीवर किया हुआ चिह्नित करें",
+        "cancel": "रद्द करें",
+        "viewDetails": "विवरण देखें",
+        "startProcessing": "प्रसंस्करण शुरू करें",
+        "cancelOrder": "ऑर्डर रद्द करें"
+      },
+      "shipDialog": {
+        "title": "भेजा हुआ चिह्नित करें",
+        "description": "इस ऑर्डर को भेजने से पहले वैकल्पिक ट्रैकिंग नंबर जोड़ें।",
+        "trackingLabel": "ट्रैकिंग नंबर",
+        "trackingPlaceholder": "ट्रैकिंग नंबर दर्ज करें",
+        "confirm": "शिपमेंट की पुष्टि करें"
+      }
+    },
+    "paymentStatus": {
+      "pending": "लंबित",
+      "paid": "भुगतान हुआ",
+      "partially_paid": "आंशिक भुगतान",
+      "refunded": "रिफंड हुआ",
+      "partially_refunded": "आंशिक रिफंड"
+    },
+    "fulfillmentStatus": {
+      "pending": "अपूर्ण",
+      "processing": "प्रसंस्करण में",
+      "shipped": "रास्ते में",
+      "delivered": "डिलीवर हो गया",
+      "cancelled": "रद्द"
+    },
+    "settingsForm": {
+      "logoUrl": "लोगो URL",
+      "bannerUrl": "बैनर URL",
+      "website": "वेबसाइट",
+      "facebook": "फेसबुक",
+      "instagram": "इंस्टाग्राम",
+      "twitter": "X / ट्विटर",
+      "accountName": "खाता नाम",
+      "accountNumber": "खाता संख्या",
+      "bankName": "बैंक का नाम",
+      "routingNumber": "रूटिंग नंबर",
+      "swiftCode": "SWIFT कोड",
+      "payoutSchedule": "पayout समय-सारणी",
+      "payoutWeekly": "साप्ताहिक",
+      "payoutBiweekly": "पाक्षिक",
+      "payoutMonthly": "मासिक",
+      "minimumPayoutAmount": "न्यूनतम भुगतान राशि",
+      "newOrders": "नए ऑर्डर",
+      "newOrdersDesc": "जब ग्राहक नया ऑर्डर दें तो अलर्ट प्राप्त करें।",
+      "orderStatusUpdates": "ऑर्डर स्थिति अपडेट",
+      "orderStatusUpdatesDesc": "सक्रिय ऑर्डरों के लिए रिमाइंडर और स्थिति अपडेट प्राप्त करें।",
+      "lowStockAlerts": "कम स्टॉक अलर्ट",
+      "lowStockAlertsDesc": "जब उत्पादों का स्टॉक कम हो तो मुझे सूचित करें।",
+      "productTipsAndUpdates": "उत्पाद टिप्स और अपडेट",
+      "productTipsAndUpdatesDesc": "उत्पाद घोषणाएँ और विक्रेता सुधार सुझाव प्राप्त करें।",
+      "changePasswordDesc": "अपने विक्रेता खाते की सुरक्षा के लिए पासवर्ड अपडेट करें।",
+      "passwordMinLength": "नया पासवर्ड कम से कम 8 अक्षरों का होना चाहिए",
+      "passwordsDoNotMatch": "पासवर्ड मेल नहीं खाते"
+    },
+    "untitledProduct": "बिना शीर्षक का उत्पाद",
+    "dashboardWidgets": {
+      "noProductsYet": "अभी तक कोई उत्पाद नहीं",
+      "noImage": "कोई चित्र नहीं",
+      "soldCount": "{count} बेचे गए"
+    },
+    "charts": {
+      "noDataAvailable": "कोई डेटा उपलब्ध नहीं",
+      "unknown": "अज्ञात",
+      "ordersCount": "{count} ऑर्डर",
+      "noRecentOrders": "कोई हालिया ऑर्डर नहीं"
+    },
+    "payoutsPage": {
+      "title": "Payouts",
+      "subtitle": "Track your settlement statements and payout statuses.",
+      "listSection": {
+        "title": "Payout Statements",
+        "searchPlaceholder": "Search payout number",
+        "columns": {
+          "details": "Details"
+        },
+        "empty": "No payouts found."
+      }
+    },
+    "payouts": "पेआउट",
+    "storefront": {
+      "title": "{storeName}",
+      "subtitle": "इस विक्रेता स्टोरफ्रंट के उत्पाद देखें।",
+      "noProducts": "इस विक्रेता के लिए कोई उत्पाद नहीं मिला।",
+      "notFound": "विक्रेता स्टोरफ्रंट नहीं मिला।"
+    }
+  },
+  "adminProfile": {
+    "title": "प्रोफ़ाइल",
+    "subtitle": "अपने खाते की सेटिंग्स और प्राथमिकताएँ प्रबंधित करें",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "personalInfoDesc": "अपना नाम और संपर्क विवरण अपडेट करें",
+    "passwordDesc": "अपने खाते को सुरक्षित रखने के लिए पासवर्ड अपडेट करें",
+    "updatePassword": "पासवर्ड अपडेट करें",
+    "accountInfo": "खाता",
+    "administrator": "व्यवस्थापक",
+    "twoFactor": "दो-कारक प्रमाणीकरण",
+    "twoFactorActive": "2FA सक्रिय",
+    "enabled": "सक्षम",
+    "disabled": "अक्षम",
+    "avatarUpdated": "अवतार अपडेट किया गया",
+    "avatarError": "अवतार अपलोड करने में विफल"
+  },
+  "admin": {
+    "adminDashboard": "एडमिन डैशबोर्ड",
+    "browseWebsite": "वेबसाइट देखें",
+    "ordersPage": {
+      "plusMore": "+{count} और",
+      "item": "आइटम",
+      "export": "एक्सपोर्ट",
+      "table": {
+        "purchased": "खरीदा गया",
+        "date": "तारीख",
+        "customer": "ग्राहक",
+        "channel": "चैनल",
+        "payment": "भुगतान",
+        "fulfillment": "फुलफिलमेंट",
+        "delivery": "डिलीवरी"
+      },
+      "channel": {
+        "pos": "पॉइंट ऑफ सेल",
+        "online": "ऑनलाइन स्टोर"
+      },
+      "paymentStatus": {
+        "paid": "भुगतान किया गया",
+        "partiallyPaid": "आंशिक भुगतान",
+        "partiallyRefunded": "आंशिक रिफंड"
+      },
+      "fulfillment": {
+        "unfulfilled": "अपूर्ण",
+        "inTransit": "रास्ते में",
+        "fulfilled": "पूर्ण"
+      },
+      "delivery": {
+        "notShipped": "शिप नहीं हुआ",
+        "inTransit": "रास्ते में"
+      },
+      "tabs": {
+        "all": "सभी",
+        "unfulfilled": "अपूर्ण",
+        "unpaid": "अवैतनिक",
+        "open": "खुला",
+        "archived": "संग्रहीत"
+      },
+      "filters": {
+        "orderStatus": "ऑर्डर स्थिति"
+      },
+      "bulk": {
+        "cancelTitle": "ऑर्डर रद्द करें",
+        "cancelDescription": "{count} ऑर्डर रद्द करें?",
+        "cancelConfirm": "ऑर्डर रद्द करें",
+        "cancelKeep": "ऑर्डर रखें",
+        "updatedSuccess": "{count} ऑर्डर अपडेट हुए",
+        "updatedError": "कुछ ऑर्डर अपडेट नहीं हो पाए"
+      },
+      "pagination": {
+        "showing": "दिखाया जा रहा है",
+        "to": "से",
+        "of": "में से",
+        "results": "परिणाम",
+        "rowsPerPage": "प्रति पेज पंक्तियाँ"
+      },
+      "stats": {
+        "totalOrders": {
+          "title": "कुल ऑर्डर",
+          "description": "सभी ऑर्डर रिकॉर्ड"
+        },
+        "openOrders": {
+          "title": "खुले ऑर्डर",
+          "description": "पेंडिंग, प्रोसेसिंग या शिप्ड"
+        },
+        "paidOrders": {
+          "title": "भुगतान किए गए ऑर्डर",
+          "description": "भुगतान पूरा हुआ"
+        },
+        "totalRevenue": {
+          "title": "कुल राजस्व",
+          "description": "भुगतान किए गए ऑर्डर का कुल मूल्य"
+        },
+        "averageOrderValue": {
+          "title": "औसत ऑर्डर मूल्य",
+          "description": "प्रति भुगतान ऑर्डर राजस्व"
+        }
+      }
+    },
+    "orderDetails": {
+      "orderNumber": "ऑर्डर #{number}",
+      "placedOn": "पर रखा गया",
+      "tracking": "ट्रैकिंग",
+      "print": "प्रिंट",
+      "back": "वापस",
+      "moreActions": "अधिक कार्रवाई",
+      "refundFull": "पूर्ण रिफंड",
+      "refundPartial": "आंशिक रिफंड",
+      "markShipped": "शिप्ड के रूप में चिह्नित करें",
+      "markShippedDescription": "ग्राहक और सहायता टीम डिलीवरी को ट्रैक कर सकें, इसलिए वाहक विवरण जोड़ें।",
+      "carrier": "वाहक",
+      "carrierPlaceholder": "DHL, FedEx, UPS",
+      "trackingNumber": "ट्रैकिंग नंबर",
+      "trackingNumberPlaceholder": "ट्रैकिंग नंबर",
+      "cancel": "रद्द करें",
+      "cancelOrderTitle": "ऑर्डर रद्द करें",
+      "cancelOrderDescription": "रद्दीकरण ऑर्डर के योग्य होने तक इन्वेंट्री को पुनर्स्थापित करता है।",
+      "reason": "कारण",
+      "cancelReasonPlaceholder": "ऑर्डर इतिहास के लिए वैकल्पिक नोट",
+      "keepOrder": "ऑर्डर रखें",
+      "cancelOrder": "ऑर्डर रद्द करें",
+      "refundNotAvailable": "रिफंड केवल भुगतान किए गए ऑर्डर के लिए उपलब्ध है",
+      "enterRefundAmount": "आंशिक रिफंड राशि दर्ज करें",
+      "invalidRefundAmount": "वैध रिफंड राशि दर्ज करें",
+      "refundReasonOptional": "रिफंड कारण (वैकल्पिक)",
+      "refundRecorded": "रिफंड दर्ज किया गया",
+      "refundFailed": "रिफंड विफल",
+      "orderItems": "ऑर्डर आइटम",
+      "splitShipment": "विभाजित शिपमेंट",
+      "splitShipmentDescription": "इस ऑर्डर में कई विक्रेताओं की आइटम हैं और अलग-अलग शिपमेंट में डिलीवर किए जाएंगे।",
+      "item": "आइटम",
+      "price": "कीमत",
+      "quantity": "मात्रा",
+      "total": "कुल",
+      "sku": "SKU",
+      "subtotal": "उप-योग",
+      "shipping": "शिपिंग",
+      "tax": "कर",
+      "discount": "छूट",
+      "totalLabel": "कुल",
+      "timeline": "समयरेखा",
+      "showComments": "टिप्पणियाँ दिखाएं",
+      "addMessagePlaceholder": "कोई संदेश जोड़ें, अगर आप चाहें...",
+      "post": "पोस्ट करें",
+      "noEventsYet": "अभी तक कोई इवेंट नहीं",
+      "by": "द्वारा",
+      "system": "सिस्टम",
+      "customer": "ग्राहक",
+      "guestCheckout": "गेस्ट चेकआउट",
+      "customerSince": "ग्राहक बने",
+      "contactInfo": "संपर्क जानकारी",
+      "shippingAddress": "शिपिंग पता",
+      "billingAddress": "बिलिंग पता",
+      "payment": "भुगतान",
+      "orderStatus": {
+        "pending": "लंबित",
+        "processing": "प्रोसेसिंग",
+        "shipped": "शिप्ड",
+        "delivered": "डिलीवर्ड",
+        "cancelled": "रद्द"
+      },
+      "paymentStatus": {
+        "pending": "लंबित",
+        "paid": "भुगतान किया",
+        "partially_paid": "आंशिक रूप से भुगतान किया",
+        "refunded": "रिफंड किया गया",
+        "partially_refunded": "आंशिक रिफंड"
+      }
+    },
+    "analyticsPage": {
+      "subtitle": "स्टोर प्रदर्शन और वेबसाइट ट्रैफ़िक",
+      "onlineNow": "अभी ऑनलाइन",
+      "visitors": "विज़िटर",
+      "totalVisitors": "कुल विज़िटर",
+      "pageviews": "पेजव्यू",
+      "topSources": "शीर्ष स्रोत",
+      "topPages": "शीर्ष पेज",
+      "countries": "देश",
+      "devices": "डिवाइस",
+      "unknown": "अज्ञात",
+      "none": "(कोई नहीं)",
+      "directNone": "डायरेक्ट / कोई नहीं",
+      "poweredBy": "डेटा Plausible Analytics द्वारा",
+      "openDashboard": "Plausible डैशबोर्ड खोलें",
+      "periods": {
+        "day": "आज",
+        "7d": "7 दिन",
+        "30d": "30 दिन",
+        "month": "माह",
+        "6mo": "6 माह",
+        "12mo": "12 माह"
+      },
+      "cards": {
+        "onlineNow": "अभी ऑनलाइन",
+        "uniqueVisitors": "यूनिक विज़िटर",
+        "totalPageviews": "कुल पेजव्यू",
+        "totalVisits": "कुल विज़िट",
+        "bounceRate": "बाउंस रेट",
+        "avgDuration": "औसत अवधि"
+      },
+      "chart": {
+        "title": "विज़िटर और पेजव्यू",
+        "description": "चयनित अवधि में ट्रैफ़िक"
+      },
+      "tabs": {
+        "browser": "ब्राउज़र",
+        "os": "OS",
+        "size": "आकार"
+      },
+      "columns": {
+        "source": "स्रोत",
+        "visitors": "विज़िटर",
+        "page": "पेज",
+        "country": "देश",
+        "device": "डिवाइस"
+      },
+      "empty": {
+        "timeseries": "कोई टाइमसीरीज़ डेटा नहीं",
+        "sources": "अभी तक कोई स्रोत डेटा नहीं",
+        "pages": "अभी तक कोई पेज डेटा नहीं",
+        "countries": "अभी तक कोई देश डेटा नहीं",
+        "devices": "अभी तक कोई डिवाइस डेटा नहीं"
+      },
+      "errors": {
+        "loadFailed": "एनालिटिक्स डेटा लोड नहीं हो सका"
+      },
+      "notConfigured": {
+        "title": "Plausible Analytics कॉन्फ़िगर नहीं है",
+        "description": "रीयल-टाइम विज़िटर डेटा, ट्रैफ़िक स्रोत, पेज एनालिटिक्स और अधिक देखने के लिए अपना Plausible Analytics खाता कनेक्ट करें।",
+        "cta": "Plausible Analytics कॉन्फ़िगर करें"
+      },
+      "units": {
+        "minute": "मि",
+        "second": "से"
+      },
+      "time": {
+        "am": "am",
+        "pm": "pm"
+      }
+    },
+    "dashboardPage": {
+      "greeting": "शुभ प्रभात, जेम्स।",
+      "goodMorning": "शुभ प्रभात, {name}।",
+      "goodAfternoon": "नमस्कार, {name}।",
+      "goodEvening": "शुभ संध्या, {name}।",
+      "subtitle": "आज आपकी स्टोर में क्या हो रहा है, यह देखें।",
+      "orders": "ऑर्डर",
+      "cases": "मामले",
+      "ordersTitle": "ऑर्डर",
+      "dateRange": "25 जुलाई - 25 अगस्त",
+      "addActivity": "गतिविधि जोड़ें",
+      "sales": "बिक्री",
+      "ordersDescription": "कुल ऑर्डर का प्रोजेक्ट-वाइज ब्रेकडाउन और विस्तृत जानकारी।",
+      "showHighlights": "सभी हाइलाइट देखें",
+      "showSalesData": "सभी बिक्री डेटा देखें",
+      "viewAllOrders": "सभी ऑर्डर देखें",
+      "recentOrders": "हाल के ऑर्डर",
+      "noRecentOrders": "हाल के कोई ऑर्डर नहीं मिले।",
+      "totalVisitors": "कुल विज़िटर",
+      "thisMonth": "यह महीना",
+      "lastMonth": "पिछला महीना",
+      "customer": "ग्राहक",
+      "pc": "पीस",
+      "pcs": "पीस",
+      "paymentMethod": "भुगतान विधि",
+      "totalPrice": "कुल मूल्य",
+      "orderLabel": "ऑर्डर {orderNumber}",
+      "stats": {
+        "inStoreSales": "इन-स्टोर बिक्री",
+        "websiteSales": "वेबसाइट बिक्री",
+        "discount": "छूट",
+        "affiliate": "एफिलिएट",
+        "marketplace": "मार्केटप्लेस",
+        "refunds": "रिफंड",
+        "inStore": "इन-स्टोर",
+        "online": "ऑनलाइन"
+      },
+      "status": {
+        "pending": "लंबित",
+        "processing": "प्रक्रिया में",
+        "shipped": "शिप किया गया",
+        "delivered": "डिलीवर",
+        "cancelled": "रद्द"
+      },
+      "payment": {
+        "creditCard": "क्रेडिट कार्ड",
+        "paypal": "PayPal",
+        "cashOnDelivery": "कैश ऑन डिलीवरी",
+        "upi": "UPI",
+        "card": "कार्ड"
+      },
+      "latestProducts": "नवीनतम उत्पाद",
+      "noLatestProducts": "कोई नवीनतम उत्पाद नहीं मिला।"
+    },
+    "sidebar": {
+      "home": "होम",
+      "overview": "अवलोकन",
+      "orders": "ऑर्डर",
+      "products": "उत्पाद",
+      "collections": "संग्रह",
+      "categories": "श्रेणियाँ",
+      "inventory": "इन्वेंटरी",
+      "purchaseOrders": "खरीद ऑर्डर",
+      "transfers": "स्थानांतरण",
+      "giftCards": "गिफ्ट कार्ड",
+      "customers": "ग्राहक",
+      "vendors": "विक्रेता",
+      "marketing": "मार्केटिंग",
+      "discounts": "छूट",
+      "content": "सामग्री",
+      "markets": "बाजार",
+      "analytics": "एनालिटिक्स",
+      "salesChannels": "बिक्री चैनल",
+      "onlineStore": "ऑनलाइन स्टोर",
+      "homePage": "होम पेज",
+      "theme": "थीम",
+      "themes": "थीम्स",
+      "pages": "पेज",
+      "pos": "पॉइंट ऑफ सेल",
+      "staff": "कर्मचारी",
+      "posStaff": "स्टाफ",
+      "posLocations": "स्थान",
+      "apps": "ऐप्स",
+      "addApp": "जोड़ें",
+      "addPage": "पेज जोड़ें",
+      "dashboard": "डैशबोर्ड",
+      "navigation": "नेविगेशन",
+      "payments": "भुगतान",
+      "payouts": "पेआउट",
+      "transactions": "लेनदेन",
+      "reviews": "समीक्षाएँ",
+      "blogPosts": "ब्लॉग पोस्ट",
+      "blogCategories": "ब्लॉग श्रेणियाँ",
+      "blogComments": "टिप्पणियाँ",
+      "allPosts": "सभी पोस्ट",
+      "menus": "मेन्यू",
+      "aiStudio": "AI स्टूडियो"
+    },
+    "users": "उपयोगकर्ता",
+    "usersDesc": "उपयोगकर्ताओं और भूमिकाओं का प्रबंधन करें",
+    "vendors": "विक्रेता",
+    "vendorsDesc": "विक्रेता खातों और अनुमोदनों का प्रबंधन करें",
+    "products": "उत्पाद",
+    "categories": "श्रेणियाँ",
+    "orders": "ऑर्डर",
+    "inventory": {
+      "title": "इन्वेंटरी",
+      "subtitle": "उत्पाद स्टॉक स्तर प्रबंधित करें",
+      "searchPlaceholder": "उत्पाद खोजें...",
+      "export": "एक्सपोर्ट",
+      "import": "इम्पोर्ट",
+      "tabs": {
+        "all": "सभी",
+        "online": "ऑनलाइन",
+        "onlineStore": "ऑनलाइन स्टोर",
+        "mainWarehouse": "मुख्य वेयरहाउस",
+        "storifyWarehouse": "स्टोरिफाई वेयरहाउस",
+        "storeFront": "स्टोर फ्रंट",
+        "secondaryStorage": "द्वितीयक स्टोरेज"
+      },
+      "columns": {
+        "product": "उत्पाद",
+        "sku": "SKU",
+        "unavailable": "अनुपलब्ध",
+        "committed": "रिज़र्व्ड",
+        "available": "उपलब्ध",
+        "onHand": "हाथ में"
+      },
+      "filters": {
+        "stockLevel": "स्टॉक स्तर",
+        "all": "सभी",
+        "lowStock": "कम स्टॉक",
+        "outOfStock": "स्टॉक खत्म"
+      },
+      "actions": {
+        "adjustQuantity": "मात्रा समायोजित करें",
+        "save": "सेव करें",
+        "cancel": "रद्द करें"
+      },
+      "empty": "कोई इन्वेंटरी आइटम नहीं मिला",
+      "learnMore": "इन्वेंटरी प्रबंधन के बारे में और जानें",
+      "updateSuccess": "इन्वेंटरी सफलतापूर्वक अपडेट हुई",
+      "updateError": "इन्वेंटरी अपडेट नहीं हो सकी",
+      "itemsModified": "{count} आइटम संशोधित किए गए",
+      "csvHeaders": {
+        "product": "उत्पाद",
+        "variant": "वैरिएंट",
+        "sku": "SKU",
+        "available": "उपलब्ध",
+        "onHand": "हाथ में"
+      },
+      "stats": {
+        "trackedSkus": "ट्रैक किए गए SKU",
+        "trackedSkusDescription": "आपके कैटलॉग के उत्पाद वैरिएंट",
+        "lowStock": "कम स्टॉक",
+        "lowStockDescription": "10 या कम यूनिट वाले SKU",
+        "outOfStock": "स्टॉक खत्म",
+        "outOfStockDescription": "वर्तमान में अनुपलब्ध SKU",
+        "onHandUnits": "हाथ में यूनिट",
+        "onHandUnitsDescription": "आपके उत्पादों में कुल यूनिट",
+        "locations": "लोकेशन्स",
+        "locationsDescription": "सक्रिय इन्वेंटरी लोकेशन्स"
+      }
+    },
+    "vendorsManagement": {
+      "allVendors": "All Vendors",
+      "allVendorsDesc": "View and manage vendor profiles",
+      "searchPlaceholder": "Search store name...",
+      "status": {
+        "pending": "Pending",
+        "approved": "Active",
+        "suspended": "Suspended",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "storeOwner": "Store & Owner",
+        "status": "Status",
+        "commission": "Commission",
+        "sales": "Sales",
+        "joined": "Joined",
+        "actions": "Actions",
+        "noVendors": "No vendors found",
+        "visitStore": "Visit Store",
+        "updateStatus": "Update Status",
+        "unknown": "Unknown"
+      },
+      "toasts": {
+        "statusSuccess": "Vendor status updated successfully",
+        "statusError": "Failed to update status"
+      }
+    },
+    "productsManagement": {
+      "title": "Products",
+      "subtitle": "Manage all products in the marketplace",
+      "addProduct": "Add Product",
+      "allProducts": "All Products",
+      "allProductsDesc": "View and manage products from all vendors",
+      "searchPlaceholder": "Search products...",
+      "status": {
+        "label": "Status",
+        "all": "All Status",
+        "published": "Published",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "table": {
+        "image": "Image",
+        "name": "Name",
+        "vendor": "Vendor",
+        "price": "Price",
+        "stock": "Stock",
+        "status": "Status",
+        "actions": "Actions",
+        "noProducts": "No products found",
+        "uncategorized": "Uncategorized",
+        "na": "N/A",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "deleteDialog": {
+        "title": "Delete Product",
+        "description": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+        "confirm": "Delete",
+        "cancel": "Cancel",
+        "success": "Product deleted successfully",
+        "error": "Failed to delete product"
+      }
+    },
+    "settings": {
+      "title": "सेटिंग्स",
+      "description": "अपने स्टोर कॉन्फ़िगरेशन का प्रबंधन करें",
+      "tabs": {
+        "general": "सामान्य",
+        "security": "सुरक्षा",
+        "appearance": "दिखावट",
+        "payment": "भुगतान",
+        "email": "ईमेल",
+        "orders": "ऑर्डर",
+        "seo": "एसईओ",
+        "social": "सामाजिक",
+        "maintenance": "रखरखाव"
+      },
+      "general": {
+        "title": "सामान्य सेटिंग्स",
+        "description": "अपने स्टोर की बुनियादी जानकारी कॉन्फ़िगर करें",
+        "storeName": "स्टोर का नाम",
+        "storeEmail": "स्टोर ईमेल",
+        "phone": "फ़ोन नंबर",
+        "storeDomain": "स्टोर डोमेन",
+        "address": "पता",
+        "storeDescription": "स्टोर विवरण",
+        "defaultLanguage": "डिफ़ॉल्ट भाषा",
+        "defaultCurrency": "डिफ़ॉल्ट मुद्रा",
+        "logoUrl": "लोगो URL",
+        "faviconUrl": "फ़ेविकॉन URL",
+        "save": "परिवर्तन सहेजें"
+      },
+      "appearance": {
+        "title": "दिखावट",
+        "description": "अपने स्टोर के लुक और फील को अनुकूलित करें",
+        "primaryColor": "प्राथमिक रंग",
+        "secondaryColor": "द्वितीयक रंग",
+        "accentColor": "एक्सेंट रंग",
+        "theme": "डिफ़ॉल्ट थीम",
+        "themes": {
+          "light": "हल्का",
+          "dark": "गहरा",
+          "system": "सिस्टम"
+        },
+        "save": "परिवर्तन सहेजें"
+      },
+      "payment": {
+        "stripe": {
+          "title": "स्ट्राइप",
+          "description": "स्ट्राइप पेमेंट गेटवे कॉन्फ़िगर करें",
+          "enable": "स्ट्राइप भुगतान सक्षम करें",
+          "publishableKey": "प्रकाशन योग्य कुंजी",
+          "secretKey": "गुप्त कुंजी",
+          "webhookSecret": "वेबहुक सीक्रेट",
+          "webhookSecretHint": "भुगतान इवेंट्स को संभालने के लिए आवश्यक। इसे Stripe डैशबोर्ड → डेवलपर्स → वेबहुक से प्राप्त करें"
+        },
+        "cod": {
+          "title": "डिलिवरी पर नकद",
+          "description": "सीओडी भुगतान विकल्प कॉन्फ़िगर करें",
+          "enable": "डिलिवरी पर नकद सक्षम करें",
+          "instructions": "निर्देश",
+          "placeholder": "ग्राहकों को दिखाए जाने वाले निर्देश...",
+          "codMinOrder": "Min Order Amount",
+          "codMaxOrder": "Max Order Amount"
+        },
+        "save": "भुगतान सेटिंग्स सहेजें",
+        "title": "भुगतान सेटिंग्स",
+        "description": "Configure payment gateways and options",
+        "enableStripe": "Enable Stripe",
+        "stripePublishableKey": "Publishable Key",
+        "stripeWebhookSecret": "Webhook Secret",
+        "enablePayPal": "Enable PayPal",
+        "paypalClientId": "Client ID",
+        "paypalMode": "Mode",
+        "paypalSandbox": "Sandbox",
+        "paypalLive": "Live",
+        "paypalWebhookId": "Webhook ID",
+        "enableCOD": "Enable Cash on Delivery",
+        "codInstructions": "COD Instructions",
+        "codMinOrder": "Min Order Amount",
+        "codMaxOrder": "Max Order Amount",
+        "paypal": {
+          "title": "PayPal",
+          "description": "Configure PayPal payment gateway",
+          "enablePayPal": "Enable PayPal",
+          "paypalClientId": "Client ID",
+          "clientSecret": "क्लाइंट सीक्रेट",
+          "paypalMode": "Mode",
+          "paypalSandbox": "Sandbox",
+          "paypalLive": "Live",
+          "paypalWebhookId": "Webhook ID"
+        }
+      },
+      "email": {
+        "title": "ईमेल कॉन्फ़िगरेशन (SMTP)",
+        "description": "SMTP के माध्यम से ईमेल भेजना कॉन्फ़िगर करें",
+        "enable": "SMTP ईमेल सक्षम करें",
+        "host": "SMTP होस्ट",
+        "port": "SMTP पोर्ट",
+        "username": "SMTP उपयोगकर्ता नाम",
+        "password": "SMTP पासवर्ड",
+        "fromEmail": "प्रेषक ईमेल",
+        "fromName": "प्रेषक का नाम",
+        "secure": "SSL/TLS का उपयोग करें (पोर्ट 465 के लिए)",
+        "test": {
+          "label": "टेस्ट ईमेल",
+          "placeholder": "test@example.com",
+          "button": "टेस्ट ईमेल भेजें",
+          "success": "टेस्ट ईमेल सफलतापूर्वक भेजा गया!",
+          "error": "टेस्ट ईमेल भेजने में विफल"
+        },
+        "save": "ईमेल सेटिंग्स सहेजें"
+      },
+      "security": {
+        "title": "सुरक्षा और एक्सेस नियंत्रण",
+        "description": "Configure multi-vendor mode, session security, and password policies",
+        "tabs": {
+          "general": "General",
+          "2fa": "Two-Factor Auth",
+          "oauth": "OAuth",
+          "pos": "POS Access",
+          "vendor": "Vendor Permissions"
+        },
+        "multiVendor": {
+          "title": "Store Mode",
+          "label": "मल्टी-वेंडर मोड",
+          "description": "Enable marketplace features: vendor registration, multiple stores, vendor dashboard"
+        },
+        "emailVerification": {
+          "title": "Email Verification",
+          "required": "Require Email Verification",
+          "requiredDesc": "Users must verify email before accessing the store",
+          "vendorRequired": "Require for Vendors",
+          "vendorRequiredDesc": "Vendors must verify email before listing products"
+        },
+        "session": {
+          "title": "Session Security",
+          "duration": "Session Duration (days)",
+          "maxAttempts": "Max Login Attempts",
+          "lockout": "Lockout Duration (min)"
+        },
+        "rateLimiting": {
+          "enabled": "रेट लिमिटिंग सक्षम करें",
+          "adminPreset": "एडमिन API",
+          "vendorPreset": "वेंडर API",
+          "checkoutPreset": "चेकआउट / भुगतान",
+          "cartPreset": "कार्ट",
+          "couponPreset": "कूपन",
+          "authPreset": "प्रमाणीकरण / लॉगिन",
+          "ipPreset": "अतिथि / सार्वजनिक (IP-आधारित)"
+        },
+        "passwordPolicy": {
+          "title": "Password Policy",
+          "minLength": "Minimum Password Length",
+          "uppercase": "Require Uppercase",
+          "numbers": "Require Numbers",
+          "specialChars": "Require Special Characters"
+        },
+        "save": "Save Security Settings"
+      },
+      "seo": {
+        "title": "SEO सेटिंग्स",
+        "description": "Configure search engine optimization",
+        "metaTitle": "Meta Title",
+        "metaTitlePlaceholder": "Your Store - Online Marketplace",
+        "metaDescription": "Meta Description",
+        "metaDescriptionPlaceholder": "Describe your store in 150-160 characters...",
+        "metaKeywords": "Meta Keywords",
+        "metaKeywordsPlaceholder": "ecommerce, online shopping, marketplace",
+        "save": "Save SEO Settings"
+      },
+      "social": {
+        "title": "सोशल मीडिया लिंक",
+        "description": "Add your social media profiles",
+        "facebook": "Facebook",
+        "twitter": "Twitter/X",
+        "instagram": "Instagram",
+        "youtube": "YouTube",
+        "save": "Save Social Links",
+        "facebookPlaceholder": "https://facebook.com/yourpage",
+        "twitterPlaceholder": "https://twitter.com/yourhandle",
+        "instagramPlaceholder": "https://instagram.com/yourprofile",
+        "youtubePlaceholder": "https://youtube.com/yourchannel",
+        "tiktok": "TikTok",
+        "tiktokPlaceholder": "https://tiktok.com/@yourhandle",
+        "linkedin": "LinkedIn",
+        "linkedinPlaceholder": "https://linkedin.com/company/yourcompany"
+      },
+      "maintenance": {
+        "title": "मेंटेनेंस मोड",
+        "description": "Control store availability",
+        "enable": "Enable Maintenance Mode",
+        "enableDesc": "When enabled, visitors will see a maintenance message",
+        "message": "Maintenance Message",
+        "messagePlaceholder": "We're currently undergoing maintenance. Please check back soon!",
+        "save": "Save Maintenance Settings"
+      },
+      "twoFactor": {
+        "title": "दो-कारक प्रमाणीकरण",
+        "description": "Enable and configure 2FA requirements for different user roles",
+        "enable": "Enable Two-Factor Authentication",
+        "enableDesc": "Allow users to set up 2FA for their accounts",
+        "requirements": "2FA Requirements by Role",
+        "admin": "Required for Administrators",
+        "adminDesc": "Admin accounts must enable 2FA",
+        "vendor": "Required for Vendors",
+        "vendorDesc": "Vendor accounts must enable 2FA",
+        "save": "Save 2FA Settings"
+      },
+      "oauth": {
+        "title": "OAuth / सोशल लॉगिन",
+        "description": "Configure social login providers (Google, Facebook)",
+        "google": {
+          "label": "Google Sign-In",
+          "description": "Allow users to sign in with their Google account",
+          "clientId": "Google Client ID",
+          "clientSecret": "Google Client Secret"
+        },
+        "facebook": {
+          "label": "Facebook Sign-In",
+          "description": "Allow users to sign in with their Facebook account",
+          "appId": "Facebook App ID",
+          "appSecret": "Facebook App Secret"
+        },
+        "save": "Save OAuth Settings"
+      },
+      "pos": {
+        "title": "पॉइंट ऑफ सेल (POS) एक्सेस",
+        "description": "Configure which roles can access the POS system",
+        "enable": "Enable POS System",
+        "enableDesc": "Allow in-store sales through the Point of Sale module",
+        "access": "POS Access by Role",
+        "admin": "Administrators",
+        "adminDesc": "Allow admins to make sales via POS",
+        "vendor": "Vendors",
+        "vendorDesc": "Allow vendors to make sales via POS for their products",
+        "seller": "Sellers (Staff)",
+        "sellerDesc": "Allow seller staff to make sales via POS",
+        "save": "Save POS Settings",
+        "general": "General",
+        "language": "Language",
+        "defaultLocation": "Default POS Location ID",
+        "customize": "Customize",
+        "smartGrid": "Smart grid",
+        "lockScreen": "Lock screen timeout (min)",
+        "printedReceipts": "Printed receipts",
+        "customerDisplays": "Customer displays",
+        "checkout": "Checkout",
+        "customerReceiptSelection": "Customer receipt selection",
+        "offlinePayments": "Offline payments",
+        "orders": "Orders",
+        "orderNumberPrefix": "Order number prefix",
+        "orderNumberPrefixHint": "New POS orders use this prefix with a six-digit number, for example POS000017.",
+        "returnRules": "Return rules",
+        "returnWindowDays": "Return window (days)",
+        "allowWithoutReceipt": "Allow returns without receipt",
+        "enabled": "सक्रिय",
+        "disabled": "निष्क्रिय",
+        "accessDesc": "नियंत्रित करें कि कौन से उपयोगकर्ता रोल POS टर्मिनल एक्सेस कर सकते हैं",
+        "generalDesc": "POS के लिए डिफ़ॉल्ट भाषा और स्थान कॉन्फ़िगर करें",
+        "languageHint": "POS टर्मिनल इंटरफ़ेस में उपयोग की जाने वाली भाषा",
+        "selectLocation": "एक स्थान चुनें",
+        "noLocation": "कोई डिफ़ॉल्ट स्थान नहीं",
+        "defaultBadge": "डिफ़ॉल्ट",
+        "locationIdPlaceholder": "स्थान आईडी दर्ज करें",
+        "defaultLocationHint": "नए POS ऑर्डर के लिए डिफ़ॉल्ट रूप से उपयोग किया जाने वाला स्थान",
+        "checkoutDesc": "भुगतान विधियों और चेकआउट व्यवहार को कॉन्फ़िगर करें",
+        "paymentMethods": "स्वीकृत भुगतान विधियाँ",
+        "paymentCash": "नकद",
+        "paymentCashDesc": "नकद भुगतान स्वीकार करें",
+        "paymentCard": "कार्ड",
+        "paymentCardDesc": "क्रेडिट/डेबिट कार्ड भुगतान स्वीकार करें",
+        "paymentManual": "मैनुअल",
+        "paymentManualDesc": "कस्टम भुगतान विधियाँ",
+        "customerReceiptSelectionDesc": "ग्राहकों को रसीद कैसे प्राप्त करें यह चुनने दें",
+        "offlinePaymentsDesc": "डिवाइस ऑफ़लाइन होने पर भुगतान प्रक्रिया करें",
+        "customizeDesc": "POS टर्मिनल की दिखावट और व्यवहार को अनुकूलित करें",
+        "smartGridDesc": "इष्टतम प्रदर्शन के लिए उत्पाद ग्रिड को स्वचालित रूप से व्यवस्थित करें",
+        "printedReceiptsDesc": "प्रत्येक लेनदेन के बाद रसीदें प्रिंट करें",
+        "customerDisplaysDesc": "ग्राहक-मुख डिस्प्ले पर ऑर्डर विवरण दिखाएं",
+        "lockScreenHint": "निष्क्रियता के बाद POS टर्मिनल को स्वचालित रूप से लॉक करें",
+        "minutes": "मिनट",
+        "receiptPrinter": "रसीद प्रिंटर",
+        "receiptPrinterPlaceholder": "जैसे: Star TSP143",
+        "ordersDesc": "POS ऑर्डर के लिए वापसी नीतियां कॉन्फ़िगर करें",
+        "returnRulesDesc": "इन-स्टोर खरीदारी के लिए वापसी और रिफंड नियम सक्रिय करें",
+        "days": "दिन",
+        "allowWithoutReceiptDesc": "ग्राहकों को बिना रसीद के वस्तुएं वापस करने दें",
+        "conditionNotes": "वापसी शर्त नोट्स",
+        "conditionNotesPlaceholder": "जैसे: वस्तुएं मूल पैकेजिंग में होनी चाहिए",
+        "conditionNotesHint": "वापसी के लिए अतिरिक्त नोट्स या शर्तें",
+        "sound": "ध्वनि प्रभाव",
+        "soundDesc": "POS टर्मिनल इंटरैक्शन के लिए ऑडियो फीडबैक कॉन्फ़िगर करें",
+        "soundEnable": "ध्वनि प्रभाव सक्रिय करें",
+        "soundEnableDesc": "POS संचालन के दौरान ऑडियो संकेत चलाएं",
+        "soundVolume": "वॉल्यूम",
+        "soundAddToCart": "कार्ट में जोड़ें",
+        "soundAddToCartDesc": "कार्ट में उत्पाद जोड़ने पर बीप",
+        "soundPayment": "भुगतान स्वीकृत",
+        "soundPaymentDesc": "भुगतान प्रसंस्करण पर ध्वनि",
+        "soundOrderComplete": "ऑर्डर पूर्ण",
+        "soundOrderCompleteDesc": "ऑर्डर पूरा होने पर चाइम",
+        "soundError": "त्रुटि चेतावनी",
+        "soundErrorDesc": "त्रुटियों और स्टॉक चेतावनियों के लिए अलर्ट ध्वनि"
+      },
+      "vendorPermissions": {
+        "title": "Vendor Permission Defaults",
+        "description": "Configure default permissions for new vendors",
+        "warning": "Enable Multi-Vendor Mode to configure vendor permissions.",
+        "manageProducts": "Manage Products",
+        "viewOrders": "View Orders",
+        "manageOrders": "Manage Orders",
+        "manageSettings": "Manage Store Settings",
+        "viewAnalytics": "View Analytics",
+        "manageDiscounts": "Manage Discounts",
+        "managePayouts": "Manage Payouts",
+        "accessPOS": "Access POS",
+        "save": "Save Vendor Permissions"
+      },
+      "orders": {
+        "title": "ऑर्डर सेटिंग्स",
+        "description": "Configure order and commission settings",
+        "prefix": "Order Number Prefix",
+        "taxRate": "Tax Rate (%)",
+        "shippingCost": "Default Shipping Cost ($)",
+        "freeShippingThreshold": "Free Shipping Threshold ($)",
+        "freeShippingPlaceholder": "Leave empty to disable",
+        "vendorCommission": "Vendor Commission",
+        "commissionRate": "Commission Rate (%)",
+        "minWithdrawal": "Min Withdrawal Amount ($)",
+        "save": "Save Order Settings"
+      },
+      "storage": {
+        "title": "स्टोरेज सेटिंग्स",
+        "description": "मीडिया अपलोड के लिए फ़ाइल स्टोरेज प्रदाता कॉन्फ़िगर करें",
+        "provider": "स्टोरेज प्रदाता",
+        "chooseProvider": "एक सक्रिय स्टोरेज सेवा चुनें",
+        "status": "स्थिति",
+        "checking": "जांच हो रही है...",
+        "connected": "जुड़ा हुआ",
+        "notConnected": "जुड़ा नहीं है",
+        "refresh": "रिफ्रेश",
+        "accountId": "R2 खाता आईडी",
+        "cloudflareR2": "Cloudflare R2",
+        "r2Config": "Cloudflare R2 कॉन्फ़िगरेशन",
+        "cloudflareR2Desc": "S3-संगत स्टोरेज, कोई इग्रेस शुल्क नहीं",
+        "awsS3": "AWS S3",
+        "s3Config": "AWS S3 कॉन्फ़िगरेशन",
+        "awsS3Desc": "Amazon S3 ऑब्जेक्ट स्टोरेज",
+        "endpoint": "R2 एंडपॉइंट URL",
+        "endpointHelp": "Cloudflare Dashboard → R2 → आपका Bucket → सेटिंग्स में खोजें",
+        "region": "AWS क्षेत्र",
+        "bucketName": "बकेट का नाम",
+        "accessKeyId": "एक्सेस की आईडी",
+        "secretAccessKey": "सीक्रेट एक्सेस की",
+        "publicUrl": "सार्वजनिक URL / CDN (वैकल्पिक)",
+        "publicUrlHelp": "अपलोड की गई फ़ाइलें सर्व करने के लिए कस्टम डोमेन या CDN URL",
+        "testConnection": "कनेक्शन परीक्षण करें",
+        "uploadSettings": "अपलोड सेटिंग्स",
+        "maxFileSize": "अधिकतम फ़ाइल आकार (MB)",
+        "pathPrefix": "पाथ प्रीफ़िक्स",
+        "allowedMimeTypes": "अनुमत फ़ाइल प्रकार",
+        "save": "स्टोरेज सेटिंग्स सहेजें",
+        "connectionSuccess": "स्टोरेज कनेक्शन सफल!",
+        "connectionFailed": "स्टोरेज से कनेक्शन विफल",
+        "switchDialog": {
+          "title": "स्टोरेज प्रदाता बदलें?",
+          "description": "स्टोरेज प्रदाता बदलने से नए अपलोड नए प्रदाता के पास जाएंगे। मौजूदा फ़ाइलें पिछले प्रदाता में रहेंगी और माइग्रेशन की आवश्यकता हो सकती है।",
+          "confirm": "पुष्टि करें",
+          "cancel": "रद्द करें"
+        },
+        "placeholder": {
+          "bucket": "my-bucket",
+          "region": "क्षेत्र चुनें",
+          "accessKeyId": "AKIA...",
+          "r2AccessKeyId": "एक्सेस की आईडी",
+          "secretKey": "सीक्रेट की दर्ज करें",
+          "r2SecretKey": "आपकी R2 सीक्रेट एक्सेस की",
+          "r2AccountId": "1234567890abcdef",
+          "cdnUrl": "https://cdn.example.com",
+          "r2Url": "https://pub-xxxx.r2.dev",
+          "doAccessKey": "DO00..."
+        },
+        "help": {
+          "cloudfront": "अपलोड की गई फ़ाइलें सर्व करने के लिए CloudFront या कस्टम डोमेन",
+          "r2Domain": "अपलोड की गई फ़ाइलें सर्व करने के लिए R2.dev सबडोमेन या कस्टम डोमेन",
+          "r2FindOverview": "Cloudflare Dashboard → R2 → Overview में खोजें"
+        }
+      },
+      "analytics": {
+        "title": "एनालिटिक्स इंटीग्रेशन",
+        "description": "Connect external analytics services",
+        "googleAnalyticsId": "Google Analytics ID",
+        "googleAnalyticsIdPlaceholder": "G-XXXXXXXXXX",
+        "googleTagManagerId": "Google Tag Manager ID",
+        "googleTagManagerIdPlaceholder": "GTM-XXXXXXX",
+        "facebookPixelId": "Facebook Pixel ID",
+        "facebookPixelIdPlaceholder": "123456789012345",
+        "tiktokPixelId": "TikTok Pixel ID",
+        "tiktokPixelIdPlaceholder": "C1234567890ABCDEF",
+        "plausibleTitle": "Plausible Analytics",
+        "plausibleDomain": "Site Domain",
+        "plausibleDomainPlaceholder": "yourdomain.com",
+        "plausibleDomainHelp": "Enter just the domain, e.g. yourdomain.com (no https://)",
+        "plausibleApiKey": "API Key",
+        "plausibleApiKeyPlaceholder": "Enter your Plausible API key",
+        "plausibleApiKeyHelp": "Found in Plausible → Settings → API Keys",
+        "plausibleSelfHosted": "Self-hosted instance",
+        "plausibleBaseUrl": "Custom Instance URL",
+        "plausibleBaseUrlPlaceholder": "https://plausible.yourdomain.com",
+        "save": "Save Analytics Settings"
+      },
+      "loadError": "सेटिंग्स लोड नहीं हो सकीं",
+      "unsavedChanges": {
+        "title": "असहेजे बदलाव",
+        "description": "असहेजे बदलाव हटाकर सेक्शन बदलना चाहते हैं?",
+        "confirm": "हटाएँ",
+        "cancel": "रुकें"
+      },
+      "search": "सेटिंग्स खोजें",
+      "close": "Close settings",
+      "openMenu": "Open settings menu",
+      "closeMenu": "Close settings menu",
+      "attention": "कार्रवाई आवश्यक",
+      "disabled": "अक्षम",
+      "unsaved": "असहेजा",
+      "locations": {
+        "title": "इन्वेंटरी लोकेशन"
+      },
+      "shipping": {
+        "title": "शिपिंग और डिलीवरी"
+      },
+      "ai": {
+        "title": "एआई कॉन्फ़िगरेशन",
+        "description": "AI स्टूडियो कंटेंट, SEO, और इमेज जनरेशन को कॉन्फ़िगर करने की एक जगह।",
+        "statusConfigured": "कॉन्फ़िगर किया गया",
+        "statusNotConfigured": "कॉन्फ़िगर नहीं किया गया",
+        "enabled": "AI सुविधाएं सक्षम करें",
+        "enabledHint": "डैशबोर्ड में AI स्टूडियो और हर AI बटन को चालू या बंद करता है।",
+        "apiKey": "OpenAI API कुंजी",
+        "apiKeySetPlaceholder": "••••••••  (सहेजी गई — बदलने के लिए नई कुंजी दर्ज करें)",
+        "apiKeyHint": "AI स्टूडियो और AI सेल्स एजेंट द्वारा उपयोग की जाती है। OPENAI_API_KEY एनवायरनमेंट वेरिएबल का उपयोग जारी रखने के लिए खाली छोड़ें।",
+        "testConnection": "कनेक्शन टेस्ट करें",
+        "testFailed": "कनेक्शन टेस्ट विफल रहा",
+        "textModel": "टेक्स्ट मॉडल",
+        "imageModel": "इमेज मॉडल",
+        "modelDefault": "डिफ़ॉल्ट (अनुशंसित)",
+        "imageSize": "डिफ़ॉल्ट इमेज साइज़",
+        "imageQuality": "डिफ़ॉल्ट इमेज क्वालिटी",
+        "imageQualityHint": "उच्च क्वालिटी की प्रति इमेज लागत अधिक होती है।",
+        "surfacesTitle": "AI कहाँ उपलब्ध है",
+        "surfacesHint": "डैशबोर्ड के विशिष्ट क्षेत्रों के लिए AI जनरेशन बंद करें।",
+        "surfaces": {
+          "products": "उत्पाद",
+          "categories": "श्रेणियाँ",
+          "collections": "कलेक्शन्स",
+          "brands": "ब्रांड्स",
+          "blogPosts": "ब्लॉग पोस्ट",
+          "contentPages": "कंटेंट पेज",
+          "reviews": "समीक्षाएँ और उत्तर",
+          "heroBanner": "हीरो बैनर"
+        },
+        "brandVoiceTitle": "ब्रांड वॉइस",
+        "brandVoiceHint": "हर AI टेक्स्ट जनरेशन पर लागू होता है जब तक कोई रिक्वेस्ट इसे ओवरराइड न करे।",
+        "tone": "डिफ़ॉल्ट टोन",
+        "toneNone": "कोई डिफ़ॉल्ट टोन नहीं",
+        "brandInstructions": "स्टाइल गाइडेंस (वैकल्पिक)",
+        "brandInstructionsPlaceholder": "उदा. \"आउटडोर के शौकीनों के लिए लिखें। छोटे वाक्य। सुपरलेटिव से बचें।\"",
+        "accessTitle": "एक्सेस और दैनिक सीमाएं",
+        "accessHint": "सीमाएं प्रति उपयोगकर्ता प्रति दिन हैं। 0 का अर्थ है असीमित।",
+        "staffEnabled": "स्टाफ खातों को अनुमति दें",
+        "vendorsEnabled": "वेंडर खातों को अनुमति दें",
+        "textLimit": "टेक्स्ट जनरेशन / उपयोगकर्ता / दिन",
+        "imageLimit": "इमेज जनरेशन / उपयोगकर्ता / दिन",
+        "imageLimitHint": "इमेज की लागत सबसे अधिक होती है — साझा स्टोर्स के लिए एक सीमा तय करें।",
+        "imageStyle": "इमेज स्टाइल गाइडेंस (वैकल्पिक)",
+        "imageStylePlaceholder": "उदा. \"सॉफ्ट नेचुरल लाइट, वार्म न्यूट्रल पैलेट, न्यूनतम प्रॉप्स।\"",
+        "imageStyleHint": "जनरेट की गई इमेजेस पर लागू होता है (एडिट्स पर नहीं) ताकि उत्पाद विज़ुअल्स ब्रांड के अनुरूप बने रहें।",
+        "brandKitTitle": "ब्रांड किट",
+        "brandKitHint": "इमेजेस जनरेट करने और सोशल साइज़ एक्सपोर्ट करते समय उपयोग किए जाने वाले रंग और लोगो।",
+        "primaryColor": "प्राथमिक ब्रांड रंग",
+        "secondaryColor": "द्वितीयक ब्रांड रंग",
+        "logoUrl": "ब्रांड लोगो URL",
+        "logoUrlHint": "अपना लोगो स्टोर पर अपलोड करें, फिर उसका URL यहाँ पेस्ट करें। सोशल एक्सपोर्ट पर वैकल्पिक लॉकअप के रूप में उपयोग किया जाता है।"
+      },
+      "saveChanges": "परिवर्तन सहेजें"
+    },
+    "reports": "रिपोर्ट",
+    "pendingApprovals": "लंबित अनुमोदन",
+    "approveVendor": "विक्रेता अनुमोदित करें",
+    "rejectVendor": "विक्रेता अस्वीकार करें",
+    "pos": "Point of Sale",
+    "posStaff": "Staff",
+    "posLocations": "Locations",
+    "productsPage": {
+      "stats": {
+        "totalProducts": {
+          "title": "कुल उत्पाद",
+          "description": "सभी catalog उत्पाद"
+        },
+        "activeListings": {
+          "title": "सक्रिय Listings",
+          "description": "लाइव on स्टोरफ्रंट"
+        },
+        "draftProducts": {
+          "title": "ड्राफ्ट उत्पाद",
+          "description": "लंबित publish"
+        },
+        "outOfStock": {
+          "title": "स्टॉक खत्म",
+          "description": "ज़रूरत replenishment"
+        },
+        "inventoryUnits": {
+          "title": "इन्वेंटरी Units",
+          "description": "कुल sellable stock"
+        }
+      }
+    },
+    "collectionsPage": {
+      "stats": {
+        "totalCollections": {
+          "title": "कुल कलेक्शन्स",
+          "description": "सभी कलेक्शन groups"
+        },
+        "activeCollections": {
+          "title": "सक्रिय कलेक्शन्स",
+          "description": "दृश्य को customers"
+        },
+        "manualCollections": {
+          "title": "मैनुअल कलेक्शन्स",
+          "description": "क्यूरेटेड द्वारा admin"
+        },
+        "onlineStore": {
+          "title": "ऑनलाइन स्टोर",
+          "description": "प्रकाशित को ऑनलाइन channel"
+        },
+        "productsInCollections": {
+          "title": "उत्पाद में कलेक्शन्स",
+          "description": "कुल assigned उत्पाद entries"
+        }
+      }
+    },
+    "categoriesPage": {
+      "stats": {
+        "totalCategories": {
+          "title": "कुल श्रेणियाँ",
+          "description": "सभी श्रेणी records"
+        },
+        "activeCategories": {
+          "title": "सक्रिय श्रेणियाँ",
+          "description": "दृश्य में स्टोरफ्रंट"
+        },
+        "inactiveCategories": {
+          "title": "निष्क्रिय श्रेणियाँ",
+          "description": "छिपा from customers"
+        },
+        "parentCategories": {
+          "title": "पैरेंट श्रेणियाँ",
+          "description": "शीर्ष-level taxonomy"
+        },
+        "assignedProducts": {
+          "title": "असाइन किए गए उत्पाद",
+          "description": "उत्पाद mapped को श्रेणियाँ"
+        }
+      }
+    },
+    "inventoryPage": {
+      "stats": {
+        "trackedSkus": {
+          "title": "ट्रैक किए गए SKUs",
+          "description": "उत्पाद और variants tracked"
+        },
+        "lowStockSkus": {
+          "title": "कम स्टॉक SKUs",
+          "description": "स्टॉक बीच 1 और 10"
+        },
+        "outOfStock": {
+          "title": "स्टॉक खत्म",
+          "description": "आवश्यक replenishment"
+        },
+        "onHandUnits": {
+          "title": "On Hand Units",
+          "description": "कुल physical inventory"
+        },
+        "activeLocations": {
+          "title": "सक्रिय लोकेशन्स",
+          "description": "इन्वेंटरी लोकेशन्स enabled"
+        }
+      }
+    },
+    "productsDataTable": {
+      "title": "उत्पाद",
+      "searchPlaceholder": "खोजें उत्पाद",
+      "rowActionsHeader": "कार्रवाइयाँ",
+      "empty": "कोई उत्पाद नहीं मिला",
+      "columns": {
+        "product": "उत्पाद",
+        "category": "श्रेणी",
+        "uncategorized": "अवर्गीकृत",
+        "status": "स्थिति",
+        "inventory": "इन्वेंटरी",
+        "price": "कीमत",
+        "availableIn": "उपलब्ध में"
+      },
+      "channels": {
+        "inStore": "में स्टोर",
+        "online": "ऑनलाइन"
+      },
+      "tabs": {
+        "all": "सभी",
+        "active": "सक्रिय",
+        "draft": "ड्राफ्ट",
+        "archived": "संग्रहीत"
+      },
+      "filters": {
+        "vendors": "विक्रेता",
+        "tag": "टैग",
+        "statuses": "स्थितियाँ",
+        "all": "सभी",
+        "active": "सक्रिय",
+        "draft": "ड्राफ्ट",
+        "archived": "संग्रहीत"
+      },
+      "actions": {
+        "addProduct": "जोड़ें उत्पाद",
+        "export": "एक्सपोर्ट",
+        "import": "इम्पोर्ट",
+        "importExport": "आयात / निर्यात"
+      },
+      "bulkActions": {
+        "setActive": "सक्रिय करें",
+        "setDraft": "सेट करें ड्राफ्ट",
+        "setArchived": "सेट करें संग्रहित",
+        "delete": "हटाएं"
+      },
+      "rowActions": {
+        "view": "देखें",
+        "edit": "एडिट",
+        "delete": "हटाएं"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "हटाएं उत्पाद",
+          "description": "क्या आप वाकई हटाना चाहते हैं \"{name}\"? इस कार्रवाई को वापस नहीं किया जा सकता।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "deleteBulk": {
+          "title": "हटाएं उत्पाद",
+          "description": "क्या आप वाकई हटाना चाहते हैं {count} उत्पाद? इस कार्रवाई को वापस नहीं किया जा सकता।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "updateStatus": {
+          "title": "अपडेट उत्पाद स्थिति",
+          "description": "सेट करें {count} उत्पाद को \"{status}\"?",
+          "confirm": "अपडेट",
+          "cancel": "रद्द करें"
+        }
+      },
+      "toasts": {
+        "fetchError": "विफल को लोड उत्पाद",
+        "deleteSingleSuccess": "उत्पाद हटाए गए सफलतापूर्वक",
+        "deleteSingleError": "विफल को हटाएं उत्पाद",
+        "deleteBulkSuccess": "{count} उत्पाद हटाए गए सफलतापूर्वक",
+        "deleteBulkError": "विफल को हटाएं कुछ उत्पाद",
+        "updateSuccess": "{count} उत्पाद अपडेटेड",
+        "updateError": "विफल को अपडेट {count} उत्पाद"
+      }
+    },
+    "collectionsDataTable": {
+      "title": "संग्रह",
+      "searchPlaceholder": "खोजें कलेक्शन्स...",
+      "rowActionsHeader": "कार्रवाइयाँ",
+      "empty": "कोई नहीं कलेक्शन्स मिला",
+      "columns": {
+        "collection": "कलेक्शन",
+        "type": "प्रकार",
+        "products": "उत्पाद",
+        "status": "स्थिति",
+        "availableIn": "उपलब्ध में"
+      },
+      "types": {
+        "manual": "मैनुअल",
+        "automated": "स्वचालित"
+      },
+      "channels": {
+        "inStore": "में स्टोर",
+        "online": "ऑनलाइन"
+      },
+      "tabs": {
+        "all": "सभी",
+        "active": "सक्रिय",
+        "draft": "ड्राफ्ट"
+      },
+      "filters": {
+        "type": "प्रकार",
+        "all": "सभी",
+        "manual": "मैनुअल",
+        "automated": "स्वचालित"
+      },
+      "actions": {
+        "export": "एक्सपोर्ट",
+        "import": "इम्पोर्ट",
+        "addCollection": "जोड़ें कलेक्शन"
+      },
+      "bulkActions": {
+        "setActive": "सक्रिय करें",
+        "setDraft": "सेट करें ड्राफ्ट",
+        "delete": "हटाएं"
+      },
+      "rowActions": {
+        "edit": "एडिट",
+        "delete": "हटाएं"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "हटाएं कलेक्शन",
+          "description": "क्या आप वाकई हटाना चाहते हैं \"{name}\"? इससे इस कलेक्शन के उत्पाद नहीं हटेंगे।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "deleteBulk": {
+          "title": "हटाएं कलेक्शन्स",
+          "description": "क्या आप वाकई हटाना चाहते हैं {count} कलेक्शन्स? इस कार्रवाई को वापस नहीं किया जा सकता।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "updateStatus": {
+          "title": "अपडेट कलेक्शन स्थिति",
+          "description": "सेट करें {count} कलेक्शन्स को \"{status}\"?",
+          "confirm": "अपडेट",
+          "cancel": "रद्द करें"
+        }
+      },
+      "toasts": {
+        "fetchError": "विफल को लोड कलेक्शन्स",
+        "deleteSingleSuccess": "कलेक्शन हटाए गए सफलतापूर्वक",
+        "deleteSingleError": "विफल को हटाएं कलेक्शन",
+        "deleteBulkSuccess": "{count} कलेक्शन्स हटाए गए सफलतापूर्वक",
+        "deleteBulkError": "विफल को हटाएं कुछ कलेक्शन्स",
+        "updateSuccess": "{count} कलेक्शन्स अपडेटेड",
+        "updateError": "विफल को अपडेट {count} कलेक्शन्स"
+      }
+    },
+    "categoriesDataTable": {
+      "title": "श्रेणियाँ",
+      "searchPlaceholder": "खोजें श्रेणियाँ...",
+      "rowActionsHeader": "कार्रवाइयाँ",
+      "empty": "कोई नहीं श्रेणियाँ मिला",
+      "columns": {
+        "category": "श्रेणी",
+        "parent": "पैरेंट",
+        "none": "-",
+        "products": "उत्पाद",
+        "status": "स्थिति"
+      },
+      "tabs": {
+        "all": "सभी",
+        "active": "सक्रिय",
+        "inactive": "निष्क्रिय"
+      },
+      "status": {
+        "active": "active",
+        "inactive": "inactive"
+      },
+      "actions": {
+        "export": "एक्सपोर्ट",
+        "import": "इम्पोर्ट",
+        "addCategory": "जोड़ें श्रेणी"
+      },
+      "bulkActions": {
+        "setActive": "सक्रिय करें",
+        "setInactive": "निष्क्रिय करें",
+        "delete": "हटाएं"
+      },
+      "rowActions": {
+        "edit": "एडिट",
+        "delete": "हटाएं"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "हटाएं श्रेणी",
+          "description": "क्या आप वाकई हटाना चाहते हैं \"{name}\"? इस श्रेणी के उत्पादों को फिर से वर्गीकृत करना होगा।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "deleteBulk": {
+          "title": "हटाएं श्रेणियाँ",
+          "description": "क्या आप वाकई हटाना चाहते हैं {count} श्रेणियाँ? इस कार्रवाई को वापस नहीं किया जा सकता।",
+          "confirm": "हटाएं",
+          "cancel": "रद्द करें"
+        },
+        "activate": {
+          "title": "सक्रिय करें श्रेणियाँ",
+          "confirm": "सक्रिय करें"
+        },
+        "deactivate": {
+          "title": "निष्क्रिय करें श्रेणियाँ",
+          "confirm": "निष्क्रिय करें"
+        },
+        "updateStatus": {
+          "description": "अपडेट {count} श्रेणियाँ को {status}?",
+          "cancel": "रद्द करें"
+        }
+      },
+      "toasts": {
+        "fetchError": "विफल को लोड श्रेणियाँ",
+        "deleteSingleSuccess": "श्रेणी हटाए गए सफलतापूर्वक",
+        "deleteSingleError": "विफल को हटाएं श्रेणी",
+        "deleteBulkSuccess": "{count} श्रेणियाँ हटाए गए सफलतापूर्वक",
+        "deleteBulkError": "विफल को हटाएं कुछ श्रेणियाँ",
+        "updateSuccess": "{count} श्रेणियाँ अपडेटेड",
+        "updateError": "विफल को अपडेट {count} श्रेणियाँ"
+      }
+    },
+    "transfers": {
+      "status": {
+        "draft": "ड्राफ्ट",
+        "ready_to_ship": "तैयार को ship",
+        "in_transit": "रास्ते में",
+        "completed": "पूर्ण",
+        "cancelled": "रद्द"
+      },
+      "tabs": {
+        "all": "सभी"
+      },
+      "list": {
+        "title": "स्थानांतरण",
+        "subtitle": "Shopify-स्टाइल ट्रांसफर वर्कफ़्लो से लोकेशनों के बीच इन्वेंटरी स्थानांतरित करें।",
+        "createTransfer": "बनाएं ट्रांसफर",
+        "searchPlaceholder": "खोजें द्वारा ट्रांसफर नंबर, लोकेशन, or संदर्भ",
+        "loading": "लोड हो रहा है ट्रांसफर...",
+        "empty": "कोई नहीं ट्रांसफर मिला",
+        "itemsSummary": "{units} यूनिट में {lines} लाइन",
+        "columns": {
+          "transfer": "ट्रांसफर",
+          "from": "से",
+          "to": "तक",
+          "items": "आइटम",
+          "status": "स्थिति",
+          "updated": "अपडेटेड"
+        }
+      },
+      "create": {
+        "title": "बनाएं ट्रांसफर",
+        "fromLocation": "से लोकेशन",
+        "toLocation": "तक लोकेशन",
+        "addLocation": "जोड़ें लोकेशन",
+        "selectSourceLocation": "चुनें स्रोत लोकेशन",
+        "selectDestinationLocation": "चुनें गंतव्य लोकेशन",
+        "reference": "संदर्भ",
+        "referencePlaceholder": "PO, batch, or internal note",
+        "internalNote": "आंतरिक note",
+        "internalNotePlaceholder": "वैकल्पिक notes for your team",
+        "searchPlaceholder": "खोजें उत्पाद or SKU",
+        "selectSourceToLoad": "चुनें a स्रोत लोकेशन को लोड inventory",
+        "loadingInventory": "लोड हो रहा है inventory...",
+        "noVariants": "कोई नहीं available variants मिला में this लोकेशन",
+        "selectionSummary": "{lines} लाइन चयनित, {units} कुल यूनिट.",
+        "cancel": "रद्द करें",
+        "createTransfer": "बनाएं ट्रांसफर",
+        "columns": {
+          "product": "उत्पाद",
+          "variant": "वेरिएंट",
+          "sku": "SKU",
+          "available": "उपलब्ध",
+          "transferQty": "ट्रांसफर मात्रा"
+        },
+        "dialog": {
+          "addLocationTitle": "जोड़ें लोकेशन",
+          "addLocationDescription": "एक नया लोकेशन बनाएं और उसे {target} लोकेशन के रूप में उपयोग करें।",
+          "locationName": "लोकेशन नाम",
+          "locationNamePlaceholder": "Dhaka Warehouse",
+          "addressOptional": "पता (optional)",
+          "addressPlaceholder": "Street, area, city",
+          "saveLocation": "सहेजें लोकेशन"
+        },
+        "toasts": {
+          "loadLocationsError": "स्थान लोड करने में विफल",
+          "selectBothLocations": "स्रोत और गंतव्य दोनों लोकेशन चुनें",
+          "locationsMustDiffer": "स्रोत और गंतव्य अलग होने चाहिए",
+          "selectItems": "जोड़ें पर कम से कम एक आइटम को ट्रांसफर",
+          "createSuccess": "ट्रांसफर बनाया गया",
+          "createError": "विफल को बनाएं ट्रांसफर",
+          "locationNameRequired": "स्थान का नाम आवश्यक है",
+          "createLocationSuccess": "लोकेशन जोड़ा गया",
+          "createLocationError": "विफल को बनाएं लोकेशन"
+        }
+      },
+      "details": {
+        "loading": "लोड हो रहा है ट्रांसफर...",
+        "backToTransfers": "वापस को ट्रांसफर",
+        "routeSummary": "{from} को {to}",
+        "reference": "संदर्भ",
+        "note": "नोट",
+        "defaultVariant": "डिफ़ॉल्ट",
+        "meta": {
+          "created": "बनाया गया",
+          "updated": "अंतिम अपडेटेड",
+          "totalUnits": "कुल यूनिट"
+        },
+        "columns": {
+          "product": "उत्पाद",
+          "variant": "वेरिएंट",
+          "sku": "SKU",
+          "qty": "मात्रा"
+        },
+        "actions": {
+          "markReadyToShip": "मार्क ready को ship",
+          "markInTransit": "मार्क में transit",
+          "markCompleted": "मार्क completed",
+          "cancelTransfer": "रद्द करें ट्रांसफर"
+        },
+        "toasts": {
+          "loadError": "विफल को लोड ट्रांसफर",
+          "updateSuccess": "ट्रांसफर अपडेटेड",
+          "updateError": "विफल को अपडेट ट्रांसफर"
+        }
+      }
+    },
+    "phrases": {
+      "all": "सभी",
+      "failed_to_fetch_customers": "Failed to fetch customers",
+      "delete_customer": "Delete customer",
+      "delete": "हटाएं",
+      "cancel": "रद्द करें",
+      "customer_deleted_successfully": "Customer deleted successfully",
+      "failed_to_delete_customer": "Failed to delete customer",
+      "delete_customers": "Delete Customers",
+      "failed_to_delete_some_customers": "Failed to delete some customers",
+      "update_account_status": "Update account status",
+      "update": "अपडेट",
+      "customer": "ग्राहक",
+      "unknown": "अज्ञात",
+      "account": "अकाउंट",
+      "active": "सक्रिय",
+      "inactive": "निष्क्रिय",
+      "banned": "प्रतिबंधित",
+      "loyalty_tier": "लॉयल्टी टियर",
+      "bronze": "ब्रॉन्ज",
+      "silver": "सिल्वर",
+      "gold": "गोल्ड",
+      "platinum": "प्लैटिनम",
+      "orders": "ऑर्डर",
+      "spent": "खर्च",
+      "last_active": "अंतिम सक्रिय",
+      "tags": "टैग",
+      "": "-",
+      "tier": "टियर",
+      "tag": "टैग",
+      "export": "एक्सपोर्ट",
+      "add_customer": "ग्राहक जोड़ें",
+      "set_active": "सक्रिय करें",
+      "set_inactive": "निष्क्रिय करें",
+      "set_banned": "प्रतिबंधित करें",
+      "view_details": "विवरण देखें",
+      "edit": "एडिट",
+      "customers": "ग्राहक",
+      "search_by_name_or_email": "नाम या ईमेल से खोजें",
+      "actions": "एक्शन",
+      "no_customers_found": "कोई ग्राहक नहीं मिला",
+      "failed_to_fetch_staff": "Failed to fetch staff",
+      "failed_to_fetch_staff_members": "Failed to fetch staff members",
+      "remove_staff_member": "Remove staff member",
+      "remove": "हटाएं",
+      "staff_member_removed_successfully": "Staff member removed successfully",
+      "failed_to_remove_staff_member": "Failed to remove staff member",
+      "remove_staff_members": "Remove staff members",
+      "remove_all": "Remove all",
+      "failed_to_remove_some_staff_members": "Failed to remove some staff members",
+      "staff_member": "स्टाफ सदस्य",
+      "staff_status": "स्टाफ स्थिति",
+      "department": "विभाग",
+      "permissions": "अनुमतियाँ",
+      "none": "कोई नहीं",
+      "joined": "जॉइन तिथि",
+      "add_staff": "स्टाफ जोड़ें",
+      "ban": "बैन",
+      "remove_from_staff": "Remove from staff",
+      "staff_members": "स्टाफ सदस्य",
+      "no_staff_members_found": "कोई स्टाफ सदस्य नहीं मिला",
+      "failed_to_fetch_vendors": "Failed to fetch vendors",
+      "failed_to_update_vendor": "Failed to update vendor",
+      "vendor_status_updated": "Vendor status updated",
+      "failed_to_update_vendor_status": "Failed to update vendor status",
+      "failed_to_update_account": "Failed to update account",
+      "vendor_account_status_updated": "Vendor account status updated",
+      "failed_to_update_account_status": "Failed to update account status",
+      "failed_to_delete_vendor": "Failed to delete vendor",
+      "vendor_deleted": "Vendor deleted",
+      "store_owner": "स्टोर और मालिक",
+      "unknown_owner": "अज्ञात मालिक",
+      "vendor_status": "विक्रेता स्थिति",
+      "approved": "स्वीकृत",
+      "pending": "लंबित",
+      "suspended": "निलंबित",
+      "rejected": "अस्वीकृत",
+      "commission": "कमीशन",
+      "sales": "बिक्री",
+      "add_vendor": "विक्रेता जोड़ें",
+      "details": "विवरण",
+      "edit_vendor": "विक्रेता संपादित करें",
+      "visit_store": "स्टोर देखें",
+      "approve_vendor": "विक्रेता स्वीकृत करें",
+      "suspend_vendor": "विक्रेता निलंबित करें",
+      "ban_account": "अकाउंट बैन करें",
+      "activate_account": "अकाउंट सक्रिय करें",
+      "delete_vendor": "विक्रेता हटाएं",
+      "vendors": "विक्रेता",
+      "search_vendors": "विक्रेता खोजें...",
+      "no_vendors_found": "कोई विक्रेता नहीं मिला",
+      "failed_to_load_discounts": "Failed to load discounts",
+      "discount_code_is_required": "Discount code is required",
+      "discount_value_must_be_greater_than_0": "Discount value must be greater than 0",
+      "end_date_is_required": "End date is required",
+      "failed_to_save_discount": "Failed to save discount",
+      "discount_created": "Discount created",
+      "discount_updated": "Discount updated",
+      "delete_discount": "Delete Discount",
+      "failed_to_delete_discount": "Failed to delete discount",
+      "discount_deleted": "Discount deleted",
+      "delete_discounts": "Delete Discounts",
+      "update_discount_status": "Update Discount Status",
+      "discount": "डिस्काउंट",
+      "no_label": "No label",
+      "free_shipping": "मुफ़्त शिपिंग",
+      "type": "प्रकार",
+      "percentage": "प्रतिशत",
+      "fixed": "फिक्स्ड",
+      "value": "मान",
+      "status": "स्थिति",
+      "expired": "समाप्त",
+      "usage": "उपयोग",
+      "schedule": "शेड्यूल",
+      "import": "इम्पोर्ट",
+      "export_will_be_available_soon": "Export will be available soon",
+      "import_will_be_available_soon": "Import will be available soon",
+      "add_discount": "डिस्काउंट जोड़ें",
+      "discounts": "डिस्काउंट",
+      "search_code_label_or_description": "कोड, लेबल या विवरण से खोजें",
+      "no_discounts_found": "कोई डिस्काउंट नहीं मिला",
+      "edit_discount": "डिस्काउंट संपादित करें",
+      "create_discount": "डिस्काउंट बनाएं",
+      "configure_discount_rules_similar_to_shopify_coupon_settings": "Configure discount rules similar to Shopify coupon settings.",
+      "code": "कोड",
+      "summer10": "SUMMER10",
+      "label": "लेबल",
+      "flash_sale": "Flash Sale",
+      "fixed_amount": "निश्चित राशि",
+      "minimum_order_amount": "न्यूनतम ऑर्डर राशि",
+      "maximum_discount_cap": "अधिकतम डिस्काउंट सीमा",
+      "optional": "वैकल्पिक",
+      "total_usage_limit": "कुल उपयोग सीमा",
+      "per_customer_usage_limit": "प्रति ग्राहक उपयोग सीमा",
+      "start_date": "आरंभ तिथि",
+      "end_date": "समाप्ति तिथि",
+      "description": "विवरण",
+      "optional_internal_note_for_this_discount": "Optional internal note for this discount",
+      "code_will_be_normalized_to_uppercase": "Code will be normalized to uppercase.",
+      "tax_is_calculated_after_discount_during_checkout": "Tax is calculated after discount during checkout.",
+      "expired_codes_are_automatically_rejected_in_checkout_validation": "Expired codes are automatically rejected in checkout validation.",
+      "saving": "सहेजा जा रहा है...",
+      "update_discount": "डिस्काउंट अपडेट करें",
+      "pos": "POS",
+      "manage_pos": "Manage POS",
+      "pos_create": "POS Create",
+      "pos_edit": "POS Edit",
+      "pos_delete": "POS Delete",
+      "manage_orders": "Manage Orders",
+      "create_orders": "Create Orders",
+      "edit_orders": "Edit Orders",
+      "delete_orders": "Delete Orders",
+      "products": "उत्पाद",
+      "manage_products": "Manage Products",
+      "create_products": "Create Products",
+      "edit_products": "Edit Products",
+      "delete_products": "Delete Products",
+      "manage_customers": "Manage Customers",
+      "create_customers": "Create Customers",
+      "edit_customers": "Edit Customers",
+      "inventory": "इन्वेंटरी",
+      "manage_inventory": "Manage Inventory",
+      "create_inventory": "Create Inventory",
+      "edit_inventory": "Edit Inventory",
+      "delete_inventory": "Delete Inventory",
+      "analytics": "एनालिटिक्स"
+    },
+    "customersPage": {
+      "stats": {
+        "totalCustomers": {
+          "title": "कुल ग्राहक",
+          "description": "सभी ग्राहक प्रोफ़ाइल"
+        },
+        "activeAccounts": {
+          "title": "सक्रिय अकाउंट",
+          "description": "ऑर्डर कर सकते हैं"
+        },
+        "vipCustomers": {
+          "title": "VIP ग्राहक",
+          "description": "गोल्ड और प्लैटिनम टियर"
+        },
+        "customerSpend": {
+          "title": "ग्राहक खर्च",
+          "description": "लाइफटाइम कुल खर्च"
+        },
+        "avgSpendPerCustomer": {
+          "title": "औसत खर्च / ग्राहक",
+          "description": "औसत ग्राहक मूल्य"
+        }
+      }
+    },
+    "staffPage": {
+      "stats": {
+        "totalStaff": {
+          "title": "कुल स्टाफ",
+          "description": "सभी स्टाफ सदस्य"
+        },
+        "activeStaff": {
+          "title": "सक्रिय स्टाफ",
+          "description": "वर्तमान में सक्रिय"
+        },
+        "withPosAccess": {
+          "title": "POS एक्सेस वाले",
+          "description": "POS टर्मिनल उपयोग कर सकते हैं"
+        },
+        "inactiveStaff": {
+          "title": "निष्क्रिय स्टाफ",
+          "description": "निष्क्रिय अकाउंट"
+        }
+      }
+    },
+    "vendorsPage": {
+      "stats": {
+        "totalVendors": {
+          "title": "कुल विक्रेता",
+          "description": "सभी पंजीकृत स्टोर"
+        },
+        "approvedVendors": {
+          "title": "स्वीकृत विक्रेता",
+          "description": "वर्तमान में बिक्री कर रहे हैं"
+        },
+        "pendingReview": {
+          "title": "समीक्षा लंबित",
+          "description": "अनुमोदन की प्रतीक्षा"
+        },
+        "flaggedVendors": {
+          "title": "फ़्लैग किए गए विक्रेता",
+          "description": "निलंबित या अस्वीकृत"
+        },
+        "vendorSales": {
+          "title": "विक्रेता बिक्री",
+          "description": "लाइफटाइम सकल विक्रेता बिक्री"
+        }
+      }
+    },
+    "discountsPage": {
+      "stats": {
+        "totalDiscounts": {
+          "title": "कुल डिस्काउंट",
+          "description": "सभी कॉन्फ़िगर किए गए डिस्काउंट कोड"
+        },
+        "activeDiscounts": {
+          "title": "सक्रिय डिस्काउंट",
+          "description": "चेकआउट पर उपलब्ध"
+        },
+        "totalRedemptions": {
+          "title": "कुल उपयोग",
+          "description": "ऑर्डरों में उपयोग की संख्या"
+        },
+        "expiringIn7Days": {
+          "title": "7 दिनों में समाप्त",
+          "description": "जल्द समाप्त होने वाले कोड"
+        }
+      }
+    },
+    "customersDataTable": {
+      "thisCustomer": "यह ग्राहक",
+      "deleteSingleDescription": "क्या आप वाकई {name} को हटाना चाहते हैं? यह कार्य वापस नहीं किया जा सकता।",
+      "deleteBulkDescription": "चयनित {count} ग्राहकों को हटाएँ? यह कार्य वापस नहीं किया जा सकता।",
+      "deleteBulkSuccess": "{count} ग्राहक सफलतापूर्वक हटाए गए",
+      "updateStatusDescription": "चयनित {count} ग्राहकों की स्थिति \"{status}\" करें?",
+      "updateSuccess": "{count} ग्राहक अपडेट किए गए",
+      "updateError": "{count} ग्राहकों को अपडेट करने में विफल"
+    },
+    "staffDataTable": {
+      "removeSingleDescription": "क्या आप वाकई {name} को स्टाफ से हटाना चाहते हैं? उन्हें ग्राहक अकाउंट में बदला जाएगा।",
+      "removeBulkDescription": "चयनित {count} स्टाफ सदस्यों को हटाएँ? उन्हें ग्राहक अकाउंट में बदला जाएगा।",
+      "removeBulkSuccess": "{count} स्टाफ सदस्य हटाए गए",
+      "updateStatusDescription": "{count} स्टाफ सदस्यों की स्थिति \"{status}\" करें?",
+      "updateSuccess": "{count} स्टाफ सदस्य अपडेट किए गए"
+    },
+    "discountsDataTable": {
+      "deleteBulkDescription": "क्या आप वाकई {count} डिस्काउंट हटाना चाहते हैं? यह कार्य वापस नहीं किया जा सकता।",
+      "deleteBulkSuccess": "{count} डिस्काउंट हटाए गए",
+      "deleteBulkError": "{count} डिस्काउंट हटाने में विफल",
+      "updateStatusDescription": "{count} डिस्काउंट की स्थिति \"{status}\" करें?",
+      "updateSuccess": "{count} डिस्काउंट अपडेट किए गए",
+      "updateError": "{count} डिस्काउंट अपडेट करने में विफल"
+    },
+    "onlineStoreThemePage": {
+      "badge": "ऑनलाइन स्टोर",
+      "title": "थीम्स",
+      "description": "स्पष्टता, गति और कन्वर्ज़न के लिए इंडस्ट्री-स्टैंडर्ड ईकॉमर्स पैटर्न पर बना स्टोरफ्रंट थीम चुनें।",
+      "currentTheme": "वर्तमान थीम",
+      "comingSoon": "जल्द आ रहा है",
+      "active": "सक्रिय",
+      "themes": {
+        "essential": {
+          "name": "एसेंशियल",
+          "description": "जनरल रिटेल कैटलॉग और मल्टी-कैटेगरी मर्चेंडाइजिंग के लिए संतुलित स्टोरफ्रंट।",
+          "styleNote": "साफ़ हाइरार्की, तेज़ स्कैनिंग और प्रमोशन-तैयार लेआउट।"
+        },
+        "electronics": {
+          "name": "इलेक्ट्रॉनिक्स",
+          "description": "तुलना-अनुकूल कार्ड और परफॉर्मेंस कॉलआउट के साथ हाई-स्पेक उत्पाद प्रस्तुति।",
+          "styleNote": "तकनीकी उत्पादों, एक्सेसरीज़ और फीचर-भरे PDP फ्लो के लिए अनुकूलित।"
+        },
+        "luxe": {
+          "name": "लक्स",
+          "description": "प्रीमियम फैशन, ब्यूटी और लाइफस्टाइल ब्रांड्स के लिए एडिटोरियल-स्टाइल विज़ुअल ट्रीटमेंट।",
+          "styleNote": "इमेज-फर्स्ट मर्चेंडाइजिंग और परिष्कृत कलेक्शन नैरेटिव पर फोकस।"
+        }
+      }
+    },
+    "homePageBuilder": {
+      "loading": "होम पेज बिल्डर लोड हो रहा है...",
+      "title": "पेज बिल्डर",
+      "subtitle": "रीऑर्डर के लिए ड्रैग करें - विज़िबिलिटी टॉगल करें - कंटेंट एडिट करें",
+      "preview": "पूर्वावलोकन",
+      "save": "सेव",
+      "saving": "सेव हो रहा है...",
+      "hidden": "छिपा हुआ",
+      "allChangesSaved": "सभी बदलाव सेव हो गए हैं। होम पेज इस एडिटर के साथ पूरी तरह सिंक है।",
+      "sections": {
+        "hero": {
+          "title": "हीरो",
+          "subtitle": "मुख्य स्लाइडर, साइड प्रोमो और हाइलाइट्स"
+        },
+        "newArrivals": {
+          "title": "नए आगमन",
+          "subtitle": "नवीनतम उत्पाद सेक्शन का शीर्षक"
+        },
+        "promoBanners": {
+          "title": "प्रोमो बैनर",
+          "subtitle": "नए आगमन के नीचे दो प्रमोशनल कार्ड"
+        },
+        "featuredProducts": {
+          "title": "फ़ीचर्ड उत्पाद",
+          "subtitle": "प्रोडक्ट डिस्कवरी सेक्शन का शीर्षक"
+        }
+      },
+      "row": {
+        "dragAria": "{title} को खींचें",
+        "hideAria": "{title} छिपाएँ",
+        "showAria": "{title} दिखाएँ",
+        "editAria": "{title} संपादित करें"
+      },
+      "editor": {
+        "heroSlides": "हीरो स्लाइड्स",
+        "slide": "स्लाइड",
+        "label": "लेबल",
+        "title": "शीर्षक",
+        "description": "विवरण",
+        "heroSideBanners": "हीरो साइड बैनर",
+        "banner": "बैनर",
+        "eyebrow": "आइब्रो टेक्स्ट",
+        "titleLine1": "शीर्षक पंक्ति 1",
+        "titleLine2": "शीर्षक पंक्ति 2",
+        "ctaLabel": "CTA लेबल",
+        "imagePath": "इमेज पाथ",
+        "imageAlt": "इमेज alt",
+        "heroHighlights": "हीरो हाइलाइट्स",
+        "highlight": "हाइलाइट",
+        "sectionTitle": "सेक्शन शीर्षक",
+        "sectionSubtitle": "सेक्शन उपशीर्षक",
+        "newArrivalsTitlePlaceholder": "नए आगमन।",
+        "optionalSubtitlePlaceholder": "वैकल्पिक उपशीर्षक",
+        "promoBanner": "प्रोमो बैनर",
+        "buttonLabel": "बटन लेबल",
+        "featuredProductsHeading": "फ़ीचर्ड उत्पाद शीर्षक",
+        "featuredProductsPlaceholder": "डिफ़ॉल्ट टेक्स्ट के लिए खाली छोड़ें",
+        "heroUploadTitle": "कवर इमेज यहां खींचें और छोड़ें, या ब्राउज़ करने के लिए क्लिक करें",
+        "heroUploadDescription": "केवल इमेज। Ctrl+V से पेस्ट करें।",
+        "heroSizeGuide": "अनुशंसित आकार: 1360 x 314 px",
+        "promotionsOffers": {
+          "slot": {
+            "tallLeft": "बायीं ओर लंबा",
+            "tallMiddle": "बीच में लंबा",
+            "squareTopRight1": "दायीं ओर ऊपर वर्ग",
+            "squareTopRight2": "दायीं ओर ऊपर वर्ग (तीर के साथ)",
+            "wideBottomRight": "नीचे दायीं ओर चौड़ा"
+          },
+          "subtitle": "उपशीर्षक (जैसे, इकोवोल्ट)",
+          "discount": "छूट लेबल (जैसे, 15% छूट!)",
+          "showArrow": "तीर आइकन दिखाएं",
+          "theme": "थीम",
+          "card": "कार्ड",
+          "savedToCard": "कार्ड छवि में सहेजा गया"
+        }
+      },
+      "toasts": {
+        "loadError": "होमपेज एडिटर डेटा लोड नहीं हो सका",
+        "saveSuccess": "होमपेज सेक्शन सफलतापूर्वक सेव हुए",
+        "saveError": "होमपेज सेक्शन सेव नहीं हो सके"
+      }
+    },
+    "staffDashboardPage": {
+      "title": "स्टाफ डैशबोर्ड",
+      "subtitle": "आवंटित मॉड्यूल्स तक त्वरित पहुंच",
+      "openCta": "खोलें",
+      "noModulesTitle": "कोई मॉड्यूल असाइन नहीं है",
+      "noModulesDescription": "आपको अभी किसी भी स्टाफ मॉड्यूल का एक्सेस नहीं है। अनुमतियां देने के लिए एडमिन से संपर्क करें।"
+    },
+    "staffDashboard": {
+      "quickAccess": "त्वरित पहुंच",
+      "todaysSnapshot": "आज का स्नैपशॉट",
+      "todaysRegister": "आज का रजिस्टर",
+      "recentPosSales": "हाल के पीओएस बिक्री",
+      "recentPosSalesHint": "आपके हालिया पॉइंट ऑफ सेल लेनदेन",
+      "noPosSales": "आज कोई पीओएस बिक्री नहीं",
+      "recentOrders": "हाल के ऑर्डर",
+      "recentOrdersSubtitle": "आपकी दुकान से नवीनतम ऑर्डर",
+      "ordersToday": "आज के ऑर्डर",
+      "revenueToday": "आज का राजस्व",
+      "itemsToday": "आज बिके आइटम",
+      "customersToday": "आज नए ग्राहक",
+      "posSalesToday": "आज की पीओएस बिक्री",
+      "posRevenueToday": "आज का पीओएस राजस्व",
+      "posItemsToday": "आज के पीओएस आइटम",
+      "averageSale": "औसत बिक्री",
+      "items": "आइटम",
+      "time": "समय",
+      "topProducts": "शीर्ष बिकने वाले उत्पाद",
+      "last30Days": "पिछले 30 दिन",
+      "noTopProducts": "अभी तक कोई उत्पाद नहीं बिका",
+      "unitsSold": "बिक गया",
+      "lowStock": "कम स्टॉक अलर्ट",
+      "lowStockHint": "इन्वेंट्री चेतावनियों वाले उत्पाद",
+      "noLowStock": "सभी उत्पाद अच्छी तरह से स्टॉक में हैं",
+      "outOfStock": "स्टॉक आउट",
+      "left": "शेष",
+      "latestCustomers": "नवीनतम ग्राहक",
+      "latestCustomersHint": "हाल ही में पंजीकृत ग्राहक",
+      "noLatestCustomers": "अभी तक कोई नया ग्राहक नहीं"
+    },
+    "reviewsPage": {
+      "title": "समीक्षाएं",
+      "searchPlaceholder": "समीक्षाएं खोजें",
+      "outOfReviews": "— कुल {count} समीक्षाओं में से",
+      "thisWeek": "इस सप्ताह",
+      "overallPerformance": "कुल प्रदर्शन",
+      "performance": {
+        "excellent": "उत्कृष्ट",
+        "good": "अच्छा",
+        "average": "औसत",
+        "poor": "कमज़ोर",
+        "none": "कोई डेटा नहीं"
+      },
+      "table": {
+        "product": "उत्पाद",
+        "reviewer": "समीक्षक",
+        "review": "समीक्षा",
+        "date": "तारीख",
+        "status": "स्थिति",
+        "actions": "क्रियाएं"
+      },
+      "tabs": {
+        "all": "सभी",
+        "published": "प्रकाशित",
+        "onHold": "रुकी हुई",
+        "withReply": "उत्तर दिया गया",
+        "noReply": "उत्तर की प्रतीक्षा में"
+      },
+      "filters": {
+        "status": "स्थिति",
+        "rating": "रेटिंग"
+      },
+      "status": {
+        "published": "प्रकाशित",
+        "onHold": "रुकी हुई"
+      },
+      "verified": "सत्यापित ग्राहक",
+      "unknownProduct": "अज्ञात उत्पाद",
+      "youReplied": "आपने जवाब दिया",
+      "reply": "जवाब दें",
+      "editReply": "जवाब संपादित करें",
+      "replyToReview": "समीक्षा का जवाब दें",
+      "replyHint": "आपका जवाब स्टोरफ्रंट पर समीक्षा के नीचे सार्वजनिक रूप से दिखाया जाएगा।",
+      "yourReply": "आपका जवाब",
+      "aiReplyPlaceholder": "इस समीक्षा का जवाब लिखें…",
+      "replyPlaceholder": "फीडबैक के लिए धन्यवाद…",
+      "sendReply": "जवाब भेजें",
+      "removeReply": "जवाब हटाएं",
+      "viewOnStore": "स्टोर पर देखें",
+      "publish": "प्रकाशित करें",
+      "unpublish": "प्रकाशन हटाएं",
+      "putOnHold": "रोककर रखें",
+      "empty": "अभी तक कोई समीक्षा नहीं",
+      "delete": {
+        "title": "समीक्षा हटाएं",
+        "description": "यह समीक्षा को स्थायी रूप से हटा देगा और उत्पाद की रेटिंग पुनर्गणना करेगा।"
+      },
+      "bulk": {
+        "publish": "प्रकाशित करें",
+        "onHold": "रोककर रखें",
+        "deleteTitle": "समीक्षाएं हटाएं",
+        "deleteDescription": "{count} समीक्षाएं हटाएं? इसे वापस नहीं किया जा सकता।",
+        "updated": "{count} समीक्षाएं अपडेट हुईं",
+        "deleted": "{count} समीक्षाएं हटाई गईं"
+      },
+      "toast": {
+        "published": "समीक्षा प्रकाशित हुई",
+        "onHold": "समीक्षा रोककर रखी गई",
+        "deleted": "समीक्षा हटाई गई",
+        "replySent": "जवाब भेजा गया",
+        "replyUpdated": "जवाब अपडेट हुआ",
+        "replyRemoved": "जवाब हटाया गया"
+      },
+      "starsAriaLabel": "{value} स्टार",
+      "reviewImageAlt": "समीक्षा छवि {index}"
+    },
+    "paymentsOverviewPage": {
+      "title": "भुगतान",
+      "subtitle": "लेनदेन और रिफंड की निगरानी करें।",
+      "subtitleMultiVendor": "लेनदेन, रिफंड और पेआउट स्थिति की निगरानी करें।",
+      "actions": {
+        "transactions": "लेनदेन",
+        "refresh": "रीफ़्रेश"
+      },
+      "metrics": {
+        "paidRevenue": "प्राप्त राजस्व",
+        "refundedAmount": "रिफंड राशि",
+        "pendingPayments": "लंबित भुगतान",
+        "refundedOrders": "रिफंड किए गए ऑर्डर",
+        "pendingPayoutAmount": "लंबित पेआउट राशि",
+        "paidPayoutAmount": "भुगतान की गई पेआउट राशि"
+      },
+      "gatewayHealth": {
+        "title": "गेटवे स्थिति",
+        "disabled": "अक्षम",
+        "connected": "कनेक्टेड",
+        "needsSetup": "सेटअप आवश्यक"
+      },
+      "gateways": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cashOnDelivery": "कैश ऑन डिलीवरी"
+      },
+      "recentTransactions": {
+        "title": "हाल के लेनदेन",
+        "columns": {
+          "order": "ऑर्डर",
+          "type": "प्रकार",
+          "provider": "प्रदाता",
+          "status": "स्थिति",
+          "amount": "राशि",
+          "date": "तारीख"
+        },
+        "empty": "अभी तक कोई लेनदेन नहीं है।"
+      },
+      "transactionTypes": {
+        "charge": "चार्ज",
+        "refund": "रिफंड",
+        "adjustment": "समायोजन"
+      },
+      "transactionStatuses": {
+        "pending": "लंबित",
+        "succeeded": "सफल",
+        "failed": "विफल",
+        "cancelled": "रद्द"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "razorpay": "Razorpay",
+        "paystack": "Paystack",
+        "cod": "कैश ऑन डिलीवरी",
+        "cash": "नकद",
+        "manual": "मैनुअल",
+        "pos_card": "POS कार्ड",
+        "pos_cash": "POS नकद"
+      }
+    },
+    "payoutsPage": {
+      "title": "पेआउट्स",
+      "subtitle": "वेंडर सेटलमेंट रन बनाएं और पेआउट जीवनचक्र ट्रैक करें।",
+      "createSection": {
+        "title": "पेआउट बनाएं",
+        "selectVendor": "वेंडर चुनें",
+        "periodStart": "अवधि शुरू",
+        "periodEnd": "अवधि समाप्त",
+        "creating": "बनाया जा रहा है...",
+        "create": "बनाएं",
+        "optionalNote": "वैकल्पिक नोट"
+      },
+      "listSection": {
+        "title": "पेआउट रन",
+        "searchPlaceholder": "पेआउट नंबर खोजें",
+        "allStatuses": "सभी स्थितियां",
+        "columns": {
+          "payout": "पेआउट",
+          "vendor": "वेंडर",
+          "status": "स्थिति",
+          "amount": "राशि",
+          "period": "अवधि",
+          "details": "विवरण"
+        },
+        "open": "खोलें",
+        "empty": "कोई पेआउट नहीं मिला।"
+      },
+      "statuses": {
+        "pending": "लंबित",
+        "processing": "प्रसंस्करण में",
+        "paid": "भुगतान किया गया",
+        "failed": "विफल",
+        "cancelled": "रद्द"
+      },
+      "pagination": {
+        "pageOf": "पेज {page} / {totalPages}"
+      },
+      "toast": {
+        "requiredFields": "वेंडर, आरंभ तिथि और समाप्ति तिथि आवश्यक हैं।",
+        "createSuccess": "पेआउट बना दिया गया।",
+        "createError": "पेआउट बनाने में विफल"
+      }
+    },
+    "paymentTransactionsPage": {
+      "title": "भुगतान लेनदेन",
+      "subtitle": "सभी चार्ज, रिफंड और समायोजन इवेंट की समीक्षा करें।",
+      "filters": {
+        "title": "फ़िल्टर",
+        "searchPlaceholder": "ऑर्डर या बाहरी आईडी से खोजें",
+        "allStatuses": "सभी स्थितियां",
+        "allTypes": "सभी प्रकार",
+        "allProviders": "सभी प्रदाता"
+      },
+      "table": {
+        "columns": {
+          "order": "ऑर्डर",
+          "type": "प्रकार",
+          "status": "स्थिति",
+          "provider": "प्रदाता",
+          "gross": "ग्रॉस",
+          "net": "नेट",
+          "date": "तारीख",
+          "details": "विवरण"
+        },
+        "viewOrder": "ऑर्डर देखें",
+        "empty": "कोई लेनदेन नहीं मिला।"
+      },
+      "pagination": {
+        "pageOf": "पेज {page} / {totalPages}"
+      },
+      "transactionTypes": {
+        "charge": "चार्ज",
+        "refund": "रिफंड",
+        "adjustment": "समायोजन"
+      },
+      "transactionStatuses": {
+        "succeeded": "सफल",
+        "pending": "लंबित",
+        "failed": "विफल",
+        "cancelled": "रद्द"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cod": "कैश ऑन डिलीवरी",
+        "cash": "नकद",
+        "manual": "मैनुअल"
+      }
+    },
+    "seoChecklist": {
+      "title": "SEO चेकलिस्ट",
+      "score": "स्कोर",
+      "messages": {
+        "titleMissing": "एक पेज टाइटल जोड़ें — सर्च इंजन के पास दिखाने के लिए कुछ नहीं है।",
+        "titleShort": "टाइटल छोटा है; 30–70 कैरेक्टर सबसे बेहतर रैंक करते हैं।",
+        "titleLong": "टाइटल बहुत लंबा है और रिज़ल्ट में कट जाएगा।",
+        "titleGood": "टाइटल की लंबाई अच्छी दिखती है।",
+        "metaMissing": "एक मेटा डिस्क्रिप्शन जोड़ें — रिज़ल्ट में रैंडम पेज टेक्स्ट दिखेगा।",
+        "metaAuto": "मेटा डिस्क्रिप्शन कंटेंट से ऑटो-फ़िल हुआ है; बेहतर क्लिक-थ्रू के लिए एक लिखें।",
+        "metaShort": "मेटा डिस्क्रिप्शन छोटा है; 70–160 कैरेक्टर सबसे बेहतर काम करते हैं।",
+        "metaLong": "मेटा डिस्क्रिप्शन बहुत लंबा है और कट जाएगा।",
+        "metaGood": "मेटा डिस्क्रिप्शन की लंबाई अच्छी दिखती है।",
+        "handleMissing": "एक URL हैंडल जोड़ें।",
+        "handleAuto": "हैंडल टाइटल से ऑटो-जनरेट हुआ है; इसकी समीक्षा करें।",
+        "handleMessy": "हैंडल में असामान्य कैरेक्टर या लंबाई है; इसे छोटा और हाइफ़न से जोड़ा हुआ रखें।",
+        "handleGood": "URL हैंडल साफ़ दिखता है।",
+        "contentThin": "कंटेंट पतला है; लंबा, उपयोगी कंटेंट बेहतर रैंक करता है।",
+        "contentGood": "कंटेंट की गहराई अच्छी दिखती है।",
+        "tagsMissing": "इंटरनल डिस्कवरी बेहतर करने के लिए कुछ टैग जोड़ें।",
+        "tagsGood": "टैग मौजूद हैं।"
+      }
+    }
+  },
+  "footer": {
+    "aboutUs": "हमारे बारे में",
+    "careers": "करियर",
+    "press": "प्रेस",
+    "blog": "ब्लॉग",
+    "helpCenter": "सहायता केंद्र",
+    "contactUs": "संपर्क करें",
+    "shippingInfo": "शिपिंग जानकारी",
+    "returns": "रिटर्न",
+    "termsOfService": "सेवा की शर्तें",
+    "privacyPolicy": "गोपनीयता नीति",
+    "cookiePolicy": "कुकी नीति",
+    "accessibility": "सुलभता",
+    "newsletter": "न्यूज़लेटर",
+    "subscribeDescription": "अपडेट और विशेष ऑफ़र के लिए हमारे न्यूज़लेटर की सदस्यता लें।",
+    "subscribe": "सदस्यता लें",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें"
+  },
+  "errors": {
+    "pageNotFound": "पेज नहीं मिला",
+    "pageNotFoundDescription": "जिस पेज को आप खोज रहे हैं वह मौजूद नहीं है या स्थानांतरित हो गया है।",
+    "serverError": "सर्वर त्रुटि",
+    "serverErrorDescription": "हमारी तरफ कुछ गलत हो गया। कृपया बाद में पुनः प्रयास करें।",
+    "unauthorized": "अनधिकृत",
+    "unauthorizedDescription": "आपको इस पेज तक पहुँचने की अनुमति नहीं है।",
+    "networkError": "नेटवर्क त्रुटि",
+    "networkErrorDescription": "कृपया अपना इंटरनेट कनेक्शन जांचें और फिर से प्रयास करें।"
+  },
+  "pos": {
+    "searchProducts": "उत्पाद खोजें...",
+    "allProducts": "सभी",
+    "noProducts": "कोई उत्पाद नहीं मिला",
+    "noProductsHint": "कोई अन्य खोज या श्रेणी आज़माएं",
+    "variants": "वेरिएंट",
+    "selectVariant": "एक वेरिएंट चुनें",
+    "inStock": "स्टॉक में",
+    "outOfStock": "स्टॉक में नहीं",
+    "currentSale": "वर्तमान बिक्री",
+    "clearCart": "साफ़ करें",
+    "emptyCart": "कार्ट में कोई आइटम नहीं",
+    "addCustomer": "ग्राहक जोड़ें",
+    "searchCustomers": "नाम, ईमेल, या फ़ोन से खोजें...",
+    "addNote": "इस ऑर्डर में एक नोट जोड़ें...",
+    "subtotal": "उप-योग",
+    "tax": "कर",
+    "total": "कुल",
+    "charge": "चार्ज करें",
+    "selectPaymentMethod": "भुगतान विधि चुनें",
+    "totalDue": "कुल देय",
+    "cash": "नकद",
+    "cashPayment": "नकद भुगतान स्वीकार करें",
+    "card": "कार्ड",
+    "cardPayment": "क्रेडिट या डेबिट कार्ड",
+    "manual": "मैनुअल",
+    "manualPayment": "कस्टम भुगतान विधि",
+    "cashTendered": "दी गई नकदी",
+    "change": "वापसी",
+    "orderComplete": "भुगतान सफल",
+    "orderNumber": "ऑर्डर",
+    "orderFailed": "ऑर्डर प्रोसेस करने में विफल",
+    "printReceipt": "रसीद प्रिंट करें",
+    "newSale": "नई बिक्री",
+    "errorLoadingProducts": "उत्पाद लोड करने में विफल",
+    "customer": {
+      "addCustomer": "ग्राहक जोड़ें",
+      "addCustomerDesc": "मौजूदा ग्राहक खोजें या नया बनाएं",
+      "walkIn": "वॉक-इन ग्राहक",
+      "walkInDesc": "ग्राहक विवरण की आवश्यकता नहीं",
+      "existingCustomer": "मौजूदा ग्राहक",
+      "createNew": "नया बनाएं",
+      "searchPlaceholder": "नाम, फोन, या ईमेल से खोजें...",
+      "searchHint": "खोजने के लिए कम से कम 2 अक्षर टाइप करें",
+      "noResults": "कोई ग्राहक नहीं मिला",
+      "createInstead": "इसके बजाय नया ग्राहक बनाएं",
+      "customerName": "ग्राहक का नाम",
+      "namePlaceholder": "ग्राहक का नाम दर्ज करें",
+      "emailAddress": "ईमेल पता",
+      "emailPlaceholder": "customer@example.com",
+      "phone": "फ़ोन",
+      "phonePlaceholder": "फ़ोन नंबर दर्ज करें",
+      "nameEmailRequired": "नाम और ईमेल आवश्यक हैं",
+      "created": "ग्राहक सफलतापूर्वक बनाया गया",
+      "createError": "ग्राहक बनाने में विफल",
+      "save": "ग्राहक सहेजें"
+    }
+  },
+  "locations": {
+    "title": "स्थान",
+    "name": "नाम",
+    "address": "पता",
+    "status": "स्थिति",
+    "active": "सक्रिय",
+    "inactive": "निष्क्रिय",
+    "all": "सभी",
+    "default": "डिफ़ॉल्ट",
+    "searchPlaceholder": "स्थान खोजें...",
+    "empty": "कोई स्थान नहीं मिला",
+    "addLocation": "स्थान जोड़ें",
+    "editLocation": "स्थान संपादित करें",
+    "addDescription": "अपने POS सिस्टम के लिए नया स्थान जोड़ें",
+    "editDescription": "स्थान का विवरण अपडेट करें",
+    "namePlaceholder": "जैसे: मुख्य दुकान",
+    "addressPlaceholder": "स्थान का पता दर्ज करें",
+    "defaultLocation": "डिफ़ॉल्ट स्थान",
+    "defaultHint": "नए POS ऑर्डर डिफ़ॉल्ट रूप से इस स्थान का उपयोग करेंगे",
+    "activeLocation": "सक्रिय",
+    "activeHint": "निष्क्रिय स्थान POS में दिखाई नहीं देंगे",
+    "nameRequired": "स्थान का नाम आवश्यक है",
+    "created": "स्थान सफलतापूर्वक बनाया गया",
+    "updated": "स्थान सफलतापूर्वक अपडेट किया गया",
+    "deleted": "स्थान सफलतापूर्वक हटाया गया",
+    "activated": "स्थान सक्रिय किया गया",
+    "deactivated": "स्थान निष्क्रिय किया गया",
+    "setAsDefault": "डिफ़ॉल्ट स्थान अपडेट किया गया",
+    "setDefault": "डिफ़ॉल्ट के रूप में सेट करें",
+    "deactivate": "निष्क्रिय करें",
+    "activate": "सक्रिय करें",
+    "cannotDeleteDefault": "डिफ़ॉल्ट स्थान हटाया नहीं जा सकता",
+    "deleteTitle": "स्थान हटाएं",
+    "deleteDescription": "क्या आप {name} को हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+    "fetchError": "स्थान लोड करने में विफल",
+    "deleteError": "स्थान हटाने में विफल",
+    "updateError": "स्थान अपडेट करने में विफल",
+    "saveError": "स्थान सहेजने में विफल",
+    "actions": "कार्रवाइयाँ"
+  },
+  "toast": {
+    "createdSuccess": "{resource} सफलतापूर्वक बनाया गया",
+    "updatedSuccess": "{resource} सफलतापूर्वक अपडेट किया गया",
+    "deleted": "{resource} हटा दिया गया",
+    "saved": "परिवर्तन सहेजे गए",
+    "savedResource": "{resource} सहेजा गया",
+    "undo": "पूर्ववत करें",
+    "operationComplete": "कार्य पूर्ण",
+    "somethingWentWrong": "कुछ गलत हो गया"
+  },
+  "aiSalesAgentAdmin": {
+    "header": {
+      "title": "AI सेल्स एजेंट",
+      "subtitle": "स्टोरफ्रंट सेल्स एजेंट कॉन्फ़िगर करें, बातचीत मॉनिटर करें और लाइव प्रतिक्रियाओं का परीक्षण करें।",
+      "refresh": "रीफ़्रेश",
+      "saveChanges": "परिवर्तन सहेजें",
+      "saving": "सहेजा जा रहा है"
+    },
+    "tabs": {
+      "overview": "ओवरव्यू",
+      "howItWorks": "यह कैसे काम करता है",
+      "configuration": "कॉन्फ़िगरेशन",
+      "behavior": "व्यवहार",
+      "widget": "विजेट",
+      "conversations": "बातचीत",
+      "testChat": "टेस्ट चैट"
+    },
+    "overview": {
+      "stats": {
+        "totalConversations": "कुल बातचीत",
+        "totalConversationsSub": "सभी समय",
+        "activeConversations": "सक्रिय बातचीत",
+        "activeConversationsSub": "अभी खुली हुई",
+        "messagesExchanged": "अदला-बदली किए गए संदेश",
+        "messagesExchangedSub": "सभी सत्रों में",
+        "avgMessages": "औसत संदेश / चैट",
+        "avgMessagesSub": "एंगेजमेंट गहराई",
+        "aiActions": "AI एक्शन",
+        "aiActionsSub": "टूल्स, रिकमेंडेशन, कार्ट ऐड",
+        "last7Days": "पिछले 7 दिन",
+        "last30Days": "पिछले 30 दिनों में {count}"
+      },
+      "recentConversations": {
+        "title": "हाल की बातचीत",
+        "viewAll": "सभी देखें",
+        "empty": "अभी तक कोई बातचीत नहीं है। जैसे ही ग्राहक चैट शुरू करेंगे, वे यहाँ दिखाई देंगे।",
+        "newConversation": "नई बातचीत",
+        "messagesCount": "{count, plural, =0 {कोई संदेश नहीं} =1 {1 संदेश} other {# संदेश}}",
+        "actionsCount": "{count, plural, =0 {कोई एक्शन नहीं} =1 {1 एक्शन} other {# एक्शन}}"
+      },
+      "capabilities": {
+        "title": "एक नज़र में क्षमताएँ",
+        "on": "चालू",
+        "off": "बंद",
+        "multilingualTitle": "बहुभाषी उत्तर",
+        "alwaysOn": "हमेशा चालू"
+      }
+    },
+    "howItWorks": {
+      "intro": {
+        "title": "आपका AI सेल्स एजेंट, शुरुआत से अंत तक",
+        "description": "यह एजेंट आपके स्टोरफ्रंट के चैट विजेट में रहता है। यह ग्राहकों के सवाल समझता है, आपके वास्तविक कैटलॉग और नीतियों से जानकारी लाता है, उत्पाद सुझाता है, और कार्ट में आइटम भी जोड़ सकता है — यह सब उसी मॉडल और नियमों के साथ जो आप यहाँ कॉन्फ़िगर करते हैं। इसे लाइव करने के लिए नीचे दी गई चेकलिस्ट का पालन करें।",
+        "openAIConfigured": "OpenAI कॉन्फ़िगर है",
+        "openAIMissing": "OpenAI कुंजी गायब है",
+        "widgetLive": "विजेट लाइव है",
+        "widgetOff": "विजेट बंद है"
+      },
+      "capabilities": {
+        "title": "एजेंट क्या कर सकता है",
+        "description": "कॉन्फ़िगरेशन में आपकी सक्षम की गई हर क्षमता इनमें से एक शक्ति खोलती है।",
+        "multilingualTitle": "बहुभाषी उत्तर",
+        "multilingualDescription": "स्टोरफ्रंट की भाषा कुछ भी हो, यह ग्राहक की अपनी भाषा में जवाब देता है।",
+        "alwaysOn": "हमेशा चालू"
+      },
+      "checklist": {
+        "title": "सेटअप चेकलिस्ट",
+        "doneRatio": "{completed}/{total} पूरा",
+        "description": "एजेंट को ग्राहकों के लिए तैयार करने के लिए इन चरणों को पूरा करें। जैसे-जैसे आप हर सेक्शन कॉन्फ़िगर करेंगे, स्थिति अपडेट होगी।",
+        "steps": {
+          "apiKey": {
+            "title": "अपनी OpenAI API कुंजी जोड़ें",
+            "description": "सर्वर वातावरण में OPENAI_API_KEY सेट करें, फिर ऐप रीस्टार्ट करें। मान्य कुंजी मिलने तक एजेंट और उसका विजेट बंद रहेगा।",
+            "action": "कॉन्फ़िगरेशन खोलें",
+            "hint": "केवल सर्वर-साइड — कुंजी कभी ग्राहकों के सामने नहीं आती।"
+          },
+          "model": {
+            "title": "मॉडल और रनटाइम चुनें",
+            "description": "मॉडल, reasoning effort, temperature और एक जवाब में कितने उत्पाद सुझाने हैं, यह चुनें।",
+            "action": "मॉडल समायोजित करें",
+            "hint": "वर्तमान मॉडल: {model}"
+          },
+          "capabilities": {
+            "title": "अपनी ज़रूरत की क्षमताएँ चालू करें",
+            "description": "Product Q&A, recommendations, cart actions, checkout handoff और order status सक्षम करें। हर एक एजेंट के लिए एक टूल खोलता है।",
+            "action": "क्षमताएँ सेट करें",
+            "hint": "5 में से {enabled} क्षमताएँ चालू हैं"
+          },
+          "identity": {
+            "title": "पहचान, टोन और अभिवादन तय करें",
+            "description": "एजेंट को नाम और आवाज़ दें, शुरुआती अभिवादन लिखें, और अपनी ब्रांड व नीतियों के लिए कस्टम निर्देश जोड़ें।",
+            "action": "व्यवहार संपादित करें",
+            "hintWithName": "एजेंट का नाम: {name}",
+            "hintNotSet": "एजेंट का नाम: सेट नहीं है"
+          },
+          "faq": {
+            "title": "FAQ ज्ञान जोड़ें",
+            "description": "एजेंट को अपनी असली नीतियाँ (shipping, returns, sizing, warranty) सिखाएँ ताकि यह अनुमान लगाने के बजाय तथ्यों से जवाब दे।",
+            "action": "FAQ एंट्री जोड़ें",
+            "hintWithCount": "{count, plural, =0 {अभी कोई FAQ एंट्री नहीं} =1 {1 FAQ एंट्री जोड़ी गई} other {# FAQ एंट्री जोड़ी गईं}}",
+            "hintEmpty": "अभी कोई FAQ एंट्री नहीं"
+          },
+          "widget": {
+            "title": "विजेट को स्टाइल करें",
+            "description": "लॉन्चर और चैट पैनल को अपनी ब्रांड के अनुसार बनाएँ — रंग, स्थान, अवतार और वह लॉन्चर लेबल जो ग्राहक देखते हैं।",
+            "action": "विजेट कस्टमाइज़ करें",
+            "hint": "वैकल्पिक, लेकिन ब्रांडेड विजेट बेहतर कन्वर्ट करता है।"
+          },
+          "enableWidget": {
+            "title": "स्टोरफ्रंट विजेट सक्षम करें",
+            "description": "मास्टर स्विच चालू करें ताकि एजेंट आपके स्टोरफ्रंट पर दिखाई दे। इसके लिए ऊपर दी गई OpenAI कुंजी आवश्यक है।",
+            "action": "विजेट सक्षम करें",
+            "hintLive": "विजेट लाइव है",
+            "hintHidden": "विजेट छिपा हुआ है"
+          },
+          "testChat": {
+            "title": "लॉन्च से पहले परीक्षण करें",
+            "description": "Test chat टैब का उपयोग करके ठीक वैसे चैट करें जैसे ग्राहक करेंगे, और लाइव होने के बाद वास्तविक बातचीत देखें।",
+            "action": "टेस्ट चैट खोलें",
+            "hintWithCount": "{count, plural, =0 {अभी कोई बातचीत नहीं} =1 {अब तक 1 बातचीत} other {अब तक # बातचीत}}",
+            "hintEmpty": "अभी कोई बातचीत नहीं"
+          }
+        }
+      },
+      "flow": {
+        "title": "बातचीत कैसे चलती है",
+        "description": "हर बार जब ग्राहक संदेश भेजता है, पर्दे के पीछे क्या होता है।",
+        "steps": {
+          "open": {
+            "title": "ग्राहक विजेट खोलता है",
+            "body": "लॉन्चर आपके स्टोरफ्रंट पर दिखाई देता है और आपके कॉन्फ़िगर किए गए greeting message से उसका स्वागत करता है।"
+          },
+          "ask": {
+            "title": "वह अपने शब्दों में पूछता है",
+            "body": "“क्या आपके पास 100 डॉलर से कम में waterproof jacket है?”, “मेरा ऑर्डर कहाँ है?”, या “आपकी return policy क्या है?” — किसी मेनू या keyword की ज़रूरत नहीं।"
+          },
+          "tools": {
+            "title": "मॉडल तय करता है कि कौन-से टूल उपयोग होंगे",
+            "body": "सक्षम क्षमताओं के आधार पर एजेंट आपके कैटलॉग में खोज सकता है, product details ला सकता है, FAQ पढ़ सकता है, cart देख सकता है, order status जाँच सकता है, या cart में items जोड़ सकता है।"
+          },
+          "data": {
+            "title": "यह आपके स्टोर से लाइव डेटा लाता है",
+            "body": "परिणाम आपके असली, दिखाई देने वाले उत्पादों और आपके द्वारा दर्ज की गई नीतियों से आते हैं — इसलिए जवाब अनुमानित नहीं होते। उत्पाद साधारण टेक्स्ट नहीं बल्कि rich cards के रूप में दिखते हैं।"
+          },
+          "reply": {
+            "title": "यह जवाब देता है और एक्शन भी ले सकता है",
+            "body": "ग्राहक को एक संक्षिप्त जवाब मिलता है जिसमें product cards, add-to-cart buttons, या खरीदने के लिए तैयार होने पर checkout handoff शामिल हो सकता है।"
+          },
+          "logged": {
+            "title": "सब कुछ लॉग किया जाता है",
+            "body": "हर बातचीत, संदेश और एक्शन सहेजा जाता है ताकि आप Conversations टैब में उनकी समीक्षा कर सकें और Overview में प्रदर्शन देख सकें।"
+          }
+        }
+      },
+      "tips": {
+        "title": "बेहतर परिणामों के लिए सुझाव",
+        "items": {
+          "faq": {
+            "title": "अपना FAQ सटीक रखें",
+            "body": "एजेंट policy questions का उत्तर पहले आपके FAQ से देता है। Shipping, returns, sizing और warranty को शामिल करें ताकि इसे कभी अनुमान न लगाना पड़े।"
+          },
+          "instructions": {
+            "title": "संक्षिप्त कस्टम निर्देश लिखें",
+            "body": "Behavior टैब का उपयोग करके brand voice और क्या करना है / क्या नहीं करना है सेट करें। इसे छोटा रखें — यह हर turn में जोड़ा जाता है।"
+          },
+          "model": {
+            "title": "संतुलित मॉडल से शुरू करें",
+            "body": "कम temperature जवाबों को केंद्रित रखता है। बड़ा मॉडल तभी चुनें जब आपको गहरी reasoning चाहिए, क्योंकि हर जवाब की लागत बढ़ती है।"
+          },
+          "recs": {
+            "title": "रिकमेंडेशन की संख्या समायोजित करें",
+            "body": "हर जवाब में 3–4 उत्पाद दिखाएँ। बहुत ज़्यादा विकल्प ग्राहकों को उलझाते हैं; बहुत कम विकल्प सीमित करते हैं।"
+          },
+          "key": {
+            "title": "अपनी API कुंजी सुरक्षित रखें",
+            "body": "OpenAI कुंजी केवल सर्वर वातावरण में रहती है। इसे स्टोरफ्रंट में कभी पेस्ट न करें और सार्वजनिक रूप से साझा न करें।"
+          },
+          "review": {
+            "title": "वास्तविक बातचीत की समीक्षा करें",
+            "body": "Conversations टैब नियमित रूप से देखें ताकि आप उन सवालों को पहचान सकें जिन्हें एजेंट मिस कर गया और उन्हें FAQ में जोड़ सकें।"
+          }
+        }
+      },
+      "cta": {
+        "prompt": "इसे एक्शन में देखने के लिए तैयार हैं?",
+        "configure": "एजेंट कॉन्फ़िगर करें",
+        "tryChat": "टेस्ट चैट आज़माएँ"
+      }
+    },
+    "configuration": {
+      "openAIConfigured": "OpenAI कॉन्फ़िगर है",
+      "openAIMissing": "OPENAI_API_KEY गायब है",
+      "widgetEnabled": "विजेट सक्षम है",
+      "widgetDisabled": "विजेट अक्षम है",
+      "modelRuntime": {
+        "title": "मॉडल और रनटाइम",
+        "enableWidget": "स्टोरफ्रंट विजेट सक्षम करें",
+        "enableWidgetDescription": "OpenAI कॉन्फ़िगर होने तक विजेट छिपा रहेगा।",
+        "model": "मॉडल",
+        "modelDescription": "बड़े मॉडल अधिक गहराई से reasoning कर सकते हैं, लेकिन प्रति request अधिक लागत आती है।",
+        "reasoningEffort": "Reasoning effort",
+        "reasoningEffortDescription": "यह reasoning-capable मॉडलों में उपयोग होता है; अन्यथा अनदेखा किया जाता है।",
+        "temperature": "Temperature",
+        "temperatureDescription": "कम = अधिक केंद्रित, अधिक = अधिक रचनात्मक (0–1)।",
+        "maxRecommendations": "अधिकतम रिकमेंडेशन",
+        "maxRecommendationsDescription": "एक जवाब में दिखाए जाने वाले उत्पादों की अधिकतम संख्या (1–8)।"
+      },
+      "capabilities": {
+        "title": "क्षमताएँ"
+      },
+      "capabilityMeta": {
+        "productQA": "Product Q&A",
+        "productQADescription": "उत्पादों और उनके specifications के बारे में सवालों के जवाब दें।",
+        "recommendations": "रिकमेंडेशन",
+        "recommendationsDescription": "ग्राहक की ज़रूरतों के आधार पर उत्पाद सुझाएँ।",
+        "cartActions": "कार्ट एक्शन",
+        "cartActionsDescription": "एजेंट को cart में items जोड़ने या हटाने दें।",
+        "checkoutHandoff": "Checkout handoff",
+        "checkoutHandoffDescription": "जब ग्राहक तैयार हों, उन्हें checkout पर भेजें।",
+        "orderStatus": "ऑर्डर स्थिति",
+        "orderStatusDescription": "ऑर्डर tracking जानकारी देखें और साझा करें।"
+      }
+    },
+    "behavior": {
+      "identity": {
+        "title": "पहचान और टोन",
+        "agentName": "एजेंट का नाम",
+        "tone": "टोन",
+        "greeting": "अभिवादन",
+        "greetingDescription": "जब ग्राहक विजेट खोलता है, तब यह पहला संदेश दिखाया जाता है।",
+        "instructions": "कस्टम निर्देश",
+        "instructionsPlaceholder": "ब्रांड आवाज़, return policy reminders, recommendation style...",
+        "instructionsDescription": "हर turn में system prompt में जोड़ा जाता है। इसे संक्षिप्त रखें।",
+        "escalation": "Escalation संदेश",
+        "escalationDescription": "जब एजेंट मदद नहीं कर पाता और handoff करना होता है, तब भेजा जाता है।"
+      },
+      "faq": {
+        "title": "ज्ञान और FAQ",
+        "addEntry": "एंट्री जोड़ें",
+        "description": "जब ग्राहक shipping, returns, sizing, warranty या अन्य नीतियों के बारे में पूछते हैं, तब एजेंट यहाँ खोज करता है। अधिकतम 50 एंट्री।",
+        "empty": "अभी कोई FAQ एंट्री नहीं है। आम सवाल जोड़ें ताकि एजेंट policy questions का उत्तर बिना अनुमान लगाए दे सके।",
+        "questionPlaceholder": "प्रश्न (जैसे: shipping में कितना समय लगता है?)",
+        "answerPlaceholder": "एजेंट को जो जवाब देना चाहिए। इसे तथ्यात्मक और छोटा रखें।",
+        "tagsPlaceholder": "वैकल्पिक टैग, comma separated (shipping, returns, sizing)",
+        "removeAria": "FAQ एंट्री हटाएँ"
+      }
+    },
+    "widget": {
+      "appearance": {
+        "title": "दिखावट",
+        "headerTitle": "हेडर शीर्षक",
+        "headerTitleDescription": "यह chat header में दिखाया जाता है। खाली होने पर एजेंट का नाम उपयोग होगा।",
+        "position": "स्थिति",
+        "positionBottomRight": "नीचे दाएँ",
+        "positionBottomLeft": "नीचे बाएँ",
+        "expandedSize": "विस्तारित आकार",
+        "expandedSizeDescription": "सहेजने के बाद floating widget पर लागू होता है।",
+        "width": "चौड़ाई",
+        "height": "ऊँचाई",
+        "widthRange": "320–640px",
+        "heightRange": "420–900px",
+        "primaryColor": "मुख्य रंग",
+        "accentColor": "एक्सेंट रंग",
+        "footerText": "फुटर टेक्स्ट",
+        "footerTextPlaceholder": "AI द्वारा संचालित",
+        "showFooterText": "फुटर टेक्स्ट दिखाएँ",
+        "showFooterTextDescription": "चैट विंडो के नीचे छोटा लेबल दिखाएँ।",
+        "headerAvatar": "हेडर अवतार",
+        "headerAvatarAlt": "{name} अवतार",
+        "avatarUploadTitle": "इमेज drag and drop करें, या browse करने के लिए क्लिक करें",
+        "avatarUploadDescription": "इमेज फ़ॉर्मेट: JPG, PNG, JPEG, WEBP।",
+        "avatarSizeGuide": "अनुशंसित आकार: 256 x 256 px",
+        "headerAvatarDescription": "यह chat header में दिखाया जाता है। खाली छोड़ने पर आपके स्टोर का favicon उपयोग होगा।"
+      },
+      "preview": {
+        "title": "लाइव प्रीव्यू",
+        "typeMessage": "एक संदेश टाइप करें..."
+      }
+    },
+    "conversations": {
+      "title": "चैट लॉग",
+      "totalCount": "कुल {count} बातचीत। पूरा ट्रांसक्रिप्ट देखने के लिए किसी भी पंक्ति पर क्लिक करें।",
+      "refresh": "रीफ़्रेश",
+      "searchPlaceholder": "संदेश या session id खोजें...",
+      "locale": "लोकेल",
+      "allLocales": "सभी लोकेल",
+      "status": "स्थिति",
+      "allStatuses": "सभी स्थितियाँ",
+      "statusActive": "सक्रिय",
+      "statusClosed": "बंद",
+      "empty": "आपके फ़िल्टर से मेल खाने वाली कोई बातचीत नहीं है।",
+      "aiPrefix": "AI: {message}",
+      "newConversation": "नई बातचीत",
+      "messagesCount": "{count} संदेश",
+      "actionsCount": "{count} एक्शन",
+      "pageOf": "पृष्ठ {page} / {total}",
+      "previous": "पिछला",
+      "next": "अगला"
+    },
+    "testChat": {
+      "title": "लाइव टेस्ट चैट",
+      "reset": "रीसेट",
+      "description": "वैसे सवाल आज़माएँ जैसे ग्राहक पूछेंगे। परीक्षण से पहले परिवर्तन सहेजें — यह लाइव सेटिंग्स का उपयोग करता है।",
+      "typeMessage": "एक संदेश टाइप करें..."
+    },
+    "drawer": {
+      "title": "बातचीत",
+      "loading": "बातचीत लोड हो रही है...",
+      "session": "सेशन {id}",
+      "status": "स्थिति",
+      "locale": "लोकेल",
+      "customer": "ग्राहक",
+      "guest": "अतिथि",
+      "started": "शुरू हुई",
+      "messagesTitle": "संदेश ({count})",
+      "noMessages": "कोई संदेश नहीं।",
+      "emptyMessage": "[खाली संदेश]",
+      "actionsTitle": "एक्शन ({count})",
+      "delete": "बातचीत हटाएँ"
+    },
+    "toast": {
+      "loadFailed": "AI सेल्स एजेंट सेटिंग्स लोड नहीं हो सकीं",
+      "saveSuccess": "AI सेल्स एजेंट सहेजा गया",
+      "saveFailed": "सहेजना विफल रहा",
+      "deleteTitle": "बातचीत हटाएँ",
+      "deleteDescription": "यह चैट लॉग और उसके एक्शन को स्थायी रूप से हटा देता है।",
+      "deleteConfirm": "हटाएँ",
+      "deleteSuccess": "बातचीत हटा दी गई",
+      "deleteFailed": "हटाना विफल रहा",
+      "loadConversationFailed": "बातचीत लोड नहीं हो सकी",
+      "loadConversationsFailed": "बातचीतें लोड नहीं हो सकीं",
+      "testChatFailed": "टेस्ट चैट विफल रही",
+      "testFailed": "टेस्ट विफल रहा"
+    },
+    "time": {
+      "justNow": "अभी-अभी",
+      "minutesAgo": "{count} मिनट पहले",
+      "hoursAgo": "{count} घंटे पहले",
+      "daysAgo": "{count} दिन पहले"
+    }
+  },
+  "aiStudioHub": {
+    "title": "AI स्टूडियो",
+    "subtitle": "AI से उत्पाद कंटेंट, ग्राफ़िक्स, और SEO बनाएं — आपके स्टोर के हर फ़ॉर्म में built-in।",
+    "statusConfigured": "AI कॉन्फ़िगर किया गया है और तैयार है",
+    "statusNotConfigured": "AI अभी तक कॉन्फ़िगर नहीं किया गया है",
+    "statusNotConfiguredHint": "AI सुविधाएं सक्षम करने के लिए सेटिंग्स → AI में अपनी OpenAI API कुंजी जोड़ें (या एनवायरनमेंट में OPENAI_API_KEY सेट करें)।",
+    "showcaseTitle": "इसे क्रिया में देखें",
+    "showcaseSubtitle": "स्लाइडर खींचें — AI इमेज स्टूडियो से एक-क्लिक Enhance।",
+    "showcaseBefore": "पहले",
+    "showcaseAfter": "बाद में",
+    "showcaseCaption": "बैकग्राउंड हटाएं, एन्हांस करें, अपस्केल करें, ऑब्जेक्ट मिटाएं, रीसाइज़ करें, और विस्तार करें — या सामान्य शब्दों में कोई भी एडिट बताएं।",
+    "cardsTitle": "आप क्या बनाना चाहते हैं?",
+    "cardProductContentTitle": "उत्पाद कंटेंट लिखें",
+    "cardProductContentDescription": "एक छोटे प्रॉम्प्ट से टाइटल, सारांश, और विस्तृत विवरण जनरेट करें।",
+    "cardProductGraphicsTitle": "उत्पाद ग्राफ़िक्स डिज़ाइन करें",
+    "cardProductGraphicsDescription": "इमेजेस एडिट या जनरेट करने के लिए AI इमेज स्टूडियो में उत्पाद मीडिया खोलें।",
+    "cardSeoTitle": "SEO सुधारें",
+    "cardSeoDescription": "एक क्लिक में सर्च टाइटल, मेटा डिस्क्रिप्शन, हैंडल, और टैग भरें।",
+    "cardBlogTitle": "एक ब्लॉग पोस्ट लिखें",
+    "cardBlogDescription": "एक्सर्प्ट, फ़ीचर्ड इमेज, और SEO के साथ एक पूरी पोस्ट का ड्राफ्ट बनाएं।",
+    "cardAssetsTitle": "श्रेणी और ब्रांड एसेट्स बनाएं",
+    "cardAssetsDescription": "श्रेणी इमेजेस, आइकॉन, ब्रांड लोगो, और कलेक्शन कवर जनरेट करें।",
+    "cardHeroTitle": "हीरो बैनर डिज़ाइन करें",
+    "cardHeroDescription": "आपके होम पेज के लिए बिल्कुल सटीक साइज़ में वाइड स्टोरफ्रंट बैनर जनरेट करें।",
+    "everywhereTitle": "हर फ़ॉर्म में built-in",
+    "everywhereSubtitle": "उत्पाद, श्रेणियों, कलेक्शन्स, ब्रांड्स, ब्लॉग पोस्ट, समीक्षाओं, और होम पेज बिल्डर में AI बटन देखें।",
+    "howTitle": "यह कैसे काम करता है",
+    "howStep1": "कोई भी समर्थित फ़ॉर्म खोलें",
+    "howStep2": "किसी फ़ील्ड या मीडिया पर AI बटन क्लिक करें",
+    "howStep3": "ड्राफ्ट की समीक्षा करें, फिर सहेजें",
+    "configureCta": "AI कॉन्फ़िगर करें"
+  },
+  "aiStudio": {
+    "breadcrumbTitle": "AI इमेज स्टूडियो",
+    "mediaTitle": "मीडिया",
+    "quickPromptTitle": "क्विक प्रॉम्प्ट",
+    "uploadImage": "इमेज अपलोड करें",
+    "badgeAi": "AI",
+    "badgeEdited": "एडिट किया गया",
+    "tabQuickPrompt": "क्विक प्रॉम्प्ट",
+    "tabEffects": "इफ़ेक्ट्स",
+    "categoryPlaceholder": "श्रेणी",
+    "removeBackground": "बैकग्राउंड हटाएं",
+    "enhance": "एन्हांस करें",
+    "upscale": "अपस्केल करें",
+    "eraseObject": "ऑब्जेक्ट मिटाएं",
+    "resize": "रीसाइज़ करें",
+    "expand": "विस्तार करें",
+    "fit": "फ़िट करें",
+    "compare": "तुलना करें",
+    "zoomIn": "ज़ूम इन करें",
+    "zoomOut": "ज़ूम आउट करें",
+    "holdToViewOriginal": "मूल देखने के लिए दबाए रखें",
+    "previewAsCard": "स्टोरफ्रंट कार्ड के रूप में पूर्वावलोकन करें",
+    "exitPreview": "स्टोरफ्रंट पूर्वावलोकन से बाहर निकलें",
+    "previewCardHint": "पूर्वावलोकन मोड — देखें कि यह इमेज आपके लाइव उत्पाद कार्ड पर बिल्कुल कैसी दिखती है।",
+    "deleteImage": "इस इमेज को हटाएं",
+    "openMediaPanel": "मीडिया पैनल खोलें",
+    "openQuickPrompts": "क्विक प्रॉम्प्ट्स पैनल खोलें",
+    "cancel": "रद्द करें",
+    "noImageTitle": "कोई इमेज चयनित नहीं",
+    "noImageBody": "मीडिया से एक इमेज चुनें, एक अपलोड करें, या नीचे प्रॉम्प्ट में एक इमेज का वर्णन करें और AI को इसे जनरेट करने दें।",
+    "uploadImageAction": "इमेज अपलोड करें",
+    "before": "पहले",
+    "after": "बाद में",
+    "original": "मूल",
+    "busyHint": "इसमें आमतौर पर 10–30 सेकंड लगते हैं",
+    "discardTitle": "परिवर्तन रद्द करें?",
+    "discardBody": "आपकी एडिट की गई इमेजेस अभी तक सहेजी नहीं गई हैं। यदि आप अभी बाहर निकलते हैं, तो वे खो जाएंगी।",
+    "keepEditing": "एडिटिंग जारी रखें",
+    "discard": "रद्द करें",
+    "restoredDraft": "आपके असहेजे गए परिवर्तन बहाल किए गए",
+    "placeholderErase": "क्या मिटाना है इसका वर्णन करें, जैसे बाईं ओर की छाया। बाकी सब कुछ अपरिवर्तित रहता है।",
+    "placeholderGenerate": "आप जो इमेज चाहते हैं उसका वर्णन करें और AI इसे जनरेट करेगा।",
+    "placeholderEdit": "आप जो परिणाम चाहते हैं उसका वर्णन करें। आपका {subject} अपरिवर्तित रहता है।",
+    "applyEdit": "एडिट लागू करें",
+    "generateImage": "इमेज जनरेट करें",
+    "autoGenerate": "ऑटो जनरेट",
+    "toneLabel": "टोन",
+    "defaultTone": "डिफ़ॉल्ट टोन",
+    "sizes": {
+      "square": "स्क्वायर",
+      "portrait": "पोर्ट्रेट",
+      "landscape": "लैंडस्केप"
+    },
+    "presets": {
+      "categories": {
+        "electronics": "इलेक्ट्रॉनिक्स",
+        "fashion": "फैशन और परिधान",
+        "beauty": "ब्यूटी और केयर",
+        "home": "होम और किचन",
+        "food": "फूड और ड्रिंक",
+        "hero-layouts": "हीरो बैनर"
+      },
+      "labels": {
+        "clean-white": "क्लीन व्हाइट",
+        "lifestyle-room": "लाइफस्टाइल रूम",
+        "desk-setup": "डेस्क सेटअप",
+        "gradient-studio": "ग्रेडिएंट स्टूडियो",
+        "neon-accent": "नियॉन एक्सेंट",
+        "editorial-studio": "एडिटोरियल स्टूडियो",
+        "street-style": "स्ट्रीट स्टाइल",
+        "marble-silk": "मार्बल और सिल्क",
+        "golden-hour": "गोल्डन ऑवर",
+        "marble-counter": "मार्बल काउंटर",
+        "botanical-spa": "बॉटैनिकल स्पा",
+        "silk-drape": "सिल्क ड्रेप",
+        "water-splash": "वॉटर स्प्लैश",
+        "cozy-living": "कोज़ी लिविंग रूम",
+        "wooden-table": "वुडन टेबल",
+        "sunlit-shelf": "धूप वाली शेल्फ",
+        "minimal-concrete": "मिनिमल कंक्रीट",
+        "rustic-wood": "रस्टिक वुड",
+        "cafe-scene": "कैफ़े दृश्य",
+        "picnic-daylight": "पिकनिक डेलाइट",
+        "dark-slate": "डार्क स्लेट",
+        "product-right": "उत्पाद दाईं ओर",
+        "product-left": "उत्पाद बाईं ओर",
+        "centered-campaign": "केंद्रित कैंपेन"
+      }
+    },
+    "export": {
+      "button": "एक्सपोर्ट",
+      "includeLogo": "ब्रांड लोगो शामिल करें",
+      "fill": "फ्रेम भरें",
+      "fit": "ब्रांड रंग पर फ़िट करें",
+      "sizes": {
+        "og": "लिंक / OG इमेज",
+        "square": "स्क्वायर पोस्ट",
+        "portrait": "पोर्ट्रेट पोस्ट",
+        "story": "स्टोरी / Reel",
+        "twitter": "लैंडस्केप / X"
+      }
+    }
+  }
+}

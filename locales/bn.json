@@ -1,0 +1,3847 @@
+{
+  "twoFactorSetup": {
+    "title": "টু-ফ্যাক্টর অথেনটিকেশন সেটআপ করুন",
+    "description": "আপনার অ্যাডমিনিস্ট্রেটর আপনার অ্যাকাউন্টের জন্য টু-ফ্যাক্টর অথেনটিকেশন আবশ্যক করেছেন। চালিয়ে যেতে এখনই এটি সেটআপ করুন।",
+    "passwordHint": "সেটআপ শুরু করতে আপনার অ্যাকাউন্টের পাসওয়ার্ড দিন।",
+    "continue": "চালিয়ে যান",
+    "signOut": "সাইন আউট"
+  },
+  "metadata": {
+    "title": "মিনিমার্ট - অনলাইন মার্কেটপ্লেস",
+    "description": "যাচাইকৃত বিক্রেতাদের কাছ থেকে আশ্চর্যজনক পণ্য আবিষ্কার করুন। আত্মবিশ্বাসের সাথে কেনাকাটা করুন।",
+    "keywords": "অনলাইন শপিং, মার্কেটপ্লেস, ই-কমার্স, পণ্য, বিক্রেতা"
+  },
+  "products": {
+    "color": "রঙ",
+    "size": "সাইজ"
+  },
+  "validation": {
+    "required": "Required",
+    "email": "Invalid email address",
+    "minLength": "Must be at least {min} characters",
+    "maxLength": "Must be at most {max} characters",
+    "pattern": "Invalid format"
+  },
+  "common": {
+    "home": "হোম",
+    "settings": "সেটিংস",
+    "products": "পণ্য",
+    "categories": "বিভাগসমূহ",
+    "cart": "কার্ট",
+    "wishlist": "ইচ্ছা তালিকা",
+    "login": "লগইন",
+    "register": "নিবন্ধন",
+    "logout": "লগআউট",
+    "search": "অনুসন্ধান",
+    "searchPlaceholder": "পণ্য খুঁজুন...",
+    "loading": "লোড হচ্ছে...",
+    "error": "একটি ত্রুটি ঘটেছে",
+    "success": "সফল",
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল",
+    "delete": "মুছুন",
+    "edit": "সম্পাদনা",
+    "confirm": "নিশ্চিত করুন",
+    "yes": "হ্যাঁ",
+    "no": "না",
+    "close": "বন্ধ",
+    "back": "পিছনে",
+    "backToHome": "হোমে ফিরুন",
+    "next": "পরবর্তী",
+    "previous": "আগের",
+    "viewAll": "সব দেখুন",
+    "learnMore": "আরও জানুন",
+    "getStarted": "শুরু করুন",
+    "shopNow": "এখনই কিনুন",
+    "addToCart": "কার্টে যোগ করুন",
+    "buyNow": "এখনই কিনুন",
+    "outOfStock": "স্টক নেই",
+    "inStock": "স্টকে আছে",
+    "price": "মূল্য",
+    "quantity": "পরিমাণ",
+    "total": "মোট",
+    "subtotal": "উপমোট",
+    "shipping": "শিপিং",
+    "tax": "ট্যাক্স",
+    "discount": "ছাড়",
+    "free": "বিনামূল্যে",
+    "new": "নতুন",
+    "sale": "সেল",
+    "featured": "বৈশিষ্ট্যযুক্ত",
+    "popular": "জনপ্রিয়",
+    "rating": "রেটিং",
+    "reviews": "রিভিউ",
+    "noResults": "কোন ফলাফল পাওয়া যায়নি",
+    "tryAgain": "আবার চেষ্টা করুন",
+    "allRightsReserved": "সর্বস্বত্ব সংরক্ষিত",
+    "dashboard": "ড্যাশবোর্ড",
+    "actions": "অ্যাকশন",
+    "viewDetails": "বিস্তারিত দেখুন",
+    "items": "আইটেম",
+    "qty": "পরিমাণ",
+    "method": "পদ্ধতি",
+    "status": "স্ট্যাটাস",
+    "allStatus": "সকল স্ট্যাটাস",
+    "browseProducts": "পণ্য ব্রাউজ করুন",
+    "guest": "অতিথি",
+    "overview": "সারসংক্ষেপ",
+    "management": "পরিচালনা",
+    "multiVendorMarketplace": "মাল্টি-ভেন্ডর মার্কেটপ্লেস",
+    "onlineStore": "অনলাইন স্টোর",
+    "notifications": "বিজ্ঞপ্তি",
+    "account": "অ্যাকাউন্ট",
+    "selectLanguage": "ভাষা নির্বাচন করুন",
+    "saved": "সংরক্ষিত",
+    "enabled": "সক্রিয়",
+    "disabled": "নিষ্ক্রিয়",
+    "done": "সম্পন্ন",
+    "apply": "প্রয়োগ করুন",
+    "sortBy": "সাজান",
+    "sortOptions": "সাজানোর অপশন",
+    "newest": "নতুন",
+    "mostPopular": "সবচেয়ে জনপ্রিয়",
+    "bestRating": "সেরা রেটিং",
+    "priceLowHigh": "মূল্য: কম থেকে বেশি",
+    "priceHighLow": "মূল্য: বেশি থেকে কম",
+    "filter": "ফিল্টার",
+    "filters": "ফিল্টারসমূহ",
+    "clearAll": "সব মুছুন",
+    "clearFilters": "ফিল্টার মুছুন",
+    "colors": "রঙ",
+    "sizes": "সাইজ",
+    "minPrice": "সর্বনিম্ন মূল্য",
+    "maxPrice": "সর্বোচ্চ মূল্য",
+    "min": "সর্বনিম্ন",
+    "max": "সর্বোচ্চ",
+    "allItems": "সব আইটেম",
+    "showMore": "আরো দেখুন",
+    "findFavoriteProducts": "আপনার প্রিয় পণ্য খুঁজুন",
+    "allCategories": "সব বিভাগ",
+    "noCategories": "কোনো বিভাগ নেই",
+    "selectCategory": "একটি বিভাগ নির্বাচন করুন",
+    "language": "ভাষা",
+    "currency": "মুদ্রা",
+    "welcome": "স্বাগতম",
+    "myOrders": "আমার অর্ডার",
+    "signIn": "সাইন ইন",
+    "profile": "প্রোফাইল",
+    "aiSearch": "AI অনুসন্ধান",
+    "switchToLightMode": "লাইট মোডে যান",
+    "switchToDarkMode": "ডার্ক মোডে যান",
+    "openCart": "কার্ট খুলুন",
+    "noProductsFound": "কোনো পণ্য পাওয়া যায়নি",
+    "pressEnterToSearch": "সম্পূর্ণ ফলাফল দেখতে Enter চাপুন",
+    "noImage": "ছবি নেই"
+  },
+  "ui": {
+    "dataTable": {
+      "showing": "দেখানো হচ্ছে",
+      "to": "থেকে",
+      "of": "মোট",
+      "results": "ফলাফল",
+      "rowsPerPage": "প্রতি পাতায় সারি",
+      "cancel": "বাতিল",
+      "search": "অনুসন্ধান",
+      "sort": "সাজান",
+      "sortedAscending": "ঊর্ধ্বক্রমে সাজানো",
+      "sortedDescending": "নিম্নক্রমে সাজানো",
+      "viewOptions": "ভিউ অপশন",
+      "focusSearch": "অনুসন্ধানে যান",
+      "filter": "ফিল্টার",
+      "filters": "ফিল্টারসমূহ",
+      "clearAll": "সব মুছুন",
+      "clearAllFilters": "সব ফিল্টার মুছুন",
+      "selectAll": "সব নির্বাচন করুন",
+      "selectRow": "{key} সারি নির্বাচন করুন",
+      "noResults": "কোনো ফলাফল পাওয়া যায়নি"
+    }
+  },
+  "wishlist": {
+    "title": "আমার ইচ্ছা তালিকা",
+    "empty": "আপনার ইচ্ছা তালিকা খালি",
+    "emptyDescription": "হৃদয় আইকনে ক্লিক করে আপনার পছন্দের পণ্য সংরক্ষণ করুন"
+  },
+  "profile": {
+    "title": "আমার প্রোফাইল",
+    "subtitle": "আপনার অ্যাকাউন্ট সেটিংস পরিচালনা করুন",
+    "personalInfo": "ব্যক্তিগত তথ্য",
+    "infoDesc": "আপনার নাম এবং যোগাযোগের বিবরণ আপডেট করুন",
+    "personal": "ব্যক্তিগত",
+    "firstName": "নামের প্রথম অংশ",
+    "lastName": "নামের শেষ অংশ",
+    "email": "ইমেইল ঠিকানা",
+    "phone": "ফোন নম্বর",
+    "birthday": "জন্মদিন",
+    "gender": "লিঙ্গ",
+    "selectGender": "লিঙ্গ নির্বাচন করুন",
+    "male": "পুরুষ",
+    "female": "মহিলা",
+    "other": "অন্যান্য",
+    "street": "রাস্তার ঠিকানা",
+    "zipCode": "পোস্টাল কোড",
+    "city": "শহর",
+    "country": "দেশ",
+    "selectCountry": "দেশ নির্বাচন করুন",
+    "saveChanges": "পরিবর্তনসমূহ সংরক্ষণ করুন",
+    "changePassword": "পাসওয়ার্ড পরিবর্তন করুন",
+    "oldPassword": "পুরাতন পাসওয়ার্ড",
+    "newPassword": "নতুন পাসওয়ার্ড",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "fullName": "পূর্ণ নাম",
+    "updatePassword": "পাসওয়ার্ড আপডেট করুন"
+  },
+  "account": {
+    "welcome": "স্বাগতম, {name}!",
+    "overviewDesc": "এক নজরে আপনার অ্যাকাউন্ট",
+    "totalOrders": "মোট অর্ডার",
+    "pendingOrders": "অপেক্ষমাণ অর্ডার",
+    "wishlistItems": "ইচ্ছা তালিকার আইটেম",
+    "recentOrders": "সাম্প্রতিক অর্ডার",
+    "noOrders": "আপনি এখনও কোন অর্ডার দেননি",
+    "startShopping": "কেনাকাটা শুরু করুন",
+    "profile": "প্রোফাইল",
+    "profileDesc": "আপনার ব্যক্তিগত তথ্য পরিচালনা করুন",
+    "orders": "আমার অর্ডার",
+    "ordersDesc": "আপনার অর্ডার ট্র্যাক এবং পরিচালনা করুন",
+    "wishlist": "ইচ্ছা তালিকা",
+    "wishlistDesc": "পরবর্তীতে কেনার জন্য সংরক্ষিত আইটেম",
+    "addresses": "ঠিকানা",
+    "addressesDesc": "আপনার ডেলিভারি ঠিকানা পরিচালনা করুন",
+    "paymentMethodsDesc": "আপনার পেমেন্ট পদ্ধতি পরিচালনা করুন",
+    "changePhoto": "ছবি পরিবর্তন করুন",
+    "security": "সিকিউরিটি",
+    "securityDescription": "আপনার অ্যাকাউন্টের নিরাপত্তা সেটিংস পরিচালনা করুন",
+    "twoFactorAuth": "দুই-ধাপ যাচাইকরণ",
+    "twoFactorDescription": "আপনার অ্যাকাউন্টে অতিরিক্ত নিরাপত্তা স্তর যোগ করুন",
+    "twoFactorEnabledInfo": "আপনার অ্যাকাউন্ট দুই-ধাপ যাচাইকরণ দ্বারা সুরক্ষিত। সাইন-ইন করার সময় আপনার অথেনটিকেটর অ্যাপের কোড দিতে হবে।",
+    "twoFactorDisabledInfo": "পাসওয়ার্ডের পাশাপাশি অথেনটিকেটর অ্যাপের কোড প্রয়োজন করে আপনার অ্যাকাউন্টকে সুরক্ষিত করুন।",
+    "confirmDisable2FA": "বন্ধ করার বিষয়টি নিশ্চিত করতে আপনার পাসওয়ার্ড লিখুন",
+    "disable2FA": "দুই-ধাপ যাচাইকরণ বন্ধ করুন",
+    "setup2FA": "দুই-ধাপ যাচাইকরণ সেটআপ করুন",
+    "step1": "ধাপ ১: QR কোড স্ক্যান করুন",
+    "scanQRDescription": "আপনার অথেনটিকেটর অ্যাপ (Google Authenticator, Authy ইত্যাদি) দিয়ে এই QR কোডটি স্ক্যান করুন",
+    "cantScanQR": "স্ক্যান করতে পারছেন না? এই কোডটি ম্যানুয়ালি লিখুন:",
+    "step2": "ধাপ ২: যাচাইকরণ কোড লিখুন",
+    "enterCodeDescription": "সেটআপ যাচাই করতে আপনার অথেনটিকেটর অ্যাপের ৬-সংখ্যার কোড লিখুন",
+    "backupCodes": "ব্যাকআপ কোড",
+    "backupCodesDescription": "এই ব্যাকআপ কোডগুলো নিরাপদ স্থানে সংরক্ষণ করুন। অথেনটিকেটর অ্যাপে প্রবেশাধিকার হারালে এগুলো দিয়ে সাইন-ইন করতে পারবেন।",
+    "copyBackupCodes": "সব কোড কপি করুন",
+    "activeSessions": "সক্রিয় সেশন",
+    "activeSessionsDescription": "আপনার সক্রিয় লগইন সেশনগুলো পরিচালনা করুন",
+    "currentSessionInfo": "আপনি বর্তমানে এই ডিভাইসে সাইন-ইন আছেন। সন্দেহজনক কিছু মনে হলে অন্যান্য সব সেশন থেকে সাইন-আউট করতে পারেন।",
+    "signOutAllSessions": "অন্যান্য সব সেশন থেকে সাইন-আউট করুন",
+    "passwordRequired": "পাসওয়ার্ড প্রয়োজন",
+    "setup2FAFailed": "2FA সেটআপ করা যায়নি",
+    "invalidVerificationCode": "অবৈধ যাচাইকরণ কোড",
+    "twoFactorEnabledSuccess": "দুই-ধাপ যাচাইকরণ সফলভাবে চালু হয়েছে!",
+    "disable2FAFailed": "2FA বন্ধ করা যায়নি",
+    "twoFactorDisabledSuccess": "দুই-ধাপ যাচাইকরণ বন্ধ করা হয়েছে।",
+    "revokeSessionsFailed": "সেশন বাতিল করা যায়নি",
+    "revokeSessionsSuccess": "অন্যান্য সব সেশন বাতিল করা হয়েছে",
+    "genericTryAgain": "একটি ত্রুটি হয়েছে। আবার চেষ্টা করুন।",
+    "qrCodeAlt": "2FA QR কোড",
+    "twoFactorAdminDisabled": "টু-ফ্যাক্টর অথেনটিকেশন বর্তমানে সাইট অ্যাডমিনিস্ট্রেটর দ্বারা নিষ্ক্রিয় করা আছে।"
+  },
+  "customerProfile": {
+    "loyaltyPoints": "পয়েন্ট",
+    "loyaltyTier": "আনুগত্য স্তর",
+    "bronze": "ব্রোঞ্জ",
+    "silver": "সিলভার",
+    "gold": "গোল্ড",
+    "platinum": "প্লাটিনাম",
+    "preferences": "পছন্দসমূহ",
+    "preferencesDesc": "আপনার শপিং পছন্দ ও বিজ্ঞপ্তি পরিচালনা করুন",
+    "preferencesSaved": "পছন্দসমূহ সফলভাবে সংরক্ষিত হয়েছে",
+    "emailNotifications": "ইমেল বিজ্ঞপ্তি",
+    "orderUpdates": "অর্ডার আপডেট",
+    "orderUpdatesDesc": "আপনার অর্ডারের স্থিতি পরিবর্তন সম্পর্কে বিজ্ঞপ্তি পান",
+    "promotions": "প্রচার ও অফার",
+    "promotionsDesc": "একচেটিয়া অফার এবং প্রচারমূলক ইমেল পান",
+    "newsletter": "নিউজলেটার",
+    "newsletterDesc": "নতুন পণ্য এবং ট্রেন্ড সম্পর্কে সাপ্তাহিক আপডেট",
+    "priceDrops": "মূল্য হ্রাস সতর্কতা",
+    "priceDropsDesc": "আপনার উইশলিস্টের পণ্যের দাম কমলে বিজ্ঞপ্তি পান",
+    "backInStock": "স্টকে ফেরত সতর্কতা",
+    "backInStockDesc": "স্টকে নেই এমন পণ্য পাওয়া গেলে বিজ্ঞপ্তি পান",
+    "marketingPreferences": "মার্কেটিং পছন্দ",
+    "marketingOptIn": "মার্কেটিং ইমেল",
+    "marketingOptInDesc": "মার্কেটিং যোগাযোগ এবং বিশেষ অফার পান",
+    "totalSpent": "মোট ব্যয়",
+    "avgOrderValue": "গড় অর্ডার মূল্য",
+    "memberSince": "সদস্য হয়েছেন"
+  },
+  "addresses": {
+    "title": "আমার ঠিকানা",
+    "subtitle": "আপনার ডেলিভারি ঠিকানা পরিচালনা করুন",
+    "deliveryAddresses": "ডেলিভারি ঠিকানা",
+    "deliveryDesc": "দ্রুত চেকআউটের জন্য ঠিকানা যোগ এবং পরিচালনা করুন",
+    "savedAddresses": "সংরক্ষিত ঠিকানা",
+    "savedAddressesDesc": "আপনার সংরক্ষিত ডেলিভারি ঠিকানা",
+    "addNew": "ঠিকানা যোগ করুন",
+    "addFirst": "আপনার প্রথম ঠিকানা যোগ করুন",
+    "noAddresses": "আপনি এখনও কোন ঠিকানা যোগ করেননি",
+    "addAddress": "নতুন ঠিকানা যোগ করুন",
+    "editAddress": "ঠিকানা সম্পাদনা করুন",
+    "formDescription": "ডেলিভারি ঠিকানার বিবরণ লিখুন",
+    "default": "ডিফল্ট",
+    "setDefault": "ডিফল্ট হিসেবে সেট করুন",
+    "deleteTitle": "ঠিকানা মুছুন",
+    "deleteDescription": "আপনি কি নিশ্চিত যে আপনি এই ঠিকানাটি মুছতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।"
+  },
+  "payment": {
+    "title": "পেমেন্ট পদ্ধতি",
+    "subtitle": "আপনার সংরক্ষিত পেমেন্ট পদ্ধতি পরিচালনা করুন",
+    "noMethods": "আপনি এখনও কোন পেমেন্ট পদ্ধতি যোগ করেননি",
+    "addFirst": "পেমেন্ট পদ্ধতি যোগ করুন",
+    "addCard": "কার্ড যোগ করুন",
+    "cardNumber": "কার্ড নম্বর",
+    "cardHolder": "কার্ডের মালিক",
+    "expiryDate": "মেয়াদ শেষ হওয়ার তারিখ",
+    "expirationDate": "মেয়াদ শেষ হওয়ার তারিখ",
+    "cvv": "CVV/CVC",
+    "primary": "প্রাথমিক",
+    "setDefault": "প্রাথমিক হিসেবে সেট করুন",
+    "saveCard": "কার্ড সংরক্ষণ করুন",
+    "secureMessage": "আপনার লেনদেন SSL এনক্রিপশন দ্বারা সুরক্ষিত",
+    "deleteTitle": "পেমেন্ট পদ্ধতি মুছুন",
+    "deleteDescription": "আপনি কি নিশ্চিত যে আপনি এই পেমেন্ট পদ্ধতিটি মুছতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।"
+  },
+  "categories": {
+    "electronics": "ইলেক্ট্রনিক্স",
+    "fashion": "ফ্যাশন",
+    "homeGarden": "হোম ও গার্ডেন",
+    "sports": "খেলাধুলা"
+  },
+  "nav": {
+    "home": "হোম",
+    "products": "পণ্য",
+    "categories": "বিভাগ",
+    "deals": "ডিল",
+    "newArrivals": "নতুন আগমন",
+    "bestSellers": "সর্বাধিক বিক্রিত",
+    "aboutUs": "আমাদের সম্পর্কে",
+    "contactUs": "যোগাযোগ",
+    "help": "সাহায্য",
+    "faq": "প্রশ্নোত্তর",
+    "allProducts": "সকল পণ্য",
+    "collections": "কালেকশনসমূহ",
+    "wishlist": "ইচ্ছা তালিকা",
+    "blog": "ব্লগ",
+    "getHelp": "সাহায্য নিন"
+  },
+  "productsPage": {
+    "subtitle": "পোশাক থেকে আনুষাঙ্গিক পর্যন্ত আমাদের সম্পূর্ণ পণ্য সংগ্রহ অন্বেষণ করুন।",
+    "empty": "কোনো পণ্য পাওয়া যায়নি",
+    "filters": {
+      "minPrice": "সর্বনিম্ন মূল্য",
+      "maxPrice": "সর্বোচ্চ মূল্য",
+      "sortOptions": {
+        "mostPopular": "সবচেয়ে জনপ্রিয়",
+        "bestRating": "সেরা রেটিং",
+        "newest": "নতুনতম",
+        "priceLowHigh": "মূল্য কম থেকে বেশি",
+        "priceHighLow": "মূল্য বেশি থেকে কম"
+      }
+    }
+  },
+  "storeCollectionsPage": {
+    "headerSubtitle": "আমাদের নির্বাচিত কালেকশনগুলো ব্রাউজ করুন",
+    "emptyCollectionsTitle": "এখনও কোনো কালেকশন নেই",
+    "emptyCollectionsDescription": "নির্বাচিত পণ্যের কালেকশনের জন্য শিগগিরই আবার দেখুন।",
+    "productCount": "{count, plural, one {#টি পণ্য} other {#টি পণ্য}}"
+  },
+  "storeCategoryDetailPage": {
+    "productsCount": "{count, plural, one {#টি পণ্য} other {#টি পণ্য}}",
+    "empty": "No products found in this category."
+  },
+  "storeCollectionDetailPage": {
+    "productsCount": "{count, plural, one {#টি পণ্য} other {#টি পণ্য}}",
+    "sortByLabel": "সাজান:",
+    "sortPlaceholder": "সাজান",
+    "sortOptions": {
+      "featured": "ফিচারড",
+      "bestSelling": "সর্বাধিক বিক্রিত",
+      "aToZ": "A-Z",
+      "zToA": "Z-A",
+      "priceLowHigh": "মূল্য: কম থেকে বেশি",
+      "priceHighLow": "মূল্য: বেশি থেকে কম",
+      "newest": "নতুনতম"
+    },
+    "emptyProductsTitle": "কোনো পণ্য পাওয়া যায়নি",
+    "emptyProductsDescription": "এই কালেকশনটি খালি। পরে আবার দেখুন!",
+    "pagination": {
+      "previous": "আগের",
+      "next": "পরবর্তী",
+      "pageOf": "পৃষ্ঠা {current} / {total}"
+    }
+  },
+  "auth": {
+    "welcomeBack": "স্বাগতম",
+    "createAccount": "একটি অ্যাকাউন্ট তৈরি করুন",
+    "signIn": "সাইন ইন",
+    "signUp": "সাইন আপ",
+    "signOut": "সাইন আউট",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "fullName": "পুরো নাম",
+    "phoneNumber": "ফোন নম্বর",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "resetPassword": "পাসওয়ার্ড রিসেট করুন",
+    "noAccount": "অ্যাকাউন্ট নেই?",
+    "hasAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে?",
+    "orContinueWith": "অথবা এর সাথে চালিয়ে যান",
+    "termsAgreement": "অ্যাকাউন্ট তৈরি করে, আপনি আমাদের সাথে সম্মত হচ্ছেন",
+    "termsOfService": "সেবার শর্তাবলী",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "and": "এবং",
+    "shopAsCustomer": "গ্রাহক হিসেবে কেনাকাটা করুন",
+    "sellAsVendor": "বিক্রেতা হিসেবে বিক্রি করুন",
+    "iWantTo": "আমি চাই",
+    "forgotPasswordDescription": "Enter your email and we'll send you a reset link",
+    "sendResetLink": "Send reset link",
+    "backToLogin": "Back to login",
+    "createAccountDescription": "Enter your details to get started",
+    "verify": "যাচাই করুন"
+  },
+  "home": {
+    "heroTitle": "{storeName} এ স্বাগতম",
+    "heroSubtitle": "যাচাইকৃত বিক্রেতাদের কাছ থেকে আশ্চর্যজনক পণ্য আবিষ্কার করুন। আত্মবিশ্বাসের সাথে কেনাকাটা করুন।",
+    "shopByCategory": "বিভাগ অনুযায়ী কেনাকাটা করুন",
+    "shopByCategoryDescription": "বিভাগ অনুসারে সাজানো আমাদের বিস্তৃত পণ্য নির্বাচন ব্রাউজ করুন",
+    "viewAllCategories": "সব বিভাগ দেখুন",
+    "whyChooseUs": "কেন {storeName} বেছে নেবেন?",
+    "whyChooseUsDescription": "আমরা আপনার জন্য ডিজাইন করা বৈশিষ্ট্যগুলির সাথে সেরা শপিং অভিজ্ঞতা প্রদান করি",
+    "startSelling": "{storeName} এ বিক্রি শুরু করুন",
+    "startSellingBadge": "বিক্রেতা প্রোগ্রাম",
+    "startSellingDescription": "হাজার হাজার বিক্রেতার সাথে যোগ দিন এবং লক্ষ লক্ষ গ্রাহকদের কাছে পৌঁছান।",
+    "getStartedFree": "বিনামূল্যে শুরু করুন",
+    "becomeASeller": "বিক্রেতা হন",
+    "topVendorsRating": "রেটিং",
+    "topVendorsSold": "বিক্রি",
+    "topVendorsPrice": "মূল্য",
+    "topVendorsGoToShop": "দোকানে যান",
+    "scrollLeft": "বামে স্ক্রল করুন",
+    "scrollRight": "ডানে স্ক্রল করুন"
+  },
+  "features": {
+    "wideSelection": "বিস্তৃত নির্বাচন",
+    "wideSelectionDescription": "যাচাইকৃত বিক্রেতাদের কাছ থেকে হাজার হাজার পণ্য",
+    "secureShoping": "নিরাপদ শপিং",
+    "secureShopingDescription": "এন্টারপ্রাইজ-গ্রেড নিরাপত্তার সাথে আপনার ডেটা সুরক্ষিত",
+    "fastDelivery": "দ্রুত ডেলিভারি",
+    "fastDeliveryDescription": "আপনার দোরগোড়ায় দ্রুত এবং নির্ভরযোগ্য শিপিং",
+    "easyPayments": "সহজ পেমেন্ট",
+    "easyPaymentsDescription": "আপনার সুবিধার জন্য একাধিক পেমেন্ট অপশন",
+    "verifiedVendors": "যাচাইকৃত বিক্রেতা",
+    "verifiedVendorsDescription": "গুণমান নিশ্চয়তার জন্য সব বিক্রেতা যাচাই করা হয়েছে",
+    "support247": "২৪/৭ সাপোর্ট",
+    "support247Description": "সার্বক্ষণিক গ্রাহক সহায়তা"
+  },
+  "product": {
+    "description": "বিবরণ",
+    "specifications": "স্পেসিফিকেশন",
+    "reviews": "রিভিউ",
+    "relatedProducts": "সম্পর্কিত পণ্য",
+    "customerReviews": "গ্রাহক রিভিউ",
+    "writeReview": "রিভিউ লিখুন",
+    "addToWishlist": "ইচ্ছা তালিকায় যোগ করুন",
+    "removeFromWishlist": "ইচ্ছা তালিকা থেকে সরান",
+    "share": "শেয়ার",
+    "compare": "তুলনা",
+    "sku": "SKU",
+    "category": "বিভাগ",
+    "tags": "ট্যাগ",
+    "vendor": "বিক্রেতা",
+    "visitStore": "স্টোর দেখুন",
+    "stockStatus": "স্টক স্ট্যাটাস",
+    "availability": "প্রাপ্যতা",
+    "addToCart": "কার্টে যোগ করুন",
+    "inStock": "স্টকে আছে",
+    "outOfStock": "স্টক নেই"
+  },
+  "cart": {
+    "yourCart": "আপনার কার্ট",
+    "emptyCart": "আপনার কার্ট খালি",
+    "continueShopping": "কেনাকাটা চালিয়ে যান",
+    "updateCart": "কার্ট আপডেট করুন",
+    "clearCart": "কার্ট খালি করুন",
+    "checkout": "চেকআউট",
+    "proceedToCheckout": "চেকআউটে যান",
+    "orderSummary": "অর্ডার সারাংশ",
+    "applyCoupon": "কুপন প্রয়োগ করুন",
+    "removeCoupon": "কুপন সরান",
+    "couponCode": "কুপন কোড",
+    "apply": "প্রয়োগ করুন",
+    "itemRemoved": "আইটেম কার্ট থেকে সরানো হয়েছে",
+    "itemAdded": "আইটেম কার্টে যোগ করা হয়েছে"
+  },
+  "checkout": {
+    "checkout": "চেকআউট",
+    "shippingAddress": "শিপিং ঠিকানা",
+    "billingAddress": "বিলিং ঠিকানা",
+    "sameAsShipping": "শিপিং ঠিকানার মতো",
+    "paymentMethod": "পেমেন্ট পদ্ধতি",
+    "placeOrder": "অর্ডার দিন",
+    "orderPlaced": "অর্ডার সফলভাবে সম্পন্ন হয়েছে!",
+    "orderSuccess": "আপনার অর্ডারের জন্য ধন্যবাদ!",
+    "orderSuccessDescription": "আমরা আপনার অর্ডারটি পেয়েছি এবং শীঘ্রই প্রক্রিয়া করব। অর্ডারের বিবরণসহ একটি নিশ্চিতকরণ ইমেইল পাবেন।",
+    "downloadInvoice": "চালান ডাউনলোড করুন",
+    "orderConfirmation": "আপনার ইমেইল ঠিকানায় একটি নিশ্চিতকরণ ইমেইল পাঠানো হয়েছে",
+    "emptyCartMessage": "আপনার কার্ট খালি। চেকআউটের আগে কিছু পণ্য যোগ করুন।",
+    "orderNumber": "অর্ডার নম্বর",
+    "estimatedDelivery": "আনুমানিক ডেলিভারি",
+    "street": "রাস্তার ঠিকানা",
+    "city": "শহর",
+    "state": "রাজ্য/প্রদেশ",
+    "postalCode": "পোস্টাল কোড",
+    "country": "দেশ",
+    "phone": "ফোন",
+    "title": "Checkout",
+    "contactInfo": "Contact Information",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "items": "Items",
+    "continue": "Continue to Payment",
+    "back": "Back to Information",
+    "processing": "Processing...",
+    "steps": {
+      "information": "Information",
+      "shipping": "Shipping",
+      "payment": "Payment"
+    },
+    "errors": {
+      "loadPaymentConfig": "Failed to load payment configuration",
+      "initPayment": "Failed to initialize payment",
+      "processPayment": "Failed to process payment"
+    },
+    "shippingMethod": "Shipping Method",
+    "selectShipping": "Select a shipping method",
+    "useSavedAddress": "সংরক্ষিত ঠিকানা ব্যবহার করুন",
+    "emailOrPhone": "ইমেইল বা মোবাইল ফোন নম্বর",
+    "saveInfo": "পরবর্তী সময়ের জন্য এই তথ্য সংরক্ষণ করুন",
+    "payment": {
+      "payWithCard": "Pay with Card",
+      "payWithPayPal": "Pay with PayPal",
+      "payWhenReceive": "Pay when you receive",
+      "poweredByStripe": "Powered by Stripe",
+      "cardDetailsParams": "Card details are entered securely on Stripe after you continue.",
+      "paypalRedirect": "You will be redirected to PayPal to complete payment.",
+      "securePaypal": "Secure payment powered by PayPal",
+      "payOnDeliveryDescription": "You will pay when you receive your order"
+    }
+  },
+  "orders": {
+    "title": "আমার অর্ডার",
+    "subtitle": "আপনার অর্ডার ট্র্যাক এবং পরিচালনা করুন",
+    "historyDesc": "আপনার সমস্ত অতীত এবং বর্তমান অর্ডার দেখুন",
+    "myOrders": "আমার অর্ডার",
+    "orderHistory": "অর্ডার ইতিহাস",
+    "orderDetails": "অর্ডার বিবরণ",
+    "orderStatus": "অর্ডার স্ট্যাটাস",
+    "trackOrder": "অর্ডার ট্র্যাক করুন",
+    "viewOrders": "আমার অর্ডার দেখুন",
+    "reorder": "পুনরায় অর্ডার",
+    "cancelOrder": "অর্ডার বাতিল",
+    "downloadInvoice": "চালান",
+    "invoiceDownloadFailed": "চালান ডাউনলোড ব্যর্থ হয়েছে",
+    "returnOrder": "অর্ডার ফেরত",
+    "noOrders": "আপনি এখনও কোন অর্ডার দেননি",
+    "pending": "অপেক্ষমাণ",
+    "processing": "প্রক্রিয়াধীন",
+    "shipped": "শিপ করা হয়েছে",
+    "delivered": "ডেলিভারি হয়েছে",
+    "cancelled": "বাতিল",
+    "refunded": "ফেরত দেওয়া হয়েছে",
+    "backToOrders": "অর্ডারে ফিরুন",
+    "placedOn": "অর্ডার করা হয়েছে",
+    "cancelling": "বাতিল হচ্ছে...",
+    "cancelOrderTitle": "অর্ডার বাতিল করুন",
+    "cancelOrderDescription": "আপনি কি এই অর্ডার বাতিল করতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।",
+    "keepOrder": "অর্ডার রাখুন",
+    "orderCancelled": "অর্ডার সফলভাবে বাতিল হয়েছে",
+    "orderCancelFailed": "অর্ডার বাতিল করতে ব্যর্থ",
+    "orderItems": "অর্ডার আইটেম",
+    "orderUpdated": "অর্ডার স্ট্যাটাস আপডেট হয়েছে",
+    "orderUpdateFailed": "স্ট্যাটাস আপডেট করতে ব্যর্থ",
+    "searchPlaceholder": "অর্ডার নম্বর দিয়ে খুঁজুন...",
+    "noOrdersFound": "কোন অর্ডার পাওয়া যায়নি",
+    "markProcessing": "প্রক্রিয়াধীন করুন",
+    "markShipped": "শিপ করা হয়েছে চিহ্নিত করুন",
+    "markDelivered": "ডেলিভারি হয়েছে চিহ্নিত করুন",
+    "startShopping": "কেনাকাটা শুরু করুন",
+    "browseProducts": "পণ্য ব্রাউজ করুন"
+  },
+  "vendor": {
+    "vendorDashboard": "বিক্রেতা ড্যাশবোর্ড",
+    "dashboardSubtitle": "আপনার স্টোর এবং পণ্য পরিচালনা করুন",
+    "myProducts": "আমার পণ্য",
+    "addProduct": "পণ্য যোগ করুন",
+    "editProduct": "পণ্য সম্পাদনা",
+    "productManagement": "পণ্য ব্যবস্থাপনা",
+    "orderManagement": "অর্ডার ব্যবস্থাপনা",
+    "analytics": "বিশ্লেষণ",
+    "earnings": "উপার্জন",
+    "totalRevenue": "মোট আয়",
+    "netEarnings": "নিট আয়",
+    "totalOrders": "মোট অর্ডার",
+    "activeProducts": "সক্রিয় পণ্য",
+    "totalProducts": "মোট পণ্য",
+    "commission": "প্রদত্ত কমিশন",
+    "pendingOrders": "অপেক্ষমাণ অর্ডার",
+    "salesChart": "বিক্রয় (গত ৩০ দিন)",
+    "recentOrders": "সাম্প্রতিক অর্ডার",
+    "topProducts": "সর্বাধিক বিক্রিত পণ্য",
+    "productStatus": "পণ্যের স্ট্যাটাস",
+    "storeName": "স্টোরের নাম",
+    "storeDescription": "স্টোরের বিবরণ",
+    "storeSettings": "স্টোর সেটিংস",
+    "becomeVendor": "বিক্রেতা হন",
+    "becomeVendorDesc": "আমাদের মার্কেটপ্লেসে আপনার পণ্য বিক্রি শুরু করুন। এখনই আবেদন করুন এবং হাজার হাজার গ্রাহকদের কাছে পৌঁছান।",
+    "applicationForm": "বিক্রেতা আবেদন",
+    "applicationDesc": "বিক্রেতা হিসেবে আবেদন করতে নীচের ফর্মটি পূরণ করুন। আমরা ২-৩ কার্যদিবসের মধ্যে আপনার আবেদন পর্যালোচনা করব।",
+    "vendorPanel": "বিক্রেতা প্যানেল",
+    "dashboard": "ড্যাশবোর্ড",
+    "products": "পণ্য",
+    "collections": "কালেকশন",
+    "orders": "অর্ডার",
+    "settings": "স্টোর সেটিংস",
+    "goToDashboard": "বিক্রেতা ড্যাশবোর্ডে যান",
+    "overview": "সারসংক্ষেপ",
+    "management": "পরিচালনা",
+    "settingsDesc": "আপনার স্টোর প্রোফাইল এবং পছন্দসমূহ পরিচালনা করুন",
+    "storeProfile": "স্টোর প্রোফাইল",
+    "storeProfileDesc": "আপনার স্টোরের তথ্য ও ব্র্যান্ডিং পরিচালনা করুন",
+    "payment": "পেমেন্ট",
+    "paymentSettings": "পেমেন্ট সেটিংস",
+    "paymentSettingsDesc": "আপনার পেমেন্ট পদ্ধতি ও পেআউট পরিচালনা করুন",
+    "notificationSettings": "বিজ্ঞপ্তি সেটিংস",
+    "notificationSettingsDesc": "আপনার ইমেইল ও পুশ নোটিফিকেশন পরিচালনা করুন",
+    "accountSettings": "অ্যাকাউন্ট সেটিংস",
+    "accountSettingsDesc": "আপনার ব্যক্তিগত অ্যাকাউন্টের তথ্য পরিচালনা করুন",
+    "viewStore": "View Store",
+    "viewOrders": "অর্ডার",
+    "productSummary": "পণ্যের অবস্থা",
+    "active": "সক্রিয়",
+    "byStatus": "স্ট্যাটাস অনুযায়ী",
+    "unableToLoadData": "Unable to load analytics data. Make sure you are a registered vendor.",
+    "pending": "অপেক্ষমাণ",
+    "registration": {
+      "title": "Start Selling on Minimart",
+      "subtitle": "Join thousands of successful sellers and reach millions of customers",
+      "welcomeTitle": "Welcome To Store",
+      "welcomeSubtitle": "Setup Your Store Information",
+      "confirmPassword": "Confirm Password",
+      "selectCountry": "Select Country",
+      "selectState": "Select State",
+      "addressPlaceholder": "Address",
+      "pincodePlaceholder": "Pincode",
+      "phonePlaceholder": "Phone Number",
+      "startSelling": "Start Selling Today",
+      "joinUs": "Join thousands of successful sellers",
+      "submitButton": "Submit",
+      "stepAccountTitle": "Create Your Account",
+      "stepAccountDesc": "Sign up to get started as a seller",
+      "passwordHelper": "Minimum 8 characters required",
+      "step1Title": "Business Information",
+      "step1Desc": "Tell us about your store",
+      "step2Title": "Business Address",
+      "step2Desc": "Where is your business located?",
+      "step3Title": "Social & Contact",
+      "step3Desc": "Help customers find you",
+      "step4Title": "Bank Details",
+      "step4Desc": "Set up payments (optional)",
+      "step5Title": "Review & Submit",
+      "step5Desc": "Confirm your details",
+      "storeNameLabel": "Store Name",
+      "storeNamePlaceholder": "e.g., My Awesome Store",
+      "storeNameHelper": "This will be your public store name on the marketplace",
+      "storeDescLabel": "Store Description",
+      "storeDescPlaceholder": "Tell customers what makes your store special...",
+      "storeDescHelper": "Describe your products and what customers can expect",
+      "storeLogoLabel": "Store Logo URL",
+      "storeLogoPlaceholder": "https://example.com/logo.png",
+      "storeLogoHelper": "Optional: URL to your store logo",
+      "storeBannerLabel": "Store Banner URL",
+      "storeBannerPlaceholder": "https://example.com/banner.png",
+      "storeBannerHelper": "Optional: URL to your store banner (1200x300px recommended)",
+      "streetLabel": "রাস্তার ঠিকানা",
+      "streetPlaceholder": "123 Main Street",
+      "cityLabel": "শহর",
+      "cityPlaceholder": "New York",
+      "stateLabel": "রাজ্য/প্রদেশ",
+      "statePlaceholder": "NY",
+      "postalCodeLabel": "পোস্টাল/জিপ কোড",
+      "postalCodePlaceholder": "10001",
+      "countryLabel": "দেশ",
+      "countryPlaceholder": "United States",
+      "businessPhoneLabel": "Business Phone",
+      "businessPhonePlaceholder": "+1 (555) 123-4567",
+      "websiteLabel": "Website",
+      "websitePlaceholder": "https://yourwebsite.com",
+      "websiteHelper": "Your existing website or online presence",
+      "facebookLabel": "Facebook",
+      "facebookPlaceholder": "https://facebook.com/yourstore",
+      "instagramLabel": "Instagram",
+      "instagramPlaceholder": "https://instagram.com/yourstore",
+      "twitterLabel": "Twitter/X",
+      "twitterPlaceholder": "https://twitter.com/yourstore",
+      "socialLinksHelper": "Add your social profiles to build trust with customers",
+      "accountNameLabel": "Account Holder Name",
+      "accountNamePlaceholder": "John Doe",
+      "accountNumberLabel": "Account Number",
+      "accountNumberPlaceholder": "1234567890",
+      "bankNameLabel": "Bank Name",
+      "bankNamePlaceholder": "Bank of America",
+      "routingNumberLabel": "Routing Number",
+      "routingNumberPlaceholder": "123456789",
+      "swiftCodeLabel": "SWIFT/BIC Code",
+      "swiftCodePlaceholder": "BOFAUS3N",
+      "bankDetailsHelper": "You can add or update bank details later from your seller dashboard",
+      "skipBankDetails": "Skip for now",
+      "reviewDetails": "Review Your Application",
+      "reviewHelper": "Please review your information before submitting",
+      "submitApplication": "Submit Application",
+      "submitting": "Submitting...",
+      "applicationSubmitted": "Application Submitted!",
+      "applicationSubmittedDesc": "We'll review your application within 2-3 business days. You'll receive an email notification once approved.",
+      "nextStep": "Continue",
+      "previousStep": "Back",
+      "saveDraft": "Save Draft",
+      "draftSaved": "Draft saved",
+      "requiredField": "This field is required",
+      "minChars": "Minimum {count} characters required",
+      "invalidUrl": "Please enter a valid URL",
+      "whyJoin": "Why sell with us?",
+      "benefit1Title": "Reach Millions",
+      "benefit1Desc": "Access our growing customer base and expand your market",
+      "benefit2Title": "Low Commission",
+      "benefit2Desc": "Competitive 10% commission rate on sales",
+      "benefit3Title": "Easy Setup",
+      "benefit3Desc": "Get started in minutes with our simple onboarding",
+      "benefit4Title": "Powerful Tools",
+      "benefit4Desc": "Dashboard, analytics, and marketing tools included",
+      "benefit5Title": "Fast Payouts",
+      "benefit5Desc": "Weekly payouts directly to your bank account",
+      "benefit6Title": "24/7 Support",
+      "benefit6Desc": "Dedicated seller support team always ready to help",
+      "trustedSellers": "1,000+ trusted sellers",
+      "averageRating": "4.8 average seller rating",
+      "totalProductsListed": "50,000+ products listed",
+      "loginRequired": "Login Required",
+      "loginRequiredDesc": "Please log in or create an account to apply as a vendor.",
+      "alreadyApplied": "You've already submitted an application",
+      "applicationPending": "Application Under Review",
+      "applicationPendingDesc": "Your vendor application is being reviewed. We'll notify you once it's approved.",
+      "applicationApproved": "Application Approved!",
+      "applicationApprovedDesc": "Congratulations! Your vendor account is active. Start adding products now.",
+      "applicationRejected": "Application Rejected",
+      "applicationRejectedDesc": "Unfortunately, your application was not approved. Please contact support for more information.",
+      "applicationSuspended": "Account Suspended",
+      "applicationSuspendedDesc": "Your vendor account has been suspended. Please contact support.",
+      "businessInfo": "Business Information",
+      "addressInfo": "Address Information",
+      "socialInfo": "Social & Contact",
+      "bankInfo": "Bank Details",
+      "optional": "Optional",
+      "checkYourStats": "Check your store performance",
+      "statsDescription": "View sales, orders, and analytics from your dashboard."
+    },
+    "productsPage": {
+      "subtitle": "আপনার পণ্য পরিচালনা করুন",
+      "description": "আপনার স্টোরের পণ্য দেখুন ও পরিচালনা করুন"
+    },
+    "collectionsPage": {
+      "stats": {
+        "totalCollections": {
+          "title": "কালেকশন",
+          "description": "আপনার পণ্যে ব্যবহৃত কালেকশন"
+        },
+        "activeCollections": {
+          "title": "সক্রিয়",
+          "description": "প্রকাশিত কালেকশন"
+        },
+        "manualCollections": {
+          "title": "ম্যানুয়াল",
+          "description": "কিউরেটেড কালেকশন গ্রুপ"
+        },
+        "onlineStore": {
+          "title": "অনলাইন স্টোর",
+          "description": "অনলাইনে দৃশ্যমান কালেকশন"
+        },
+        "assignedProducts": {
+          "title": "অ্যাসাইন করা পণ্য",
+          "description": "কালেকশনে থাকা আপনার পণ্য"
+        }
+      }
+    },
+    "productsTable": {
+      "deleteConfirm": "আপনি কি নিশ্চিতভাবে \"{name}\" মুছে ফেলতে চান? এই কাজটি আর ফিরিয়ে নেওয়া যাবে না।",
+      "productDeleted": "পণ্য সফলভাবে মুছে ফেলা হয়েছে",
+      "deleteFailed": "পণ্য মুছতে ব্যর্থ হয়েছে",
+      "status": "স্ট্যাটাস",
+      "allStatus": "সব স্ট্যাটাস",
+      "image": "ছবি",
+      "name": "নাম",
+      "price": "দাম",
+      "stock": "স্টক",
+      "actions": "অ্যাকশন",
+      "notAvailable": "প্রযোজ্য নয়",
+      "uncategorized": "বিভাগহীন",
+      "view": "দেখুন"
+    },
+    "collectionsTable": {
+      "loadFailed": "কালেকশন লোড করা যায়নি",
+      "empty": "এখনও আপনার পণ্যে কোনো কালেকশন অ্যাসাইন করা নেই।"
+    },
+    "status": {
+      "published": "প্রকাশিত",
+      "draft": "খসড়া",
+      "archived": "আর্কাইভ করা",
+      "pending": "অপেক্ষমাণ",
+      "processing": "প্রক্রিয়াধীন",
+      "shipped": "পাঠানো হয়েছে",
+      "delivered": "ডেলিভার্ড",
+      "cancelled": "বাতিল"
+    },
+    "ordersTable": {
+      "title": "অর্ডার",
+      "loadFailed": "অর্ডার লোড করা যায়নি",
+      "updateFailed": "অর্ডার আপডেট করা যায়নি",
+      "updated": "অর্ডার আপডেট হয়েছে",
+      "guest": "অতিথি",
+      "itemCount": "{count} টি আইটেম",
+      "searchPlaceholder": "অর্ডার নম্বর দিয়ে খুঁজুন",
+      "empty": "কোনো অর্ডার পাওয়া যায়নি",
+      "createOrder": "অর্ডার তৈরি করুন",
+      "cancelOrderTitle": "অর্ডার বাতিল করুন",
+      "cancelOrderDescription": "আপনি কি নিশ্চিতভাবে এই অর্ডার বাতিল করতে চান?",
+      "cancelOrderConfirm": "অর্ডার বাতিল করুন",
+      "cancelOrderKeep": "অর্ডার রাখুন",
+      "cancelOrdersTitle": "অর্ডারসমূহ বাতিল করুন",
+      "cancelOrdersDescription": "নির্বাচিত {count} টি অর্ডার বাতিল করবেন?",
+      "cancelOrdersConfirm": "অর্ডারসমূহ বাতিল করুন",
+      "cancelOrdersKeep": "অর্ডারসমূহ রাখুন",
+      "bulkUpdatedAll": "{count} টি অর্ডার আপডেট হয়েছে",
+      "bulkUpdatedSome": "{total}টির মধ্যে {success} টি অর্ডার আপডেট হয়েছে",
+      "bulkUpdatedNone": "নির্বাচিত কোনো অর্ডার আপডেট করা যায়নি",
+      "bulkUpdateFailed": "নির্বাচিত অর্ডারগুলো আপডেট করা যায়নি",
+      "columns": {
+        "order": "অর্ডার",
+        "customer": "গ্রাহক",
+        "date": "তারিখ",
+        "payment": "পেমেন্ট",
+        "fulfillment": "ফুলফিলমেন্ট",
+        "items": "আইটেম",
+        "netSales": "নিট বিক্রয়",
+        "actions": "অ্যাকশন"
+      },
+      "tabs": {
+        "all": "সব",
+        "unfulfilled": "অসম্পূর্ণ",
+        "unpaid": "অপরিশোধিত",
+        "open": "খোলা",
+        "archived": "আর্কাইভ"
+      },
+      "filters": {
+        "fulfillment": "ফুলফিলমেন্ট"
+      },
+      "actions": {
+        "markProcessing": "প্রক্রিয়াধীন করুন",
+        "markShipped": "পাঠানো হিসেবে চিহ্নিত করুন",
+        "markDelivered": "ডেলিভার্ড হিসেবে চিহ্নিত করুন",
+        "cancel": "বাতিল",
+        "viewDetails": "বিস্তারিত দেখুন",
+        "startProcessing": "প্রক্রিয়া শুরু করুন",
+        "cancelOrder": "অর্ডার বাতিল করুন"
+      },
+      "shipDialog": {
+        "title": "পাঠানো হিসেবে চিহ্নিত করুন",
+        "description": "এই অর্ডার পাঠানোর আগে ঐচ্ছিক ট্র্যাকিং নম্বর যোগ করুন।",
+        "trackingLabel": "ট্র্যাকিং নম্বর",
+        "trackingPlaceholder": "ট্র্যাকিং নম্বর লিখুন",
+        "confirm": "শিপমেন্ট নিশ্চিত করুন"
+      }
+    },
+    "paymentStatus": {
+      "pending": "অপেক্ষমাণ",
+      "paid": "পরিশোধিত",
+      "partially_paid": "আংশিক পরিশোধিত",
+      "refunded": "রিফান্ড হয়েছে",
+      "partially_refunded": "আংশিক রিফান্ড হয়েছে"
+    },
+    "fulfillmentStatus": {
+      "pending": "অসম্পূর্ণ",
+      "processing": "প্রক্রিয়াধীন",
+      "shipped": "পথে আছে",
+      "delivered": "ডেলিভার্ড",
+      "cancelled": "বাতিল"
+    },
+    "settingsForm": {
+      "logoUrl": "লোগো URL",
+      "bannerUrl": "ব্যানার URL",
+      "website": "ওয়েবসাইট",
+      "facebook": "ফেসবুক",
+      "instagram": "ইনস্টাগ্রাম",
+      "twitter": "X / টুইটার",
+      "accountName": "অ্যাকাউন্টের নাম",
+      "accountNumber": "অ্যাকাউন্ট নম্বর",
+      "bankName": "ব্যাংকের নাম",
+      "routingNumber": "রাউটিং নম্বর",
+      "swiftCode": "SWIFT কোড",
+      "payoutSchedule": "পেআউট সময়সূচি",
+      "payoutWeekly": "সাপ্তাহিক",
+      "payoutBiweekly": "দুই সপ্তাহ অন্তর",
+      "payoutMonthly": "মাসিক",
+      "minimumPayoutAmount": "ন্যূনতম পেআউট পরিমাণ",
+      "newOrders": "নতুন অর্ডার",
+      "newOrdersDesc": "গ্রাহক নতুন অর্ডার করলে সতর্কবার্তা পান।",
+      "orderStatusUpdates": "অর্ডারের স্ট্যাটাস আপডেট",
+      "orderStatusUpdatesDesc": "সক্রিয় অর্ডারের রিমাইন্ডার ও স্ট্যাটাস আপডেট পান।",
+      "lowStockAlerts": "কম স্টক সতর্কতা",
+      "lowStockAlertsDesc": "পণ্যের স্টক কমে গেলে আমাকে জানান।",
+      "productTipsAndUpdates": "পণ্য টিপস ও আপডেট",
+      "productTipsAndUpdatesDesc": "পণ্য সংক্রান্ত ঘোষণা ও বিক্রেতা উন্নয়ন টিপস পান।",
+      "changePasswordDesc": "আপনার ভেন্ডর অ্যাকাউন্ট সুরক্ষিত রাখতে পাসওয়ার্ড আপডেট করুন।",
+      "passwordMinLength": "নতুন পাসওয়ার্ড কমপক্ষে ৮ অক্ষরের হতে হবে",
+      "passwordsDoNotMatch": "পাসওয়ার্ড মেলেনি"
+    },
+    "untitledProduct": "শিরোনামহীন পণ্য",
+    "dashboardWidgets": {
+      "noProductsYet": "এখনও কোনো পণ্য নেই",
+      "noImage": "ছবি নেই",
+      "soldCount": "{count} বিক্রি"
+    },
+    "charts": {
+      "noDataAvailable": "কোনো ডেটা নেই",
+      "unknown": "অজানা",
+      "ordersCount": "{count} অর্ডার",
+      "noRecentOrders": "সাম্প্রতিক কোনো অর্ডার নেই"
+    },
+    "payoutsPage": {
+      "title": "Payouts",
+      "subtitle": "Track your settlement statements and payout statuses.",
+      "listSection": {
+        "title": "Payout Statements",
+        "searchPlaceholder": "Search payout number",
+        "columns": {
+          "details": "Details"
+        },
+        "empty": "No payouts found."
+      }
+    },
+    "payouts": "পেআউট",
+    "storefront": {
+      "title": "{storeName}",
+      "subtitle": "এই বিক্রেতার স্টোরফ্রন্টের পণ্য দেখুন।",
+      "noProducts": "এই বিক্রেতার জন্য কোনো পণ্য পাওয়া যায়নি।",
+      "notFound": "বিক্রেতার স্টোরফ্রন্ট পাওয়া যায়নি।"
+    }
+  },
+  "adminProfile": {
+    "title": "প্রোফাইল",
+    "subtitle": "আপনার অ্যাকাউন্ট সেটিংস এবং পছন্দগুলি পরিচালনা করুন",
+    "personalInfo": "ব্যক্তিগত তথ্য",
+    "personalInfoDesc": "আপনার নাম এবং যোগাযোগের বিবরণ আপডেট করুন",
+    "passwordDesc": "আপনার অ্যাকাউন্ট সুরক্ষিত রাখতে পাসওয়ার্ড আপডেট করুন",
+    "updatePassword": "পাসওয়ার্ড আপডেট করুন",
+    "accountInfo": "অ্যাকাউন্ট",
+    "administrator": "প্রশাসক",
+    "twoFactor": "দ্বি-ফ্যাক্টর প্রমাণীকরণ",
+    "twoFactorActive": "2FA সক্রিয়",
+    "enabled": "সক্রিয়",
+    "disabled": "নিষ্ক্রিয়",
+    "avatarUpdated": "অবতার আপডেট হয়েছে",
+    "avatarError": "অবতার আপলোড করতে ব্যর্থ"
+  },
+  "admin": {
+    "adminDashboard": "অ্যাডমিন ড্যাশবোর্ড",
+    "browseWebsite": "ওয়েবসাইট দেখুন",
+    "ordersPage": {
+      "plusMore": "+আরও {count}",
+      "item": "আইটেম",
+      "export": "এক্সপোর্ট",
+      "table": {
+        "purchased": "কেনা পণ্য",
+        "date": "তারিখ",
+        "customer": "গ্রাহক",
+        "channel": "চ্যানেল",
+        "payment": "পেমেন্ট",
+        "fulfillment": "ফুলফিলমেন্ট",
+        "delivery": "ডেলিভারি"
+      },
+      "channel": {
+        "pos": "পয়েন্ট অফ সেল",
+        "online": "অনলাইন স্টোর"
+      },
+      "paymentStatus": {
+        "paid": "পরিশোধিত",
+        "partiallyPaid": "আংশিক পরিশোধিত",
+        "partiallyRefunded": "আংশিক ফেরত"
+      },
+      "fulfillment": {
+        "unfulfilled": "ফুলফিল হয়নি",
+        "inTransit": "পথে আছে",
+        "fulfilled": "ফুলফিল হয়েছে"
+      },
+      "delivery": {
+        "notShipped": "এখনও শিপ হয়নি",
+        "inTransit": "পথে আছে"
+      },
+      "tabs": {
+        "all": "সব",
+        "unfulfilled": "ফুলফিল হয়নি",
+        "unpaid": "অপরিশোধিত",
+        "open": "খোলা",
+        "archived": "আর্কাইভ"
+      },
+      "filters": {
+        "orderStatus": "অর্ডারের অবস্থা"
+      },
+      "bulk": {
+        "cancelTitle": "অর্ডার বাতিল করুন",
+        "cancelDescription": "{count}টি অর্ডার বাতিল করবেন?",
+        "cancelConfirm": "অর্ডার বাতিল",
+        "cancelKeep": "অর্ডার রেখে দিন",
+        "updatedSuccess": "{count}টি অর্ডার আপডেট হয়েছে",
+        "updatedError": "কিছু অর্ডার আপডেট করা যায়নি"
+      },
+      "pagination": {
+        "showing": "দেখানো হচ্ছে",
+        "to": "থেকে",
+        "of": "মোট",
+        "results": "ফলাফল",
+        "rowsPerPage": "প্রতি পাতায় সারি"
+      },
+      "stats": {
+        "totalOrders": {
+          "title": "মোট অর্ডার",
+          "description": "সব অর্ডার রেকর্ড"
+        },
+        "openOrders": {
+          "title": "চলমান অর্ডার",
+          "description": "পেন্ডিং, প্রসেসিং বা শিপড"
+        },
+        "paidOrders": {
+          "title": "পরিশোধিত অর্ডার",
+          "description": "পেমেন্ট সম্পন্ন"
+        },
+        "totalRevenue": {
+          "title": "মোট রাজস্ব",
+          "description": "পরিশোধিত অর্ডারের মোট মূল্য"
+        },
+        "averageOrderValue": {
+          "title": "গড় অর্ডার মূল্য",
+          "description": "প্রতি পরিশোধিত অর্ডারের রাজস্ব"
+        }
+      }
+    },
+    "orderDetails": {
+      "orderNumber": "অর্ডার #{number}",
+      "placedOn": "অর্ডার করা হয়েছে",
+      "tracking": "ট্র্যাকিং",
+      "print": "প্রিন্ট",
+      "back": "ফিরে যান",
+      "moreActions": "আরও পদক্ষেপ",
+      "refundFull": "সম্পূর্ণ রিফান্ড",
+      "refundPartial": "আংশিক রিফান্ড",
+      "markShipped": "শিপিং হিসাবে চিহ্নিত করুন",
+      "markShippedDescription": "গ্রাহক এবং সাপোর্ট টিম ডেলিভারি ট্র্যাক করতে পারে এমন ক্যারিয়ার বিবরণ যোগ করুন।",
+      "carrier": "ক্যারিয়ার",
+      "carrierPlaceholder": "DHL, FedEx, UPS",
+      "trackingNumber": "ট্র্যাকিং নম্বর",
+      "trackingNumberPlaceholder": "ট্র্যাকিং নম্বর",
+      "cancel": "বাতিল করুন",
+      "cancelOrderTitle": "অর্ডার বাতিল করুন",
+      "cancelOrderDescription": "অর্ডারটি এখনও যোগ্য থাকাকালীন ইনভেন্টরি পুনরুদ্ধার করে বাতিলকরণ।",
+      "reason": "কারণ",
+      "cancelReasonPlaceholder": "অর্ডার ইতিহাসের জন্য ঐচ্ছিক নোট",
+      "keepOrder": "অর্ডার রাখুন",
+      "cancelOrder": "অর্ডার বাতিল করুন",
+      "refundNotAvailable": "রিফান্ড শুধুমাত্র পেমেন্ট করা অর্ডারের জন্য উপলব্ধ",
+      "enterRefundAmount": "আংশিক রিফান্ড পরিমাণ লিখুন",
+      "invalidRefundAmount": "সঠিক রিফান্ড পরিমাণ লিখুন",
+      "refundReasonOptional": "রিফান্ড কারণ (ঐচ্ছিক)",
+      "refundRecorded": "রিফান্ড রেকর্ড করা হয়েছে",
+      "refundFailed": "রিফান্ড ব্যর্থ হয়েছে",
+      "orderItems": "অর্ডার আইটেম",
+      "splitShipment": "বিভক্ত শিপমেন্ট",
+      "splitShipmentDescription": "এই অর্ডারে একাধিক ভেন্ডরের আইটেম রয়েছে এবং আলাদা শিপমেন্টে ডেলিভারি করা হবে।",
+      "item": "আইটেম",
+      "price": "মূল্য",
+      "quantity": "পরিমাণ",
+      "total": "মোট",
+      "sku": "SKU",
+      "subtotal": "সাবটোটাল",
+      "shipping": "শিপিং",
+      "tax": "কর",
+      "discount": "ডিসকাউন্ট",
+      "totalLabel": "মোট",
+      "timeline": "টাইমলাইন",
+      "showComments": "মন্তব্য দেখান",
+      "addMessagePlaceholder": "একটি বার্তা যোগ করতে চাইলে...",
+      "post": "পোস্ট করুন",
+      "noEventsYet": "এখনও কোনো ইভেন্ট নেই",
+      "by": "দ্বারা",
+      "system": "সিস্টেম",
+      "customer": "গ্রাহক",
+      "guestCheckout": "গেস্ট চেকআউট",
+      "customerSince": "গ্রাহক হয়েছেন",
+      "contactInfo": "যোগাযোগ তথ্য",
+      "shippingAddress": "শিপিং ঠিকানা",
+      "billingAddress": "বিলিং ঠিকানা",
+      "payment": "পেমেন্ট",
+      "orderStatus": {
+        "pending": "বিচারাধীন",
+        "processing": "প্রক্রিয়াধীন",
+        "shipped": "শিপিং হয়েছে",
+        "delivered": "ডেলিভারি হয়েছে",
+        "cancelled": "বাতিল"
+      },
+      "paymentStatus": {
+        "pending": "বিচারাধীন",
+        "paid": "পেমেন্ট হয়েছে",
+        "partially_paid": "আংশিক পেমেন্ট",
+        "refunded": "রিফান্ড হয়েছে",
+        "partially_refunded": "আংশিক রিফান্ড"
+      }
+    },
+    "analyticsPage": {
+      "subtitle": "স্টোর পারফরম্যান্স ও ওয়েবসাইট ট্রাফিক",
+      "onlineNow": "এখন অনলাইনে",
+      "visitors": "ভিজিটর",
+      "totalVisitors": "মোট ভিজিটর",
+      "pageviews": "পেজভিউ",
+      "topSources": "শীর্ষ উৎস",
+      "topPages": "শীর্ষ পেজ",
+      "countries": "দেশ",
+      "devices": "ডিভাইস",
+      "unknown": "অজানা",
+      "none": "(কোনোটি নয়)",
+      "directNone": "ডিরেক্ট / নেই",
+      "poweredBy": "ডেটা সরবরাহ করেছে Plausible Analytics",
+      "openDashboard": "Plausible ড্যাশবোর্ড খুলুন",
+      "periods": {
+        "day": "আজ",
+        "7d": "৭ দিন",
+        "30d": "৩০ দিন",
+        "month": "মাস",
+        "6mo": "৬ মাস",
+        "12mo": "১২ মাস"
+      },
+      "cards": {
+        "onlineNow": "এখন অনলাইনে",
+        "uniqueVisitors": "ইউনিক ভিজিটর",
+        "totalPageviews": "মোট পেজভিউ",
+        "totalVisits": "মোট ভিজিট",
+        "bounceRate": "বাউন্স রেট",
+        "avgDuration": "গড় সময়"
+      },
+      "chart": {
+        "title": "ভিজিটর ও পেজভিউ",
+        "description": "নির্বাচিত সময়ে ট্রাফিক"
+      },
+      "tabs": {
+        "browser": "ব্রাউজার",
+        "os": "OS",
+        "size": "সাইজ"
+      },
+      "columns": {
+        "source": "উৎস",
+        "visitors": "ভিজিটর",
+        "page": "পেজ",
+        "country": "দেশ",
+        "device": "ডিভাইস"
+      },
+      "empty": {
+        "timeseries": "কোনো টাইমসিরিজ ডেটা নেই",
+        "sources": "এখনও কোনো সোর্স ডেটা নেই",
+        "pages": "এখনও কোনো পেজ ডেটা নেই",
+        "countries": "এখনও কোনো দেশের ডেটা নেই",
+        "devices": "এখনও কোনো ডিভাইস ডেটা নেই"
+      },
+      "errors": {
+        "loadFailed": "অ্যানালিটিক্স ডেটা লোড করতে ব্যর্থ"
+      },
+      "notConfigured": {
+        "title": "Plausible Analytics কনফিগার করা নেই",
+        "description": "রিয়েল-টাইম ভিজিটর ডেটা, ট্রাফিক সোর্স, পেজ অ্যানালিটিক্স এবং আরও দেখতে আপনার Plausible Analytics অ্যাকাউন্ট যুক্ত করুন।",
+        "cta": "Plausible Analytics কনফিগার করুন"
+      },
+      "units": {
+        "minute": "মি",
+        "second": "সে"
+      },
+      "time": {
+        "am": "AM",
+        "pm": "PM"
+      }
+    },
+    "dashboardPage": {
+      "greeting": "সুপ্রভাত, জেমস।",
+      "goodMorning": "সুপ্রভাত, {name}।",
+      "goodAfternoon": "শুভ অপরাহ্ন, {name}।",
+      "goodEvening": "শুভ সন্ধ্যা, {name}।",
+      "subtitle": "আজ আপনার স্টোরে কী ঘটছে, তা দেখুন।",
+      "orders": "অর্ডার",
+      "cases": "কেস",
+      "ordersTitle": "অর্ডার",
+      "dateRange": "২৫ জুলাই - ২৫ আগস্ট",
+      "addActivity": "কার্যক্রম যোগ করুন",
+      "sales": "বিক্রয়",
+      "ordersDescription": "মোট অর্ডারের বিস্তারিত বিশ্লেষণভিত্তিক সারসংক্ষেপ।",
+      "showHighlights": "সব হাইলাইট দেখুন",
+      "showSalesData": "সব বিক্রয় ডেটা দেখুন",
+      "viewAllOrders": "সব অর্ডার দেখুন",
+      "recentOrders": "সাম্প্রতিক অর্ডার",
+      "noRecentOrders": "সাম্প্রতিক কোনো অর্ডার পাওয়া যায়নি।",
+      "totalVisitors": "মোট ভিজিটর",
+      "thisMonth": "এই মাস",
+      "lastMonth": "গত মাস",
+      "customer": "গ্রাহক",
+      "pc": "পিস",
+      "pcs": "পিস",
+      "paymentMethod": "পেমেন্ট পদ্ধতি",
+      "totalPrice": "মোট মূল্য",
+      "orderLabel": "অর্ডার {orderNumber}",
+      "stats": {
+        "inStoreSales": "ইন-স্টোর বিক্রয়",
+        "websiteSales": "ওয়েবসাইট বিক্রয়",
+        "discount": "ছাড়",
+        "affiliate": "অ্যাফিলিয়েট",
+        "marketplace": "মার্কেটপ্লেস",
+        "refunds": "রিফান্ড",
+        "inStore": "ইন-স্টোর",
+        "online": "অনলাইন"
+      },
+      "status": {
+        "pending": "অপেক্ষমাণ",
+        "processing": "প্রক্রিয়াধীন",
+        "shipped": "শিপড",
+        "delivered": "ডেলিভার্ড",
+        "cancelled": "বাতিল"
+      },
+      "payment": {
+        "creditCard": "ক্রেডিট কার্ড",
+        "paypal": "PayPal",
+        "cashOnDelivery": "ক্যাশ অন ডেলিভারি",
+        "upi": "UPI",
+        "card": "কার্ড"
+      },
+      "latestProducts": "সর্বশেষ পণ্যসমূহ",
+      "noLatestProducts": "সর্বশেষ পণ্য পাওয়া যায়নি।"
+    },
+    "sidebar": {
+      "home": "হোম",
+      "overview": "সারসংক্ষেপ",
+      "orders": "অর্ডার",
+      "products": "পণ্য",
+      "allProducts": "সমস্ত পণ্য",
+      "collections": "সংগ্রহ",
+      "categories": "বিভাগসমূহ",
+      "inventory": "ইনভেন্টরি",
+      "purchaseOrders": "ক্রয় আদেশ",
+      "transfers": "স্থানান্তর",
+      "giftCards": "গিফট কার্ড",
+      "customers": "গ্রাহক",
+      "vendors": "বিক্রেতা",
+      "marketing": "মার্কেটিং",
+      "discounts": "ছাড়",
+      "content": "বিষয়বস্তু",
+      "markets": "মার্কেট",
+      "analytics": "অ্যানালিটিক্স",
+      "aiSalesAgent": "সেলস এজেন্ট",
+      "salesChannels": "বিক্রয় চ্যানেল",
+      "onlineStore": "অনলাইন স্টোর",
+      "homePage": "হোম পেজ",
+      "theme": "থিম",
+      "themes": "থিমসমূহ",
+      "pages": "পেজসমূহ",
+      "pos": "পয়েন্ট অফ সেল",
+      "staff": "কর্মচারী",
+      "posStaff": "স্টাফ",
+      "posLocations": "লোকেশন",
+      "apps": "অ্যাপস",
+      "addApp": "যোগ করুন",
+      "addPage": "পৃষ্ঠা যোগ করুন",
+      "dashboard": "ড্যাশবোর্ড",
+      "navigation": "নেভিগেশন",
+      "payments": "পেমেন্ট",
+      "payouts": "পেআউট",
+      "transactions": "লেনদেন",
+      "reviews": "রিভিউ",
+      "blogPosts": "ব্লগ পোস্ট",
+      "blogCategories": "ব্লগ ক্যাটাগরি",
+      "blogComments": "মন্তব্য",
+      "allPosts": "সব পোস্ট",
+      "menus": "মেনু",
+      "aiStudio": "AI স্টুডিও"
+    },
+    "dashboardSubtitle": "স্বাগতম! এখানে কি হচ্ছে দেখুন।",
+    "totalRevenue": "মোট আয়",
+    "totalRevenue2025": "মোট আয় ২০২৫",
+    "totalSales": "মোট বিক্রয়",
+    "totalOrders": "মোট অর্ডার",
+    "totalProducts": "মোট পণ্য",
+    "totalUsers": "মোট ব্যবহারকারী",
+    "totalVisitors": "মোট দর্শক",
+    "liveVisitors": "লাইভ দর্শক",
+    "live": "লাইভ",
+    "activeVendors": "সক্রিয় বিক্রেতা",
+    "pendingOrders": "অপেক্ষমাণ অর্ডার",
+    "avgOrderValue": "গড় অর্ডার মূল্য",
+    "salesChart": "বিক্রয় (শেষ ৩০ দিন)",
+    "recentOrders": "সাম্প্রতিক অর্ডার",
+    "topProducts": "শীর্ষ পণ্য",
+    "topVendors": "শীর্ষ বিক্রেতা",
+    "topSellingProducts": "সেরা বিক্রয় পণ্য",
+    "customerVolume": "গ্রাহক পরিমাণ",
+    "newCustomer": "নতুন গ্রাহক",
+    "currentCustomer": "বর্তমান গ্রাহক",
+    "trafficAnalytic": "ট্রাফিক বিশ্লেষণ",
+    "viewsFromPlatforms": "4টি প্ল্যাটফর্ম থেকে মোট ভিউ",
+    "salesFunnel": "বিক্রয় ফানেল",
+    "productView": "পণ্য দেখা",
+    "productForm": {
+      "addProduct": "পণ্য যোগ করুন",
+      "editProduct": "পণ্য সম্পাদনা",
+      "optional": "ঐচ্ছিক",
+      "specificationsHelp": "পণ্য পৃষ্ঠায় স্পেসিফিকেশন টেবিল দেখাতে লেবেল/মান জোড়া যোগ করুন (যেমন ব্র্যান্ড: ESR, ব্যাটারি: ১৩০ mAh)।",
+      "noSpecifications": "এখনও কোনো স্পেসিফিকেশন নেই।",
+      "variantPricingTitle": "প্রতি ভ্যারিয়েন্টে মূল্য পরিচালিত হয়",
+      "additionalDisplayPrices": "অতিরিক্ত প্রদর্শন মূল্য",
+      "compareAtHelp": "মূল্যের চেয়ে বেশি হলে সেল প্রাইস দেখাতে সাহায্য করে।",
+      "variantInventoryTitle": "SKU, বারকোড এবং পরিমাণ প্রতি ভ্যারিয়েন্টে পরিচালিত হয়",
+      "variantInventorySummary": "মোট ইনভেন্টরি: {total}, {count}টি ভ্যারিয়েন্ট জুড়ে। নিচের ট্র্যাকিং ও স্টক শেষ নীতি সব ভ্যারিয়েন্টে প্রযোজ্য।",
+      "stockedAt": "{location}-এ স্টক করা",
+      "inventoryByLocation": "লোকেশন অনুযায়ী ইনভেন্টরি",
+      "totalQuantity": "মোট: {total}",
+      "noLocations": "কোনো লোকেশন কনফিগার করা নেই। একাধিক স্থানে ইনভেন্টরি ট্র্যাক করতে একটি লোকেশন যোগ করুন।",
+      "defaultLocation": "ডিফল্ট",
+      "qty": "পরিমাণ:",
+      "noCategories": "কোনো ক্যাটেগরি পাওয়া যায়নি। আগে একটি ক্যাটেগরি তৈরি করুন।",
+      "noCategoryMatches": "\"{query}\"-এর জন্য কোনো মিল নেই",
+      "noCollections": "কোনো কালেকশন উপলভ্য নেই। আগে একটি কালেকশন তৈরি করুন।",
+      "noCollectionMatches": "মিল থাকা কোনো কালেকশন পাওয়া যায়নি",
+      "preorderUnlimitedHint": "নির্দিষ্ট সীমা না রাখলে 0 ব্যবহার করুন।",
+      "sections": {
+        "details": "বিস্তারিত",
+        "media": "মিডিয়া",
+        "pricing": "মূল্য",
+        "inventory": "ইনভেন্টরি",
+        "preorder": "প্রি-অর্ডার",
+        "shipping": "শিপিং",
+        "variants": "ভ্যারিয়েন্ট",
+        "status": "স্ট্যাটাস",
+        "publishing": "প্রকাশনা",
+        "organization": "সংগঠন"
+      },
+      "tabs": {
+        "description": "বিবরণ",
+        "specifications": "স্পেসিফিকেশন"
+      },
+      "actions": {
+        "duplicate": "ডুপ্লিকেট",
+        "view": "দেখুন",
+        "moreActions": "আরও অ্যাকশন",
+        "archiveProduct": "পণ্য আর্কাইভ করুন",
+        "deleteProduct": "পণ্য মুছুন",
+        "addSpecification": "স্পেসিফিকেশন যোগ করুন",
+        "removeSpecification": "স্পেসিফিকেশন সরান"
+      },
+      "status": {
+        "active": "সক্রিয়",
+        "draft": "ড্রাফট",
+        "unlisted": "আনলিস্টেড",
+        "activeDescription": "নির্বাচিত সেলস চ্যানেল ও মার্কেটে বিক্রি করুন",
+        "draftDescription": "নির্বাচিত সেলস চ্যানেল বা মার্কেটে দৃশ্যমান নয়",
+        "unlistedDescription": "শুধু সরাসরি লিঙ্ক দিয়ে অ্যাক্সেসযোগ্য"
+      },
+      "fields": {
+        "title": "শিরোনাম",
+        "summary": "সারাংশ",
+        "description": "বিবরণ",
+        "price": "মূল্য",
+        "compareAt": "তুলনামূলক মূল্য",
+        "compareAtPrice": "তুলনামূলক মূল্য",
+        "unitPrice": "ইউনিট মূল্য",
+        "chargeTax": "ট্যাক্স চার্জ",
+        "chargeTaxProduct": "এই পণ্যে ট্যাক্স চার্জ করুন",
+        "costPerItem": "প্রতি আইটেমের খরচ",
+        "totalAmount": "মোট পরিমাণ",
+        "baseMeasure": "বেস মাপ",
+        "cost": "খরচ",
+        "profit": "লাভ",
+        "margin": "মার্জিন",
+        "sku": "SKU",
+        "barcode": "বারকোড",
+        "quantity": "পরিমাণ",
+        "trackQuantity": "পরিমাণ ট্র্যাক করুন",
+        "continueSelling": "স্টক শেষ হলেও বিক্রি চালিয়ে যান",
+        "physicalProduct": "ফিজিক্যাল পণ্য",
+        "weight": "ওজন",
+        "unit": "ইউনিট",
+        "countryOfOrigin": "উৎপত্তির দেশ",
+        "hsCode": "HS কোড",
+        "featured": "ফিচার্ড",
+        "enablePreorder": "প্রি-অর্ডার চালু করুন",
+        "releaseDate": "প্রত্যাশিত শিপিং তারিখ",
+        "preorderLimit": "প্রি-অর্ডার সীমা",
+        "preorderMessage": "স্টোরফ্রন্ট বার্তা",
+        "preorderReserved": "রিজার্ভড প্রি-অর্ডার",
+        "preorderOnly": "শুধু প্রি-অর্ডার হিসেবে বিক্রি করুন",
+        "preorderAutoConvert": "রিলিজ তারিখের পরে প্রি-অর্ডার বন্ধ করুন",
+        "onlineStore": "অনলাইন স্টোর",
+        "pointOfSale": "পয়েন্ট অফ সেল",
+        "category": "ক্যাটেগরি",
+        "type": "ধরন",
+        "collections": "কালেকশন",
+        "tags": "ট্যাগ",
+        "themeTemplate": "থিম টেমপ্লেট",
+        "status": "স্ট্যাটাস"
+      },
+      "placeholders": {
+        "title": "শর্ট স্লিভ টি-শার্ট",
+        "summary": "সংক্ষিপ্ত সারাংশ",
+        "description": "বিস্তারিত পণ্যের বিবরণ লিখুন...",
+        "specLabel": "লেবেল (যেমন ব্র্যান্ড)",
+        "specValue": "মান (যেমন ESR)",
+        "sku": "খালি থাকলে স্বয়ংক্রিয়ভাবে তৈরি হবে",
+        "barcode": "খালি থাকলে স্বয়ংক্রিয়ভাবে তৈরি হবে",
+        "newLocation": "নতুন লোকেশনের নাম...",
+        "country": "দেশ",
+        "category": "একটি ক্যাটেগরি নির্বাচন করুন",
+        "searchCategories": "ক্যাটেগরি খুঁজুন...",
+        "status": "স্ট্যাটাস নির্বাচন করুন",
+        "searchCollections": "কালেকশন খুঁজুন...",
+        "addTag": "ট্যাগ যোগ করুন",
+        "themeTemplate": "ডিফল্ট পণ্য",
+        "preorderMessage": "পণ্যটি রিলিজ হওয়ার সাথে সাথেই শিপ করা হবে।"
+      },
+      "media": {
+        "selected": "{count}টি নির্বাচিত",
+        "deleteSelected": "নির্বাচিতগুলো মুছুন",
+        "dropzoneTitle": "ফাইল এখানে ড্র্যাগ করুন, অথবা ব্রাউজ করতে ক্লিক করুন",
+        "dropzoneHelp": "ছবি, ভিডিও এবং 3D মডেল। Ctrl+V দিয়ে পেস্ট করুন।",
+        "fileCount": "{count} / {max} ফাইল",
+        "coverHint": "প্রথম ছবিটি স্টোরফ্রন্ট কভার"
+      },
+      "seo": {
+        "title": "সার্চ ইঞ্জিন লিস্টিং",
+        "untitledProduct": "শিরোনামহীন পণ্য",
+        "noDescription": "কোনো বিবরণ নেই।",
+        "pageTitle": "পেজ শিরোনাম",
+        "pageTitlePlaceholder": "পেজ শিরোনাম লিখুন",
+        "metaDescription": "মেটা বিবরণ",
+        "metaDescriptionPlaceholder": "সার্চ ইঞ্জিনের জন্য মেটা বিবরণ লিখুন",
+        "urlHandle": "URL হ্যান্ডেল",
+        "charactersUsed": "{count} / {max} অক্ষর ব্যবহৃত",
+        "help": "এই পণ্যটি সার্চ ইঞ্জিনে কেমন দেখাতে পারে তা দেখতে একটি শিরোনাম ও বিবরণ যোগ করুন।"
+      }
+    },
+    "inventory": {
+      "title": "ইনভেন্টরি",
+      "subtitle": "পণ্যের স্টক লেভেল পরিচালনা করুন",
+      "searchPlaceholder": "পণ্য, SKU, বা বারকোড খুঁজুন...",
+      "export": "এক্সপোর্ট",
+      "import": "ইম্পোর্ট",
+      "tabs": {
+        "all": "সব",
+        "online": "অনলাইন",
+        "onlineStore": "অনলাইন স্টোর",
+        "mainWarehouse": "প্রধান গুদাম",
+        "storifyWarehouse": "স্টোরিফাই গুদাম",
+        "storeFront": "স্টোর ফ্রন্ট",
+        "secondaryStorage": "সেকেন্ডারি স্টোরেজ"
+      },
+      "columns": {
+        "product": "পণ্য",
+        "sku": "SKU",
+        "barcode": "বারকোড",
+        "unavailable": "অনুপলব্ধ",
+        "committed": "সংরক্ষিত",
+        "available": "উপলভ্য",
+        "onHand": "মজুদ"
+      },
+      "filters": {
+        "stockLevel": "স্টক লেভেল",
+        "all": "সব",
+        "lowStock": "কম স্টক",
+        "outOfStock": "স্টক শেষ"
+      },
+      "actions": {
+        "adjustQuantity": "পরিমাণ সমন্বয়",
+        "save": "সংরক্ষণ",
+        "cancel": "বাতিল"
+      },
+      "empty": "কোনো ইনভেন্টরি আইটেম পাওয়া যায়নি",
+      "learnMore": "ইনভেন্টরি ব্যবস্থাপনা সম্পর্কে আরও জানুন",
+      "updateSuccess": "ইনভেন্টরি সফলভাবে আপডেট হয়েছে",
+      "updateError": "ইনভেন্টরি আপডেট করা যায়নি",
+      "itemsModified": "{count}টি আইটেম পরিবর্তিত হয়েছে",
+      "csvHeaders": {
+        "product": "পণ্য",
+        "variant": "ভ্যারিয়েন্ট",
+        "sku": "SKU",
+        "barcode": "বারকোড",
+        "available": "উপলভ্য",
+        "onHand": "মজুদ"
+      },
+      "stats": {
+        "trackedSkus": "ট্র্যাক করা SKU",
+        "trackedSkusDescription": "আপনার ক্যাটালগের পণ্য ভ্যারিয়েন্ট",
+        "lowStock": "কম স্টক",
+        "lowStockDescription": "১০ বা তার কম ইউনিট থাকা SKU",
+        "outOfStock": "স্টক শেষ",
+        "outOfStockDescription": "বর্তমানে অনুপলব্ধ SKU",
+        "onHandUnits": "মজুদ ইউনিট",
+        "onHandUnitsDescription": "আপনার পণ্যগুলোর মোট ইউনিট",
+        "locations": "লোকেশন",
+        "locationsDescription": "সক্রিয় ইনভেন্টরি লোকেশন"
+      }
+    },
+    "vendorsManagement": {
+      "allVendors": "All Vendors",
+      "allVendorsDesc": "View and manage vendor profiles",
+      "searchPlaceholder": "Search store name...",
+      "status": {
+        "pending": "Pending",
+        "approved": "Active",
+        "suspended": "Suspended",
+        "rejected": "Rejected"
+      },
+      "table": {
+        "storeOwner": "Store & Owner",
+        "status": "Status",
+        "commission": "Commission",
+        "sales": "Sales",
+        "joined": "Joined",
+        "actions": "Actions",
+        "noVendors": "No vendors found",
+        "visitStore": "Visit Store",
+        "updateStatus": "Update Status",
+        "unknown": "Unknown"
+      },
+      "toasts": {
+        "statusSuccess": "Vendor status updated successfully",
+        "statusError": "Failed to update status"
+      }
+    },
+    "productsManagement": {
+      "title": "Products",
+      "subtitle": "Manage all products in the marketplace",
+      "addProduct": "Add Product",
+      "allProducts": "All Products",
+      "allProductsDesc": "View and manage products from all vendors",
+      "searchPlaceholder": "Search products...",
+      "status": {
+        "label": "Status",
+        "all": "All Status",
+        "published": "Published",
+        "draft": "Draft",
+        "archived": "Archived"
+      },
+      "table": {
+        "image": "Image",
+        "name": "Name",
+        "vendor": "Vendor",
+        "price": "Price",
+        "stock": "Stock",
+        "status": "Status",
+        "actions": "Actions",
+        "noProducts": "No products found",
+        "uncategorized": "Uncategorized",
+        "na": "N/A",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "deleteDialog": {
+        "title": "Delete Product",
+        "description": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+        "confirm": "Delete",
+        "cancel": "Cancel",
+        "success": "Product deleted successfully",
+        "error": "Failed to delete product"
+      }
+    },
+    "settings": {
+      "title": "সেটিংস",
+      "description": "আপনার স্টোর কনফিগারেশন পরিচালনা করুন",
+      "tabs": {
+        "general": "সাধারণ",
+        "security": "নিরাপত্তা",
+        "appearance": "উপস্থিতি",
+        "payment": "পেমেন্ট",
+        "email": "ইমেল",
+        "orders": "অর্ডার",
+        "seo": "এসইও",
+        "social": "সামাজিক",
+        "maintenance": "রক্ষণাবেক্ষণ",
+        "storage": "স্টোরেজ"
+      },
+      "search": "সেটিংস খুঁজুন",
+      "close": "Close settings",
+      "openMenu": "Open settings menu",
+      "closeMenu": "Close settings menu",
+      "attention": "করণীয়",
+      "disabled": "নিষ্ক্রিয়",
+      "unsaved": "সংরক্ষিত নয়",
+      "session": {
+        "duration": "সেশন সময়কাল (দিন)",
+        "maxAttempts": "সর্বোচ্চ লগইন প্রচেষ্টা",
+        "lockout": "লকআউট সময়কাল (মিনিট)"
+      },
+      "passwordPolicy": {
+        "uppercase": "বড় অক্ষর প্রয়োজন",
+        "numbers": "সংখ্যা প্রয়োজন",
+        "specialChars": "বিশেষ অক্ষর প্রয়োজন"
+      },
+      "general": {
+        "title": "সাধারণ সেটিংস",
+        "description": "আপনার স্টোরের প্রাথমিক তথ্য কনফিগার করুন",
+        "storeName": "স্টোরের নাম",
+        "storeEmail": "স্টোর ইমেল",
+        "phone": "ফোন নম্বর",
+        "storeDomain": "স্টোর ডোমেইন",
+        "address": "ঠিকানা",
+        "storeDescription": "স্টোরের বিবরণ",
+        "defaultLanguage": "ডিফল্ট ভাষা",
+        "defaultCurrency": "ডিফল্ট মুদ্রা",
+        "logoUrl": "লোগো URL",
+        "faviconUrl": "ফেভিকন URL",
+        "save": "পরিবর্তনগুলি সংরক্ষণ করুন"
+      },
+      "appearance": {
+        "title": "উপস্থিতি",
+        "description": "আপনার স্টোরের লুক এবং ফিল কাস্টমাইজ করুন",
+        "primaryColor": "প্রাথমিক রঙ",
+        "secondaryColor": "মাধ্যমিক রঙ",
+        "accentColor": "অ্যাকসেন্ট রঙ",
+        "theme": "ডিফল্ট থিম",
+        "themes": {
+          "light": "হালকা",
+          "dark": "অন্ধকার",
+          "system": "সিস্টেম"
+        },
+        "save": "পরিবর্তনগুলি সংরক্ষণ করুন"
+      },
+      "payment": {
+        "stripe": {
+          "title": "স্ট্রাইপ",
+          "description": "স্ট্রাইপ পেমেন্ট গেটওয়ে কনফিগার করুন",
+          "enable": "স্ট্রাইপ পেমেন্ট চালু করুন",
+          "publishableKey": "পাবলিশেবল কী",
+          "secretKey": "গোপন কী",
+          "webhookSecret": "ওয়েবহুক সিক্রেট",
+          "webhookSecretHint": "পেমেন্ট ইভেন্ট পরিচালনার জন্য প্রয়োজন। Stripe ড্যাশবোর্ড → ডেভেলপার্স → ওয়েবহুক থেকে নিন"
+        },
+        "cod": {
+          "title": "ক্যাশ অন ডেলিভারি",
+          "description": "সিওডি পেমেন্ট বিকল্প কনফিগার করুন",
+          "enable": "ক্যাশ অন ডেলিভারি চালু করুন",
+          "instructions": "সিওডি নির্দেশাবলী",
+          "placeholder": "গ্রাহকদের দেখানো নির্দেশাবলী...",
+          "codMinOrder": "ন্যূনতম অর্ডারের পরিমাণ",
+          "codMaxOrder": "সর্বোচ্চ অর্ডারের পরিমাণ"
+        },
+        "save": "পেমেন্ট সেটিংস সংরক্ষণ করুন",
+        "title": "পেমেন্ট সেটিংস",
+        "description": "Configure payment gateways and options",
+        "enableStripe": "Enable Stripe",
+        "stripePublishableKey": "Publishable Key",
+        "stripeWebhookSecret": "Webhook Secret",
+        "enablePayPal": "Enable PayPal",
+        "paypalClientId": "Client ID",
+        "paypalMode": "Mode",
+        "paypalSandbox": "Sandbox",
+        "paypalLive": "Live",
+        "paypalWebhookId": "Webhook ID",
+        "enableCOD": "Enable Cash on Delivery",
+        "codInstructions": "সিওডি নির্দেশাবলী",
+        "codMinOrder": "ন্যূনতম অর্ডারের পরিমাণ",
+        "codMaxOrder": "সর্বোচ্চ অর্ডারের পরিমাণ",
+        "paypal": {
+          "title": "PayPal",
+          "description": "Configure PayPal payment gateway",
+          "enablePayPal": "Enable PayPal",
+          "paypalClientId": "Client ID",
+          "clientSecret": "ক্লায়েন্ট সিক্রেট",
+          "paypalMode": "Mode",
+          "paypalSandbox": "Sandbox",
+          "paypalLive": "Live",
+          "paypalWebhookId": "Webhook ID"
+        }
+      },
+      "email": {
+        "title": "ইমেল কনফিগারেশন (এসএমটিপি)",
+        "description": "এসএমটিপি এর মাধ্যমে ইমেল পাঠানো কনফিগার করুন",
+        "enable": "এসএমটিপি ইমেল চালু করুন",
+        "host": "এসএমটিপি হোস্ট",
+        "port": "এসএমটিপি পোর্ট",
+        "username": "এসএমটিপি ব্যবহারকারীর নাম",
+        "password": "এসএমটিপি পাসওয়ার্ড",
+        "fromEmail": "থেকে ইমেল",
+        "fromName": "নাম থেকে",
+        "secure": "SSL/TLS ব্যবহার করুন (৪৮৫ পোর্টের জন্য)",
+        "test": {
+          "label": "টেস্ট ইমেল",
+          "placeholder": "test@example.com",
+          "button": "টেস্ট ইমেল পাঠান",
+          "success": "টেস্ট ইমেল সফলভাবে পাঠানো হয়েছে!",
+          "error": "টেস্ট ইমেল পাঠাতে ব্যর্থ"
+        },
+        "save": "ইমেল সেটিংস সংরক্ষণ করুন"
+      },
+      "security": {
+        "title": "নিরাপত্তা ও অ্যাক্সেস নিয়ন্ত্রণ",
+        "description": "মাল্টি-ভেন্ডর মোড, সেশন নিরাপত্তা এবং পাসওয়ার্ড নীতি কনফিগার করুন",
+        "tabs": {
+          "general": "সাধারণ",
+          "2fa": "টু-ফ্যাক্টর অথ",
+          "oauth": "OAuth",
+          "pos": "POS অ্যাক্সেস",
+          "vendor": "ভেন্ডর অনুমতি"
+        },
+        "multiVendor": {
+          "title": "Store Mode",
+          "label": "মাল্টি-ভেন্ডর মোড",
+          "description": "মার্কেটপ্লেস ফিচার চালু করুন: ভেন্ডর রেজিস্ট্রেশন, একাধিক স্টোর, ভেন্ডর ড্যাশবোর্ড"
+        },
+        "emailVerification": {
+          "title": "Email Verification",
+          "required": "Require Email Verification",
+          "requiredDesc": "Users must verify email before accessing the store",
+          "vendorRequired": "Require for Vendors",
+          "vendorRequiredDesc": "Vendors must verify email before listing products"
+        },
+        "session": {
+          "title": "Session Security",
+          "duration": "Session Duration (days)",
+          "maxAttempts": "Max Login Attempts",
+          "lockout": "Lockout Duration (min)"
+        },
+        "rateLimiting": {
+          "enabled": "রেট লিমিটিং সক্রিয় করুন",
+          "adminPreset": "অ্যাডমিন এপিআই",
+          "vendorPreset": "বিক্রেতা এপিআই",
+          "checkoutPreset": "চেকআউট / পেমেন্ট",
+          "cartPreset": "কার্ট",
+          "couponPreset": "কুপন",
+          "authPreset": "প্রমাণীকরণ / লগইন",
+          "ipPreset": "গেস্ট / পাবলিক (আইপি ভিত্তিক)"
+        },
+        "passwordPolicy": {
+          "title": "Password Policy",
+          "minLength": "Minimum Password Length",
+          "uppercase": "Require Uppercase",
+          "numbers": "Require Numbers",
+          "specialChars": "Require Special Characters"
+        },
+        "save": "Save Security Settings"
+      },
+      "seo": {
+        "title": "SEO সেটিংস",
+        "description": "সার্চ ইঞ্জিন অপটিমাইজেশন কনফিগার করুন",
+        "metaTitle": "Meta Title",
+        "metaTitlePlaceholder": "Your Store - Online Marketplace",
+        "metaDescription": "Meta Description",
+        "metaDescriptionPlaceholder": "Describe your store in 150-160 characters...",
+        "metaKeywords": "Meta Keywords",
+        "metaKeywordsPlaceholder": "ecommerce, online shopping, marketplace",
+        "save": "এসইও সেটিংস সংরক্ষণ করুন"
+      },
+      "social": {
+        "title": "সামাজিক মাধ্যম লিংক",
+        "description": "আপনার সোশ্যাল মিডিয়া প্রোফাইল যোগ করুন",
+        "facebook": "Facebook",
+        "twitter": "Twitter/X",
+        "instagram": "Instagram",
+        "youtube": "YouTube",
+        "save": "সোশ্যাল লিংক সংরক্ষণ করুন",
+        "facebookPlaceholder": "https://facebook.com/yourpage",
+        "twitterPlaceholder": "https://twitter.com/yourhandle",
+        "instagramPlaceholder": "https://instagram.com/yourprofile",
+        "youtubePlaceholder": "https://youtube.com/yourchannel",
+        "tiktok": "TikTok",
+        "tiktokPlaceholder": "https://tiktok.com/@yourhandle",
+        "linkedin": "LinkedIn",
+        "linkedinPlaceholder": "https://linkedin.com/company/yourcompany"
+      },
+      "maintenance": {
+        "title": "মেইনটেন্যান্স মোড",
+        "description": "স্টোরের প্রাপ্যতা নিয়ন্ত্রণ করুন",
+        "enable": "রক্ষণাবেক্ষণ মোড চালু করুন",
+        "enableDesc": "চালু থাকলে দর্শকরা রক্ষণাবেক্ষণ বার্তা দেখবেন",
+        "message": "রক্ষণাবেক্ষণ বার্তা",
+        "messagePlaceholder": "আমরা বর্তমানে রক্ষণাবেক্ষণে আছি। অনুগ্রহ করে কিছুক্ষণ পরে ফিরে আসুন!",
+        "save": "রক্ষণাবেক্ষণ সেটিংস সংরক্ষণ করুন"
+      },
+      "twoFactor": {
+        "title": "টু-ফ্যাক্টর অথেনটিকেশন",
+        "description": "Enable and configure 2FA requirements for different user roles",
+        "enable": "Enable Two-Factor Authentication",
+        "enableDesc": "Allow users to set up 2FA for their accounts",
+        "requirements": "2FA Requirements by Role",
+        "admin": "Required for Administrators",
+        "adminDesc": "Admin accounts must enable 2FA",
+        "vendor": "Required for Vendors",
+        "vendorDesc": "Vendor accounts must enable 2FA",
+        "save": "Save 2FA Settings",
+        "enableFirstHint": "প্রশাসক বা বিক্রেতাদের জন্য আবশ্যক করতে আগে টু-ফ্যাক্টর অথেনটিকেশন চালু করুন।"
+      },
+      "oauth": {
+        "title": "OAuth / সামাজিক লগইন",
+        "description": "Configure social login providers (Google, Facebook)",
+        "google": {
+          "label": "Google Sign-In",
+          "description": "Allow users to sign in with their Google account",
+          "clientId": "Google Client ID",
+          "clientSecret": "Google Client Secret"
+        },
+        "facebook": {
+          "label": "Facebook Sign-In",
+          "description": "Allow users to sign in with their Facebook account",
+          "appId": "Facebook App ID",
+          "appSecret": "Facebook App Secret"
+        },
+        "save": "Save OAuth Settings"
+      },
+      "pos": {
+        "title": "পয়েন্ট অফ সেল (POS) অ্যাক্সেস",
+        "description": "কোন ভূমিকা POS সিস্টেমে অ্যাক্সেস পাবে সেটি কনফিগার করুন",
+        "enable": "POS সিস্টেম চালু করুন",
+        "enableDesc": "পয়েন্ট অফ সেল মডিউলের মাধ্যমে ইন-স্টোর বিক্রয় অনুমতি দিন",
+        "access": "ভূমিকাভিত্তিক POS অ্যাক্সেস",
+        "admin": "অ্যাডমিন",
+        "adminDesc": "অ্যাডমিনদের POS এর মাধ্যমে বিক্রয় করার অনুমতি দিন",
+        "vendor": "ভেন্ডর",
+        "vendorDesc": "ভেন্ডরদের তাদের পণ্য POS এর মাধ্যমে বিক্রয় করতে দিন",
+        "seller": "সেলার (স্টাফ)",
+        "sellerDesc": "সেলার স্টাফদের POS এর মাধ্যমে বিক্রয় করতে দিন",
+        "save": "POS সেটিংস সংরক্ষণ করুন",
+        "general": "General",
+        "language": "Language",
+        "defaultLocation": "Default POS Location ID",
+        "customize": "Customize",
+        "smartGrid": "Smart grid",
+        "lockScreen": "Lock screen timeout (min)",
+        "printedReceipts": "Printed receipts",
+        "customerDisplays": "Customer displays",
+        "checkout": "Checkout",
+        "customerReceiptSelection": "Customer receipt selection",
+        "offlinePayments": "Offline payments",
+        "orders": "Orders",
+        "orderNumberPrefix": "Order number prefix",
+        "orderNumberPrefixHint": "New POS orders use this prefix with a six-digit number, for example POS000017.",
+        "returnRules": "Return rules",
+        "returnWindowDays": "Return window (days)",
+        "allowWithoutReceipt": "Allow returns without receipt",
+        "enabled": "সক্রিয়",
+        "disabled": "নিষ্ক্রিয়",
+        "accessDesc": "কোন ব্যবহারকারী রোল POS টার্মিনাল অ্যাক্সেস করতে পারবে তা নিয়ন্ত্রণ করুন",
+        "generalDesc": "POS-এর জন্য ডিফল্ট ভাষা এবং লোকেশন কনফিগার করুন",
+        "languageHint": "POS টার্মিনাল ইন্টারফেসে ব্যবহৃত ভাষা",
+        "selectLocation": "একটি লোকেশন নির্বাচন করুন",
+        "noLocation": "কোনো ডিফল্ট লোকেশন নেই",
+        "defaultBadge": "ডিফল্ট",
+        "locationIdPlaceholder": "লোকেশন আইডি লিখুন",
+        "defaultLocationHint": "নতুন POS অর্ডারের জন্য ডিফল্ট হিসেবে ব্যবহৃত লোকেশন",
+        "checkoutDesc": "পেমেন্ট পদ্ধতি এবং চেকআউট আচরণ কনফিগার করুন",
+        "paymentMethods": "গৃহীত পেমেন্ট পদ্ধতি",
+        "paymentCash": "নগদ",
+        "paymentCashDesc": "নগদ পেমেন্ট গ্রহণ করুন",
+        "paymentCard": "কার্ড",
+        "paymentCardDesc": "ক্রেডিট/ডেবিট কার্ড পেমেন্ট গ্রহণ করুন",
+        "paymentManual": "ম্যানুয়াল",
+        "paymentManualDesc": "কাস্টম পেমেন্ট পদ্ধতি",
+        "customerReceiptSelectionDesc": "গ্রাহকদের রসিদ কীভাবে পাবেন তা বেছে নিতে দিন",
+        "offlinePaymentsDesc": "ডিভাইস অফলাইন থাকলে পেমেন্ট প্রক্রিয়া করুন",
+        "customizeDesc": "POS টার্মিনালের চেহারা এবং আচরণ কাস্টমাইজ করুন",
+        "smartGridDesc": "সর্বোত্তম প্রদর্শনের জন্য পণ্য গ্রিড স্বয়ংক্রিয়ভাবে সাজান",
+        "printedReceiptsDesc": "প্রতিটি লেনদেনের পরে রসিদ প্রিন্ট করুন",
+        "customerDisplaysDesc": "গ্রাহক-মুখী ডিসপ্লেতে অর্ডারের বিবরণ দেখান",
+        "lockScreenHint": "নিষ্ক্রিয়তার পরে POS টার্মিনাল স্বয়ংক্রিয়ভাবে লক করুন",
+        "minutes": "মিনিট",
+        "receiptPrinter": "রসিদ প্রিন্টার",
+        "receiptPrinterPlaceholder": "যেমন: Star TSP143",
+        "ordersDesc": "POS অর্ডারের জন্য রিটার্ন নীতি কনফিগার করুন",
+        "returnRulesDesc": "ইন-স্টোর কেনাকাটার জন্য রিটার্ন এবং রিফান্ড নিয়ম সক্রিয় করুন",
+        "days": "দিন",
+        "allowWithoutReceiptDesc": "গ্রাহকদের রসিদ ছাড়াই পণ্য ফেরত দিতে দিন",
+        "conditionNotes": "রিটার্ন শর্তের নোট",
+        "conditionNotesPlaceholder": "যেমন: পণ্য অবশ্যই আসল প্যাকেজিংয়ে থাকতে হবে",
+        "conditionNotesHint": "রিটার্নের জন্য অতিরিক্ত নোট বা শর্তাবলী",
+        "sound": "সাউন্ড ইফেক্ট",
+        "soundDesc": "POS টার্মিনাল ইন্টারঅ্যাকশনের জন্য অডিও ফিডব্যাক কনফিগার করুন",
+        "soundEnable": "সাউন্ড ইফেক্ট সক্রিয় করুন",
+        "soundEnableDesc": "POS অপারেশনের সময় অডিও কিউ চালান",
+        "soundVolume": "ভলিউম",
+        "soundAddToCart": "কার্টে যোগ করুন",
+        "soundAddToCartDesc": "কার্টে পণ্য যোগ করলে বিপ",
+        "soundPayment": "পেমেন্ট গৃহীত",
+        "soundPaymentDesc": "পেমেন্ট প্রক্রিয়া হলে শব্দ",
+        "soundOrderComplete": "অর্ডার সম্পন্ন",
+        "soundOrderCompleteDesc": "অর্ডার সম্পন্ন হলে চাইম",
+        "soundError": "ত্রুটি সতর্কতা",
+        "soundErrorDesc": "ত্রুটি এবং স্টক সতর্কতার জন্য সতর্কতা শব্দ"
+      },
+      "vendorPermissions": {
+        "title": "ভেন্ডর অনুমতির ডিফল্ট",
+        "description": "নতুন ভেন্ডরদের জন্য ডিফল্ট অনুমতি কনফিগার করুন",
+        "warning": "ভেন্ডর অনুমতি কনফিগার করতে মাল্টি-ভেন্ডর মোড চালু করুন।",
+        "manageProducts": "পণ্য পরিচালনা",
+        "viewOrders": "অর্ডার দেখুন",
+        "manageOrders": "অর্ডার পরিচালনা",
+        "manageSettings": "স্টোর সেটিংস পরিচালনা",
+        "viewAnalytics": "অ্যানালিটিক্স দেখুন",
+        "manageDiscounts": "Manage Discounts",
+        "managePayouts": "পেআউট পরিচালনা",
+        "accessPOS": "POS অ্যাক্সেস",
+        "save": "ভেন্ডর অনুমতি সংরক্ষণ করুন"
+      },
+      "orders": {
+        "title": "অর্ডার সেটিংস",
+        "description": "অর্ডার ও কমিশন সেটিংস কনফিগার করুন",
+        "prefix": "অর্ডার নম্বর প্রিফিক্স",
+        "taxRate": "ট্যাক্স রেট (%)",
+        "shippingCost": "ডিফল্ট শিপিং খরচ ($)",
+        "freeShippingThreshold": "ফ্রি শিপিং থ্রেশোল্ড ($)",
+        "freeShippingPlaceholder": "বন্ধ করতে খালি রাখুন",
+        "vendorCommission": "ভেন্ডর কমিশন",
+        "commissionRate": "কমিশন রেট (%)",
+        "minWithdrawal": "ন্যূনতম উত্তোলন পরিমাণ ($)",
+        "save": "অর্ডার সেটিংস সংরক্ষণ করুন"
+      },
+      "storage": {
+        "title": "স্টোরেজ সেটিংস",
+        "description": "মিডিয়া আপলোডের জন্য ফাইল স্টোরেজ প্রোভাইডার কনফিগার করুন",
+        "provider": "স্টোরেজ প্রোভাইডার",
+        "chooseProvider": "একটি সক্রিয় স্টোরেজ সার্ভিস নির্বাচন করুন",
+        "status": "স্ট্যাটাস",
+        "checking": "চেক করা হচ্ছে...",
+        "connected": "সংযুক্ত",
+        "notConnected": "সংযুক্ত নয়",
+        "refresh": "রিফ্রেশ",
+        "accountId": "R2 অ্যাকাউন্ট আইডি",
+        "cloudflareR2": "Cloudflare R2",
+        "r2Config": "Cloudflare R2 কনফিগারেশন",
+        "cloudflareR2Desc": "S3-সামঞ্জস্যপূর্ণ স্টোরেজ, কোনো ইগ্রেস ফি নেই",
+        "awsS3": "AWS S3",
+        "s3Config": "AWS S3 কনফিগারেশন",
+        "awsS3Desc": "Amazon S3 অবজেক্ট স্টোরেজ",
+        "endpoint": "R2 এন্ডপয়েন্ট URL",
+        "endpointHelp": "এটি Cloudflare ড্যাশবোর্ড → R2 → আপনার বাকেট → সেটিংস-এ খুঁজুন",
+        "region": "AWS রিজিওন",
+        "bucketName": "বাকেটের নাম",
+        "accessKeyId": "অ্যাক্সেস কী আইডি",
+        "secretAccessKey": "সিক্রেট অ্যাক্সেস কী",
+        "publicUrl": "পাবলিক URL / CDN (ঐচ্ছিক)",
+        "publicUrlHelp": "আপলোড করা ফাইল পরিবেশনের জন্য কাস্টম ডোমেইন বা CDN URL",
+        "testConnection": "সংযোগ পরীক্ষা করুন",
+        "uploadSettings": "আপলোড সেটিংস",
+        "maxFileSize": "সর্বোচ্চ ফাইল সাইজ (MB)",
+        "pathPrefix": "পাথ প্রিফিক্স",
+        "allowedMimeTypes": "অনুমোদিত ফাইল টাইপ",
+        "save": "স্টোরেজ সেটিংস সংরক্ষণ করুন",
+        "connectionSuccess": "স্টোরেজ সংযোগ সফল!",
+        "connectionFailed": "স্টোরেজের সাথে সংযোগ ব্যর্থ হয়েছে",
+        "switchDialog": {
+          "title": "স্টোরেজ প্রোভাইডার পরিবর্তন করবেন?",
+          "description": "স্টোরেজ প্রোভাইডার পরিবর্তন করলে নতুন আপলোডগুলো নতুন প্রোভাইডারে যাবে। বিদ্যমান ফাইলগুলো আগের প্রোভাইডারেই থাকবে এবং মাইগ্রেশনের প্রয়োজন হতে পারে।",
+          "confirm": "নিশ্চিত করুন",
+          "cancel": "বাতিল"
+        },
+        "placeholder": {
+          "bucket": "my-bucket",
+          "region": "রিজিওন নির্বাচন করুন",
+          "accessKeyId": "AKIA...",
+          "r2AccessKeyId": "অ্যাক্সেস কী আইডি",
+          "secretKey": "সিক্রেট কী লিখুন",
+          "r2SecretKey": "আপনার R2 সিক্রেট অ্যাক্সেস কী",
+          "r2AccountId": "1234567890abcdef",
+          "cdnUrl": "https://cdn.example.com",
+          "r2Url": "https://pub-xxxx.r2.dev",
+          "doAccessKey": "DO00..."
+        },
+        "help": {
+          "cloudfront": "আপলোড করা ফাইল পরিবেশনের জন্য CloudFront বা কাস্টম ডোমেইন",
+          "r2Domain": "আপলোড করা ফাইল পরিবেশনের জন্য R2.dev সাবডোমেইন বা কাস্টম ডোমেইন",
+          "r2FindOverview": "এটি Cloudflare ড্যাশবোর্ড → R2 → ওভারভিউ-এ খুঁজুন"
+        }
+      },
+      "analytics": {
+        "title": "অ্যানালিটিক্স ইন্টিগ্রেশন",
+        "description": "বহিরাগত অ্যানালিটিক্স সার্ভিস সংযুক্ত করুন",
+        "googleAnalyticsId": "Google Analytics ID",
+        "googleAnalyticsIdPlaceholder": "G-XXXXXXXXXX",
+        "googleTagManagerId": "Google Tag Manager ID",
+        "googleTagManagerIdPlaceholder": "GTM-XXXXXXX",
+        "facebookPixelId": "Facebook Pixel ID",
+        "facebookPixelIdPlaceholder": "123456789012345",
+        "tiktokPixelId": "TikTok Pixel ID",
+        "tiktokPixelIdPlaceholder": "C1234567890ABCDEF",
+        "plausibleTitle": "Plausible Analytics",
+        "plausibleDomain": "সাইট ডোমেইন",
+        "plausibleDomainPlaceholder": "yourdomain.com",
+        "plausibleDomainHelp": "শুধু ডোমেইন দিন, যেমন yourdomain.com (https:// ছাড়া)",
+        "plausibleApiKey": "API কী",
+        "plausibleApiKeyPlaceholder": "Plausible API কী লিখুন",
+        "plausibleApiKeyHelp": "Plausible → Settings → API Keys-এ পাবেন",
+        "plausibleSelfHosted": "স্ব-হোস্টেড ইনস্ট্যান্স",
+        "plausibleBaseUrl": "কাস্টম ইনস্ট্যান্স URL",
+        "plausibleBaseUrlPlaceholder": "https://plausible.yourdomain.com",
+        "save": "অ্যানালিটিক্স সেটিংস সংরক্ষণ করুন"
+      },
+      "loadError": "সেটিংস লোড করা যায়নি",
+      "unsavedChanges": {
+        "title": "অসম্পন্ন পরিবর্তন",
+        "description": "অসম্পন্ন পরিবর্তন বাতিল করে সেকশন পরিবর্তন করতে চান?",
+        "confirm": "বাতিল করুন",
+        "cancel": "থাকুন"
+      },
+      "locations": {
+        "title": "ইনভেন্টরি লোকেশন"
+      },
+      "shipping": {
+        "title": "শিপিং ও ডেলিভারি"
+      },
+      "ai": {
+        "title": "এআই কনফিগারেশন",
+        "description": "AI স্টুডিও কন্টেন্ট, SEO এবং ইমেজ জেনারেশন কনফিগার করার একটি জায়গা।",
+        "statusConfigured": "কনফিগার করা হয়েছে",
+        "statusNotConfigured": "কনফিগার করা নেই",
+        "enabled": "AI ফিচার চালু করুন",
+        "enabledHint": "ড্যাশবোর্ড জুড়ে AI স্টুডিও এবং প্রতিটি AI বোতাম চালু বা বন্ধ করে।",
+        "apiKey": "OpenAI API কী",
+        "apiKeySetPlaceholder": "••••••••  (সংরক্ষিত — পরিবর্তন করতে নতুন কী লিখুন)",
+        "apiKeyHint": "AI স্টুডিও এবং AI সেলস এজেন্ট এটি ব্যবহার করে। OPENAI_API_KEY এনভায়রনমেন্ট ভ্যারিয়েবল ব্যবহার চালিয়ে যেতে খালি রাখুন।",
+        "testConnection": "সংযোগ পরীক্ষা করুন",
+        "testFailed": "সংযোগ পরীক্ষা ব্যর্থ হয়েছে",
+        "textModel": "টেক্সট মডেল",
+        "imageModel": "ইমেজ মডেল",
+        "modelDefault": "ডিফল্ট (প্রস্তাবিত)",
+        "imageSize": "ডিফল্ট ইমেজ সাইজ",
+        "imageQuality": "ডিফল্ট ইমেজ কোয়ালিটি",
+        "imageQualityHint": "উচ্চ কোয়ালিটিতে প্রতি ইমেজের খরচ বেশি হয়।",
+        "surfacesTitle": "যেখানে AI ব্যবহার করা যায়",
+        "surfacesHint": "ড্যাশবোর্ডের নির্দিষ্ট অংশের জন্য AI জেনারেশন বন্ধ করুন।",
+        "surfaces": {
+          "products": "পণ্য",
+          "categories": "বিভাগ",
+          "collections": "কালেকশন",
+          "brands": "ব্র্যান্ড",
+          "blogPosts": "ব্লগ পোস্ট",
+          "contentPages": "কন্টেন্ট পেজ",
+          "reviews": "রিভিউ ও জবাব",
+          "heroBanner": "হিরো ব্যানার"
+        },
+        "brandVoiceTitle": "ব্র্যান্ড ভয়েস",
+        "brandVoiceHint": "কোনো রিকোয়েস্টে ওভাররাইড না করা পর্যন্ত এটি প্রতিটি AI টেক্সট জেনারেশনে প্রয়োগ হয়।",
+        "tone": "ডিফল্ট টোন",
+        "toneNone": "কোনো ডিফল্ট টোন নেই",
+        "brandInstructions": "স্টাইল নির্দেশনা (ঐচ্ছিক)",
+        "brandInstructionsPlaceholder": "যেমন: \"আউটডোর প্রেমীদের জন্য লিখুন। ছোট বাক্য ব্যবহার করুন। অতিরঞ্জিত বিশেষণ এড়িয়ে চলুন।\"",
+        "accessTitle": "অ্যাক্সেস ও দৈনিক সীমা",
+        "accessHint": "সীমা প্রতি ইউজার প্রতি দিন প্রযোজ্য। ০ মানে সীমাহীন।",
+        "staffEnabled": "স্টাফ অ্যাকাউন্টের অনুমতি দিন",
+        "vendorsEnabled": "ভেন্ডর অ্যাকাউন্টের অনুমতি দিন",
+        "textLimit": "টেক্সট জেনারেশন / ইউজার / দিন",
+        "imageLimit": "ইমেজ জেনারেশন / ইউজার / দিন",
+        "imageLimitHint": "ইমেজের খরচ সবচেয়ে বেশি — শেয়ার্ড স্টোরের জন্য একটি সীমা নির্ধারণ করুন।",
+        "imageStyle": "ইমেজ স্টাইল নির্দেশনা (ঐচ্ছিক)",
+        "imageStylePlaceholder": "যেমন: \"নরম প্রাকৃতিক আলো, উষ্ণ নিউট্রাল প্যালেট, ন্যূনতম প্রপস।\"",
+        "imageStyleHint": "পণ্যের ভিজ্যুয়াল ব্র্যান্ড অনুযায়ী রাখতে এটি জেনারেট করা ইমেজে (এডিটে নয়) প্রয়োগ হয়।",
+        "brandKitTitle": "ব্র্যান্ড কিট",
+        "brandKitHint": "ইমেজ তৈরি এবং সোশ্যাল সাইজ এক্সপোর্ট করার সময় ব্যবহৃত রঙ ও লোগো।",
+        "primaryColor": "প্রাথমিক ব্র্যান্ড রঙ",
+        "secondaryColor": "মাধ্যমিক ব্র্যান্ড রঙ",
+        "logoUrl": "ব্র্যান্ড লোগো URL",
+        "logoUrlHint": "আপনার লোগো স্টোরে আপলোড করুন, তারপর এখানে এর URL পেস্ট করুন। এটি সোশ্যাল এক্সপোর্টে ঐচ্ছিক লোগো প্লেসমেন্ট হিসেবে ব্যবহৃত হয়।"
+      },
+      "saveChanges": "পরিবর্তন সংরক্ষণ করুন"
+    },
+    "addToCart": "কার্টে যোগ করুন",
+    "initiateCheckout": "চেকআউট শুরু করুন",
+    "purchase": "কেনাকাটা",
+    "insights": "অন্তর্দৃষ্টি",
+    "funnelDropoff": "ভিজিট থেকে কেনাকাটা পর্যন্ত ব্যবহারকারীর ড্রপ-অফ দেখানো ফানেল।",
+    "failedToLoadData": "ডেটা লোড করতে ব্যর্থ",
+    "users": "ব্যবহারকারী",
+    "usersDesc": "ব্যবহারকারী এবং ভূমিকা পরিচালনা করুন",
+    "vendors": "বিক্রেতা",
+    "vendorsDesc": "বিক্রেতা অ্যাকাউন্ট এবং অনুমোদন পরিচালনা করুন",
+    "products": "পণ্য",
+    "categories": "বিভাগ",
+    "orders": "অর্ডার",
+    "reports": "রিপোর্ট",
+    "pendingApprovals": "অপেক্ষমাণ অনুমোদন",
+    "approveVendor": "বিক্রেতা অনুমোদন",
+    "rejectVendor": "বিক্রেতা প্রত্যাখ্যান",
+    "adminPanel": "অ্যাডমিন প্যানেল",
+    "dashboard": "ড্যাশবোর্ড",
+    "home": "হোম",
+    "collections": "কালেকশন",
+    "purchaseOrders": "ক্রয় অর্ডার",
+    "transfers": {
+      "status": {
+        "draft": "খসড়া",
+        "ready_to_ship": "পাঠানোর জন্য প্রস্তুত",
+        "in_transit": "পথে আছে",
+        "completed": "সম্পন্ন",
+        "cancelled": "বাতিল"
+      },
+      "tabs": {
+        "all": "সব"
+      },
+      "list": {
+        "title": "স্থানান্তর",
+        "subtitle": "Shopify-স্টাইল ওয়ার্কফ্লোতে লোকেশনগুলোর মধ্যে ইনভেন্টরি স্থানান্তর করুন।",
+        "createTransfer": "স্থানান্তর তৈরি করুন",
+        "searchPlaceholder": "ট্রান্সফার নম্বর, লোকেশন বা রেফারেন্স দিয়ে খুঁজুন",
+        "loading": "স্থানান্তর লোড হচ্ছে...",
+        "empty": "কোনো স্থানান্তর পাওয়া যায়নি",
+        "itemsSummary": "{lines} লাইনে {units} ইউনিট",
+        "columns": {
+          "transfer": "স্থানান্তর",
+          "from": "উৎস",
+          "to": "গন্তব্য",
+          "items": "আইটেম",
+          "status": "স্ট্যাটাস",
+          "updated": "আপডেট"
+        }
+      },
+      "create": {
+        "title": "স্থানান্তর তৈরি করুন",
+        "fromLocation": "উৎস লোকেশন",
+        "toLocation": "গন্তব্য লোকেশন",
+        "addLocation": "লোকেশন যোগ করুন",
+        "selectSourceLocation": "উৎস লোকেশন নির্বাচন করুন",
+        "selectDestinationLocation": "গন্তব্য লোকেশন নির্বাচন করুন",
+        "reference": "রেফারেন্স",
+        "referencePlaceholder": "PO, ব্যাচ বা অভ্যন্তরীণ নোট",
+        "internalNote": "অভ্যন্তরীণ নোট",
+        "internalNotePlaceholder": "আপনার টিমের জন্য ঐচ্ছিক নোট",
+        "searchPlaceholder": "পণ্য বা SKU খুঁজুন",
+        "selectSourceToLoad": "ইনভেন্টরি লোড করতে উৎস লোকেশন নির্বাচন করুন",
+        "loadingInventory": "ইনভেন্টরি লোড হচ্ছে...",
+        "noVariants": "এই লোকেশনে কোনো উপলভ্য ভ্যারিয়েন্ট পাওয়া যায়নি",
+        "selectionSummary": "{lines} লাইন নির্বাচিত, মোট {units} ইউনিট।",
+        "cancel": "বাতিল",
+        "createTransfer": "স্থানান্তর তৈরি করুন",
+        "columns": {
+          "product": "পণ্য",
+          "variant": "ভ্যারিয়েন্ট",
+          "sku": "SKU",
+          "available": "উপলভ্য",
+          "transferQty": "স্থানান্তর পরিমাণ"
+        },
+        "dialog": {
+          "addLocationTitle": "লোকেশন যোগ করুন",
+          "addLocationDescription": "নতুন লোকেশন তৈরি করে {target} লোকেশন হিসেবে ব্যবহার করুন।",
+          "locationName": "লোকেশনের নাম",
+          "locationNamePlaceholder": "ঢাকা ওয়্যারহাউস",
+          "addressOptional": "ঠিকানা (ঐচ্ছিক)",
+          "addressPlaceholder": "রাস্তা, এলাকা, শহর",
+          "saveLocation": "লোকেশন সংরক্ষণ করুন"
+        },
+        "toasts": {
+          "loadLocationsError": "লোকেশন লোড করা যায়নি",
+          "selectBothLocations": "উৎস ও গন্তব্য দুইটি লোকেশনই নির্বাচন করুন",
+          "locationsMustDiffer": "উৎস ও গন্তব্য আলাদা হতে হবে",
+          "selectItems": "স্থানান্তরের জন্য অন্তত একটি আইটেম যোগ করুন",
+          "createSuccess": "স্থানান্তর তৈরি হয়েছে",
+          "createError": "স্থানান্তর তৈরি করা যায়নি",
+          "locationNameRequired": "লোকেশনের নাম আবশ্যক",
+          "createLocationSuccess": "লোকেশন যোগ হয়েছে",
+          "createLocationError": "লোকেশন তৈরি করা যায়নি"
+        }
+      },
+      "details": {
+        "loading": "স্থানান্তর লোড হচ্ছে...",
+        "backToTransfers": "স্থানান্তরে ফিরে যান",
+        "routeSummary": "{from} থেকে {to}",
+        "reference": "রেফারেন্স",
+        "note": "নোট",
+        "defaultVariant": "ডিফল্ট",
+        "meta": {
+          "created": "তৈরি হয়েছে",
+          "updated": "সর্বশেষ আপডেট",
+          "totalUnits": "মোট ইউনিট"
+        },
+        "columns": {
+          "product": "পণ্য",
+          "variant": "ভ্যারিয়েন্ট",
+          "sku": "SKU",
+          "qty": "পরিমাণ"
+        },
+        "actions": {
+          "markReadyToShip": "পাঠানোর জন্য প্রস্তুত করুন",
+          "markInTransit": "পথে আছে হিসেবে চিহ্নিত করুন",
+          "markCompleted": "সম্পন্ন হিসেবে চিহ্নিত করুন",
+          "cancelTransfer": "স্থানান্তর বাতিল করুন"
+        },
+        "toasts": {
+          "loadError": "স্থানান্তর লোড করা যায়নি",
+          "updateSuccess": "স্থানান্তর আপডেট হয়েছে",
+          "updateError": "স্থানান্তর আপডেট করা যায়নি"
+        }
+      }
+    },
+    "giftCards": "গিফট কার্ড",
+    "customers": "গ্রাহক",
+    "marketing": "মার্কেটিং",
+    "discounts": "ছাড়",
+    "content": "কন্টেন্ট",
+    "markets": "বাজার",
+    "analytics": "বিশ্লেষণ",
+    "salesChannels": "বিক্রয় চ্যানেল",
+    "onlineStore": "অনলাইন স্টোর",
+    "homePage": "হোম পেজ",
+    "theme": "থিম",
+    "themes": "থিমসমূহ",
+    "pages": "পেজসমূহ",
+    "pos": "Point of Sale",
+    "posStaff": "Staff",
+    "posLocations": "Locations",
+    "apps": "অ্যাপস",
+    "addApp": "যোগ করুন",
+    "productsPage": {
+      "stats": {
+        "totalProducts": {
+          "title": "মোট পণ্য",
+          "description": "ক্যাটালগের সব পণ্য"
+        },
+        "activeListings": {
+          "title": "সক্রিয় তালিকা",
+          "description": "স্টোরফ্রন্টে লাইভ"
+        },
+        "draftProducts": {
+          "title": "খসড়া পণ্য",
+          "description": "প্রকাশের অপেক্ষায়"
+        },
+        "outOfStock": {
+          "title": "স্টক শেষ",
+          "description": "পুনরায় স্টক প্রয়োজন"
+        },
+        "inventoryUnits": {
+          "title": "ইনভেন্টরি ইউনিট",
+          "description": "মোট বিক্রয়যোগ্য স্টক"
+        }
+      }
+    },
+    "collectionsPage": {
+      "stats": {
+        "totalCollections": {
+          "title": "মোট কালেকশন",
+          "description": "সব কালেকশন গ্রুপ"
+        },
+        "activeCollections": {
+          "title": "সক্রিয় কালেকশন",
+          "description": "ক্রেতাদের জন্য দৃশ্যমান"
+        },
+        "manualCollections": {
+          "title": "ম্যানুয়াল কালেকশন",
+          "description": "অ্যাডমিন দ্বারা কিউরেটেড"
+        },
+        "onlineStore": {
+          "title": "অনলাইন স্টোর",
+          "description": "অনলাইন চ্যানেলে প্রকাশিত"
+        },
+        "productsInCollections": {
+          "title": "কালেকশনে পণ্য",
+          "description": "মোট অ্যাসাইন করা পণ্যের সংখ্যা"
+        }
+      }
+    },
+    "categoriesPage": {
+      "stats": {
+        "totalCategories": {
+          "title": "মোট বিভাগ",
+          "description": "সব বিভাগের রেকর্ড"
+        },
+        "activeCategories": {
+          "title": "সক্রিয় বিভাগ",
+          "description": "স্টোরফ্রন্টে দৃশ্যমান"
+        },
+        "inactiveCategories": {
+          "title": "নিষ্ক্রিয় বিভাগ",
+          "description": "ক্রেতাদের থেকে লুকানো"
+        },
+        "parentCategories": {
+          "title": "মূল বিভাগ",
+          "description": "টপ-লেভেল ট্যাক্সোনমি"
+        },
+        "assignedProducts": {
+          "title": "অ্যাসাইন করা পণ্য",
+          "description": "বিভাগে ম্যাপ করা পণ্য"
+        }
+      }
+    },
+    "inventoryPage": {
+      "stats": {
+        "trackedSkus": {
+          "title": "ট্র্যাককৃত SKU",
+          "description": "ট্র্যাক করা পণ্য ও ভ্যারিয়েন্ট"
+        },
+        "lowStockSkus": {
+          "title": "কম স্টকের SKU",
+          "description": "স্টক ১ থেকে ১০ এর মধ্যে"
+        },
+        "outOfStock": {
+          "title": "স্টক শেষ",
+          "description": "পুনরায় স্টক প্রয়োজন"
+        },
+        "onHandUnits": {
+          "title": "হাতে থাকা ইউনিট",
+          "description": "মোট শারীরিক ইনভেন্টরি"
+        },
+        "activeLocations": {
+          "title": "সক্রিয় লোকেশন",
+          "description": "চালু ইনভেন্টরি লোকেশন"
+        }
+      }
+    },
+    "productsDataTable": {
+      "title": "পণ্য",
+      "searchPlaceholder": "পণ্য খুঁজুন",
+      "rowActionsHeader": "অ্যাকশন",
+      "empty": "কোনো পণ্য পাওয়া যায়নি",
+      "columns": {
+        "product": "পণ্য",
+        "category": "বিভাগ",
+        "uncategorized": "অবিভাগভুক্ত",
+        "status": "স্ট্যাটাস",
+        "inventory": "ইনভেন্টরি",
+        "price": "দাম",
+        "availableIn": "উপলভ্য চ্যানেল"
+      },
+      "channels": {
+        "inStore": "ইন-স্টোর",
+        "online": "অনলাইন"
+      },
+      "tabs": {
+        "all": "সব",
+        "active": "সক্রিয়",
+        "draft": "খসড়া",
+        "archived": "আর্কাইভড"
+      },
+      "filters": {
+        "vendors": "ভেন্ডর",
+        "tag": "ট্যাগ",
+        "statuses": "স্ট্যাটাস",
+        "all": "সব",
+        "active": "সক্রিয়",
+        "draft": "খসড়া",
+        "archived": "আর্কাইভড"
+      },
+      "actions": {
+        "addProduct": "পণ্য যোগ করুন",
+        "export": "এক্সপোর্ট",
+        "import": "ইম্পোর্ট",
+        "importExport": "ইম্পোর্ট / এক্সপোর্ট"
+      },
+      "bulkActions": {
+        "setActive": "সক্রিয় করুন",
+        "setDraft": "খসড়া করুন",
+        "setArchived": "আর্কাইভ করুন",
+        "delete": "ডিলিট"
+      },
+      "rowActions": {
+        "view": "দেখুন",
+        "edit": "এডিট",
+        "delete": "ডিলিট"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "পণ্য ডিলিট",
+          "description": "আপনি কি \"{name}\" ডিলিট করতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "deleteBulk": {
+          "title": "পণ্যসমূহ ডিলিট",
+          "description": "আপনি কি {count}টি পণ্য ডিলিট করতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "updateStatus": {
+          "title": "পণ্যের স্ট্যাটাস আপডেট",
+          "description": "{count}টি পণ্য \"{status}\" করা হবে?",
+          "confirm": "আপডেট",
+          "cancel": "বাতিল"
+        }
+      },
+      "toasts": {
+        "fetchError": "পণ্য লোড করা যায়নি",
+        "deleteSingleSuccess": "পণ্য সফলভাবে ডিলিট হয়েছে",
+        "deleteSingleError": "পণ্য ডিলিট করা যায়নি",
+        "deleteBulkSuccess": "{count}টি পণ্য সফলভাবে ডিলিট হয়েছে",
+        "deleteBulkError": "কিছু পণ্য ডিলিট করা যায়নি",
+        "updateSuccess": "{count}টি পণ্য আপডেট হয়েছে",
+        "updateError": "{count}টি পণ্য আপডেট করা যায়নি"
+      }
+    },
+    "collectionsDataTable": {
+      "title": "কালেকশন",
+      "searchPlaceholder": "কালেকশন খুঁজুন...",
+      "rowActionsHeader": "অ্যাকশন",
+      "empty": "কোনো কালেকশন পাওয়া যায়নি",
+      "columns": {
+        "collection": "কালেকশন",
+        "type": "ধরন",
+        "products": "পণ্য",
+        "status": "স্ট্যাটাস",
+        "availableIn": "উপলভ্য চ্যানেল"
+      },
+      "types": {
+        "manual": "ম্যানুয়াল",
+        "automated": "স্বয়ংক্রিয়"
+      },
+      "channels": {
+        "inStore": "ইন-স্টোর",
+        "online": "অনলাইন"
+      },
+      "tabs": {
+        "all": "সব",
+        "active": "সক্রিয়",
+        "draft": "খসড়া"
+      },
+      "filters": {
+        "type": "ধরন",
+        "all": "সব",
+        "manual": "ম্যানুয়াল",
+        "automated": "স্বয়ংক্রিয়"
+      },
+      "actions": {
+        "export": "এক্সপোর্ট",
+        "import": "ইম্পোর্ট",
+        "addCollection": "কালেকশন যোগ করুন"
+      },
+      "bulkActions": {
+        "setActive": "সক্রিয় করুন",
+        "setDraft": "খসড়া করুন",
+        "delete": "ডিলিট"
+      },
+      "rowActions": {
+        "edit": "এডিট",
+        "delete": "ডিলিট"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "কালেকশন ডিলিট",
+          "description": "আপনি কি \"{name}\" ডিলিট করতে চান? এতে এই কালেকশনের পণ্য ডিলিট হবে না।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "deleteBulk": {
+          "title": "কালেকশনসমূহ ডিলিট",
+          "description": "আপনি কি {count}টি কালেকশন ডিলিট করতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "updateStatus": {
+          "title": "কালেকশনের স্ট্যাটাস আপডেট",
+          "description": "{count}টি কালেকশন \"{status}\" করা হবে?",
+          "confirm": "আপডেট",
+          "cancel": "বাতিল"
+        }
+      },
+      "toasts": {
+        "fetchError": "কালেকশন লোড করা যায়নি",
+        "deleteSingleSuccess": "কালেকশন সফলভাবে ডিলিট হয়েছে",
+        "deleteSingleError": "কালেকশন ডিলিট করা যায়নি",
+        "deleteBulkSuccess": "{count}টি কালেকশন সফলভাবে ডিলিট হয়েছে",
+        "deleteBulkError": "কিছু কালেকশন ডিলিট করা যায়নি",
+        "updateSuccess": "{count}টি কালেকশন আপডেট হয়েছে",
+        "updateError": "{count}টি কালেকশন আপডেট করা যায়নি"
+      }
+    },
+    "categoriesDataTable": {
+      "title": "বিভাগ",
+      "searchPlaceholder": "বিভাগ খুঁজুন...",
+      "rowActionsHeader": "অ্যাকশন",
+      "empty": "কোনো বিভাগ পাওয়া যায়নি",
+      "columns": {
+        "category": "বিভাগ",
+        "parent": "মূল বিভাগ",
+        "none": "-",
+        "products": "পণ্য",
+        "status": "স্ট্যাটাস"
+      },
+      "tabs": {
+        "all": "সব",
+        "active": "সক্রিয়",
+        "inactive": "নিষ্ক্রিয়"
+      },
+      "status": {
+        "active": "সক্রিয়",
+        "inactive": "নিষ্ক্রিয়"
+      },
+      "stats": {
+        "categories": "বিভাগ",
+        "categoriesDescription": "আপনার পণ্যে ব্যবহৃত বিভাগ",
+        "active": "সক্রিয়",
+        "activeDescription": "দৃশ্যমান পণ্য বিভাগ",
+        "inactive": "নিষ্ক্রিয়",
+        "inactiveDescription": "লুকানো পণ্য বিভাগ",
+        "parentCategories": "মূল বিভাগ",
+        "parentCategoriesDescription": "শীর্ষ স্তরের বিভাগ গ্রুপ",
+        "assignedProducts": "যুক্ত পণ্য",
+        "assignedProductsDescription": "বিভাগযুক্ত আপনার পণ্য"
+      },
+      "actions": {
+        "export": "এক্সপোর্ট",
+        "import": "ইম্পোর্ট",
+        "addCategory": "বিভাগ যোগ করুন"
+      },
+      "bulkActions": {
+        "setActive": "সক্রিয় করুন",
+        "setInactive": "নিষ্ক্রিয় করুন",
+        "delete": "ডিলিট"
+      },
+      "rowActions": {
+        "edit": "এডিট",
+        "delete": "ডিলিট"
+      },
+      "dialogs": {
+        "deleteSingle": {
+          "title": "বিভাগ ডিলিট",
+          "description": "আপনি কি \"{name}\" ডিলিট করতে চান? এই বিভাগের পণ্যগুলোকে পুনরায় ক্যাটাগরাইজ করতে হবে।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "deleteBulk": {
+          "title": "বিভাগসমূহ ডিলিট",
+          "description": "আপনি কি {count}টি বিভাগ ডিলিট করতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+          "confirm": "ডিলিট",
+          "cancel": "বাতিল"
+        },
+        "activate": {
+          "title": "বিভাগ সক্রিয় করুন",
+          "confirm": "সক্রিয় করুন"
+        },
+        "deactivate": {
+          "title": "বিভাগ নিষ্ক্রিয় করুন",
+          "confirm": "নিষ্ক্রিয় করুন"
+        },
+        "updateStatus": {
+          "description": "{count}টি বিভাগকে {status} করা হবে?",
+          "cancel": "বাতিল"
+        }
+      },
+      "toasts": {
+        "fetchError": "বিভাগ লোড করা যায়নি",
+        "deleteSingleSuccess": "বিভাগ সফলভাবে ডিলিট হয়েছে",
+        "deleteSingleError": "বিভাগ ডিলিট করা যায়নি",
+        "deleteBulkSuccess": "{count}টি বিভাগ সফলভাবে ডিলিট হয়েছে",
+        "deleteBulkError": "কিছু বিভাগ ডিলিট করা যায়নি",
+        "updateSuccess": "{count}টি বিভাগ আপডেট হয়েছে",
+        "updateError": "{count}টি বিভাগ আপডেট করা যায়নি"
+      }
+    },
+    "phrases": {
+      "all": "সব",
+      "failed_to_fetch_customers": "Failed to fetch customers",
+      "delete_customer": "Delete customer",
+      "delete": "মুছুন",
+      "cancel": "বাতিল",
+      "customer_deleted_successfully": "Customer deleted successfully",
+      "failed_to_delete_customer": "Failed to delete customer",
+      "delete_customers": "গ্রাহক ডিলিট",
+      "failed_to_delete_some_customers": "Failed to delete some customers",
+      "update_account_status": "Update account status",
+      "update": "আপডেট",
+      "customer": "গ্রাহক",
+      "unknown": "অজানা",
+      "account": "অ্যাকাউন্ট",
+      "active": "সক্রিয়",
+      "inactive": "নিষ্ক্রিয়",
+      "banned": "নিষিদ্ধ",
+      "loyalty_tier": "লয়্যালটি টিয়ার",
+      "bronze": "ব্রোঞ্জ",
+      "silver": "সিলভার",
+      "gold": "গোল্ড",
+      "platinum": "প্লাটিনাম",
+      "orders": "অর্ডার",
+      "spent": "খরচ",
+      "last_active": "সর্বশেষ সক্রিয়",
+      "tags": "ট্যাগ",
+      "": "-",
+      "tier": "টিয়ার",
+      "tag": "ট্যাগ",
+      "export": "এক্সপোর্ট",
+      "add_customer": "গ্রাহক যোগ করুন",
+      "set_active": "সক্রিয় করুন",
+      "set_inactive": "নিষ্ক্রিয় করুন",
+      "set_banned": "নিষিদ্ধ করুন",
+      "view_details": "বিস্তারিত দেখুন",
+      "edit": "এডিট",
+      "customers": "গ্রাহক",
+      "search_by_name_or_email": "নাম বা ইমেইল দিয়ে খুঁজুন",
+      "actions": "অ্যাকশন",
+      "no_customers_found": "কোনো গ্রাহক পাওয়া যায়নি",
+      "failed_to_fetch_staff": "Failed to fetch staff",
+      "failed_to_fetch_staff_members": "Failed to fetch staff members",
+      "remove_staff_member": "Remove staff member",
+      "remove": "Remove",
+      "staff_member_removed_successfully": "Staff member removed successfully",
+      "failed_to_remove_staff_member": "Failed to remove staff member",
+      "remove_staff_members": "Remove staff members",
+      "remove_all": "Remove all",
+      "failed_to_remove_some_staff_members": "Failed to remove some staff members",
+      "staff_member": "Staff Member",
+      "staff_status": "Staff Status",
+      "department": "Department",
+      "permissions": "Permissions",
+      "none": "None",
+      "joined": "Joined",
+      "add_staff": "Add staff",
+      "ban": "Ban",
+      "remove_from_staff": "Remove from staff",
+      "staff_members": "Staff Members",
+      "no_staff_members_found": "No staff members found",
+      "failed_to_fetch_vendors": "Failed to fetch vendors",
+      "failed_to_update_vendor": "Failed to update vendor",
+      "vendor_status_updated": "Vendor status updated",
+      "failed_to_update_vendor_status": "Failed to update vendor status",
+      "failed_to_update_account": "Failed to update account",
+      "vendor_account_status_updated": "Vendor account status updated",
+      "failed_to_update_account_status": "Failed to update account status",
+      "failed_to_delete_vendor": "Failed to delete vendor",
+      "vendor_deleted": "Vendor deleted",
+      "store_owner": "Store & Owner",
+      "unknown_owner": "Unknown owner",
+      "vendor_status": "Vendor Status",
+      "approved": "Approved",
+      "pending": "Pending",
+      "suspended": "Suspended",
+      "rejected": "Rejected",
+      "commission": "Commission",
+      "sales": "Sales",
+      "add_vendor": "Add Vendor",
+      "details": "Details",
+      "edit_vendor": "Edit vendor",
+      "visit_store": "Visit store",
+      "approve_vendor": "Approve vendor",
+      "suspend_vendor": "Suspend vendor",
+      "ban_account": "Ban account",
+      "activate_account": "Activate account",
+      "delete_vendor": "Delete vendor",
+      "vendors": "Vendors",
+      "search_vendors": "Search vendors...",
+      "no_vendors_found": "No vendors found",
+      "failed_to_load_discounts": "Failed to load discounts",
+      "discount_code_is_required": "Discount code is required",
+      "discount_value_must_be_greater_than_0": "Discount value must be greater than 0",
+      "end_date_is_required": "End date is required",
+      "failed_to_save_discount": "Failed to save discount",
+      "discount_created": "Discount created",
+      "discount_updated": "Discount updated",
+      "delete_discount": "Delete Discount",
+      "failed_to_delete_discount": "Failed to delete discount",
+      "discount_deleted": "Discount deleted",
+      "delete_discounts": "Delete Discounts",
+      "update_discount_status": "Update Discount Status",
+      "discount": "Discount",
+      "no_label": "No label",
+      "free_shipping": "Free shipping",
+      "type": "Type",
+      "percentage": "Percentage",
+      "fixed": "Fixed",
+      "value": "Value",
+      "status": "Status",
+      "expired": "Expired",
+      "usage": "Usage",
+      "schedule": "Schedule",
+      "import": "Import",
+      "export_will_be_available_soon": "Export will be available soon",
+      "import_will_be_available_soon": "Import will be available soon",
+      "add_discount": "Add discount",
+      "discounts": "Discounts",
+      "search_code_label_or_description": "Search code, label, or description",
+      "no_discounts_found": "No discounts found",
+      "edit_discount": "Edit Discount",
+      "create_discount": "Create Discount",
+      "configure_discount_rules_similar_to_shopify_coupon_settings": "Configure discount rules similar to Shopify coupon settings.",
+      "code": "Code",
+      "summer10": "SUMMER10",
+      "label": "Label",
+      "flash_sale": "Flash Sale",
+      "fixed_amount": "Fixed amount",
+      "minimum_order_amount": "Minimum order amount",
+      "maximum_discount_cap": "Maximum discount cap",
+      "optional": "Optional",
+      "total_usage_limit": "Total usage limit",
+      "per_customer_usage_limit": "Per-customer usage limit",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "description": "Description",
+      "optional_internal_note_for_this_discount": "Optional internal note for this discount",
+      "code_will_be_normalized_to_uppercase": "Code will be normalized to uppercase.",
+      "tax_is_calculated_after_discount_during_checkout": "Tax is calculated after discount during checkout.",
+      "expired_codes_are_automatically_rejected_in_checkout_validation": "Expired codes are automatically rejected in checkout validation.",
+      "saving": "Saving...",
+      "update_discount": "Update Discount",
+      "pos": "POS",
+      "manage_pos": "POS পরিচালনা",
+      "pos_create": "POS তৈরি",
+      "pos_edit": "POS এডিট",
+      "pos_delete": "POS ডিলিট",
+      "manage_orders": "অর্ডার পরিচালনা",
+      "create_orders": "অর্ডার তৈরি",
+      "edit_orders": "অর্ডার এডিট",
+      "delete_orders": "অর্ডার ডিলিট",
+      "products": "পণ্য",
+      "manage_products": "পণ্য পরিচালনা",
+      "create_products": "পণ্য তৈরি",
+      "edit_products": "পণ্য এডিট",
+      "delete_products": "পণ্য ডিলিট",
+      "manage_customers": "গ্রাহক পরিচালনা",
+      "create_customers": "গ্রাহক তৈরি",
+      "edit_customers": "গ্রাহক এডিট",
+      "inventory": "ইনভেন্টরি",
+      "manage_inventory": "ইনভেন্টরি পরিচালনা",
+      "create_inventory": "ইনভেন্টরি তৈরি",
+      "edit_inventory": "ইনভেন্টরি এডিট",
+      "delete_inventory": "ইনভেন্টরি ডিলিট",
+      "analytics": "অ্যানালিটিক্স"
+    },
+    "customersPage": {
+      "stats": {
+        "totalCustomers": {
+          "title": "মোট গ্রাহক",
+          "description": "সব গ্রাহক প্রোফাইল"
+        },
+        "activeAccounts": {
+          "title": "সক্রিয় অ্যাকাউন্ট",
+          "description": "অর্ডার করতে সক্ষম"
+        },
+        "vipCustomers": {
+          "title": "VIP গ্রাহক",
+          "description": "গোল্ড ও প্লাটিনাম টিয়ার"
+        },
+        "customerSpend": {
+          "title": "গ্রাহকের খরচ",
+          "description": "লাইফটাইম মোট খরচ"
+        },
+        "avgSpendPerCustomer": {
+          "title": "গড় খরচ / গ্রাহক",
+          "description": "গড় গ্রাহক মূল্য"
+        }
+      }
+    },
+    "staffPage": {
+      "stats": {
+        "totalStaff": {
+          "title": "মোট স্টাফ",
+          "description": "সকল স্টাফ সদস্য"
+        },
+        "activeStaff": {
+          "title": "সক্রিয় স্টাফ",
+          "description": "বর্তমানে সক্রিয়"
+        },
+        "withPosAccess": {
+          "title": "POS অ্যাক্সেসসহ",
+          "description": "POS টার্মিনাল ব্যবহার করতে পারে"
+        },
+        "inactiveStaff": {
+          "title": "নিষ্ক্রিয় স্টাফ",
+          "description": "নিষ্ক্রিয় করা অ্যাকাউন্ট"
+        }
+      }
+    },
+    "vendorsPage": {
+      "stats": {
+        "totalVendors": {
+          "title": "মোট ভেন্ডর",
+          "description": "সব নিবন্ধিত স্টোর"
+        },
+        "approvedVendors": {
+          "title": "অনুমোদিত ভেন্ডর",
+          "description": "বর্তমানে বিক্রি করছে"
+        },
+        "pendingReview": {
+          "title": "রিভিউ অপেক্ষায়",
+          "description": "অনুমোদনের অপেক্ষায়"
+        },
+        "flaggedVendors": {
+          "title": "ফ্ল্যাগড ভেন্ডর",
+          "description": "সাসপেন্ডেড বা রিজেক্টেড"
+        },
+        "vendorSales": {
+          "title": "ভেন্ডর বিক্রি",
+          "description": "লাইফটাইম মোট ভেন্ডর বিক্রি"
+        }
+      }
+    },
+    "discountsPage": {
+      "stats": {
+        "totalDiscounts": {
+          "title": "মোট ডিসকাউন্ট",
+          "description": "সব কনফিগার করা ডিসকাউন্ট কোড"
+        },
+        "activeDiscounts": {
+          "title": "সক্রিয় ডিসকাউন্ট",
+          "description": "চেকআউটে উপলভ্য"
+        },
+        "totalRedemptions": {
+          "title": "মোট ব্যবহার",
+          "description": "অর্ডারে যতবার ব্যবহার হয়েছে"
+        },
+        "expiringIn7Days": {
+          "title": "৭ দিনের মধ্যে মেয়াদ শেষ",
+          "description": "শীঘ্রই শেষ হবে এমন কোড"
+        }
+      }
+    },
+    "customersDataTable": {
+      "thisCustomer": "এই গ্রাহক",
+      "deleteSingleDescription": "আপনি কি {name}-কে মুছে ফেলতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+      "deleteBulkDescription": "নির্বাচিত {count} জন গ্রাহক মুছবেন? এই কাজটি ফিরিয়ে আনা যাবে না।",
+      "deleteBulkSuccess": "{count} জন গ্রাহক সফলভাবে মুছে ফেলা হয়েছে",
+      "updateStatusDescription": "নির্বাচিত {count} জন গ্রাহকের স্ট্যাটাস \"{status}\" করা হবে?",
+      "updateSuccess": "{count} জন গ্রাহক আপডেট হয়েছে",
+      "updateError": "{count} জন গ্রাহক আপডেট করা যায়নি"
+    },
+    "staffDataTable": {
+      "removeSingleDescription": "আপনি কি {name}-কে স্টাফ থেকে সরাতে চান? এটি গ্রাহক অ্যাকাউন্টে ফিরে যাবে।",
+      "removeBulkDescription": "নির্বাচিত {count} জন স্টাফ সদস্য অপসারণ করবেন? তারা গ্রাহক অ্যাকাউন্টে ফিরে যাবে।",
+      "removeBulkSuccess": "{count} জন স্টাফ সদস্য অপসারণ হয়েছে",
+      "updateStatusDescription": "{count} জন স্টাফ সদস্যের স্ট্যাটাস \"{status}\" করা হবে?",
+      "updateSuccess": "{count} জন স্টাফ সদস্য আপডেট হয়েছে"
+    },
+    "discountsDataTable": {
+      "deleteBulkDescription": "আপনি কি {count}টি ডিসকাউন্ট মুছতে চান? এই কাজটি ফিরিয়ে আনা যাবে না।",
+      "deleteBulkSuccess": "{count}টি ডিসকাউন্ট মুছে ফেলা হয়েছে",
+      "deleteBulkError": "{count}টি ডিসকাউন্ট মুছতে ব্যর্থ",
+      "updateStatusDescription": "{count}টি ডিসকাউন্টের স্ট্যাটাস \"{status}\" করা হবে?",
+      "updateSuccess": "{count}টি ডিসকাউন্ট আপডেট হয়েছে",
+      "updateError": "{count}টি ডিসকাউন্ট আপডেট করা যায়নি"
+    },
+    "onlineStoreThemePage": {
+      "badge": "অনলাইন স্টোর",
+      "title": "থিমসমূহ",
+      "description": "স্বচ্ছতা, গতি এবং কনভার্সনের জন্য ইন্ডাস্ট্রি-স্ট্যান্ডার্ড ই-কমার্স প্যাটার্নে তৈরি স্টোরফ্রন্ট থিম নির্বাচন করুন।",
+      "currentTheme": "বর্তমান থিম",
+      "comingSoon": "শীঘ্রই আসছে",
+      "active": "সক্রিয়",
+      "themes": {
+        "essential": {
+          "name": "এসেনশিয়াল",
+          "description": "সাধারণ রিটেইল ক্যাটালগ ও বহু-ক্যাটাগরি মার্চেন্ডাইজিংয়ের জন্য ভারসাম্যপূর্ণ স্টোরফ্রন্ট।",
+          "styleNote": "পরিষ্কার হায়ারার্কি, দ্রুত স্ক্যানিং এবং প্রোমোশন-রেডি লেআউট।"
+        },
+        "electronics": {
+          "name": "ইলেকট্রনিক্স",
+          "description": "তুলনা-বান্ধব কার্ড ও পারফরম্যান্স কলআউটসহ উচ্চ-স্পেক পণ্যের স্টোরিটেলিং।",
+          "styleNote": "টেকনিক্যাল পণ্য, অ্যাকসেসরিজ এবং ফিচার-সমৃদ্ধ PDP ফ্লোর জন্য অপ্টিমাইজড।"
+        },
+        "luxe": {
+          "name": "লাক্স",
+          "description": "প্রিমিয়াম ফ্যাশন, বিউটি ও লাইফস্টাইল ব্র্যান্ডের জন্য এডিটোরিয়াল-স্টাইল ভিজুয়াল উপস্থাপনা।",
+          "styleNote": "ইমেজ-ফার্স্ট মার্চেন্ডাইজিং এবং পরিশীলিত কালেকশন ন্যারেটিভে ফোকাস করে।"
+        }
+      }
+    },
+    "homePageBuilder": {
+      "loading": "হোম পেজ বিল্ডার লোড হচ্ছে...",
+      "title": "পেজ বিল্ডার",
+      "subtitle": "ড্র্যাগ করে ক্রম বদলান - দৃশ্যমানতা টগল করুন - কন্টেন্ট সম্পাদনা করুন",
+      "preview": "প্রিভিউ",
+      "save": "সেভ",
+      "saving": "সেভ হচ্ছে...",
+      "hidden": "লুকানো",
+      "allChangesSaved": "সব পরিবর্তন সেভ হয়েছে। হোম পেজ এই এডিটরের সাথে পুরোপুরি সিঙ্ক করা আছে।",
+      "sections": {
+        "hero": {
+          "title": "হিরো",
+          "subtitle": "মূল স্লাইডার, সাইড প্রোমো এবং হাইলাইটস"
+        },
+        "newArrivals": {
+          "title": "নতুন আগমন",
+          "subtitle": "সর্বশেষ পণ্যের সেকশন শিরোনাম"
+        },
+        "promoBanners": {
+          "title": "প্রোমো ব্যানার",
+          "subtitle": "নতুন আগমনের নিচে দুটি প্রোমোশনাল কার্ড"
+        },
+        "featuredProducts": {
+          "title": "ফিচারড পণ্য",
+          "subtitle": "পণ্য আবিষ্কারের সেকশন শিরোনাম"
+        }
+      },
+      "row": {
+        "dragAria": "{title} টেনে নিন",
+        "hideAria": "{title} লুকান",
+        "showAria": "{title} দেখান",
+        "editAria": "{title} সম্পাদনা করুন"
+      },
+      "editor": {
+        "heroSlides": "হিরো স্লাইডসমূহ",
+        "slide": "স্লাইড",
+        "label": "লেবেল",
+        "title": "শিরোনাম",
+        "description": "বর্ণনা",
+        "heroSideBanners": "হিরো সাইড ব্যানারসমূহ",
+        "banner": "ব্যানার",
+        "eyebrow": "আইব্রো টেক্সট",
+        "titleLine1": "শিরোনাম লাইন ১",
+        "titleLine2": "শিরোনাম লাইন ২",
+        "ctaLabel": "CTA লেবেল",
+        "imagePath": "ইমেজ পাথ",
+        "imageAlt": "ইমেজ alt",
+        "heroHighlights": "হিরো হাইলাইটস",
+        "highlight": "হাইলাইট",
+        "sectionTitle": "সেকশন শিরোনাম",
+        "sectionSubtitle": "সেকশন সাবটাইটেল",
+        "newArrivalsTitlePlaceholder": "নতুন আগমন।",
+        "optionalSubtitlePlaceholder": "ঐচ্ছিক সাবটাইটেল",
+        "promoBanner": "প্রোমো ব্যানার",
+        "buttonLabel": "বাটন লেবেল",
+        "featuredProductsHeading": "ফিচারড পণ্যের শিরোনাম",
+        "featuredProductsPlaceholder": "ডিফল্ট টেক্সটের জন্য খালি রাখুন",
+        "heroUploadTitle": "কভার ইমেজ এখানে টেনে আনুন অথবা ব্রাউজ করতে ক্লিক করুন",
+        "heroUploadDescription": "শুধুমাত্র ইমেজ। Ctrl+V দিয়ে পেস্ট করুন।",
+        "heroSizeGuide": "প্রস্তাবিত সাইজ: 1360 x 314 px",
+        "promotionsOffers": {
+          "slot": {
+            "tallLeft": "বামে লম্বা",
+            "tallMiddle": "মাঝে লম্বা",
+            "squareTopRight1": "উপরে ডানে বর্গ",
+            "squareTopRight2": "উপরে ডানে বর্গ (তীর সহ)",
+            "wideBottomRight": "নিচে ডানে চওড়া"
+          },
+          "subtitle": "সাবটাইটেল (যেমন, ইকোভোল্ট)",
+          "discount": "ছাড় লেবেল (যেমন, 15% ছাড়!)",
+          "showArrow": "তীর আইকন দেখান",
+          "theme": "থিম",
+          "card": "কার্ড",
+          "savedToCard": "কার্ডের ছবিতে সংরক্ষিত হয়েছে"
+        }
+      },
+      "toasts": {
+        "loadError": "হোমপেজ এডিটরের ডেটা লোড করা যায়নি",
+        "saveSuccess": "হোমপেজ সেকশন সফলভাবে সেভ হয়েছে",
+        "saveError": "হোমপেজ সেকশন সেভ করা যায়নি"
+      }
+    },
+    "staffDashboardPage": {
+      "title": "স্টাফ ড্যাশবোর্ড",
+      "subtitle": "বরাদ্দ করা মডিউলগুলোতে দ্রুত প্রবেশ",
+      "openCta": "খুলুন",
+      "noModulesTitle": "কোনো মডিউল বরাদ্দ নেই",
+      "noModulesDescription": "আপনার এখনও কোনো স্টাফ মডিউলে অ্যাক্সেস নেই। অনুমতি দিতে অ্যাডমিনের সঙ্গে যোগাযোগ করুন।"
+    },
+    "staffDashboard": {
+      "quickAccess": "দ্রুত প্রবেশ",
+      "todaysSnapshot": "আজকের সারাংশ",
+      "todaysRegister": "আজকের রেজিস্টার",
+      "recentPosSales": "সাম্প্রতিক পিওএস বিক্রয়",
+      "recentPosSalesHint": "আপনার সাম্প্রতিক পয়েন্ট অফ সেল লেনদেন",
+      "noPosSales": "আজ কোনো পিওএস বিক্রয় নেই",
+      "recentOrders": "সাম্প্রতিক অর্ডার",
+      "recentOrdersSubtitle": "আপনার স্টোরের সর্বশেষ অর্ডার",
+      "ordersToday": "আজকের অর্ডার",
+      "revenueToday": "আজকের রাজস্ব",
+      "itemsToday": "আজকে বিক্রিত আইটেম",
+      "customersToday": "নতুন গ্রাহক আজ",
+      "posSalesToday": "আজকের পিওএস বিক্রয়",
+      "posRevenueToday": "আজকের পিওএস রাজস্ব",
+      "posItemsToday": "আজকের পিওএস আইটেম",
+      "averageSale": "গড় বিক্রয়",
+      "items": "আইটেম",
+      "time": "সময়",
+      "topProducts": "সর্বাধিক বিক্রিত পণ্য",
+      "last30Days": "গত ৩০ দিন",
+      "noTopProducts": "এখনও কোনো পণ্য বিক্রি হয়নি",
+      "unitsSold": "বিক্রি",
+      "lowStock": "কম স্টক সতর্কতা",
+      "lowStockHint": "ইনভেন্টরি সতর্কতা সহ পণ্য",
+      "noLowStock": "সমস্ত পণ্য স্টকে রয়েছে",
+      "outOfStock": "স্টক আউট",
+      "left": "বাকি",
+      "latestCustomers": "সর্বশেষ গ্রাহক",
+      "latestCustomersHint": "সম্প্রতি নিবন্ধিত গ্রাহক",
+      "noLatestCustomers": "এখনও কোনো নতুন গ্রাহক নেই"
+    },
+    "reviewsPage": {
+      "title": "রিভিউ",
+      "searchPlaceholder": "রিভিউ খুঁজুন",
+      "outOfReviews": "— মোট {count}টি রিভিউ",
+      "thisWeek": "এই সপ্তাহে",
+      "overallPerformance": "সামগ্রিক পারফরম্যান্স",
+      "performance": {
+        "excellent": "চমৎকার",
+        "good": "ভালো",
+        "average": "মাঝারি",
+        "poor": "দুর্বল",
+        "none": "ডেটা নেই"
+      },
+      "table": {
+        "product": "পণ্য",
+        "reviewer": "রিভিউয়ার",
+        "review": "রিভিউ",
+        "date": "তারিখ",
+        "status": "স্ট্যাটাস",
+        "actions": "অ্যাকশন"
+      },
+      "tabs": {
+        "all": "সব",
+        "published": "প্রকাশিত",
+        "onHold": "হোল্ডে",
+        "withReply": "জবাব দেওয়া",
+        "noReply": "জবাবের অপেক্ষায়"
+      },
+      "filters": {
+        "status": "স্ট্যাটাস",
+        "rating": "রেটিং"
+      },
+      "status": {
+        "published": "প্রকাশিত",
+        "onHold": "হোল্ডে"
+      },
+      "verified": "যাচাইকৃত ক্রেতা",
+      "unknownProduct": "অজানা পণ্য",
+      "youReplied": "আপনি জবাব দিয়েছেন",
+      "reply": "জবাব দিন",
+      "editReply": "জবাব সম্পাদনা",
+      "replyToReview": "রিভিউতে জবাব দিন",
+      "replyHint": "আপনার জবাব স্টোরফ্রন্টে রিভিউর নিচে প্রকাশ্যে দেখা যাবে।",
+      "yourReply": "আপনার জবাব",
+      "aiReplyPlaceholder": "এই রিভিউয়ের একটি উত্তর লিখুন…",
+      "replyPlaceholder": "ফিডব্যাকের জন্য ধন্যবাদ…",
+      "sendReply": "জবাব পাঠান",
+      "removeReply": "জবাব মুছুন",
+      "viewOnStore": "স্টোরে দেখুন",
+      "publish": "প্রকাশ করুন",
+      "unpublish": "প্রকাশনা বন্ধ করুন",
+      "putOnHold": "হোল্ডে রাখুন",
+      "empty": "এখনও কোনো রিভিউ নেই",
+      "delete": {
+        "title": "রিভিউ মুছুন",
+        "description": "এটি স্থায়ীভাবে রিভিউ মুছে দেবে এবং পণ্যের রেটিং পুনরায় গণনা করবে।"
+      },
+      "bulk": {
+        "publish": "প্রকাশ করুন",
+        "onHold": "হোল্ডে রাখুন",
+        "deleteTitle": "রিভিউগুলো মুছুন",
+        "deleteDescription": "{count}টি রিভিউ মুছবেন? এটি ফেরত আনা যাবে না।",
+        "updated": "{count}টি রিভিউ আপডেট হয়েছে",
+        "deleted": "{count}টি রিভিউ মুছে ফেলা হয়েছে"
+      },
+      "toast": {
+        "published": "রিভিউ প্রকাশিত হয়েছে",
+        "onHold": "রিভিউ হোল্ডে রাখা হয়েছে",
+        "deleted": "রিভিউ মুছে ফেলা হয়েছে",
+        "replySent": "জবাব পাঠানো হয়েছে",
+        "replyUpdated": "জবাব আপডেট হয়েছে",
+        "replyRemoved": "জবাব মুছে ফেলা হয়েছে"
+      },
+      "starsAriaLabel": "{value} স্টার",
+      "reviewImageAlt": "রিভিউ ছবি {index}"
+    },
+    "paymentsOverviewPage": {
+      "title": "পেমেন্ট",
+      "subtitle": "লেনদেন এবং রিফান্ড পর্যবেক্ষণ করুন।",
+      "subtitleMultiVendor": "লেনদেন, রিফান্ড এবং পেআউটের অবস্থা পর্যবেক্ষণ করুন।",
+      "actions": {
+        "transactions": "লেনদেন",
+        "refresh": "রিফ্রেশ"
+      },
+      "metrics": {
+        "paidRevenue": "প্রাপ্ত রাজস্ব",
+        "refundedAmount": "রিফান্ডের পরিমাণ",
+        "pendingPayments": "অপেক্ষমাণ পেমেন্ট",
+        "refundedOrders": "রিফান্ডকৃত অর্ডার",
+        "pendingPayoutAmount": "অপেক্ষমাণ পেআউটের পরিমাণ",
+        "paidPayoutAmount": "প্রদত্ত পেআউটের পরিমাণ"
+      },
+      "gatewayHealth": {
+        "title": "গেটওয়ে অবস্থা",
+        "disabled": "নিষ্ক্রিয়",
+        "connected": "সংযুক্ত",
+        "needsSetup": "সেটআপ প্রয়োজন"
+      },
+      "gateways": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cashOnDelivery": "ক্যাশ অন ডেলিভারি"
+      },
+      "recentTransactions": {
+        "title": "সাম্প্রতিক লেনদেন",
+        "columns": {
+          "order": "অর্ডার",
+          "type": "ধরন",
+          "provider": "প্রোভাইডার",
+          "status": "স্ট্যাটাস",
+          "amount": "পরিমাণ",
+          "date": "তারিখ"
+        },
+        "empty": "এখনও কোনো লেনদেন নেই।"
+      },
+      "transactionTypes": {
+        "charge": "চার্জ",
+        "refund": "রিফান্ড",
+        "adjustment": "সমন্বয়"
+      },
+      "transactionStatuses": {
+        "pending": "অপেক্ষমাণ",
+        "succeeded": "সফল",
+        "failed": "ব্যর্থ",
+        "cancelled": "বাতিল"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "razorpay": "Razorpay",
+        "paystack": "Paystack",
+        "cod": "ক্যাশ অন ডেলিভারি",
+        "cash": "নগদ",
+        "manual": "ম্যানুয়াল",
+        "pos_card": "POS কার্ড",
+        "pos_cash": "POS নগদ"
+      }
+    },
+    "payoutsPage": {
+      "title": "পেআউট",
+      "subtitle": "ভেন্ডর সেটেলমেন্ট রান তৈরি করুন এবং পেআউট লাইফসাইকেল ট্র্যাক করুন।",
+      "createSection": {
+        "title": "পেআউট তৈরি করুন",
+        "selectVendor": "ভেন্ডর নির্বাচন করুন",
+        "periodStart": "পিরিয়ড শুরু",
+        "periodEnd": "পিরিয়ড শেষ",
+        "creating": "তৈরি করা হচ্ছে...",
+        "create": "তৈরি করুন",
+        "optionalNote": "ঐচ্ছিক নোট"
+      },
+      "listSection": {
+        "title": "পেআউট রান",
+        "searchPlaceholder": "পেআউট নম্বর খুঁজুন",
+        "allStatuses": "সব স্ট্যাটাস",
+        "columns": {
+          "payout": "পেআউট",
+          "vendor": "ভেন্ডর",
+          "status": "স্ট্যাটাস",
+          "amount": "পরিমাণ",
+          "period": "সময়কাল",
+          "details": "বিস্তারিত"
+        },
+        "open": "খুলুন",
+        "empty": "কোনো পেআউট পাওয়া যায়নি।"
+      },
+      "statuses": {
+        "pending": "অপেক্ষমাণ",
+        "processing": "প্রক্রিয়াধীন",
+        "paid": "পরিশোধিত",
+        "failed": "ব্যর্থ",
+        "cancelled": "বাতিল"
+      },
+      "pagination": {
+        "pageOf": "পৃষ্ঠা {page} / {totalPages}"
+      },
+      "toast": {
+        "requiredFields": "ভেন্ডর, শুরু তারিখ এবং শেষ তারিখ বাধ্যতামূলক।",
+        "createSuccess": "পেআউট তৈরি হয়েছে।",
+        "createError": "পেআউট তৈরি করা যায়নি"
+      }
+    },
+    "paymentTransactionsPage": {
+      "title": "পেমেন্ট লেনদেন",
+      "subtitle": "সব চার্জ, রিফান্ড এবং সমন্বয় ইভেন্ট পর্যালোচনা করুন।",
+      "filters": {
+        "title": "ফিল্টার",
+        "searchPlaceholder": "অর্ডার বা এক্সটার্নাল আইডি দিয়ে খুঁজুন",
+        "allStatuses": "সব স্ট্যাটাস",
+        "allTypes": "সব ধরন",
+        "allProviders": "সব প্রোভাইডার"
+      },
+      "table": {
+        "columns": {
+          "order": "অর্ডার",
+          "type": "ধরন",
+          "status": "স্ট্যাটাস",
+          "provider": "প্রোভাইডার",
+          "gross": "গ্রস",
+          "net": "নেট",
+          "date": "তারিখ",
+          "details": "বিস্তারিত"
+        },
+        "viewOrder": "অর্ডার দেখুন",
+        "empty": "কোনো লেনদেন পাওয়া যায়নি।"
+      },
+      "pagination": {
+        "pageOf": "পৃষ্ঠা {page} / {totalPages}"
+      },
+      "transactionTypes": {
+        "charge": "চার্জ",
+        "refund": "রিফান্ড",
+        "adjustment": "সমন্বয়"
+      },
+      "transactionStatuses": {
+        "succeeded": "সফল",
+        "pending": "অপেক্ষমাণ",
+        "failed": "ব্যর্থ",
+        "cancelled": "বাতিল"
+      },
+      "providers": {
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "cod": "ক্যাশ অন ডেলিভারি",
+        "cash": "নগদ",
+        "manual": "ম্যানুয়াল"
+      }
+    },
+    "seoChecklist": {
+      "title": "SEO চেকলিস্ট",
+      "score": "স্কোর",
+      "messages": {
+        "titleMissing": "একটি পেজ টাইটেল যোগ করুন — সার্চ ইঞ্জিনের দেখানোর মতো কিছু নেই।",
+        "titleShort": "টাইটেলটি ছোট; 30–70 অক্ষরে সবচেয়ে ভালো র‍্যাংক হয়।",
+        "titleLong": "টাইটেলটি অনেক লম্বা এবং ফলাফলে কেটে যাবে।",
+        "titleGood": "টাইটেলের দৈর্ঘ্য ঠিক আছে।",
+        "metaMissing": "একটি মেটা ডেসক্রিপশন যোগ করুন — নাহলে ফলাফলে পেজের এলোমেলো টেক্সট দেখাবে।",
+        "metaAuto": "মেটা ডেসক্রিপশন কন্টেন্ট থেকে স্বয়ংক্রিয়ভাবে পূরণ হয়েছে; ভালো ক্লিক-থ্রুর জন্য নিজে একটি লিখুন।",
+        "metaShort": "মেটা ডেসক্রিপশনটি ছোট; 70–160 অক্ষরে সবচেয়ে ভালো কাজ করে।",
+        "metaLong": "মেটা ডেসক্রিপশনটি অনেক লম্বা এবং কেটে যাবে।",
+        "metaGood": "মেটা ডেসক্রিপশনের দৈর্ঘ্য ঠিক আছে।",
+        "handleMissing": "একটি URL হ্যান্ডেল যোগ করুন।",
+        "handleAuto": "হ্যান্ডেলটি টাইটেল থেকে স্বয়ংক্রিয়ভাবে তৈরি হয়েছে; এটি পর্যালোচনা করুন।",
+        "handleMessy": "হ্যান্ডেলে অস্বাভাবিক অক্ষর বা দৈর্ঘ্য আছে; এটি ছোট ও হাইফেন দিয়ে রাখুন।",
+        "handleGood": "URL হ্যান্ডেল পরিষ্কার আছে।",
+        "contentThin": "কন্টেন্ট কম; দীর্ঘ ও কার্যকর কন্টেন্ট ভালো র‍্যাংক করে।",
+        "contentGood": "কন্টেন্টের গভীরতা ঠিক আছে।",
+        "tagsMissing": "অভ্যন্তরীণ ডিসকভারি উন্নত করতে কিছু ট্যাগ যোগ করুন।",
+        "tagsGood": "ট্যাগ যোগ করা আছে।"
+      }
+    }
+  },
+  "footer": {
+    "aboutUs": "আমাদের সম্পর্কে",
+    "careers": "ক্যারিয়ার",
+    "press": "প্রেস",
+    "blog": "ব্লগ",
+    "helpCenter": "সাহায্য কেন্দ্র",
+    "contactUs": "যোগাযোগ",
+    "shippingInfo": "শিপিং তথ্য",
+    "returns": "রিটার্ন",
+    "termsOfService": "সেবার শর্তাবলী",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "cookiePolicy": "কুকি নীতি",
+    "accessibility": "অ্যাক্সেসিবিলিটি",
+    "newsletter": "নিউজলেটার",
+    "subscribeDescription": "আপডেট এবং একচেটিয়া অফারের জন্য আমাদের নিউজলেটারে সাবস্ক্রাইব করুন।",
+    "subscribe": "সাবস্ক্রাইব",
+    "emailPlaceholder": "আপনার ইমেইল লিখুন"
+  },
+  "errors": {
+    "pageNotFound": "পেজ পাওয়া যায়নি",
+    "pageNotFoundDescription": "আপনি যে পেজটি খুঁজছেন সেটি বিদ্যমান নেই বা সরানো হয়েছে।",
+    "serverError": "সার্ভার ত্রুটি",
+    "serverErrorDescription": "আমাদের দিকে কিছু ভুল হয়েছে। পরে আবার চেষ্টা করুন।",
+    "unauthorized": "অননুমোদিত",
+    "unauthorizedDescription": "এই পেজটি অ্যাক্সেস করার অনুমতি নেই।",
+    "networkError": "নেটওয়ার্ক ত্রুটি",
+    "networkErrorDescription": "অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন।"
+  },
+  "pos": {
+    "searchProducts": "পণ্য খুঁজুন...",
+    "allProducts": "সব",
+    "noProducts": "কোনো পণ্য পাওয়া যায়নি",
+    "noProductsHint": "ভিন্ন অনুসন্ধান বা বিভাগ চেষ্টা করুন",
+    "variants": "ভেরিয়েন্ট",
+    "selectVariant": "একটি ভেরিয়েন্ট নির্বাচন করুন",
+    "inStock": "স্টকে আছে",
+    "outOfStock": "স্টক নেই",
+    "currentSale": "বর্তমান বিক্রয়",
+    "clearCart": "মুছুন",
+    "emptyCart": "কার্টে কোনো আইটেম নেই",
+    "addCustomer": "গ্রাহক যোগ করুন",
+    "searchCustomers": "নাম, ইমেইল, বা ফোন দিয়ে খুঁজুন...",
+    "addNote": "এই অর্ডারে একটি নোট যোগ করুন...",
+    "subtotal": "সাবটোটাল",
+    "tax": "কর",
+    "total": "মোট",
+    "charge": "চার্জ",
+    "selectPaymentMethod": "পেমেন্ট পদ্ধতি নির্বাচন করুন",
+    "totalDue": "মোট বকেয়া",
+    "cash": "নগদ",
+    "cashPayment": "নগদ পেমেন্ট গ্রহণ করুন",
+    "card": "কার্ড",
+    "cardPayment": "ক্রেডিট বা ডেবিট কার্ড",
+    "manual": "ম্যানুয়াল",
+    "manualPayment": "কাস্টম পেমেন্ট পদ্ধতি",
+    "cashTendered": "প্রদত্ত নগদ",
+    "change": "ফেরত",
+    "orderComplete": "পেমেন্ট সফল",
+    "orderNumber": "অর্ডার",
+    "orderFailed": "অর্ডার প্রক্রিয়া করতে ব্যর্থ",
+    "printReceipt": "রসিদ প্রিন্ট করুন",
+    "newSale": "নতুন বিক্রয়",
+    "errorLoadingProducts": "পণ্য লোড করতে ব্যর্থ",
+    "customer": {
+      "addCustomer": "গ্রাহক যোগ করুন",
+      "addCustomerDesc": "বিদ্যমান গ্রাহক খুঁজুন বা নতুন তৈরি করুন",
+      "walkIn": "ওয়াক-ইন গ্রাহক",
+      "walkInDesc": "গ্রাহকের বিবরণ প্রয়োজন নেই",
+      "existingCustomer": "বিদ্যমান গ্রাহক",
+      "createNew": "নতুন তৈরি করুন",
+      "searchPlaceholder": "নাম, ফোন, বা ইমেইল দিয়ে খুঁজুন...",
+      "searchHint": "অনুসন্ধানের জন্য কমপক্ষে ২ অক্ষর টাইপ করুন",
+      "noResults": "কোনো গ্রাহক পাওয়া যায়নি",
+      "createInstead": "পরিবর্তে নতুন গ্রাহক তৈরি করুন",
+      "customerName": "গ্রাহকের নাম",
+      "namePlaceholder": "গ্রাহকের নাম লিখুন",
+      "emailAddress": "ইমেইল ঠিকানা",
+      "emailPlaceholder": "customer@example.com",
+      "phone": "ফোন",
+      "phonePlaceholder": "ফোন নম্বর লিখুন",
+      "nameEmailRequired": "নাম এবং ইমেইল আবশ্যক",
+      "created": "গ্রাহক সফলভাবে তৈরি হয়েছে",
+      "createError": "গ্রাহক তৈরি করতে ব্যর্থ",
+      "save": "গ্রাহক সংরক্ষণ করুন"
+    }
+  },
+  "locations": {
+    "title": "লোকেশন",
+    "name": "নাম",
+    "address": "ঠিকানা",
+    "status": "স্থিতি",
+    "active": "সক্রিয়",
+    "inactive": "নিষ্ক্রিয়",
+    "all": "সব",
+    "default": "ডিফল্ট",
+    "searchPlaceholder": "লোকেশন খুঁজুন...",
+    "empty": "কোনো লোকেশন পাওয়া যায়নি",
+    "addLocation": "লোকেশন যোগ করুন",
+    "editLocation": "লোকেশন সম্পাদনা",
+    "addDescription": "আপনার POS সিস্টেমে নতুন লোকেশন যোগ করুন",
+    "editDescription": "লোকেশনের বিবরণ আপডেট করুন",
+    "namePlaceholder": "যেমন: প্রধান দোকান",
+    "addressPlaceholder": "লোকেশনের ঠিকানা লিখুন",
+    "defaultLocation": "ডিফল্ট লোকেশন",
+    "defaultHint": "নতুন POS অর্ডারে এই লোকেশন ডিফল্ট হিসেবে ব্যবহৃত হবে",
+    "activeLocation": "সক্রিয়",
+    "activeHint": "নিষ্ক্রিয় লোকেশন POS-এ দেখা যাবে না",
+    "nameRequired": "লোকেশনের নাম আবশ্যক",
+    "created": "লোকেশন সফলভাবে তৈরি হয়েছে",
+    "updated": "লোকেশন সফলভাবে আপডেট হয়েছে",
+    "deleted": "লোকেশন সফলভাবে মুছে ফেলা হয়েছে",
+    "activated": "লোকেশন সক্রিয় করা হয়েছে",
+    "deactivated": "লোকেশন নিষ্ক্রিয় করা হয়েছে",
+    "setAsDefault": "ডিফল্ট লোকেশন আপডেট হয়েছে",
+    "setDefault": "ডিফল্ট হিসেবে সেট করুন",
+    "deactivate": "নিষ্ক্রিয় করুন",
+    "activate": "সক্রিয় করুন",
+    "cannotDeleteDefault": "ডিফল্ট লোকেশন মুছে ফেলা যাবে না",
+    "deleteTitle": "লোকেশন মুছুন",
+    "deleteDescription": "আপনি কি {name} মুছে ফেলতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।",
+    "fetchError": "লোকেশন লোড করতে ব্যর্থ",
+    "deleteError": "লোকেশন মুছতে ব্যর্থ",
+    "updateError": "লোকেশন আপডেট করতে ব্যর্থ",
+    "saveError": "লোকেশন সংরক্ষণ করতে ব্যর্থ",
+    "actions": "কার্যক্রম"
+  },
+  "toast": {
+    "createdSuccess": "{resource} সফলভাবে তৈরি হয়েছে",
+    "updatedSuccess": "{resource} সফলভাবে আপডেট হয়েছে",
+    "deleted": "{resource} মুছে ফেলা হয়েছে",
+    "saved": "পরিবর্তন সংরক্ষিত",
+    "savedResource": "{resource} সংরক্ষিত",
+    "undo": "পূর্বাবস্থায় ফেরান",
+    "operationComplete": "কাজ সম্পন্ন",
+    "somethingWentWrong": "কিছু ভুল হয়েছে"
+  },
+  "aiSalesAgent": {
+    "title": "এআই সেলস এজেন্ট",
+    "open": "এআই সেলস এজেন্ট খুলুন",
+    "close": "এআই সেলস এজেন্ট বন্ধ করুন",
+    "typeMessage": "একটি বার্তা লিখুন...",
+    "send": "পাঠান",
+    "thinking": "{name} ভাবছে...",
+    "add": "যোগ করুন",
+    "view": "দেখুন",
+    "addedToCart": "কার্টে যোগ করা হয়েছে",
+    "errorRetry": "অনুরোধটি সম্পন্ন করা যায়নি। আবার চেষ্টা করুন।",
+    "chatFailed": "চ্যাট ব্যর্থ হয়েছে",
+    "orderPayment": "পেমেন্ট",
+    "orderTotal": "মোট",
+    "viewOrder": "অর্ডার দেখুন"
+  },
+  "aiSalesAgentAdmin": {
+    "header": {
+      "title": "এআই সেলস এজেন্ট",
+      "subtitle": "স্টোরফ্রন্ট সেলস এজেন্ট কনফিগার করুন, কথোপকথন মনিটর করুন এবং লাইভ প্রতিক্রিয়া পরীক্ষা করুন।",
+      "refresh": "রিফ্রেশ",
+      "saveChanges": "পরিবর্তন সংরক্ষণ",
+      "saving": "সংরক্ষণ হচ্ছে"
+    },
+    "tabs": {
+      "overview": "সারসংক্ষেপ",
+      "howItWorks": "এটি কীভাবে কাজ করে",
+      "configuration": "কনফিগারেশন",
+      "behavior": "আচরণ",
+      "widget": "উইজেট",
+      "conversations": "কথোপকথন",
+      "testChat": "পরীক্ষামূলক চ্যাট"
+    },
+    "overview": {
+      "stats": {
+        "totalConversations": "মোট কথোপকথন",
+        "totalConversationsSub": "সব সময়ের",
+        "activeConversations": "সক্রিয় কথোপকথন",
+        "activeConversationsSub": "বর্তমানে খোলা",
+        "messagesExchanged": "বিনিময় হওয়া বার্তা",
+        "messagesExchangedSub": "সব সেশন মিলিয়ে",
+        "avgMessages": "প্রতি চ্যাটে গড় বার্তা",
+        "avgMessagesSub": "এনগেজমেন্টের গভীরতা",
+        "aiActions": "এআই অ্যাকশন",
+        "aiActionsSub": "টুলস, সুপারিশ, কার্ট যোগ",
+        "last7Days": "গত ৭ দিন",
+        "last30Days": "গত ৩০ দিনে {count}টি"
+      },
+      "recentConversations": {
+        "title": "সাম্প্রতিক কথোপকথন",
+        "viewAll": "সব দেখুন",
+        "empty": "এখনও কোনো কথোপকথন নেই। শপাররা চ্যাট শুরু করলে এখানে দেখা যাবে।",
+        "newConversation": "নতুন কথোপকথন",
+        "messagesCount": "{count, plural, =0 {কোনো বার্তা নেই} =1 {১টি বার্তা} other {#টি বার্তা}}",
+        "actionsCount": "{count, plural, =0 {কোনো অ্যাকশন নেই} =1 {১টি অ্যাকশন} other {#টি অ্যাকশন}}"
+      },
+      "capabilities": {
+        "title": "সক্ষমতার সারসংক্ষেপ",
+        "on": "চালু",
+        "off": "বন্ধ",
+        "multilingualTitle": "বহু-ভাষিক উত্তর",
+        "alwaysOn": "সবসময় চালু"
+      }
+    },
+    "howItWorks": {
+      "intro": {
+        "title": "আপনার এআই সেলস এজেন্ট, প্রান্ত থেকে প্রান্তে",
+        "description": "এজেন্ট আপনার স্টোরফ্রন্টের চ্যাট উইজেটে থাকে। এটি শপারদের প্রশ্ন বোঝে, আপনার আসল ক্যাটালগ ও নীতিমালা থেকে তথ্য আনে, পণ্য সুপারিশ করে এবং কার্টেও পণ্য যোগ করতে পারে — সবই আপনার কনফিগার করা মডেল ও নিয়ম অনুযায়ী। নিচের সেটআপ চেকলিস্ট অনুসরণ করে এটিকে লাইভ করুন।",
+        "openAIConfigured": "OpenAI কনফিগার করা হয়েছে",
+        "openAIMissing": "OpenAI কী অনুপস্থিত",
+        "widgetLive": "উইজেট লাইভ",
+        "widgetOff": "উইজেট বন্ধ"
+      },
+      "capabilities": {
+        "title": "এজেন্ট কী কী করতে পারে",
+        "description": "কনফিগারেশনে আপনার চালু করা প্রতিটি সক্ষমতা এই দক্ষতাগুলোর একটি আনলক করে।",
+        "multilingualTitle": "বহু-ভাষিক উত্তর",
+        "multilingualDescription": "স্টোরফ্রন্টের লোকেল যাই হোক, শপারের নিজের ভাষায় উত্তর দেয়।",
+        "alwaysOn": "সবসময় চালু"
+      },
+      "checklist": {
+        "title": "সেটআপ চেকলিস্ট",
+        "doneRatio": "{completed}/{total} সম্পন্ন",
+        "description": "এজেন্টকে শপারদের জন্য প্রস্তুত করতে এই ধাপগুলো অনুসরণ করুন। আপনি প্রতিটি সেকশন কনফিগার করার সাথে সাথে স্ট্যাটাস আপডেট হয়।",
+        "steps": {
+          "apiKey": {
+            "title": "আপনার OpenAI API কী যোগ করুন",
+            "description": "সার্ভার পরিবেশে OPENAI_API_KEY সেট করুন, তারপর অ্যাপ রিস্টার্ট করুন। কার্যকর কী শনাক্ত না হওয়া পর্যন্ত এজেন্ট ও এর উইজেট নিষ্ক্রিয় থাকবে।",
+            "action": "কনফিগারেশন খুলুন",
+            "hint": "শুধুমাত্র সার্ভার-সাইড — কী শপারদের কাছে কখনও প্রকাশ পায় না।"
+          },
+          "model": {
+            "title": "মডেল ও রানটাইম নির্বাচন করুন",
+            "description": "মডেল, রিজনিং এফোর্ট, তাপমাত্রা এবং একটি উত্তরে কতগুলো পণ্য সুপারিশ করা যাবে তা বেছে নিন।",
+            "action": "মডেল টিউন করুন",
+            "hint": "বর্তমান মডেল: {model}"
+          },
+          "capabilities": {
+            "title": "আপনার পছন্দের সক্ষমতাগুলো চালু করুন",
+            "description": "প্রোডাক্ট প্রশ্নোত্তর, সুপারিশ, কার্ট অ্যাকশন, চেকআউট হ্যান্ডঅফ এবং অর্ডার স্ট্যাটাস চালু করুন। প্রতিটি একটি টুল আনলক করে যা এজেন্ট ব্যবহার করতে পারে।",
+            "action": "সক্ষমতা সেট করুন",
+            "hint": "৫টির মধ্যে {enabled}টি সক্ষমতা চালু আছে"
+          },
+          "identity": {
+            "title": "পরিচয়, টোন ও অভিবাদন নির্ধারণ করুন",
+            "description": "এজেন্টকে একটি নাম ও কণ্ঠ দিন, প্রারম্ভিক অভিবাদন লিখুন এবং আপনার ব্র্যান্ড ও নীতির জন্য কাস্টম নির্দেশনা যোগ করুন।",
+            "action": "আচরণ সম্পাদনা",
+            "hintWithName": "এজেন্টের নাম: {name}",
+            "hintNotSet": "এজেন্টের নাম: সেট করা হয়নি"
+          },
+          "faq": {
+            "title": "FAQ জ্ঞান যোগ করুন",
+            "description": "আপনার আসল নীতিমালা (শিপিং, রিটার্ন, সাইজিং, ওয়ারেন্টি) শেখান যাতে এজেন্ট অনুমানের পরিবর্তে তথ্য থেকে উত্তর দেয়।",
+            "action": "FAQ এন্ট্রি যোগ করুন",
+            "hintWithCount": "{count, plural, =0 {এখনও কোনো FAQ এন্ট্রি নেই} =1 {১টি FAQ এন্ট্রি যোগ হয়েছে} other {#টি FAQ এন্ট্রি যোগ হয়েছে}}",
+            "hintEmpty": "এখনও কোনো FAQ এন্ট্রি নেই"
+          },
+          "widget": {
+            "title": "উইজেট স্টাইল করুন",
+            "description": "লঞ্চার ও চ্যাট প্যানেলকে আপনার ব্র্যান্ডের সাথে মেলান — রঙ, অবস্থান, অবতার এবং শপাররা যে লঞ্চার লেবেল দেখবে।",
+            "action": "উইজেট কাস্টমাইজ করুন",
+            "hint": "ঐচ্ছিক, তবে ব্র্যান্ডেড উইজেট ভালো কনভার্ট করে।"
+          },
+          "enableWidget": {
+            "title": "স্টোরফ্রন্ট উইজেট চালু করুন",
+            "description": "মাস্টার সুইচ চালু করুন যাতে এজেন্ট আপনার স্টোরফ্রন্টে দেখা যায়। উপরের OpenAI কী প্রয়োজন।",
+            "action": "উইজেট চালু করুন",
+            "hintLive": "উইজেট লাইভ",
+            "hintHidden": "উইজেট লুকানো"
+          },
+          "testChat": {
+            "title": "লঞ্চ করার আগে পরীক্ষা করুন",
+            "description": "একজন শপার যেভাবে চ্যাট করে ঠিক সেভাবে চ্যাট করতে Test chat ট্যাব ব্যবহার করুন এবং লাইভ হওয়ার পর আসল কথোপকথন পর্যালোচনা করুন।",
+            "action": "পরীক্ষামূলক চ্যাট খুলুন",
+            "hintWithCount": "{count, plural, =0 {এখনও কোনো কথোপকথন নেই} =1 {এ পর্যন্ত ১টি কথোপকথন} other {এ পর্যন্ত #টি কথোপকথন}}",
+            "hintEmpty": "এখনও কোনো কথোপকথন নেই"
+          }
+        }
+      },
+      "flow": {
+        "title": "কথোপকথন কীভাবে প্রবাহিত হয়",
+        "description": "একজন শপার প্রতিটি বার্তা পাঠানোর সময় পর্দার পেছনে কী ঘটে।",
+        "steps": {
+          "open": {
+            "title": "শপার উইজেট খোলে",
+            "body": "আপনার স্টোরফ্রন্টে লঞ্চার দেখা যায় এবং আপনার কনফিগার করা অভিবাদন দিয়ে তাকে স্বাগত জানায়।"
+          },
+          "ask": {
+            "title": "তারা নিজের ভাষায় প্রশ্ন করে",
+            "body": "“১০০ ডলারের নিচে কোনো ওয়াটারপ্রুফ জ্যাকেট আছে?”, “আমার অর্ডার কোথায়?” বা “রিটার্ন পলিসি কী?” — কোনো মেনু বা কীওয়ার্ড লাগে না।"
+          },
+          "tools": {
+            "title": "মডেল সিদ্ধান্ত নেয় কোন টুল ব্যবহার করবে",
+            "body": "চালু সক্ষমতার উপর ভিত্তি করে এজেন্ট আপনার ক্যাটালগ সার্চ করতে, পণ্যের বিস্তারিত আনতে, FAQ পড়তে, কার্ট দেখতে, অর্ডার স্ট্যাটাস খুঁজতে বা কার্টে পণ্য যোগ করতে পারে।"
+          },
+          "data": {
+            "title": "এটি আপনার স্টোর থেকে লাইভ ডেটা আনে",
+            "body": "ফলাফল আসে আপনার আসল, দৃশ্যমান পণ্য ও আপনার দেওয়া নীতি থেকে — তাই উত্তর কাল্পনিক না হয়ে সঠিক থাকে। পণ্য সাধারণ টেক্সটের বদলে সমৃদ্ধ কার্ড হিসেবে দেখানো হয়।"
+          },
+          "reply": {
+            "title": "এটি উত্তর দেয় এবং অ্যাকশন নিতে পারে",
+            "body": "শপার একটি সংক্ষিপ্ত উত্তর পায় — পণ্য কার্ড, কার্টে যোগ করার বোতাম, বা কেনাকাটার জন্য প্রস্তুত হলে চেকআউট হ্যান্ডঅফ।"
+          },
+          "logged": {
+            "title": "সবকিছু লগ হয়",
+            "body": "প্রতিটি কথোপকথন, বার্তা ও অ্যাকশন সংরক্ষিত হয় যাতে আপনি Conversations ট্যাবে পর্যালোচনা করতে পারেন এবং Overview-তে পারফরম্যান্স ট্র্যাক করতে পারেন।"
+          }
+        }
+      },
+      "tips": {
+        "title": "সেরা ফলাফলের জন্য পরামর্শ",
+        "items": {
+          "faq": {
+            "title": "FAQ সঠিক রাখুন",
+            "body": "এজেন্ট প্রথমে আপনার FAQ থেকে নীতিমালা প্রশ্নের উত্তর দেয়। শিপিং, রিটার্ন, সাইজিং ও ওয়ারেন্টি কভার করুন যাতে এটি কখনও অনুমান না করে।"
+          },
+          "instructions": {
+            "title": "কাস্টম নির্দেশনা সংক্ষিপ্ত লিখুন",
+            "body": "ব্র্যান্ড ভয়েস ও কী করবেন/করবেন না সেট করতে Behavior ট্যাব ব্যবহার করুন। এটি প্রতিটি টার্নে যোগ হয়, তাই ছোট রাখুন।"
+          },
+          "model": {
+            "title": "একটি ভারসাম্যপূর্ণ মডেল দিয়ে শুরু করুন",
+            "body": "কম তাপমাত্রা উত্তরকে ফোকাসড রাখে। গভীর রিজনিং দরকার হলে মডেল সাইজ বাড়ান, কারণ প্রতিটি উত্তরে খরচ বাড়বে।"
+          },
+          "recs": {
+            "title": "সুপারিশের সংখ্যা টিউন করুন",
+            "body": "প্রতি উত্তরে ৩-৪টি পণ্য দেখান। বেশি হলে শপার অভিভূত হয়; কম হলে পছন্দ সীমিত হয়।"
+          },
+          "key": {
+            "title": "আপনার API কী সুরক্ষিত রাখুন",
+            "body": "OpenAI কী শুধুমাত্র আপনার সার্ভার পরিবেশে থাকে। কখনও স্টোরফ্রন্টে পেস্ট করবেন না বা সর্বজনীনভাবে শেয়ার করবেন না।"
+          },
+          "review": {
+            "title": "আসল কথোপকথন পর্যালোচনা করুন",
+            "body": "এজেন্ট যে প্রশ্নগুলো মিস করেছে তা খুঁজতে এবং FAQ-তে যোগ করতে নিয়মিত Conversations ট্যাব দেখুন।"
+          }
+        }
+      },
+      "cta": {
+        "prompt": "এটি অ্যাকশনে দেখতে প্রস্তুত?",
+        "configure": "এজেন্ট কনফিগার করুন",
+        "tryChat": "পরীক্ষামূলক চ্যাট চেষ্টা করুন"
+      }
+    },
+    "configuration": {
+      "openAIConfigured": "OpenAI কনফিগার করা হয়েছে",
+      "openAIMissing": "OPENAI_API_KEY অনুপস্থিত",
+      "widgetEnabled": "উইজেট চালু",
+      "widgetDisabled": "উইজেট বন্ধ",
+      "modelRuntime": {
+        "title": "মডেল ও রানটাইম",
+        "enableWidget": "স্টোরফ্রন্ট উইজেট চালু করুন",
+        "enableWidgetDescription": "OpenAI কনফিগার না হওয়া পর্যন্ত উইজেট লুকানো থাকে।",
+        "model": "মডেল",
+        "modelDescription": "বড় মডেল আরও গভীরভাবে চিন্তা করতে পারে কিন্তু প্রতি অনুরোধে বেশি খরচ হয়।",
+        "reasoningEffort": "রিজনিং এফোর্ট",
+        "reasoningEffortDescription": "শুধুমাত্র রিজনিং-সক্ষম মডেলের জন্য ব্যবহৃত; অন্যথায় উপেক্ষিত।",
+        "temperature": "তাপমাত্রা",
+        "temperatureDescription": "কম = বেশি ফোকাসড, বেশি = বেশি সৃজনশীল (০-১)।",
+        "maxRecommendations": "সর্বোচ্চ সুপারিশ",
+        "maxRecommendationsDescription": "একটি উত্তরে সর্বোচ্চ কতগুলো পণ্য দেখানো যাবে (১-৮)।"
+      },
+      "capabilities": {
+        "title": "সক্ষমতা"
+      },
+      "capabilityMeta": {
+        "productQA": "প্রোডাক্ট প্রশ্নোত্তর",
+        "productQADescription": "পণ্য ও স্পেসিফিকেশন সম্পর্কে প্রশ্নের উত্তর দেয়।",
+        "recommendations": "সুপারিশ",
+        "recommendationsDescription": "শপারের চাহিদার ভিত্তিতে পণ্য সুপারিশ করে।",
+        "cartActions": "কার্ট অ্যাকশন",
+        "cartActionsDescription": "এজেন্টকে কার্টে পণ্য যোগ বা সরাতে দেয়।",
+        "checkoutHandoff": "চেকআউট হ্যান্ডঅফ",
+        "checkoutHandoffDescription": "শপাররা প্রস্তুত হলে চেকআউটে ফরওয়ার্ড করে।",
+        "orderStatus": "অর্ডার স্ট্যাটাস",
+        "orderStatusDescription": "অর্ডার ট্র্যাকিং তথ্য খুঁজে ও শেয়ার করে।"
+      }
+    },
+    "behavior": {
+      "identity": {
+        "title": "পরিচয় ও টোন",
+        "agentName": "এজেন্টের নাম",
+        "tone": "টোন",
+        "greeting": "অভিবাদন",
+        "greetingDescription": "শপার উইজেট খুললে প্রথম বার্তা হিসেবে দেখানো হয়।",
+        "instructions": "কাস্টম নির্দেশনা",
+        "instructionsPlaceholder": "ব্র্যান্ড ভয়েস, রিটার্ন পলিসি অনুস্মারক, সুপারিশের ধরন...",
+        "instructionsDescription": "প্রতিটি টার্নে সিস্টেম প্রম্পটে যোগ হয়। সংক্ষিপ্ত রাখুন।",
+        "escalation": "এসকেলেশন বার্তা",
+        "escalationDescription": "এজেন্ট সাহায্য করতে না পেরে হ্যান্ডঅফ করতে হলে পাঠানো হয়।"
+      },
+      "faq": {
+        "title": "জ্ঞান ও FAQ",
+        "addEntry": "এন্ট্রি যোগ করুন",
+        "description": "শপাররা শিপিং, রিটার্ন, সাইজিং, ওয়ারেন্টি বা অন্যান্য নীতি সম্পর্কে জিজ্ঞেস করলে এজেন্ট এগুলো থেকে খোঁজে। সর্বোচ্চ ৫০টি এন্ট্রি।",
+        "empty": "এখনও কোনো FAQ এন্ট্রি নেই। সাধারণ প্রশ্ন যোগ করুন যাতে এজেন্ট কিছু না বানিয়ে নীতিমালার প্রশ্নের উত্তর দিতে পারে।",
+        "questionPlaceholder": "প্রশ্ন (যেমন: শিপিং কতদিন লাগে?)",
+        "answerPlaceholder": "এজেন্টের দেওয়া উত্তর। তথ্যনির্ভর ও সংক্ষিপ্ত রাখুন।",
+        "tagsPlaceholder": "ঐচ্ছিক ট্যাগ, কমা দিয়ে আলাদা (শিপিং, রিটার্ন, সাইজিং)",
+        "removeAria": "FAQ এন্ট্রি সরান"
+      }
+    },
+    "widget": {
+      "appearance": {
+        "title": "চেহারা",
+        "headerTitle": "হেডার শিরোনাম",
+        "headerTitleDescription": "চ্যাট হেডারে দেখানো হয়। খালি থাকলে এজেন্টের নাম ব্যবহৃত হয়।",
+        "position": "অবস্থান",
+        "positionBottomRight": "নিচে ডানে",
+        "positionBottomLeft": "নিচে বামে",
+        "expandedSize": "সম্প্রসারিত আকার",
+        "expandedSizeDescription": "সংরক্ষণের পর ফ্লোটিং উইজেটে প্রয়োগ হয়।",
+        "width": "প্রস্থ",
+        "height": "উচ্চতা",
+        "widthRange": "৩২০-৬৪০px",
+        "heightRange": "৪২০-৯০০px",
+        "primaryColor": "প্রাইমারি রঙ",
+        "accentColor": "অ্যাকসেন্ট রঙ",
+        "footerText": "ফুটার টেক্সট",
+        "footerTextPlaceholder": "AI দ্বারা চালিত",
+        "showFooterText": "ফুটার টেক্সট দেখান",
+        "showFooterTextDescription": "চ্যাট উইন্ডোর নিচের ছোট লেবেলটি দেখান।",
+        "headerAvatar": "হেডার অবতার",
+        "headerAvatarAlt": "{name} অবতার",
+        "avatarUploadTitle": "ছবি টেনে আনুন বং ব্রাউজ করতে ক্লিক করুন",
+        "avatarUploadDescription": "ছবির ফরম্যাট: JPG, PNG, JPEG, WEBP।",
+        "avatarSizeGuide": "প্রস্তাবিত আকার: ২৫৬ x ২৫৬ px",
+        "headerAvatarDescription": "চ্যাট হেডারে দেখানো হয়। খালি থাকলে আপনার স্টোর ফেভিকন ব্যবহৃত হয়।"
+      },
+      "preview": {
+        "title": "লাইভ প্রিভিউ",
+        "typeMessage": "একটি বার্তা লিখুন..."
+      }
+    },
+    "conversations": {
+      "title": "চ্যাট লগ",
+      "totalCount": "মোট {count}টি কথোপকথন। পূর্ণ ট্রান্সক্রিপ্ট দেখতে যেকোনো সারিতে ক্লিক করুন।",
+      "refresh": "রিফ্রেশ",
+      "searchPlaceholder": "বার্তা বা সেশন আইডি খুঁজুন...",
+      "locale": "লোকেল",
+      "allLocales": "সব লোকেল",
+      "status": "স্ট্যাটাস",
+      "allStatuses": "সব স্ট্যাটাস",
+      "statusActive": "সক্রিয়",
+      "statusClosed": "বন্ধ",
+      "empty": "আপনার ফিল্টারের সাথে মিলে এমন কোনো কথোপকথন নেই।",
+      "aiPrefix": "AI: {message}",
+      "newConversation": "নতুন কথোপকথন",
+      "messagesCount": "{count}টি বার্তা",
+      "actionsCount": "{count}টি অ্যাকশন",
+      "pageOf": "পৃষ্ঠা {page} এর {total}",
+      "previous": "পূর্ববর্তী",
+      "next": "পরবর্তী"
+    },
+    "testChat": {
+      "title": "লাইভ পরীক্ষামূলক চ্যাট",
+      "reset": "রিসেট",
+      "description": "একজন শপার যেভাবে করে ঠিক সেভাবে প্রশ্ন চেষ্টা করুন। পরীক্ষা করার আগে পরিবর্তন সংরক্ষণ করুন — এটি লাইভ সেটিংস ব্যবহার করে।",
+      "typeMessage": "একটি বার্তা লিখুন..."
+    },
+    "drawer": {
+      "title": "কথোপকথন",
+      "loading": "কথোপকথন লোড হচ্ছে...",
+      "session": "সেশন {id}",
+      "status": "স্ট্যাটাস",
+      "locale": "লোকেল",
+      "customer": "গ্রাহক",
+      "guest": "অতিথি",
+      "started": "শুরু হয়েছে",
+      "messagesTitle": "বার্তা ({count})",
+      "noMessages": "কোনো বার্তা নেই।",
+      "emptyMessage": "[খালি বার্তা]",
+      "actionsTitle": "অ্যাকশন ({count})",
+      "delete": "কথোপকথন মুছুন"
+    },
+    "toast": {
+      "loadFailed": "এআই সেলস এজেন্ট সেটিংস লোড করা যায়নি",
+      "saveSuccess": "এআই সেলস এজেন্ট সংরক্ষিত হয়েছে",
+      "saveFailed": "সংরক্ষণ ব্যর্থ হয়েছে",
+      "deleteTitle": "কথোপকথন মুছুন",
+      "deleteDescription": "এটি স্থায়ীভাবে চ্যাট লগ ও এর অ্যাকশনগুলো সরিয়ে দেয়।",
+      "deleteConfirm": "মুছুন",
+      "deleteSuccess": "কথোপকথন মুছে ফেলা হয়েছে",
+      "deleteFailed": "মুছতে ব্যর্থ হয়েছে",
+      "loadConversationFailed": "কথোপকথন লোড করা যায়নি",
+      "loadConversationsFailed": "কথোপকথনগুলো লোড করা যায়নি",
+      "testChatFailed": "পরীক্ষামূলক চ্যাট ব্যর্থ হয়েছে",
+      "testFailed": "পরীক্ষা ব্যর্থ হয়েছে"
+    },
+    "time": {
+      "justNow": "এইমাত্র",
+      "minutesAgo": "{count} মিনিট আগে",
+      "hoursAgo": "{count} ঘণ্টা আগে",
+      "daysAgo": "{count} দিন আগে"
+    }
+  },
+  "aiStudioHub": {
+    "title": "AI স্টুডিও",
+    "subtitle": "AI দিয়ে পণ্যের কন্টেন্ট, গ্রাফিক্স এবং SEO তৈরি করুন — আপনার স্টোরের প্রতিটি ফর্মে যুক্ত।",
+    "statusConfigured": "AI কনফিগার করা হয়েছে এবং প্রস্তুত",
+    "statusNotConfigured": "AI এখনও কনফিগার করা হয়নি",
+    "statusNotConfiguredHint": "AI ফিচার চালু করতে সেটিংস → AI-তে আপনার OpenAI API কী যোগ করুন (অথবা এনভায়রনমেন্টে OPENAI_API_KEY সেট করুন)।",
+    "showcaseTitle": "কার্যকর হতে দেখুন",
+    "showcaseSubtitle": "স্লাইডার টেনে দেখুন — AI ইমেজ স্টুডিও থেকে এক-ক্লিকে Enhance করা।",
+    "showcaseBefore": "আগে",
+    "showcaseAfter": "পরে",
+    "showcaseCaption": "ব্যাকগ্রাউন্ড রিমুভ করুন, এনহ্যান্স করুন, আপস্কেল করুন, অবজেক্ট মুছুন, সাইজ পরিবর্তন করুন এবং প্রসারিত করুন — অথবা সহজ ভাষায় যেকোনো এডিট বর্ণনা করুন।",
+    "cardsTitle": "আপনি কী তৈরি করতে চান?",
+    "cardProductContentTitle": "পণ্যের কন্টেন্ট লিখুন",
+    "cardProductContentDescription": "একটি ছোট প্রম্পট থেকে টাইটেল, সারাংশ এবং বিস্তারিত বিবরণ তৈরি করুন।",
+    "cardProductGraphicsTitle": "পণ্যের গ্রাফিক্স ডিজাইন করুন",
+    "cardProductGraphicsDescription": "ইমেজ এডিট বা জেনারেট করতে AI ইমেজ স্টুডিওতে পণ্যের মিডিয়া খুলুন।",
+    "cardSeoTitle": "SEO উন্নত করুন",
+    "cardSeoDescription": "এক ক্লিকে সার্চ টাইটেল, মেটা ডেসক্রিপশন, হ্যান্ডেল এবং ট্যাগ পূরণ করুন।",
+    "cardBlogTitle": "একটি ব্লগ পোস্ট লিখুন",
+    "cardBlogDescription": "এক্সসার্প্ট, ফিচার্ড ইমেজ এবং SEOসহ একটি সম্পূর্ণ পোস্টের খসড়া তৈরি করুন।",
+    "cardAssetsTitle": "বিভাগ ও ব্র্যান্ড অ্যাসেট তৈরি করুন",
+    "cardAssetsDescription": "বিভাগের ইমেজ, আইকন, ব্র্যান্ড লোগো এবং কালেকশন কভার তৈরি করুন।",
+    "cardHeroTitle": "হিরো ব্যানার ডিজাইন করুন",
+    "cardHeroDescription": "আপনার হোম পেজের জন্য একদম উপযুক্ত মাপের প্রশস্ত স্টোরফ্রন্ট ব্যানার তৈরি করুন।",
+    "everywhereTitle": "প্রতিটি ফর্মে যুক্ত",
+    "everywhereSubtitle": "পণ্য, বিভাগ, কালেকশন, ব্র্যান্ড, ব্লগ পোস্ট, রিভিউ এবং হোম পেজ বিল্ডারে AI বোতাম খুঁজুন।",
+    "howTitle": "যেভাবে কাজ করে",
+    "howStep1": "যেকোনো সাপোর্টেড ফর্ম খুলুন",
+    "howStep2": "একটি ফিল্ড বা মিডিয়ায় AI বোতামে ক্লিক করুন",
+    "howStep3": "খসড়া পর্যালোচনা করুন, তারপর সংরক্ষণ করুন",
+    "configureCta": "AI কনফিগার করুন"
+  },
+  "aiStudio": {
+    "breadcrumbTitle": "AI ইমেজ স্টুডিও",
+    "mediaTitle": "মিডিয়া",
+    "quickPromptTitle": "কুইক প্রম্পট",
+    "uploadImage": "ইমেজ আপলোড করুন",
+    "badgeAi": "AI",
+    "badgeEdited": "এডিট করা হয়েছে",
+    "tabQuickPrompt": "কুইক প্রম্পট",
+    "tabEffects": "ইফেক্টস",
+    "categoryPlaceholder": "বিভাগ",
+    "removeBackground": "ব্যাকগ্রাউন্ড রিমুভ করুন",
+    "enhance": "এনহ্যান্স করুন",
+    "upscale": "আপস্কেল করুন",
+    "eraseObject": "অবজেক্ট মুছুন",
+    "resize": "সাইজ পরিবর্তন করুন",
+    "expand": "প্রসারিত করুন",
+    "fit": "ফিট করুন",
+    "compare": "তুলনা",
+    "zoomIn": "জুম ইন",
+    "zoomOut": "জুম আউট",
+    "holdToViewOriginal": "অরিজিনাল দেখতে ধরে রাখুন",
+    "previewAsCard": "স্টোরফ্রন্ট কার্ড হিসেবে প্রিভিউ করুন",
+    "exitPreview": "স্টোরফ্রন্ট প্রিভিউ থেকে বের হন",
+    "previewCardHint": "প্রিভিউ মোড — আপনার লাইভ প্রোডাক্ট কার্ডে এই ইমেজ ঠিক কেমন দেখাবে তা দেখুন।",
+    "deleteImage": "এই ইমেজ মুছুন",
+    "openMediaPanel": "মিডিয়া প্যানেল খুলুন",
+    "openQuickPrompts": "কুইক প্রম্পট প্যানেল খুলুন",
+    "cancel": "বাতিল",
+    "noImageTitle": "কোনো ইমেজ নির্বাচিত নয়",
+    "noImageBody": "মিডিয়া থেকে একটি ইমেজ বেছে নিন, একটি আপলোড করুন, অথবা নিচের প্রম্পটে একটি ইমেজ বর্ণনা করুন এবং AI-কে তৈরি করতে দিন।",
+    "uploadImageAction": "ইমেজ আপলোড করুন",
+    "before": "আগে",
+    "after": "পরে",
+    "original": "অরিজিনাল",
+    "busyHint": "এতে সাধারণত 10–30 সেকেন্ড সময় লাগে",
+    "discardTitle": "পরিবর্তন বাতিল করবেন?",
+    "discardBody": "আপনার এডিট করা ইমেজ এখনও সংরক্ষণ করা হয়নি। এখন চলে গেলে সেগুলো হারিয়ে যাবে।",
+    "keepEditing": "এডিট চালিয়ে যান",
+    "discard": "বাতিল করুন",
+    "restoredDraft": "আপনার সংরক্ষণ না করা পরিবর্তন পুনরুদ্ধার করা হয়েছে",
+    "placeholderErase": "কী মুছতে চান তা বর্ণনা করুন, যেমন বাম পাশের ছায়া। বাকি সবকিছু অপরিবর্তিত থাকবে।",
+    "placeholderGenerate": "আপনি যে ইমেজ চান তা বর্ণনা করুন এবং AI তা তৈরি করবে।",
+    "placeholderEdit": "আপনি যে ফলাফল চান তা বর্ণনা করুন। আপনার {subject} অপরিবর্তিত থাকবে।",
+    "applyEdit": "এডিট প্রয়োগ করুন",
+    "generateImage": "ইমেজ তৈরি করুন",
+    "autoGenerate": "অটো জেনারেট",
+    "toneLabel": "টোন",
+    "defaultTone": "ডিফল্ট টোন",
+    "sizes": {
+      "square": "স্কয়ার",
+      "portrait": "পোর্ট্রেট",
+      "landscape": "ল্যান্ডস্কেপ"
+    },
+    "presets": {
+      "categories": {
+        "electronics": "ইলেকট্রনিক্স",
+        "fashion": "ফ্যাশন ও পোশাক",
+        "beauty": "বিউটি ও কেয়ার",
+        "home": "হোম ও কিচেন",
+        "food": "খাবার ও পানীয়",
+        "hero-layouts": "হিরো ব্যানার"
+      },
+      "labels": {
+        "clean-white": "ক্লিন হোয়াইট",
+        "lifestyle-room": "লাইফস্টাইল রুম",
+        "desk-setup": "ডেস্ক সেটআপ",
+        "gradient-studio": "গ্রেডিয়েন্ট স্টুডিও",
+        "neon-accent": "নিয়ন অ্যাকসেন্ট",
+        "editorial-studio": "এডিটোরিয়াল স্টুডিও",
+        "street-style": "স্ট্রিট স্টাইল",
+        "marble-silk": "মার্বেল ও সিল্ক",
+        "golden-hour": "গোল্ডেন আওয়ার",
+        "marble-counter": "মার্বেল কাউন্টার",
+        "botanical-spa": "বোটানিক্যাল স্পা",
+        "silk-drape": "সিল্ক ড্রেপ",
+        "water-splash": "ওয়াটার স্প্ল্যাশ",
+        "cozy-living": "কোজি লিভিং রুম",
+        "wooden-table": "কাঠের টেবিল",
+        "sunlit-shelf": "রোদমাখা শেলফ",
+        "minimal-concrete": "মিনিমাল কংক্রিট",
+        "rustic-wood": "রাস্টিক কাঠ",
+        "cafe-scene": "ক্যাফে দৃশ্য",
+        "picnic-daylight": "দিনের আলোয় পিকনিক",
+        "dark-slate": "ডার্ক স্লেট",
+        "product-right": "পণ্য ডানে",
+        "product-left": "পণ্য বামে",
+        "centered-campaign": "কেন্দ্রীভূত ক্যাম্পেইন"
+      }
+    },
+    "export": {
+      "button": "এক্সপোর্ট",
+      "includeLogo": "ব্র্যান্ড লোগো অন্তর্ভুক্ত করুন",
+      "fill": "ফ্রেম ফিল করুন",
+      "fit": "ব্র্যান্ড রঙে ফিট করুন",
+      "sizes": {
+        "og": "লিঙ্ক / OG ইমেজ",
+        "square": "স্কয়ার পোস্ট",
+        "portrait": "পোর্ট্রেট পোস্ট",
+        "story": "স্টোরি / রিল",
+        "twitter": "ল্যান্ডস্কেপ / X"
+      }
+    }
+  }
+}
